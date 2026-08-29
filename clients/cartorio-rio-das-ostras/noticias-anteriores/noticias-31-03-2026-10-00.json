@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-03-31T10:00:20-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras atualiza cadastro territorial",
+      "descricao": "A Prefeitura iniciou a atualização do Cadastro Territorial para revisar informações de imóveis e garantir dados mais precisos sobre áreas urbanas e construções, reforçando o planejamento urbano e a regularização cadastral.",
+      "data_publicacao": "2026-03-30T09:47:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-atualiza-cadastro-territorial/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Banco de Empregos oferece 576 vagas",
+      "descricao": "O Banco de Empregos de Rio das Ostras abriu 576 oportunidades em diferentes áreas, detalhando perfis profissionais e orientações para candidatura junto ao serviço municipal.",
+      "data_publicacao": "2026-03-30T09:01:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-576-vagas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras avalia aprendizagem dos alunos da rede municipal",
+      "descricao": "A Secretaria de Educação aplicou avaliações diagnósticas para medir a aprendizagem dos estudantes da rede municipal, com foco em acompanhar resultados e orientar ações pedagógicas.",
+      "data_publicacao": "2026-03-27T10:13:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avalia-aprendizagem-dos-alunos-da-rede-municipal/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Sábado é Dia D de vacinação contra a gripe em Petrópolis",
+      "descricao": "A Prefeitura de Petrópolis realiza o Dia D da campanha de vacinação contra a gripe Influenza, com dezenas de postos abertos para atender o público prioritário e ampliar a cobertura vacinal.",
+      "data_publicacao": "2026-03-28T09:00:00-03:00",
+      "url": "https://www.petropolis.rj.gov.br/pmp/index.php/noticias/item/23573-sabado-e-dia-d-de-vacinacao-contra-a-gripe",
+      "fonte": "Prefeitura de Petrópolis"
+    },
+    {
+      "titulo": "Petrópolis recebe projetos para desenvolvimento sustentável",
+      "descricao": "O município recebeu do Instituto Rio Metrópole estudos voltados à melhoria ambiental urbana, tratamento de antigos aterros e criação de corredor agroecológico, além de apresentação da plataforma Investe Metrópole.",
+      "data_publicacao": "2026-03-25T09:00:00-03:00",
+      "url": "https://www.petropolis.rj.gov.br/pmp/index.php/noticias/item/23575-prefeitura-recebe-projetos-do-instituto-rio-metropole-para-o-desenvolvimento-sustentavel-de-petropolis",
+      "fonte": "Prefeitura de Petrópolis"
+    },
+    {
+      "titulo": "STJ julga se ausência de registro do contrato em cartório afasta alienação fiduciária",
+      "descricao": "A 2ª Seção do STJ analisará se a falta de registro em cartório de contrato com alienação fiduciária retira sua eficácia entre as partes, tema afetado ao rito dos repetitivos e com processos suspensos.",
+      "data_publicacao": "2026-03-26T09:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-26/stj-julga-se-ausencia-de-registro-do-contrato-em-cartorio-afasta-alienacao-fiduciaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Problemas do registro de imóveis apenas mudaram de lugar",
+      "descricao": "Artigo analisa os efeitos da Lei 14.382 e a digitalização do registro imobiliário, destacando avanços técnicos e desafios estruturais que ainda impactam cartórios e usuários.",
+      "data_publicacao": "2026-03-24T09:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-24/digitalizar-vs-transformar-o-registro-de-imoveis-sobre-os-efeitos-da-lei-14-382/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Código Civil e a prova da separação de fato perante o cartório",
+      "descricao": "Texto discute proposta de reforma do Código Civil para reconhecer a separação de fato e seus efeitos patrimoniais, destacando o papel do registro civil na comprovação dessa ruptura.",
+      "data_publicacao": "2026-03-22T09:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-22/a-reforma-do-codigo-civil-e-a-prova-da-separacao-de-fato-perante-o-rcpn/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Provimento do CNJ nº 219/26 estabelece regras para cartórios vagos",
+      "descricao": "O CNJ publicou o Provimento nº 219/2026, criando regras para formação e atualização da lista nacional de cartórios vagos, com critérios de registro de vacâncias e transparência na gestão das serventias.",
+      "data_publicacao": "2026-03-23T09:00:00-03:00",
+      "url": "https://www.notariado.org.br/provimento-do-cnj-no-219-26-estabelece-regras-para-a-gestao-atualizacao-e-publicidade-da-relacao-de-cartorios-vagos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ aperfeiçoa regras sobre publicidade e indexação de escrituras de autocuratela",
+      "descricao": "O Provimento nº 215/2026 atualiza normas do CNJ para tornar mais eficiente a publicidade e a indexação de escrituras de autocuratela na CENSEC, garantindo melhor consulta e preservação do sigilo quando aplicável.",
+      "data_publicacao": "2026-03-03T09:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-aperfeicoa-regras-sobre-publicidade-e-indexacao-de-escrituras-de-autocuratela/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Inventários com menores passam a ser enviados via e-Notariado ao MP em SP",
+      "descricao": "O CNB/CF integrou o envio de escrituras de inventários com menores ao Ministério Público de São Paulo pela plataforma e-Notariado, tornando o fluxo mais ágil e padronizado para cartórios e órgãos de controle.",
+      "data_publicacao": "2026-03-27T09:00:00-03:00",
+      "url": "https://www.notariado.org.br/inventarios-com-menores-passam-a-ser-enviados-via-e-notariado-ao-mp-em-sp/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

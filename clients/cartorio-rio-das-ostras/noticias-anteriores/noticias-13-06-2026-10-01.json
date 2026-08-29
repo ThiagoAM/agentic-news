@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-06-13T10:01:56-03:00",
+  "noticias": [
+    {
+      "titulo": "Município comemora o Mês do Meio Ambiente com diversas ações",
+      "descricao": "Rio das Ostras promove uma programação voltada ao Mês do Meio Ambiente com atividades como limpeza de praias, distribuição de mudas e realização da conferência municipal. A agenda reforça educação ambiental, mobilização comunitária e cuidados com os espaços naturais do município.",
+      "data_publicacao": "2026-06-12T13:07:24-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-comemora-o-mes-do-meio-ambiente-com-diversas-acoes/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras qualifica diretores de escola em liderança e gestão",
+      "descricao": "A Prefeitura de Rio das Ostras abriu curso de formação para diretores escolares com foco em liderança e gestão educacional. A iniciativa busca apoiar a melhoria do aprendizado e fortalecer a qualidade da administração das unidades de ensino.",
+      "data_publicacao": "2026-06-12T12:28:10-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-qualifica-diretores-de-escola-em-lideranca-e-gestao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura trabalha para avançar na Regularização Fundiária",
+      "descricao": "A gestão municipal informou que está ampliando ações de regularização fundiária para beneficiar famílias de diferentes localidades de Rio das Ostras. O objetivo é dar mais segurança jurídica aos moradores por meio da entrega de títulos de propriedade.",
+      "data_publicacao": "2026-06-12T12:26:16-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-trabalha-para-avancar-na-regularizacao-fundiaria/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Biblioteca Parque Estadual recebe cerimônia da Medalha Ìyá Oloórí e reforça valorização da cultura afro-brasileira",
+      "descricao": "A Biblioteca Parque Estadual recebeu a cerimônia da Medalha Ìyá Oloórí, homenagem dedicada a pessoas e instituições atuantes na preservação da ancestralidade. O evento reforçou a valorização da cultura afro-brasileira na programação cultural do estado do Rio de Janeiro.",
+      "data_publicacao": "2026-06-10T17:15:40-03:00",
+      "url": "http://cultura.rj.gov.br/cerimonia-da-medalha-iya-oloori/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Governo do RJ lança edital Infracultura com R$ 9,5 milhões para restauração de equipamentos culturais",
+      "descricao": "O Governo do Estado do Rio de Janeiro lançou o edital Infracultura RJ com recursos destinados à restauração e melhoria de equipamentos culturais. A medida busca preservar bens tombados e fortalecer a infraestrutura cultural fluminense.",
+      "data_publicacao": "2026-06-08T16:12:48-03:00",
+      "url": "http://cultura.rj.gov.br/edital-infracultura-rj/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Notificação por edital é medida excepcional em cobrança de imóvel",
+      "descricao": "Decisão destacada pelo ConJur considerou que a intimação por edital só pode ser usada após o esgotamento de tentativas razoáveis de localização pessoal do devedor. O caso envolveu procedimento extrajudicial em cartório e resultou na suspensão da transferência do imóvel e da cobrança até análise do mérito.",
+      "data_publicacao": "2026-06-10T08:23:19-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-10/notificacao-por-edital-e-medida-excepcional-em-cobranca-de-imovel/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Registro civil não pode ser condicionado a status migratório de pais estrangeiros",
+      "descricao": "O ConJur repercutiu decisão que autorizou o registro tardio de nascimento de criança filha de estrangeiros, ressaltando que a nacionalidade brasileira e o direito ao registro não dependem da regularidade migratória dos pais. O entendimento reforça a proteção ao acesso ao registro civil.",
+      "data_publicacao": "2026-06-03T10:19:20-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-03/registro-civil-nao-pode-ser-condicionado-a-status-migratorio-de-pais-estrangeiros/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "TJ-MT permite consolidação de propriedade fiduciária durante stay period da recuperação judicial",
+      "descricao": "Segundo o ConJur, o tribunal autorizou a averbação em cartório para transferência da titularidade de imóvel fiduciário durante a recuperação judicial, desde que não haja tomada de posse nem leilão enquanto durar a blindagem. A decisão diferencia o ato registral das medidas de expropriação material.",
+      "data_publicacao": "2026-06-04T16:30:21-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-04/tj-mt-permite-consolidacao-de-propriedade-fiduciaria-durante-stay-period-da-recuperacao-judicial/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Regularização fundiária e justiça social marcam entrega do Prêmio Solo Seguro 2026",
+      "descricao": "O Colégio Notarial do Brasil destacou a entrega do Prêmio Solo Seguro 2026, voltado ao reconhecimento de iniciativas de regularização fundiária urbana, rural e de governança territorial. A premiação reforçou a importância da segurança jurídica e da inclusão social nas políticas fundiárias.",
+      "data_publicacao": "2026-06-10T16:10:53-03:00",
+      "url": "https://www.notariado.org.br/regularizacao-fundiaria-e-justica-social-marcam-entrega-do-premio-solo-seguro-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "X Jornada de Direito Civil promove debate qualificado sobre a reforma do Código Civil, afirma o ministro Ribeiro Dantas",
+      "descricao": "O CNB divulgou a programação da X Jornada de Direito Civil, que reunirá especialistas para discutir temas atuais e a proposta de reforma do Código Civil. A expectativa é que os enunciados debatidos ampliem a segurança jurídica e orientem a interpretação das relações civis.",
+      "data_publicacao": "2026-06-10T16:11:31-03:00",
+      "url": "https://www.notariado.org.br/x-jornada-de-direito-civil-promove-debate-qualificado-sobre-a-reforma-do-codigo-civil-afirma-o-ministro-ribeiro-dantas/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Escritura pública de inventário e partilha com reconhecimento de filiação socioafetiva post mortem é analisada pelo CNB",
+      "descricao": "Parecer divulgado pelo CNB analisa a admissibilidade de escritura pública de inventário e partilha cumulada com reconhecimento de filiação socioafetiva post mortem. O material destaca fundamentos civis e precedentes relevantes para a prática notarial e registral em inventários extrajudiciais.",
+      "data_publicacao": "2026-06-09T18:27:35-03:00",
+      "url": "https://www.notariado.org.br/escritura-publica-de-inventario-e-partilha-com-reconhecimento-de-filiacao-socioafetiva-post-mortem-qualificacao-registral-e-requisitos-para-o-registro-matricula-no-23-122/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

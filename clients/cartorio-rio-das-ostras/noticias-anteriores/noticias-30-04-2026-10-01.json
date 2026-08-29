@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-04-30T10:01:51-03:00",
+  "noticias": [
+    {
+      "titulo": "Prefeitura inaugura Clínica Vascular Municipal para cirurgias e exames",
+      "descricao": "Rio das Ostras anunciou a abertura de uma Clínica Vascular Municipal, instalada próxima ao Centro de Saúde, para ampliar a realização de cirurgias e exames especializados e reforçar a rede pública local.",
+      "data_publicacao": "2026-04-29T17:01:02-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-inaugura-clinica-vascular-municipal-para-cirurgias-e-exames/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rodovia do Contorno é revitalizada com conclusão da primeira fase da obra",
+      "descricao": "A primeira etapa da revitalização da Rodovia do Contorno foi concluída em Rio das Ostras, com melhorias voltadas à segurança viária, ao conforto dos motoristas e à qualificação da infraestrutura urbana do município.",
+      "data_publicacao": "2026-04-29T16:34:54-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rodovia-do-contorno-e-revitalizada-com-conclusao-da-primeira-fase-da-obra/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura planeja obras de infraestrutura e esgotamento sanitário",
+      "descricao": "A Prefeitura de Rio das Ostras reuniu equipes técnicas para definir diretrizes de novos projetos de infraestrutura e esgotamento sanitário, com foco em expansão de serviços urbanos e melhoria das condições de saneamento.",
+      "data_publicacao": "2026-04-29T12:00:06-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-planeja-obras-de-infraestrutura-e-esgotamento-sanitario/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Nova Iguaçu inaugura primeiro Museu de Arqueologia e Etnologia do estado no Dia da Baixada",
+      "descricao": "Nova Iguaçu abriu o primeiro Museu de Arqueologia e Etnologia do estado do Rio de Janeiro com uma mostra inaugural dedicada a raízes ancestrais, ampliando a oferta cultural e a valorização do patrimônio histórico fluminense.",
+      "data_publicacao": "2026-04-29T18:00:00-03:00",
+      "url": "https://odia.ig.com.br/nova-iguacu/2026/04/7243439-nova-iguacu-inaugura-primeiro-museu-de-arqueologia-e-etnologia-do-estado-no-dia-da-baixada.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Biblioteca Parque Estadual recebe exposição interativa sobre ancestralidade indígena",
+      "descricao": "A Biblioteca Parque Estadual, no Rio, recebeu uma exposição interativa sobre ancestralidade indígena com visitação gratuita, reforçando a programação cultural ligada à memória, identidade e diversidade no estado.",
+      "data_publicacao": "2026-04-25T12:00:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/04/7241381-biblioteca-parque-estadual-recebe-exposicao-interativa-sobre-ancestralidade-indigena.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "CNB/CF lança projeto “Seccionais em Ação” para fortalecer a integração institucional das seccionais estaduais",
+      "descricao": "O Colégio Notarial do Brasil lançou o projeto “Seccionais em Ação” para alinhar pautas prioritárias, fortalecer a integração entre a entidade nacional e as seccionais estaduais e consolidar ações conjuntas do setor extrajudicial.",
+      "data_publicacao": "2026-04-29T19:44:52-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-projeto-seccionais-em-acao-para-fortalecer-a-integracao-institucional-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Câmara aprova prazo de cinco anos para início de processo disciplinar contra profissional de cartório",
+      "descricao": "O CNB destacou a aprovação, na Câmara dos Deputados, de proposta que fixa prazo de cinco anos para o início de processos disciplinares contra notários e registradores, trazendo maior previsibilidade ao regime extrajudicial.",
+      "data_publicacao": "2026-04-29T16:31:45-03:00",
+      "url": "https://www.notariado.org.br/camara-aprova-prazo-de-cinco-anos-para-inicio-de-processo-disciplinar-contra-profissional-de-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ confirma não exigência de certidão negativa de débito para obter inventário em cartório",
+      "descricao": "Segundo publicação do CNB, o CNJ reafirmou que a lavratura de escritura pública de inventário e partilha extrajudicial não pode ser condicionada à apresentação de certidão negativa de débitos, preservando a desjudicialização do procedimento.",
+      "data_publicacao": "2026-04-29T16:31:21-03:00",
+      "url": "https://www.notariado.org.br/cnj-confirma-nao-exigencia-de-certidao-negativa-de-debito-para-obter-inventario-em-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Inventário extrajudicial dispensa a certidão negativa de débito",
+      "descricao": "O ConJur noticiou que a exigência de certidão negativa de débito para escritura pública de inventário e partilha extrajudicial foi afastada, reforçando a simplificação do procedimento notarial e a segurança jurídica para as famílias.",
+      "data_publicacao": "2026-04-30T07:52:23-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-30/inventario-extrajudicial-dispensa-a-certidao-negativa-de-debito/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Recibo de compra e venda é justo título para usucapião ordinária",
+      "descricao": "De acordo com o ConJur, decisão recente reconheceu que recibo de compra e venda pode servir como justo título para usucapião ordinária, tema relevante para regularização imobiliária e segurança registral.",
+      "data_publicacao": "2026-04-29T13:51:15-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-29/recibo-de-compra-e-venda-e-justo-titulo-para-usucapiao-ordinaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Construtoras são condenadas por não lavrar escritura de imóvel quitado",
+      "descricao": "O ConJur informou que construtoras foram condenadas por não providenciar a escritura de imóvel já quitado, reforçando a importância da formalização adequada para garantir o registro e a efetiva transferência da propriedade.",
+      "data_publicacao": "2026-04-18T17:59:29-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-18/construtoras-sao-condenadas-por-nao-lavrar-escritura-de-imovel-quitado/",
+      "fonte": "ConJur"
+    }
+  ]
+}

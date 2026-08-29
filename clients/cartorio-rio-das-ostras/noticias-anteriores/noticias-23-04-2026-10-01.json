@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-04-23T10:01:34-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras recebe carreta de consultas oftalmológicas e cirurgias de catarata",
+      "descricao": "O município vai receber uma unidade móvel do programa Agora Tem Especialistas para ampliar consultas, exames e cirurgias de catarata pelo SUS, com expectativa de reduzir a fila de espera local.",
+      "data_publicacao": "2026-04-22T18:18:10-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-recebe-carreta-de-consulta-oftalmologica-e-cirurgia-de-catarata/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Alunas do Centro de Formação Artística representam Rio das Ostras em mostra regional de dança",
+      "descricao": "Bailarinas do Centro de Formação Artística de Rio das Ostras foram selecionadas para se apresentar na Mostra Regional de Dança em Arraial do Cabo, reforçando a presença cultural do município na região.",
+      "data_publicacao": "2026-04-22T16:15:40-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/alunas-do-centro-de-formacao-artistica-se-apresentam-em-mostra-regional-de-danca/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município promove ações do Abril Verde em Rio das Ostras",
+      "descricao": "A campanha Abril Verde terá programação com orientações, workshops, simulados e atividades de prevenção, voltadas à promoção de ambientes de trabalho mais seguros e saudáveis no município.",
+      "data_publicacao": "2026-04-22T15:09:40-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-celebra-o-abril-verde-com-acoes-de-conscientizacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Inscrições para agendamento do Teatro Municipal de Rio das Ostras continuam abertas",
+      "descricao": "A Fundação Rio das Ostras de Cultura mantém aberto o edital para ocupação do Teatro Municipal Joel Barcellos no período 2026/2027, com inscrições online para artistas, grupos e produtores culturais.",
+      "data_publicacao": "2026-04-22T11:25:47-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/inscricoes-para-agendamento-do-teatro-municipal-continuam-abertas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Faetec Austin realiza palestra sobre autismo para mais de 600 alunos",
+      "descricao": "A unidade da Faetec em Austin promoveu a palestra “Desvendando o Autismo” para ampliar a conscientização sobre inclusão e fortalecer a formação cidadã dos estudantes da rede estadual.",
+      "data_publicacao": "2026-04-20T00:00:00-03:00",
+      "url": "https://www.faetec.rj.gov.br/faetec-austin-realiza-palestra-%c2%a8desvendando-o-autismo/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "Faetec capacita professores para levar educação financeira às salas de aula",
+      "descricao": "Professores da Faetec participaram de uma capacitação prática do projeto “Seu Amanhã”, com foco em planejamento financeiro, empreendedorismo e autonomia dos estudantes da rede estadual.",
+      "data_publicacao": "2026-04-16T00:00:00-03:00",
+      "url": "https://www.faetec.rj.gov.br/faetec-capacita-professores-para-levar-educacao-financeira-as-salas-de-aula/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "Juros menores em financiamento para bancário só valem durante a relação de emprego",
+      "descricao": "A ConJur destacou decisão do TST que validou a elevação da taxa de juros de financiamento imobiliário após o fim do vínculo empregatício, com base em cláusula contratual previamente conhecida pela trabalhadora.",
+      "data_publicacao": "2026-04-23T08:23:17-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-23/juro-menor-para-bancario-so-e-valido-durante-a-relacao-de-emprego/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Seguradora é condenada a indenizar por falhas estruturais em imóvel",
+      "descricao": "A 1ª Câmara de Direito Privado do TJ-SP manteve a indenização por danos materiais e morais a proprietários de imóvel interditado, ao reconhecer cobertura securitária para riscos que comprometeram a habitabilidade.",
+      "data_publicacao": "2026-04-23T07:52:59-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-23/seguradora-e-condenada-a-indenizar-por-falhas-estruturais-em-imovel/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Ensaio propõe nova teoria da obrigação tributária para IBS e CBS",
+      "descricao": "Artigo publicado pela ConJur analisa como a nova sistemática do IBS e da CBS exige revisão da teoria da obrigação tributária, especialmente diante da pluralidade de sujeitos ativos e da coordenação entre entes federativos.",
+      "data_publicacao": "2026-04-23T09:22:27-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-23/ensaio-de-uma-nova-teoria-da-obrigacao-tributaria-para-o-ibs-e-cbs/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB indica tabeliães brasileiros para grupos de trabalho da CAAm",
+      "descricao": "O Colégio Notarial do Brasil formalizou indicações para grupos de trabalho da Comissão de Assuntos Americanos da UINL, ampliando a participação técnica do notariado brasileiro em temas como informática e segurança jurídica.",
+      "data_publicacao": "2026-04-22T17:20:28-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-indica-tabeliaes-brasileiros-para-grupos-de-trabalho-da-caam-e-alexandre-kassama-assume-coordenacao-em-informatica-e-seguranca-juridica/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Delegação de Moçambique visita o Brasil para conhecer soluções digitais da atividade extrajudicial",
+      "descricao": "Representantes de Moçambique estiveram em São Paulo para conhecer ferramentas como o e-Notariado e iniciativas de digitalização dos serviços extrajudiciais brasileiros, em agenda de cooperação institucional.",
+      "data_publicacao": "2026-04-22T10:10:38-03:00",
+      "url": "https://www.notariado.org.br/delegacao-de-mocambique-visita-o-brasil-para-conhecer-solucoes-digitais-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Partilha de bens no divórcio não pode ser feita por contrato particular, decide Terceira Turma",
+      "descricao": "O CNB repercutiu decisão do STJ que reafirma a necessidade de ação judicial ou escritura pública para partilha de bens no divórcio, reforçando a importância das formalidades legais e da segurança jurídica.",
+      "data_publicacao": "2026-04-17T18:28:00-03:00",
+      "url": "https://www.notariado.org.br/partilha-de-bens-no-divorcio-nao-pode-ser-feita-por-contrato-particular-decide-terceira-turma/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

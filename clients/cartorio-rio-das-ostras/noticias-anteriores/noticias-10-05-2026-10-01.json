@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-10T10:01:51-03:00",
+  "noticias": [
+    {
+      "titulo": "Parceria com Governo Federal amplia cirurgias no Município",
+      "descricao": "A Prefeitura de Rio das Ostras confirmou a ampliação do programa Agora Tem Especialistas após reunião com representante do Ministério da Saúde, com foco em reforçar a oferta de cirurgias e atendimentos especializados para a população local.",
+      "data_publicacao": "2026-05-08T15:23:46-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-faz-parceria-com-governo-federal-para-ampliar-numero-de-cirurgias/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Parceria amplia oportunidades de qualificação",
+      "descricao": "Rio das Ostras avançou em articulação com o SEST SENAT para ampliar cursos gratuitos e ações de capacitação profissional nas áreas de transporte, logística, gestão e novas tecnologias, fortalecendo emprego e desenvolvimento econômico no município.",
+      "data_publicacao": "2026-05-07T12:12:51-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-e-sest-senat-ampliam-oportunidades-de-qualificacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cidade tem ocupação hoteleira de 80% no fim de semana",
+      "descricao": "Rio das Ostras registrou ocupação hoteleira de 80% no fim de semana, resultado atribuído ao fortalecimento do turismo local, à divulgação do destino e à realização de eventos que movimentam a economia da cidade.",
+      "data_publicacao": "2026-05-05T12:10:24-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/cidade-tem-ocupacao-hoteleira-de-80-no-fim-de-semana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Edital para ações culturais contínuas abre inscrições no Rio",
+      "descricao": "A Secretaria de Estado de Cultura e Economia Criativa abriu inscrições para o Edital de Apoio a Ações Continuadas RJ, com R$ 19,2 milhões destinados a circos, companhias artísticas, festivais e eventos culturais em todo o estado.",
+      "data_publicacao": "2026-04-28T16:10:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/edital-para-acoes-culturais-continuas-abre-inscricoes-no-rio",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Governo do RJ cria observatório da fome em homenagem a Betinho",
+      "descricao": "O governo fluminense instituiu o Observatório da Fome Herbert de Souza para reunir dados, orientar políticas públicas e publicar relatórios anuais sobre insegurança alimentar e pobreza extrema no estado do Rio de Janeiro.",
+      "data_publicacao": "2026-05-07T21:09:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-05/governo-do-rj-cria-observatorio-da-fome-em-homenagem-betinho",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Inventário extrajudicial dispensa a certidão negativa de débito",
+      "descricao": "O ConJur destacou decisão do CNJ segundo a qual a escritura pública de inventário e partilha extrajudicial não pode ser condicionada à apresentação de certidão negativa de débito, embora as certidões ainda possam ser solicitadas para fins informativos.",
+      "data_publicacao": "2026-04-30T07:52:23-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-30/inventario-extrajudicial-dispensa-a-certidao-negativa-de-debito/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Recibo de compra e venda é justo título para usucapião ordinária",
+      "descricao": "O ConJur informou que o STJ entendeu que o recibo de compra e venda de imóvel pode caracterizar justo título para usucapião ordinária quando houver elementos suficientes para demonstrar a intenção inequívoca de transferir a propriedade.",
+      "data_publicacao": "2026-04-29T13:51:15-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-29/recibo-de-compra-e-venda-e-justo-titulo-para-usucapiao-ordinaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "TJ-SP legitima doação feita a herdeiros antes do nascimento de outros filhos",
+      "descricao": "Segundo o ConJur, o TJ-SP considerou legítima uma doação feita a filhos de relacionamento anterior antes do nascimento de outros descendentes, entendendo que o ato representou composição familiar válida e sem prejuízo a herdeiros posteriores.",
+      "data_publicacao": "2026-04-10T20:13:56-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-10/doacao-feita-a-filhos-antes-do-nascimento-de-outros-herdeiros-e-legitima/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ invalida cláusula retroativa de separação de bens em união estável",
+      "descricao": "O Colégio Notarial do Brasil repercutiu decisão da 4ª Turma do STJ que afastou a retroatividade de cláusula de separação total de bens em contrato de união estável e determinou nova análise sobre possível simulação na aquisição de bens.",
+      "data_publicacao": "2026-05-06T16:30:12-03:00",
+      "url": "https://www.notariado.org.br/stj-invalida-clausula-retroativa-de-separacao-de-bens-em-uniao-estavel/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Nada a ver com herança: saiba o que é testamento vital e entenda por que este documento é importante",
+      "descricao": "O Colégio Notarial do Brasil explicou que a diretriz antecipada de vontade, conhecida como testamento vital, ganhou respaldo legal mais claro com o Estatuto do Paciente e permite registrar previamente decisões sobre tratamentos médicos em situações graves.",
+      "data_publicacao": "2026-05-05T17:07:02-03:00",
+      "url": "https://www.notariado.org.br/nada-a-ver-com-heranca-saiba-o-que-e-testamento-vital-e-entenda-por-que-este-documento-e-importante/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Herança digital: por que o testamento público é indispensável",
+      "descricao": "Em artigo reproduzido pelo Colégio Notarial do Brasil, a herança digital é tratada como tema sucessório cada vez mais relevante, com defesa do testamento público como instrumento mais seguro para definir acesso, administração e destino de ativos e contas no ambiente virtual.",
+      "data_publicacao": "2026-05-05T14:56:29-03:00",
+      "url": "https://www.notariado.org.br/artigo-heranca-digital-por-que-o-testamento-publico-e-indispensavel-por-autor-nao-identificado/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

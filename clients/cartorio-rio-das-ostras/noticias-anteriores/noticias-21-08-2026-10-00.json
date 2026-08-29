@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-08-21T10:00:41-03:00",
+  "noticias": [
+    {
+      "titulo": "Cepro promove cinema e teatro de cordel com entrada gratuita em Rio das Ostras",
+      "descricao": "O Cepro realiza programação cultural gratuita, com cinema e teatro de cordel, em Rio das Ostras nos dias 21 e 22 de agosto.",
+      "data_publicacao": "2026-08-20T12:00:00-03:00",
+      "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/08/20/cepro-promove-cinema-e-teatro-de-cordel-com-entrada-gratuita-em-rio-das-ostras.ghtml",
+      "fonte": "g1"
+    },
+    {
+      "titulo": "Rio das Ostras apresenta Plano Municipal de Educação Digital",
+      "descricao": "A Secretaria de Educação, Esporte e Lazer apresenta o Plano Municipal de Educação Digital Midiática no polo da UFF em Rio das Ostras.",
+      "data_publicacao": "2026-08-17T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-apresenta-plano-municipal-de-educacao-digital-midiatica/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras publica contratação para instalação de pisos elevados",
+      "descricao": "O Jornal Oficial registra a contratação de empresa especializada para fornecer e instalar pisos elevados na sede da Prefeitura de Rio das Ostras e órgãos municipais.",
+      "data_publicacao": "2026-08-18T12:00:00-03:00",
+      "url": "https://appro.riodasostras.rj.gov.br/storage/riodasostrasapp/jornais/2026/08/61e7b53a-bd00-4ce4-8de9-eb8291b7d022.pdf",
+      "fonte": "Jornal Oficial de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio Innovation Week leva diversidade para o centro da inovação no Rio de Janeiro",
+      "descricao": "O Rio de Janeiro sedia a sexta edição do Rio Innovation Week, conferência de ciência, tecnologia e negócios realizada de 4 a 7 de agosto.",
+      "data_publicacao": "2026-08-07T12:00:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/rio-innovation-week-traz-diversidade-para-o-centro-da-inovacao",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Festival Rio Cello leva música a vários espaços do Rio de Janeiro",
+      "descricao": "O Festival Rio Cello promove apresentações musicais em diferentes espaços do Rio de Janeiro durante a programação de agosto.",
+      "data_publicacao": "2026-08-08T12:33:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/cultura",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "STJ analisa casos sobre registro de alienação fiduciária no segundo semestre",
+      "descricao": "Entre os processos previstos no STJ está a discussão sobre os efeitos da ausência de registro em cartório de contrato imobiliário com garantia de alienação fiduciária.",
+      "data_publicacao": "2026-08-02T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-02/stj-julga-seguro-habitacional-fracking-e-acoes-policiais-no-2o-semestre/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Exigência de escritura pública é discutida em alienação fiduciária fora do SFI",
+      "descricao": "Análise jurídica aborda a dispensa de escritura pública no tabelionato de notas e a necessidade de registro do contrato no cartório de imóveis competente.",
+      "data_publicacao": "2026-08-07T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-07/exigencia-de-escritura-publica-para-alienacao-fiduciaria-fora-do-sfi/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ restaura força do instrumento particular na alienação fiduciária",
+      "descricao": "Artigo examina a interpretação sobre instrumentos particulares na alienação fiduciária e a valorização da função qualificadora do registro de imóveis.",
+      "data_publicacao": "2026-08-05T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-05/cnj-restaurou-forca-do-instrumento-particular-na-alienacao-fiduciaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB divulga casos práticos de atuação extrajudicial no agronegócio",
+      "descricao": "O Colégio Notarial do Brasil apresenta casos práticos e orientações sobre segurança jurídica da atividade extrajudicial no agronegócio.",
+      "data_publicacao": "2026-08-20T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/extrajudicial-no-agronegocio-casos-praticos-e-seguranca-juridica/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ suspende temporariamente provimento que instituiu o VNS",
+      "descricao": "A Corregedoria Nacional de Justiça suspende por 60 dias a eficácia do Provimento CN-CNJ nº 247/2026, que instituiu o VNS.",
+      "data_publicacao": "2026-08-17T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-suspende-temporariamente-provimento-cn-cnj-n-247-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ e Banco Central reforçam mecanismos para transferência de precatórios",
+      "descricao": "Acordo busca ampliar a transparência das negociações e a segurança jurídica dos credores na transferência de precatórios.",
+      "data_publicacao": "2026-08-14T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-e-banco-central-reforcam-mecanismos-de-protecao-na-transferencia-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

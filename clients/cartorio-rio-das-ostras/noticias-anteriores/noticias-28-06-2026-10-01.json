@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-06-28T10:01:49-03:00",
+  "noticias": [
+    {
+      "titulo": "Prefeitura decreta ponto facultativo em Rio das Ostras na segunda-feira, 29",
+      "descricao": "A Prefeitura de Rio das Ostras definiu ponto facultativo municipal em 29 de junho por causa do jogo da Seleção Brasileira, mantendo o funcionamento dos serviços essenciais e ajustando o expediente de parte das repartições públicas.",
+      "data_publicacao": "2026-06-26T09:49:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-decreta-ponto-facultativo-na-segunda-feira-29/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras libera agendamento online para vistoria do transporte público municipal",
+      "descricao": "A Prefeitura disponibilizou uma solução digital para o agendamento de vistoria do transporte público municipal, permitindo envio de documentos, escolha de data e acompanhamento do processo pelo Colab e pelo Portal de Serviços.",
+      "data_publicacao": "2026-06-25T15:59:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/agendamento-de-vistoria-do-transporte-publico-municipal-online/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras promove campanha de doação de sangue com cadastro online e transporte até hemocentro",
+      "descricao": "O município abriu cadastro online para doadores voluntários e informou que vai organizar transporte até o Hemolagos, em Cabo Frio, para incentivar a doação de sangue e ampliar a participação dos moradores na campanha.",
+      "data_publicacao": "2026-06-25T14:36:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-promove-campanha-de-doacao-de-sangue/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cadastramento do Programa Turismo Rural RJ passa a ser feito pela plataforma RJ Digital",
+      "descricao": "O Governo do Estado passou a oferecer pela plataforma RJ Digital o cadastro do Programa Turismo Rural RJ, facilitando a adesão de produtores e empreendedores e ampliando o acesso ao selo, ao mapa oficial e às ações de capacitação.",
+      "data_publicacao": "2026-06-24T17:11:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/06/7269062-cadastramento-do-programa-turismo-rural-pode-ser-feito-pela-plataforma-rj-digital.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Arena Niterói é inaugurada com show de Roberto Carlos e reforça agenda cultural do estado",
+      "descricao": "A nova Arena Niterói foi inaugurada com um show de Roberto Carlos e deve ampliar a oferta de grandes eventos culturais e esportivos, fortalecendo o turismo e a economia criativa na região metropolitana fluminense.",
+      "data_publicacao": "2026-06-27T17:42:00-03:00",
+      "url": "https://odia.ig.com.br/niteroi/2026/06/7270431-roberto-carlos-inaugura-arena-niteroi-em-noite-de-emocao-classicos-e-sonhos-realizados.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "CNB destaca provimento que regulamenta extratos eletrônicos para atos com repercussão imobiliária",
+      "descricao": "O Colégio Notarial do Brasil explicou que o Provimento nº 228/2026 disciplina o envio de extratos eletrônicos ao Registro de Imóveis e exige maior padronização, interoperabilidade e conferência de dados pelos tabelionatos de notas.",
+      "data_publicacao": "2026-06-17T14:30:30-03:00",
+      "url": "https://www.notariado.org.br/provimento-no-228-2026-regulamenta-extratos-eletronicos-para-atos-com-repercussao-imobiliaria-e-impacta-rotina-dos-tabelionatos-de-notas/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Live apresenta nova etapa da integração entre e-Notariado e RI Digital",
+      "descricao": "Transmissão promovida pelo ONR e pelo CNB/CF apresentou o piloto de envio de título estruturado e reforçou os ganhos de padronização, agilidade e segurança jurídica na integração entre e-Notariado e RI Digital.",
+      "data_publicacao": "2026-06-17T15:20:28-03:00",
+      "url": "https://www.notariado.org.br/live-reune-notarios-e-registradores-para-apresentar-nova-etapa-da-integracao-entre-e-notariado-e-ri-digital/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF divulga materiais para orientar cidadãos sobre prova de vida no e-Notariado",
+      "descricao": "O CNB/CF disponibilizou vídeo e panfleto para ajudar cartórios e usuários a entender a prova de vida facial no e-Notariado, reforçando a segurança dos atos eletrônicos e a prevenção a fraudes.",
+      "data_publicacao": "2026-06-05T16:18:06-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-disponibiliza-materiais-para-orientar-cidadaos-sobre-a-prova-de-vida-no-e-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "ConJur aborda a suficiência da posse qualificada nas ações de usucapião",
+      "descricao": "A Consultor Jurídico publicou análise defendendo que a posse qualificada pelo tempo legal basta para o processamento da usucapião, sem que negociações anteriores impeçam automaticamente o reconhecimento do domínio.",
+      "data_publicacao": "2026-06-24T13:24:26-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-24/usucapiao-da-suficiencia-da-posse-qualificada-por-determinado-lapso-temporal/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur critica exigências tributárias indevidas na usucapião extrajudicial",
+      "descricao": "A Consultor Jurídico destacou que a usucapião é forma originária de aquisição da propriedade e sustentou que registradores não devem exigir ITBI nem criar obstáculos não previstos em lei para o procedimento extrajudicial.",
+      "data_publicacao": "2026-06-22T20:24:29-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-22/registrador-de-imoveis-nao-e-fiscal-da-fazenda-publica/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur repercute entendimento de que integralização de imóvel ao capital social dispensa escritura pública",
+      "descricao": "A Consultor Jurídico informou que decisão paulista reafirmou a certidão da Junta Comercial como título hábil para o Registro de Imóveis em integralização de capital, dispensando escritura pública em operações societárias desse tipo.",
+      "data_publicacao": "2026-06-18T13:00:01-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-18/integralizacao-de-imovel-ao-capital-social-dispensa-escritura-publica-novo-reforco-da-jurisprudencia-paulista/",
+      "fonte": "Consultor Jurídico"
+    }
+  ]
+}

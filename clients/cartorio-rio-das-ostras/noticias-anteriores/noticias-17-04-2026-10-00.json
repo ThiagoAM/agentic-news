@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-04-17T10:00:16-03:00",
+  "noticias": [
+    {
+      "titulo": "Vigilância se atualiza sobre qualidade de alimentos",
+      "descricao": "Rio das Ostras participou de uma capacitação promovida pela Secretaria de Estado de Saúde para reforçar boas práticas e atualizar equipes sobre critérios de qualidade e segurança de alimentos no município.",
+      "data_publicacao": "2026-04-16T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/vigilancia-se-atualiza-sobre-qualidade-de-alimentos/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Saúde tem avanço histórico com cirurgias de mastologia",
+      "descricao": "A rede municipal de saúde de Rio das Ostras anunciou avanço no cuidado às mulheres com a ampliação das cirurgias de mastologia, fortalecendo a oferta de atendimento especializado na cidade.",
+      "data_publicacao": "2026-04-16T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/saude-tem-avanco-historico-com-cirurgias-de-mastologia/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Projeto Pró-Catadores debate gestão de resíduos",
+      "descricao": "A Prefeitura de Rio das Ostras e o Sebrae realizaram nova rodada de debates do Projeto Pró-Catadores, com foco em gestão de resíduos e fortalecimento da organização do trabalho dos catadores locais.",
+      "data_publicacao": "2026-04-16T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/grupo-de-trabalho-do-projeto-pro-catadores-debate-gestao-de-residuos/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Faetec capacita professores para levar educação financeira às salas de aula",
+      "descricao": "Professores da Faetec participaram de formação prática para aplicar educação financeira nas aulas, com atividades voltadas ao uso de jogos e metodologias que aproximam o tema da realidade dos estudantes.",
+      "data_publicacao": "2026-04-16T12:00:00-03:00",
+      "url": "https://www.faetec.rj.gov.br/faetec-capacita-professores-para-levar-educacao-financeira-as-salas-de-aula/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "Faetec Mesquita forma 400 alunos nos cursos de qualificação profissional e técnico",
+      "descricao": "A unidade da Faetec em Mesquita formou mais de 400 alunos, em iniciativa que amplia oportunidades de inserção no mercado de trabalho e reforça a educação profissional no estado do Rio de Janeiro.",
+      "data_publicacao": "2026-04-01T12:00:00-03:00",
+      "url": "https://www.faetec.rj.gov.br/faetec-mesquita-forma-400-alunos-nos-cursos-de-qualificacao-profissional-e-tecnico/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "CJF sugere medidas para evitar fraude em tentativa de acordo pré-ação",
+      "descricao": "A ConJur destacou nota técnica do CJF com medidas para dar mais segurança à exigência de tentativa prévia de acordo em ações de consumo, buscando reduzir fraudes e aperfeiçoar a etapa anterior ao processo judicial.",
+      "data_publicacao": "2026-04-17T09:45:14-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-17/cjf-sugere-medidas-para-evitar-fraude-em-tentativa-em-acordo-antes-de-acao-de-consumo/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Contrato firmado com analfabeta funcional sem testemunhas é inválido",
+      "descricao": "Segundo a ConJur, o TJ-SC considerou inválido contrato sem garantias adequadas para pessoa analfabeta funcional, decisão que reforça cuidados formais essenciais em negócios jurídicos e na proteção de partes vulneráveis.",
+      "data_publicacao": "2026-04-17T07:52:50-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-17/contrato-invalido-com-analfabeta-funcional-condena-por-danos-morais/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Falta de metodologia verificável impede uso de provas de IA generativa",
+      "descricao": "A ConJur informou que a ausência de metodologia verificável pelo Judiciário tem impedido a aceitação de provas produzidas por IA generativa, tema relevante para debates sobre tecnologia e segurança jurídica.",
+      "data_publicacao": "2026-04-17T08:54:58-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-17/falta-de-metodologia-verificavel-impede-uso-de-provas-de-ia-generativa/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ENNOR oferece curso sobre reforma tributária e o extrajudicial para 2026",
+      "descricao": "O Colégio Notarial do Brasil divulgou curso da ENNOR voltado à adaptação dos cartórios às mudanças da reforma tributária, com foco em impactos práticos, contabilidade e estratégias de compliance para as serventias.",
+      "data_publicacao": "2026-04-14T17:10:42-03:00",
+      "url": "https://www.notariado.org.br/ennor-oferece-curso-a-reforma-tributaria-e-o-extrajudicial-para-preparar-cartorios-para-as-mudancas-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Impossibilidade de registrar imóvel gera indenização",
+      "descricao": "O CNB repercutiu decisão do TJMG que reconheceu indenização a morador impedido de registrar imóvel quitado, destacando os efeitos de entraves documentais e da falta de regularização da escritura.",
+      "data_publicacao": "2026-04-14T17:10:07-03:00",
+      "url": "https://www.notariado.org.br/impossibilidade-de-registrar-imovel-gera-indenizacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STJ autoriza uso do Serp-Jud para busca de bens penhoráveis",
+      "descricao": "O Colégio Notarial do Brasil destacou entendimento da 4ª Turma do STJ favorável ao uso do Serp-Jud na localização de bens penhoráveis em execuções civis, ampliando o uso de sistemas eletrônicos dos registros públicos.",
+      "data_publicacao": "2026-04-13T15:55:46-03:00",
+      "url": "https://www.notariado.org.br/stj-autoriza-uso-do-serp-jud-para-busca-de-bens-penhoraveis/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

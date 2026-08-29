@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-23T10:01:46-03:00",
+  "noticias": [
+    {
+      "titulo": "Teatro e Biblioteca recebem visita de alunos macaenses",
+      "descricao": "O Teatro Municipal Joel Barcellos e a Biblioteca Pública Municipal Professora Íris Galvão receberam turmas da Educação Infantil de Macaé em uma ação de integração cultural e incentivo à leitura com visita guiada pelos espaços.",
+      "data_publicacao": "2026-05-22T16:33:32-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/teatro-municipal-e-biblioteca-publica-recebem-a-visita-de-alunos-macaenses/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura realiza trabalho contínuo na Iluminação Pública",
+      "descricao": "A Prefeitura de Rio das Ostras informou que mantém ações diárias de manutenção e melhoria da iluminação pública em diferentes bairros, com foco em atender demandas da população e reforçar a infraestrutura urbana.",
+      "data_publicacao": "2026-05-22T11:13:46-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-realiza-trabalho-continuo-na-iluminacao-publica/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Projeto Bem-Estar Animal Sobre Rodas chega a Cantagalo na próxima semana",
+      "descricao": "O projeto itinerante de bem-estar animal vai atender a localidade de Cantagalo com castrações e orientações para tutores, ampliando o acesso a serviços veterinários e ações de cuidado responsável no município.",
+      "data_publicacao": "2026-05-22T09:40:29-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/projeto-bem-estar-animal-sobre-rodas-chega-a-cantagalo-na-proxima-semana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Atividade econômica do Estado do Rio cresce 2,3% no primeiro trimestre do ano",
+      "descricao": "O Governo do Estado destacou que o indicador do Banco Central mostrou avanço de 2,3% da atividade econômica fluminense no primeiro trimestre, com desempenho acima da média do Sudeste e sinal positivo para a economia local.",
+      "data_publicacao": "2026-05-22T10:10:19-03:00",
+      "url": "https://www.rj.gov.br/noticias/atividade-economica-do-estado-do-rio-cresce-23-no-primeiro-trimestre-do-ano8474",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Professores da rede estadual terão formação inédita em Libras para fortalecer educação inclusiva",
+      "descricao": "A Fundação Cecierj vai oferecer curso gratuito de Libras com 600 vagas, incluindo reserva para docentes da rede estadual, em iniciativa voltada ao fortalecimento da educação inclusiva no Rio de Janeiro.",
+      "data_publicacao": "2026-05-21T10:33:59-03:00",
+      "url": "https://www.rj.gov.br/noticias/professores-da-rede-estadual-terao-formacao-inedita-em-libras-para-fortalecer-educacao-inclusiva2839",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Pai adotivo não pode desfazer registro feito de forma voluntária, decide TJ-MG",
+      "descricao": "O ConJur noticiou decisão do TJ-MG que manteve registro de paternidade voluntário por entender que não houve erro nem coação no ato, reforçando a segurança jurídica do reconhecimento espontâneo feito em cartório.",
+      "data_publicacao": "2026-05-19T12:20:18-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-19/pai-adotivo-nao-pode-desfazer-registro-feito-de-forma-voluntaria-decide-tj-mg/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Disputa sobre créditos trabalhistas de falecido cabe à Justiça comum",
+      "descricao": "Segundo o ConJur, o TST decidiu que valores devidos a trabalhador falecido devem ser submetidos ao inventário e à partilha entre herdeiros quando houver controvérsia sucessória, deslocando a discussão para a Justiça comum.",
+      "data_publicacao": "2026-05-19T21:45:14-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-19/disputa-sobre-creditos-trabalhistas-de-falecido-cabe-a-justica-comum/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Exceção de pré-executividade não serve para apurar falsidade de assinatura",
+      "descricao": "O ConJur repercutiu entendimento do TJ-PR de que alegações de falsidade de assinatura exigem perícia e não podem ser resolvidas por exceção de pré-executividade, por dependerem de apuração probatória mais ampla.",
+      "data_publicacao": "2026-05-21T14:44:56-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-21/excecao-de-pre-executividade-nao-serve-para-apurar-falsidade-de-assinatura/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Cartório aplica precedente do STJ e evita judicialização",
+      "descricao": "O Colégio Notarial do Brasil destacou caso em que um registro de imóveis aplicou precedente do STJ para solucionar questão imobiliária diretamente na esfera extrajudicial, evitando a judicialização do conflito.",
+      "data_publicacao": "2026-05-21T16:02:56-03:00",
+      "url": "https://www.notariado.org.br/cartorio-aplica-precedente-do-stj-e-evita-judicializacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Fisco não pode cobrar ITBI antes de verificar atividade principal da empresa",
+      "descricao": "O CNB repercutiu entendimento de que a cobrança de ITBI depende da verificação da atividade preponderante da empresa no período legal, tema relevante para operações imobiliárias e análise de imunidade tributária.",
+      "data_publicacao": "2026-05-21T16:00:25-03:00",
+      "url": "https://www.notariado.org.br/fisco-nao-pode-cobrar-itbi-antes-de-verificar-atividade-principal-da-empresa/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Pesquisas aplicadas ao Direito de Família serão apresentadas em webinário do CNJ desta quinta (21/5)",
+      "descricao": "O Colégio Notarial do Brasil divulgou webinário do CNJ dedicado a pesquisas empíricas sobre Direito de Família, reunindo debates técnicos que dialogam com temas frequentes da atividade notarial e registral.",
+      "data_publicacao": "2026-05-21T15:58:20-03:00",
+      "url": "https://www.notariado.org.br/pesquisas-aplicadas-ao-direito-de-familia-serao-apresentadas-em-webinario-do-cnj-desta-quinta-21-5/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-08-17T10:00:54-03:00",
+  "noticias": [
+    {
+      "titulo": "Estudantes riostrenses são premiados em prêmio literário",
+      "descricao": "Mais de 1,5 mil estudantes da rede municipal de Rio das Ostras participaram da terceira edição do Prêmio Literário do Ensino Fundamental, que premiou 125 alunos de 19 escolas. A iniciativa reforça o estímulo à leitura, à escrita e à reflexão sobre direitos humanos no município.",
+      "data_publicacao": "2026-08-12T11:47:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/estudantes-riostrenses-sao-premiados-em-premio-literario/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras participa do Seminário Agrega + Indústria",
+      "descricao": "A Prefeitura de Rio das Ostras participou do Seminário Agrega + Indústria, na capital fluminense, com foco em conteúdo local, cadeia de fornecedores e transição energética. O encontro alinhou estratégias para ampliar investimentos, competitividade e geração de empregos na região.",
+      "data_publicacao": "2026-08-05T14:08:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-participa-do-seminario-agrega-industria/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Assaí Atacadista realiza feirão de emprego em Rio das Ostras",
+      "descricao": "A Secretaria de Desenvolvimento Econômico e Turismo de Rio das Ostras sediou um feirão com 50 vagas de trabalho para a unidade do Assaí em Macaé. A ação reuniu seleção presencial, benefícios anunciados pela empresa e oportunidades também voltadas a pessoas com deficiência.",
+      "data_publicacao": "2026-08-10T16:47:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/assai-atacadista-realiza-feirao-de-emprego-nesta-quarta-feira-12-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Abertas inscrições para nova turma do programa Justiça Cidadã",
+      "descricao": "O Tribunal de Justiça do Estado do Rio abriu inscrições gratuitas para a 49ª turma do Programa Justiça Cidadã. O curso capacita lideranças comunitárias e aproxima a sociedade do funcionamento do Judiciário em formato híbrido.",
+      "data_publicacao": "2026-08-15T11:55:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/08/7291150-abertas-inscricoes-gratuitas-para-nova-turma-do-programa-justica-cidada.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Rio apresenta novos ônibus de piso baixo para facilitar embarque",
+      "descricao": "A Prefeitura do Rio apresentou os primeiros ônibus do Sistema RIO, com piso baixo e foco em acessibilidade para pessoas com deficiência e mobilidade reduzida. A nova frota começa pela Zona Oeste e amplia a modernização do transporte urbano na capital.",
+      "data_publicacao": "2026-08-12T10:59:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/08/7289709-rio-apresenta-novos-onibus-de-piso-baixo-para-facilitar-embarque.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "CNJ e BC lançam iniciativa para ampliar segurança nas transferências de precatórios",
+      "descricao": "O CNJ e o Banco Central anunciaram um grupo executivo para estruturar um sistema nacional de registro e rastreamento das transferências de créditos de precatórios. A proposta prevê integração com tribunais, cartórios e entidades autorizadas para elevar a segurança jurídica dessas operações.",
+      "data_publicacao": "2026-08-11T19:06:01-03:00",
+      "url": "https://conjur.com.br/2026-ago-11/cnj-e-bc-lancam-iniciativa-para-ampliar-seguranca-nas-transferencias-de-precatorios/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ libera assinatura digital em cartório para transferência de veículos",
+      "descricao": "Decisão do CNJ restabeleceu parceria que permite a transferência de veículos por assinatura digital, inclusive com atos realizados em cartórios de estados diferentes. A medida amplia a digitalização do procedimento e reduz etapas presenciais para empresas e usuários.",
+      "data_publicacao": "2026-07-30T16:52:59-03:00",
+      "url": "https://conjur.com.br/2026-jul-30/cnj-libera-assinatura-digital-em-cartorio-para-transferencia-de-veiculos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ restaurou força do instrumento particular na alienação fiduciária",
+      "descricao": "Análise publicada pelo ConJur destacou decisão do CNJ que voltou a permitir a formalização ampla da alienação fiduciária de imóveis por instrumento particular com força de escritura pública. O entendimento tende a reduzir custos e burocracia em operações imobiliárias.",
+      "data_publicacao": "2026-08-05T16:21:33-03:00",
+      "url": "https://conjur.com.br/2026-ago-05/cnj-restaurou-forca-do-instrumento-particular-na-alienacao-fiduciaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Corregedoria reafirma competência territorial do e-Notariado em atos híbridos",
+      "descricao": "A Corregedoria Nacional de Justiça reafirmou que atos notariais híbridos, com parte presencial e parte remota, seguem as regras de competência territorial do e-Notariado. A decisão dá mais previsibilidade para escrituras e outros atos eletrônicos com participação a distância.",
+      "data_publicacao": "2026-07-24T15:50:16-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-reafirma-aplicacao-da-competencia-territorial-do-e-notariado-aos-atos-notariais-hibridos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Uso de serviços digitais de Registro de Imóveis cresce quase 20% no Rio no primeiro semestre de 2026",
+      "descricao": "O Rio de Janeiro registrou mais de 470 mil solicitações na plataforma RI Digital no primeiro semestre, com alta de 19,7% sobre o ano anterior. O avanço mostra maior adesão a certidões, pesquisas e protocolos eletrônicos ligados aos cartórios de registro de imóveis.",
+      "data_publicacao": "2026-07-31T15:40:17-03:00",
+      "url": "https://www.notariado.org.br/uso-de-servicos-digitais-de-registro-de-imoveis-cresce-quase-20-no-rio-no-primeiro-semestre-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Projeto permite coletar depoimento de testemunha em cartório",
+      "descricao": "Projeto em análise na Câmara dos Deputados propõe permitir a coleta de depoimentos de testemunhas em cartório, inclusive por videoconferência, para processos sobre direitos disponíveis. A medida busca agilizar a produção de prova com apoio da fé pública notarial.",
+      "data_publicacao": "2026-07-27T16:44:38-03:00",
+      "url": "https://www.notariado.org.br/projeto-permite-coletar-depoimento-de-testemunha-em-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-14T10:00:51-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras lança edital de credenciamento para facilitadores",
+      "descricao": "A Fundação Rio das Ostras de Cultura abriu credenciamento para pessoas jurídicas que atuem na área cultural, com o objetivo de ampliar o banco de profissionais aptos a desenvolver ações criativas no município.",
+      "data_publicacao": "2026-07-14T08:48:05-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-lanca-edital-de-credenciamento-para-facilitadores-de-processos-criativos/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Centro de Formação Artística encerra semestre",
+      "descricao": "O Centro de Formação Artística administrado pela Fundação Rio das Ostras de Cultura concluiu o semestre letivo e já prepara a Feira Onda 2026, que deve reunir mais de 90 atrações abertas ao público em agosto.",
+      "data_publicacao": "2026-07-13T16:30:38-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/centro-de-formacao-artistica-encerra-semestre-e-prepara-feira-onda-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Primeiro Festival de Fatias de Bolo é sucesso de público",
+      "descricao": "O festival realizado no Centro Ferroviário de Cultura de Rocha Leão reuniu moradores e visitantes em torno da gastronomia local, fortalecendo a agenda cultural e o movimento no distrito.",
+      "data_publicacao": "2026-07-13T15:08:35-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/primeiro-festival-de-fatias-de-bolo-e-sucesso-de-publico/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Exposição O Tempo das Plantas propõe troca cultural e desaceleração",
+      "descricao": "A mostra inaugurada na Casa Pacheco Leão, no Jardim Botânico do Rio de Janeiro, reúne arte, ciência e memória para refletir sobre a circulação de espécies, os intercâmbios culturais e a relação entre natureza e cultura.",
+      "data_publicacao": "2026-07-11T17:27:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/exposicao-o-tempo-das-plantas-propoe-troca-cultural-e-desaceleracao",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Programação gratuita celebra os 117 anos do Theatro Municipal",
+      "descricao": "O Theatro Municipal do Rio preparou uma programação gratuita com concertos, dança, visita guiada, palestra e sessão especial da ópera Salvator Rosa para marcar os 117 anos da instituição.",
+      "data_publicacao": "2026-07-13T13:49:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/07/7276814-programacao-gratuita-celebra-os-117-anos-do-theatro-municipal.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Tribunais derrubam pareceres das juntas médicas dos planos de saúde em 93% das decisões",
+      "descricao": "Levantamento repercutido pela ConJur mostra que o Judiciário tem rejeitado em larga escala pareceres usados por operadoras para negar tratamentos, reforçando a proteção ao direito do paciente.",
+      "data_publicacao": "2026-07-14T08:54:46-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-14/tribunais-derrubam-pareceres-das-juntas-medicas-em-93-dos-casos/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Renúncia ao trabalho durante afastamento psicológico é inválida",
+      "descricao": "A ConJur destacou entendimento de que a renúncia à reintegração assinada durante afastamento por doença psicológica não produz efeitos válidos, preservando a proteção do trabalhador em situação de vulnerabilidade.",
+      "data_publicacao": "2026-07-14T08:23:34-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-14/renuncia-ao-trabalho-durante-afastamento-psicologico-e-invalida/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Avaliação com valor inferior ao cadastral impede imissão na posse",
+      "descricao": "Segundo decisão repercutida pela ConJur, depósito judicial baseado em avaliação unilateral abaixo do valor cadastral do imóvel não basta para autorizar a imissão provisória na posse.",
+      "data_publicacao": "2026-07-14T07:52:16-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-14/avaliacao-unilateral-que-fixa-valor-inferior-ao-cadastral-impede-imissao-na-posse/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Nova plataforma que simplifica acesso a documentos cartorários já recebeu 470 mil pedidos",
+      "descricao": "O Colégio Notarial do Brasil destacou o avanço de uma plataforma nacional que integra serviços de cartórios e amplia o acesso digital a documentos de registro civil, imóveis e títulos e documentos.",
+      "data_publicacao": "2026-07-13T17:51:48-03:00",
+      "url": "https://www.notariado.org.br/nova-plataforma-que-simplifica-acesso-a-documentos-cartorarios-ja-recebeu-470-mil-pedidos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Acumulação de atividades cartoriais é validada",
+      "descricao": "O CNB repercutiu decisão do STF que validou a acumulação de atividades cartoriais em situação preexistente, considerando que o procedimento analisado não contraria a Constituição Federal.",
+      "data_publicacao": "2026-07-13T17:50:58-03:00",
+      "url": "https://www.notariado.org.br/acumulacao-de-atividades-cartoriais-e-validada/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Conciliação Itinerante facilita acordos e amplia acesso à Justiça em Imperatriz",
+      "descricao": "A iniciativa itinerante divulgada pelo Colégio Notarial do Brasil levou serviços e conciliações à população durante a Expoimp, com foco em acordos, cidadania e maior acesso à Justiça.",
+      "data_publicacao": "2026-07-10T14:33:58-03:00",
+      "url": "https://www.notariado.org.br/conciliacao-itinerante-facilita-acordos-e-amplia-acesso-a-justica-em-imperatriz/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

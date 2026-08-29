@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-08-02T10:00:50-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras recebe Desafio dos Mares neste final de semana",
+      "descricao": "Rio das Ostras recebe neste domingo uma etapa do Desafio dos Mares na Praia do Centro, reunindo atletas de águas abertas e reforçando a agenda esportiva e turística local em um dos cartões-postais da cidade.",
+      "data_publicacao": "2026-07-31T17:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-recebe-desafio-dos-mares-neste-final-de-semana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras abre 247 vagas para cursos gratuitos de informática",
+      "descricao": "A Prefeitura abriu 247 vagas em cursos gratuitos de informática pelo Programa Municipal de Qualificação, com inscrições online entre 3 e 6 de agosto para ampliar a formação tecnológica e a inserção no mercado de trabalho.",
+      "data_publicacao": "2026-07-31T15:32:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-abre-247-vagas-para-cursos-gratuitos-de-informatica/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura de Rio das Ostras inicia curso de Libras",
+      "descricao": "A rede municipal iniciou curso básico de Libras e metodologia em educação bilíngue de surdos para professores e profissionais de apoio, fortalecendo a inclusão e a qualificação continuada dos servidores da educação.",
+      "data_publicacao": "2026-07-30T14:43:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-de-rio-das-ostras-inicia-curso-de-libras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio de Janeiro é o estado homenageado da 62ª edição do Festival do Folclore de Olímpia",
+      "descricao": "O Rio de Janeiro será o estado homenageado do Festival do Folclore de Olímpia, com delegação de dez grupos de cultura popular e destaque para tradições fluminenses em uma vitrine nacional de manifestações culturais.",
+      "data_publicacao": "2026-07-30T14:57:09-03:00",
+      "url": "https://cultura.rj.gov.br/rio-de-janeiro-e-homenageado-em-festival-de-folclore-de-olimpia/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Governo do Estado abre inscrições para edital Feiras Regionais de Artesanato",
+      "descricao": "O Governo do Estado lançou edital para selecionar organização responsável por feiras regionais de artesanato em 44 municípios fluminenses, fortalecendo economia criativa, circulação cultural e geração de renda.",
+      "data_publicacao": "2026-07-28T11:00:22-03:00",
+      "url": "https://cultura.rj.gov.br/governo-rj-edital-feiras-regionais-artesanato-rj/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "CNJ libera assinatura digital em cartório para transferir veículo",
+      "descricao": "O CNJ restabeleceu parceria que permite a transferência digital de veículos com uso de assinatura em cartório, ampliando a utilização da ATPV-e com recursos da infraestrutura do registro civil.",
+      "data_publicacao": "2026-07-30T16:52:59-03:00",
+      "url": "https://conjur.com.br/2026-jul-30/cnj-libera-assinatura-digital-em-cartorio-para-transferencia-de-veiculos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ libera alienação fiduciária em contrato sem escritura pública",
+      "descricao": "Decisão do CNJ afastou a exigência de escritura pública para formalizar a cláusula de alienação fiduciária em certos contratos imobiliários, mantendo a necessidade de registro para produção de efeitos legais.",
+      "data_publicacao": "2026-07-27T12:46:11-03:00",
+      "url": "https://conjur.com.br/2026-jul-27/cnj-libera-alienacao-fiduciaria-em-contrato-sem-escritura-publica/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Registro de bebê de reprodução assistida exige laudo da clínica",
+      "descricao": "A Corregedoria Nacional de Justiça manteve a exigência de declaração da clínica especializada para registro civil de crianças geradas por reprodução assistida, com foco em segurança sanitária e prevenção de fraudes.",
+      "data_publicacao": "2026-07-20T12:40:58-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-20/cnj-mantem-exigencia-de-declaracao-de-clinica-para-registro-de-bebe-gerado-por-reproducao-assistida/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Uso de serviços digitais de Registro de Imóveis cresce quase 20% no Rio no primeiro semestre de 2026",
+      "descricao": "Levantamento repercutido pelo Colégio Notarial do Brasil mostra avanço dos serviços digitais de Registro de Imóveis no Rio de Janeiro, com mais de 470 mil solicitações e alta de 19,7% no semestre.",
+      "data_publicacao": "2026-07-31T15:40:17-03:00",
+      "url": "https://www.notariado.org.br/uso-de-servicos-digitais-de-registro-de-imoveis-cresce-quase-20-no-rio-no-primeiro-semestre-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Projeto permite coletar depoimento de testemunha em cartório",
+      "descricao": "O Colégio Notarial do Brasil destacou proposta que autoriza a coleta de depoimento de testemunhas em cartório em processos sobre direitos disponíveis, ampliando possibilidades de formalização extrajudicial.",
+      "data_publicacao": "2026-07-27T16:44:38-03:00",
+      "url": "https://www.notariado.org.br/projeto-permite-coletar-depoimento-de-testemunha-em-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça reafirma aplicação da competência territorial do e-Notariado aos atos notariais híbridos",
+      "descricao": "A Corregedoria reafirmou que atos notariais híbridos com coleta de assinatura a distância pelo e-Notariado seguem as mesmas regras de competência territorial aplicáveis aos atos eletrônicos.",
+      "data_publicacao": "2026-07-24T15:50:16-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-reafirma-aplicacao-da-competencia-territorial-do-e-notariado-aos-atos-notariais-hibridos/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

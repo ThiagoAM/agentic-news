@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-21T10:00:55-03:00",
+  "noticias": [
+    {
+      "titulo": "Festival Gastronômico de Rio das Ostras prepara edição ampliada para 2026",
+      "descricao": "A Prefeitura de Rio das Ostras anunciou uma edição ampliada do Festival Gastronômico, com foco em fortalecer o turismo, valorizar a culinária local e movimentar a economia criativa do município.",
+      "data_publicacao": "2026-07-09T15:57:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/festival-gastronomico-de-rio-das-ostras-prepara-edicao-ampliada-para-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Lagoa de Iriry será palco do Rio das Ostras Run 2026",
+      "descricao": "O município confirmou a realização do Rio das Ostras Run na Lagoa de Iriry, reunindo atletas amadores e profissionais em mais uma ação de incentivo ao esporte e à ocupação dos espaços públicos.",
+      "data_publicacao": "2026-07-09T12:10:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/lagoa-de-iriry-sera-palco-do-rio-das-ostras-run/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Centenas de famílias recebem auxílio emergencial em Rio das Ostras",
+      "descricao": "A gestão municipal informou a liberação de auxílio emergencial para famílias afetadas, em uma medida voltada ao atendimento social e à recomposição básica das condições de vida dos beneficiados.",
+      "data_publicacao": "2026-07-08T13:27:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/centenas-de-familias-recebem-auxilio-emergencial-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Provimento nº 43/2026 regulamenta protesto de decisões judiciais transitadas em julgado no RJ",
+      "descricao": "A Corregedoria do TJRJ regulamentou o protesto de decisões judiciais com obrigação pecuniária líquida, certa e exigível, reforçando a atuação extrajudicial e o uso da Central de Protesto antes do início da execução.",
+      "data_publicacao": "2026-07-20T16:14:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/cgj/noticias/noticia/-/visualizar-conteudo/1017893/406422531",
+      "fonte": "Corregedoria Geral da Justiça do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Provimento nº 31/2026 altera regras de emolumentos para retificações no extrajudicial do RJ",
+      "descricao": "A Corregedoria fluminense alterou o artigo 830 do Código de Normas da Parte Extrajudicial para isentar de emolumentos determinados atos de retificação previstos na Lei de Registros Públicos.",
+      "data_publicacao": "2026-07-08T17:43:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/cgj/noticias/noticia/-/visualizar-conteudo/1017893/406372571",
+      "fonte": "Corregedoria Geral da Justiça do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Filiações biológica e socioafetiva podem coexistir em registro civil",
+      "descricao": "A ConJur destacou decisão que preserva a filiação biológica no registro civil e, ao mesmo tempo, admite a inclusão da filiação socioafetiva quando o vínculo afetivo e de cuidado estiver consolidado.",
+      "data_publicacao": "2026-07-20T00:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-20/filiacoes-biologica-e-socioafetiva-podem-coexistir-em-registro-civil/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Partilha com herdeiro menor: limites da desjudicialização",
+      "descricao": "A análise publicada pela ConJur explica em que hipóteses inventários com herdeiro menor ou incapaz podem seguir por escritura pública, mantendo salvaguardas como controle jurídico e participação do Ministério Público.",
+      "data_publicacao": "2026-07-11T00:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-11/partilha-com-herdeiro-menor-ou-incapaz-limites-da-desjudicializacao-do-inventario/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Partilha com divisão desigual de quinhões hereditários é válida",
+      "descricao": "A ConJur repercutiu entendimento do STJ segundo o qual herdeiros maiores e capazes podem firmar partilha amigável com divisão desigual, desde que haja cessão de direitos e manifestação livre de vontade.",
+      "data_publicacao": "2026-07-07T00:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-07/e-possivel-partilha-amigavel-com-divisao-desigual-dos-quinhoes-hereditarios-decide-stj/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "e-Not Assina atualiza manual para clientes do Colégio Notarial do Brasil",
+      "descricao": "O suporte do CNB atualizou as orientações para uso do e-Not Assina, com instruções sobre certificado digital notarizado, criação de fluxos de assinatura e validação de documentos assinados eletronicamente.",
+      "data_publicacao": "2026-07-18T12:32:00-03:00",
+      "url": "https://suporte.notariado.org.br/support/solutions/articles/43000659316-e-not-assina-manual-para-clientes",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB atualiza manual de pedido de certidão de existência de testamento",
+      "descricao": "O Colégio Notarial do Brasil revisou o guia do Busca Testamento com orientações para solicitação da certidão pelo app e-Notariado ou navegador, incluindo anexação de documentos e acompanhamento do pedido.",
+      "data_publicacao": "2026-07-17T14:39:00-03:00",
+      "url": "https://suporte.notariado.org.br/support/solutions/articles/43000642889-pedido-de-certid%C3%A3o-de-exist%C3%AAncia-de-testamento-manual-completo",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Busca CEP ganha APIs para pesquisa automatizada no ambiente do CNB",
+      "descricao": "O suporte do CNB publicou documentação para integração automatizada com o Busca CEP, detalhando uso de chave de aplicação, webhooks e rotas para consultas externas a atos notariais.",
+      "data_publicacao": "2026-07-17T11:26:00-03:00",
+      "url": "https://suporte.notariado.org.br/support/solutions/articles/43000789959-busca-cep-apis-para-pesquisa-automatizada",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

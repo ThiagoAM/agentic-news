@@ -1,0 +1,96 @@
+{
+  "data-busca": "2026-07-16T10:00:56-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras recebe final do Campeonato de Pesca",
+      "descricao": "A cidade vai sediar a final do campeonato de pesca na Praia do Abricó, com participação de 180 atletas e foco na movimentação esportiva e turística do município.",
+      "data_publicacao": "2026-07-15T16:51:19-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-recebe-final-do-campeonato-de-pesca/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras promove I Encontro dos Trabalhadores do SUAS",
+      "descricao": "A Prefeitura organizou um encontro voltado à qualificação dos profissionais da assistência social, reforçando a troca de experiências e o aprimoramento dos serviços do SUAS no município.",
+      "data_publicacao": "2026-07-15T16:06:14-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-promove-i-encontro-dos-trabalhadores-do-suas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Teatro recebe apresentações musicais e espetáculo infantil",
+      "descricao": "O Teatro Joel Barcelos recebe programação cultural com alunos da Escola de Música Fellipe Guebel e um espetáculo infantil, ampliando as opções de lazer para as famílias em Rio das Ostras.",
+      "data_publicacao": "2026-07-15T15:41:25-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/teatro-joel-barcelos-recebe-apresentacoes-musicais-e-espetaculo-infantil-neste-fim-de-semana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Capacitação para cuidadores de crianças com TEA",
+      "descricao": "O município abriu inscrições para uma capacitação voltada a cuidadores de crianças com transtorno do espectro autista, com vagas limitadas e foco em apoio prático ao atendimento diário.",
+      "data_publicacao": "2026-07-15T15:06:58-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-promove-capacitacao-para-cuidadores-de-criancas-com-tea/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Saúde orienta sobre introdução da Vacina Pneumo 20",
+      "descricao": "A Secretaria de Saúde de Rio das Ostras divulgou orientações sobre a entrada da vacina Pneumo 20 na rotina de imunização, seguindo as diretrizes atualizadas do Ministério da Saúde.",
+      "data_publicacao": "2026-07-15T10:51:14-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/saude-orienta-sobre-introducao-da-vacina-pneumo-20/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Theatro Municipal celebra aniversário com ópera de Carlos Gomes",
+      "descricao": "O equipamento cultural do Governo do Estado do Rio de Janeiro comemora 117 anos com programação especial e apresentação de ópera, reforçando sua importância para a cena artística fluminense.",
+      "data_publicacao": "2026-07-06T11:11:05-03:00",
+      "url": "http://cultura.rj.gov.br/theatro-municipal-celebra-117-anos-com-opera-de-carlos-gomes/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Passaporte Cultural comemora cinco anos com mais de 280 mil pessoas atendidas em todo o estado",
+      "descricao": "O programa Passaporte Cultural alcançou a marca de mais de 280 mil atendimentos nos 92 municípios fluminenses, ampliando o acesso da população de baixa renda a atividades e equipamentos culturais.",
+      "data_publicacao": "2026-06-25T15:26:51-03:00",
+      "url": "http://cultura.rj.gov.br/passaporte-cultural-celebra-cinco-anos-com-mais-de-280-mil-pessoas-atendidas-em-todo-o-estado/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "TJs derrubam pareceres das juntas médicas de planos de saúde",
+      "descricao": "Levantamento repercutido pela ConJur mostra que tribunais têm afastado com frequência pareceres de juntas médicas usados por operadoras, priorizando a prescrição do médico responsável pelo paciente.",
+      "data_publicacao": "2026-07-14T08:54:46-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-14/tribunais-derrubam-pareceres-das-juntas-medicas-em-93-dos-casos/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Renúncia ao trabalho durante afastamento psicológico é inválida",
+      "descricao": "A ConJur destacou decisão que anulou a renúncia apresentada por trabalhadora afastada por transtorno psicológico, entendendo que a vulnerabilidade da situação impede a validade do ato.",
+      "data_publicacao": "2026-07-14T08:23:34-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-14/renuncia-ao-trabalho-durante-afastamento-psicologico-e-invalida/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Avaliação com valor inferior ao cadastral impede imissão na posse",
+      "descricao": "Segundo decisão repercutida pela ConJur, uma avaliação unilateral abaixo do valor cadastral do imóvel não é suficiente para justificar a transferência provisória da posse ao poder público.",
+      "data_publicacao": "2026-07-14T07:52:16-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-14/avaliacao-unilateral-que-fixa-valor-inferior-ao-cadastral-impede-imissao-na-posse/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Nova plataforma que simplifica acesso a documentos cartorários já recebeu 470 mil pedidos",
+      "descricao": "O CNB destacou o avanço do Meu Registro, plataforma que reúne serviços de registro de imóveis, registro civil e títulos e documentos para facilitar o acesso digital a documentos cartorários.",
+      "data_publicacao": "2026-07-13T17:51:48-03:00",
+      "url": "https://www.notariado.org.br/nova-plataforma-que-simplifica-acesso-a-documentos-cartorarios-ja-recebeu-470-mil-pedidos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Acumulação de atividades cartoriais é validada",
+      "descricao": "O Colégio Notarial do Brasil repercutiu entendimento do STF que validou a acumulação de atividades cartoriais em situação preexistente, sem afronta às regras constitucionais analisadas no caso.",
+      "data_publicacao": "2026-07-13T17:50:58-03:00",
+      "url": "https://www.notariado.org.br/acumulacao-de-atividades-cartoriais-e-validada/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Conciliação Itinerante facilita acordos e amplia acesso à Justiça em Imperatriz",
+      "descricao": "Durante a Expoimp, a iniciativa destacada pelo CNB levou serviços de conciliação à população para resolver questões como divórcio, guarda, pensão e renegociação de dívidas de forma mais acessível.",
+      "data_publicacao": "2026-07-10T14:33:58-03:00",
+      "url": "https://www.notariado.org.br/conciliacao-itinerante-facilita-acordos-e-amplia-acesso-a-justica-em-imperatriz/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

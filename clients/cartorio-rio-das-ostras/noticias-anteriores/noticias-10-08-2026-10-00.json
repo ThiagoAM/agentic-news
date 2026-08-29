@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-08-10T10:00:55-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras promove ciclo de palestras sobre empregabilidade para estudantes",
+      "descricao": "A Prefeitura de Rio das Ostras realizou um ciclo de palestras para orientar alunos do ensino médio sobre estágio, currículo, processos seletivos e caminhos para a inserção no mercado de trabalho, em parceria com o CIEE Rio.",
+      "data_publicacao": "2026-08-07T11:57:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-promove-ciclo-de-palestras-sobre-empregabilidade-para-estudantes/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município avança na Educação Permanente em Saúde",
+      "descricao": "Rio das Ostras instalou a Comissão de Educação Permanente em Saúde para qualificar continuamente os serviços da rede municipal, articulando gestores, técnicos e o conselho de saúde em torno das necessidades do SUS local.",
+      "data_publicacao": "2026-08-07T11:24:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-avanca-na-educacao-permanente-em-saude/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras realiza Fórum Municipal do Artesanato",
+      "descricao": "O município promoveu fórum em parceria com o Sebrae RJ para reunir artesãos em uma agenda de capacitação, escuta e construção coletiva de propostas voltadas à valorização do artesanato, ao turismo e à economia criativa local.",
+      "data_publicacao": "2026-08-05T12:42:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-realiza-forum-municipal-do-artesanato/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "FAETEC encerra participação na Rio Innovation Week 2026 com palestras sobre educação e tecnologia",
+      "descricao": "A FAETEC concluiu sua participação na Rio Innovation Week 2026 com palestras e mais de 60 projetos estudantis nas áreas de tecnologia, robótica, saúde, sustentabilidade e inteligência artificial, reforçando a presença da rede estadual no ecossistema de inovação fluminense.",
+      "data_publicacao": "2026-08-07T18:21:19-03:00",
+      "url": "https://www.faetec.rj.gov.br/faetec-encerra-participacao-na-rio-innovation-week-2026-com-palestras-sobre-educacao-e-tecnologia/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "Rio Innovation Week começa nesta terça no Píer Mauá",
+      "descricao": "A sexta edição da Rio Innovation Week começou no Píer Mauá com expectativa de grande público e programação voltada a tecnologia, empreendedorismo, educação e economia criativa, consolidando o evento como uma vitrine de inovação no estado do Rio de Janeiro.",
+      "data_publicacao": "2026-08-04T00:00:00-03:00",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/04/rio-innovation-week-de-nobel-da-paz-a-artistas-evento-no-pier-maua-espera-atrair-180-mil-pessoas.ghtml",
+      "fonte": "g1"
+    },
+    {
+      "titulo": "CNJ restaurou força do instrumento particular na alienação fiduciária",
+      "descricao": "O ConJur destacou que decisão do CNJ restabeleceu a força do instrumento particular com efeitos de escritura pública na alienação fiduciária, reduzindo entraves e preservando a segurança jurídica das operações imobiliárias.",
+      "data_publicacao": "2026-08-05T16:21:33-03:00",
+      "url": "https://conjur.com.br/2026-ago-05/cnj-restaurou-forca-do-instrumento-particular-na-alienacao-fiduciaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ libera assinatura digital em cartório para transferência de veículos",
+      "descricao": "O ConJur informou que o CNJ voltou a permitir o uso de assinatura digital em cartório para a ATPV-e, retomando a tramitação eletrônica na transferência de propriedade de veículos com delimitação clara da atuação dos cartórios.",
+      "data_publicacao": "2026-07-30T16:52:59-03:00",
+      "url": "https://conjur.com.br/2026-jul-30/cnj-libera-assinatura-digital-em-cartorio-para-transferencia-de-veiculos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Exigência de escritura pública para alienação fiduciária fora do SFI",
+      "descricao": "O ConJur repercutiu a decisão do CNJ que confirmou a possibilidade de constituição de alienação fiduciária de imóveis por instrumento particular com efeitos de escritura pública, inclusive fora do SFI e do SFH.",
+      "data_publicacao": "2026-08-07T19:21:01-03:00",
+      "url": "https://conjur.com.br/2026-ago-07/exigencia-de-escritura-publica-para-alienacao-fiduciaria-fora-do-sfi/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Uso de serviços digitais de Registro de Imóveis cresce quase 20% no Rio no primeiro semestre de 2026",
+      "descricao": "Levantamento divulgado pelo Colégio Notarial do Brasil mostrou crescimento de 19,7% nas solicitações pela plataforma RI Digital no estado do Rio, com forte avanço das pesquisas prévias e maior adesão a serviços eletrônicos ligados a imóveis.",
+      "data_publicacao": "2026-07-31T15:40:17-03:00",
+      "url": "https://www.notariado.org.br/uso-de-servicos-digitais-de-registro-de-imoveis-cresce-quase-20-no-rio-no-primeiro-semestre-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Projeto permite coletar depoimento de testemunha em cartório",
+      "descricao": "O Colégio Notarial do Brasil destacou projeto de lei que permite colher depoimentos de testemunhas em cartório, inclusive por videoconferência, como alternativa para tornar a produção de prova mais ágil em processos sobre direitos disponíveis.",
+      "data_publicacao": "2026-07-27T16:44:38-03:00",
+      "url": "https://www.notariado.org.br/projeto-permite-coletar-depoimento-de-testemunha-em-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça reafirma aplicação da competência territorial do e-Notariado aos atos notariais híbridos",
+      "descricao": "O Colégio Notarial do Brasil informou que a Corregedoria Nacional reafirmou que atos híbridos praticados com uso do e-Notariado continuam submetidos às regras de competência territorial aplicáveis aos atos eletrônicos.",
+      "data_publicacao": "2026-07-24T15:50:16-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-reafirma-aplicacao-da-competencia-territorial-do-e-notariado-aos-atos-notariais-hibridos/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

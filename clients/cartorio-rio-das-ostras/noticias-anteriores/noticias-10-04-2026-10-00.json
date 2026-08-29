@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-04-10T10:00:30-03:00",
+  "noticias": [
+    {
+      "titulo": "Casa de Cultura recebe visita de alunos da Rede Municipal",
+      "descricao": "Alunos do 7º ano do Colégio Municipal Professora América Abdalla participaram de uma visita educativa à Casa de Cultura Bento Costa Júnior, em Rio das Ostras, em atividade voltada à valorização do patrimônio cultural local.",
+      "data_publicacao": "2026-04-09T16:29:47-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/casa-de-cultura-bento-costa-junior-recebe-visita-de-alunos-da-rede-municipal/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Fundação de Cultura promove Curso de Costura Criativa",
+      "descricao": "A Fundação de Cultura de Rio das Ostras divulgou curso gratuito de Costura Criativa e Moda Sustentável, com foco em capacitação prática e incentivo ao reaproveitamento de materiais.",
+      "data_publicacao": "2026-04-09T15:02:58-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/fundacao-de-cultura-promove-curso-de-costura-criativa-moda-sustentavel/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Procon faz alerta contra fraudes virtuais",
+      "descricao": "O Procon de Rio das Ostras publicou orientações para ajudar consumidores a reconhecer golpes online e reduzir riscos em compras e transações pela internet.",
+      "data_publicacao": "2026-04-09T14:11:50-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/procon-faz-alerta-contra-fraudes-virtuais/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "FAPERJ impulsiona pesquisa que desenvolve plantas mais produtivas e resistentes",
+      "descricao": "Pesquisa apoiada pela FAPERJ e conduzida na UFRJ identificou genes capazes de aumentar a eficiência agrícola e reduzir impactos ambientais, abrindo caminho para cultivos mais sustentáveis no estado.",
+      "data_publicacao": "2026-04-09T15:38:47-03:00",
+      "url": "https://www.rj.gov.br/noticias/faperj-impulsiona-pesquisa-que-desenvolve-plantas-mais-produtivas-e-resistentes1441",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Governo do Estado lança edital Arraiá Cultural RJ 2026 com investimento de R$ 10,5 milhões",
+      "descricao": "O Governo do Rio de Janeiro abriu edital do Arraiá Cultural RJ 2026 para apoiar projetos em todo o território fluminense, com inscrições até 27 de abril e foco na valorização das tradições culturais.",
+      "data_publicacao": "2026-04-08T15:53:22-03:00",
+      "url": "https://www.rj.gov.br/noticias/governo-do-estado-lanca-edital-arraia-cultural-rj-2026-com-investimento-de-r-105-milhoes7803",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "A Lei nº 15.371/2026 e os limites da licença-paternidade no Brasil",
+      "descricao": "A ConJur analisou os efeitos da nova Lei nº 15.371/2026 sobre a licença-paternidade, destacando o fim de uma longa omissão legislativa e os limites ainda existentes na regulamentação do tema.",
+      "data_publicacao": "2026-04-10T09:22:11-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-10/a-lei-no-15-371-2026-e-a-licenca-paternidade-no-brasil/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Interesse público define limites para reprodução de vídeos virais na imprensa",
+      "descricao": "A publicação da ConJur discute como o uso de vídeos virais por jornais e portais pode gerar responsabilização por violação de imagem, dependendo da análise sobre interesse público e contexto da divulgação.",
+      "data_publicacao": "2026-04-10T08:54:09-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-10/interesse-publico-define-limites-para-reproducao-de-videos-virais-na-imprensa/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Não cabe ação civil pública em caso de mera suspeita de violação de direitos",
+      "descricao": "Segundo a ConJur, decisão da Justiça do Trabalho extinguiu ação civil pública sem resolução do mérito ao entender que a mera suspeita de violação de direitos, sem provas suficientes, não justifica o ajuizamento.",
+      "data_publicacao": "2026-04-10T08:23:03-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-10/mover-acao-civil-publica-sem-provas-configura-pesca-probatoria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Cartórios do Brasil mobilizam campanha para destinação do Imposto de Renda a projetos sociais",
+      "descricao": "O Colégio Notarial do Brasil destacou campanha que orienta contribuintes a destinar até 6% do imposto devido para iniciativas voltadas a crianças, adolescentes e idosos, sem custo adicional.",
+      "data_publicacao": "2026-04-02T16:39:57-03:00",
+      "url": "https://www.notariado.org.br/cartorios-do-brasil-mobilizam-campanha-para-destinacao-do-imposto-de-renda-a-projetos-sociais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF seleciona quatro tabeliãs para representar o Brasil na Universidade do Notariado Mundial 2026, em Roma",
+      "descricao": "O CNB/CF definiu quatro tabeliãs para representar o notariado brasileiro na Universidade do Notariado Mundial 2026, evento internacional da UINL que será realizado em Roma.",
+      "data_publicacao": "2026-04-01T10:26:14-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-seleciona-quatro-tabelias-para-representar-o-brasil-na-universidade-do-notariado-mundial-2026-em-roma/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF lança Conta Notarial Remunerada e novo modelo de prestação de serviços",
+      "descricao": "Em parceria com o Banco Safra, o CNB/CF anunciou novidades na Conta Notarial, incluindo módulo de rentabilidade e atualização do modelo de prestação de serviços para ampliar eficiência e sustentabilidade da ferramenta.",
+      "data_publicacao": "2026-03-24T09:19:57-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-conta-notarial-remunerada-e-novo-modelo-de-prestacao-de-servicos/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

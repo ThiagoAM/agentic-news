@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-09T10:01:59-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras avança em parceria para ampliar cirurgias eletivas",
+      "descricao": "A Prefeitura de Rio das Ostras informou que a aproximação com o Ministério da Saúde deve ampliar a oferta de cirurgias eletivas e outros atendimentos especializados, com foco em reduzir filas de espera e fortalecer a saúde pública na Baixada Litorânea.",
+      "data_publicacao": "2026-05-08T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-faz-parceria-com-governo-federal-para-ampliar-numero-de-cirurgias/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura apresenta projeto de urbanização para o Terra Firme",
+      "descricao": "A gestão municipal apresentou a moradores do Terra Firme um projeto para concluir obras de urbanização, com intervenções em drenagem, pavimentação, passeios públicos e recuperação de vias, além de prever nova contratação e cronograma para execução.",
+      "data_publicacao": "2026-05-05T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-apresenta-projeto-de-obras-de-urbanizacao-a-moradores-do-terra-firme/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Museu Sambaqui da Tarioba recebe doação ligada à ancestralidade africana",
+      "descricao": "O Museu de Sítio Arqueológico Sambaqui da Tarioba incorporou ao acervo uma concha tarioba africana e areia da Praia de Luanda, doadas por representantes do Projeto Conexão Mulher, reforçando o valor simbólico e cultural do espaço em Rio das Ostras.",
+      "data_publicacao": "2026-05-07T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/museu-de-sitio-sambaqui-da-tarioba-recebe-doacao-de-tarioba-africana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Show de Shakira em Copacabana reúne mais de 2 milhões de pessoas",
+      "descricao": "Segundo a Agência Brasil, a apresentação de Shakira em Copacabana reuniu cerca de 2 milhões de pessoas e mobilizou serviços de saúde, limpeza urbana e turismo, com expectativa de impacto econômico relevante para a cidade do Rio de Janeiro.",
+      "data_publicacao": "2026-05-03T16:11:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/mais-de-2-milhoes-de-pessoas-assistem-ao-show-de-shakira-em-copacabana",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Estado do Rio abre inscrições para edital de ações culturais continuadas",
+      "descricao": "A Secretaria de Estado de Cultura e Economia Criativa abriu edital de apoio a ações culturais continuadas com R$ 19,2 milhões em recursos da Política Nacional Aldir Blanc, contemplando circos, companhias artísticas e festivais no estado do Rio de Janeiro.",
+      "data_publicacao": "2026-04-28T16:10:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/edital-para-acoes-culturais-continuas-abre-inscricoes-no-rio",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Inventário extrajudicial dispensa certidão negativa de débito, decide CNJ",
+      "descricao": "O ConJur destacou decisão do CNJ segundo a qual a lavratura de escritura pública de inventário e partilha extrajudicial não pode ser condicionada à apresentação de certidão negativa de débito, embora os tabeliães ainda possam solicitar as certidões para fins informativos.",
+      "data_publicacao": "2026-04-30T07:52:23-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-30/inventario-extrajudicial-dispensa-a-certidao-negativa-de-debito/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Recibo de compra e venda pode servir como justo título para usucapião ordinária",
+      "descricao": "O ConJur informou que a 3ª Turma do STJ entendeu que o recibo de compra e venda de imóvel pode caracterizar justo título para usucapião ordinária quando houver elementos suficientes para demonstrar a intenção inequívoca de transferir a propriedade.",
+      "data_publicacao": "2026-04-29T13:51:15-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-29/recibo-de-compra-e-venda-e-justo-titulo-para-usucapiao-ordinaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "TJ-SP valida doação feita antes do nascimento de outros herdeiros",
+      "descricao": "Segundo o ConJur, o TJ-SP reconheceu a legitimidade de uma doação feita a filhos de um primeiro relacionamento antes do nascimento de outros descendentes, afastando a tese de que a superveniência de novos herdeiros anulasse o ato.",
+      "data_publicacao": "2026-04-10T20:13:56-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-10/doacao-feita-a-filhos-antes-do-nascimento-de-outros-herdeiros-e-legitima/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ invalida cláusula retroativa de separação de bens em união estável",
+      "descricao": "O Colégio Notarial do Brasil repercutiu decisão da 4ª Turma do STJ que afastou a retroatividade de cláusula de separação total de bens em contrato de união estável e determinou nova análise sobre possível simulação na aquisição de bens.",
+      "data_publicacao": "2026-05-06T16:30:12-03:00",
+      "url": "https://www.notariado.org.br/stj-invalida-clausula-retroativa-de-separacao-de-bens-em-uniao-estavel/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Testamento vital ganha destaque com entrada em vigor do Estatuto do Paciente",
+      "descricao": "O Colégio Notarial do Brasil explicou que a diretriz antecipada de vontade, conhecida como testamento vital, passou a ter respaldo legal mais claro com o Estatuto do Paciente e permite registrar previamente decisões sobre tratamentos médicos em situações graves.",
+      "data_publicacao": "2026-05-05T17:07:02-03:00",
+      "url": "https://www.notariado.org.br/nada-a-ver-com-heranca-saiba-o-que-e-testamento-vital-e-entenda-por-que-este-documento-e-importante/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Artigo destaca testamento público como peça central da herança digital",
+      "descricao": "Em artigo reproduzido pelo Colégio Notarial do Brasil, a herança digital é tratada como tema sucessório cada vez mais relevante, com defesa do testamento público como instrumento mais seguro para definir acesso, administração e destino de ativos e contas no ambiente virtual.",
+      "data_publicacao": "2026-05-05T14:56:29-03:00",
+      "url": "https://www.notariado.org.br/artigo-heranca-digital-por-que-o-testamento-publico-e-indispensavel-por-autor-nao-identificado/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

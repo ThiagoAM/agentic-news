@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-26T10:00:57-03:00",
+  "noticias": [
+    {
+      "titulo": "Prefeitura se reúne com gestores em busca de melhoria da saúde",
+      "descricao": "A Prefeitura de Rio das Ostras reuniu gestores do Pronto-Socorro, Hospital Municipal e UPA para alinhar prioridades, identificar dificuldades das equipes e definir ações para melhorar o fluxo e a qualidade do atendimento à população.",
+      "data_publicacao": "2026-07-24T19:22:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-se-reune-com-gestores-em-busca-melhoria-da-saude/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Professora da rede municipal na Flip",
+      "descricao": "A escritora e professora Adriana Izidoro, da rede municipal de Rio das Ostras, participou da programação da Flip 2026 e ampliou sua projeção literária com lançamentos, sessões de autógrafos e presença em coletânea apresentada no mercado editorial de Paris.",
+      "data_publicacao": "2026-07-24T11:42:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/professora-da-rede-na-flip-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras intensifica ações de manutenção em diversas localidades",
+      "descricao": "O município reforçou serviços de patrolamento, iluminação pública, drenagem, tapa-buracos e revitalização de espaços como o Parque da Cidade, buscando melhorar mobilidade, conservação urbana e segurança para moradores e visitantes.",
+      "data_publicacao": "2026-07-24T10:10:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-intensifica-acoes-de-manutencao-em-diversas-localidades-do-municipio/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município reduz em 90% fila de espera por atendimento de Fisioterapia",
+      "descricao": "A Secretaria de Saúde de Rio das Ostras informou que reorganizou fluxos, promoveu mutirões e ampliou a oferta de vagas no Centro de Reabilitação, reduzindo em mais de 90% a fila de espera por atendimentos de fisioterapia.",
+      "data_publicacao": "2026-07-23T16:10:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/centro-de-reabilitacao-reduz-em-90-fila-de-espera-por-atendimento-de-fisioterapia/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Expo Macaé 2026 reúne grandes shows, tradição agropecuária, inovação, cultura e oportunidades de negócios",
+      "descricao": "A Expo Macaé 2026 começou com programação gratuita voltada a música, cultura, agronegócio, ciência, tecnologia e empreendedorismo, reforçando o papel do evento nas comemorações do município e na geração de negócios no interior fluminense.",
+      "data_publicacao": "2026-07-24T00:00:00-03:00",
+      "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/expo-macae-2026-reune-grandes-shows-tradicao-agropecuaria-inovacao-cultura-e-oportunidades-de-negocios",
+      "fonte": "Prefeitura de Macaé"
+    },
+    {
+      "titulo": "4ª Feira da Economia do Mar será realizada de 24 a 28 de julho durante a Expo Macaé 2026",
+      "descricao": "Macaé promove a 4ª Feira da Economia do Mar com painéis, rodada de negócios e integração entre setores como pesca, turismo náutico, offshore e economia azul, fortalecendo a discussão sobre desenvolvimento sustentável ligado ao ambiente marítimo.",
+      "data_publicacao": "2026-07-21T00:00:00-03:00",
+      "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/4-feira-da-economia-do-mar-sera-realizada-de-24-a-28-de-julho-durante-a-expo-macae-2026",
+      "fonte": "Prefeitura de Macaé"
+    },
+    {
+      "titulo": "Partilha com herdeiro menor: limites da desjudicialização",
+      "descricao": "A ConJur destacou os cuidados jurídicos necessários para inventários extrajudiciais com herdeiros menores ou incapazes, mostrando que a desjudicialização exige requisitos específicos e mantém mecanismos de proteção ao patrimônio dos vulneráveis.",
+      "data_publicacao": "2026-07-11T13:24:45-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-11/partilha-com-herdeiro-menor-ou-incapaz-limites-da-desjudicializacao-do-inventario/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "STF valida acumulação de atividades cartoriais de notas e de protesto",
+      "descricao": "O Supremo manteve a validade de lei paulista que acumula atividades de notas e protesto em serventia já existente, entendendo que a medida reorganiza a prestação do serviço sem afastar a exigência de concurso público para eventual futura serventia autônoma.",
+      "data_publicacao": "2026-07-09T20:56:18-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-09/stf-valida-acumulacao-de-atividades-cartoriais-de-notas-e-de-protesto/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça reafirma aplicação da competência territorial do e-Notariado aos atos notariais híbridos",
+      "descricao": "O Colégio Notarial do Brasil divulgou decisão da Corregedoria Nacional que confirma a aplicação das regras de competência territorial do e-Notariado também aos atos híbridos, quando parte assina presencialmente e outra participa a distância.",
+      "data_publicacao": "2026-07-24T15:50:16-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-reafirma-aplicacao-da-competencia-territorial-do-e-notariado-aos-atos-notariais-hibridos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Provimento nº 243/CNJ altera o Provimento n. 213 para modificar os critérios de enquadramento das serventias e os prazos de implementação",
+      "descricao": "O CNB repercutiu o Provimento nº 243 do CNJ, que atualiza os critérios de enquadramento das serventias e ajusta os prazos para implementação das exigências tecnológicas e operacionais previstas para os cartórios.",
+      "data_publicacao": "2026-07-23T18:08:23-03:00",
+      "url": "https://www.notariado.org.br/provimento-no-243-cnj-altera-o-provimento-n-213-para-modificar-os-criterios-de-enquadramento-das-serventias-e-os-prazos-de-implementacao-2/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Recorde de doações de imóveis repercute na imprensa nacional",
+      "descricao": "Levantamento do CNB/CF apontando recorde de escrituras públicas de doação de imóveis em 2025 ganhou destaque na imprensa ao mostrar o avanço do planejamento patrimonial diante das mudanças tributárias previstas para o país.",
+      "data_publicacao": "2026-07-23T17:40:33-03:00",
+      "url": "https://www.notariado.org.br/recorde-de-doacoes-de-imoveis-repercute-na-imprensa-nacional/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

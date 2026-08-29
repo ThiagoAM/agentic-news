@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-04-24T10:01:53-03:00",
+  "noticias": [
+    {
+      "titulo": "Cidade recebe carreta de consulta oftalmológica e cirurgia de catarata",
+      "descricao": "Rio das Ostras vai receber uma unidade móvel do programa Agora Tem Especialistas para ampliar consultas, exames e cirurgias de catarata pelo SUS, com foco em reduzir a fila de espera no município.",
+      "data_publicacao": "2026-04-22T18:18:10-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-recebe-carreta-de-consulta-oftalmologica-e-cirurgia-de-catarata/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Alunas do Centro de Formação Artística se apresentam em Mostra Regional de Dança",
+      "descricao": "Alunas de dança da Fundação Rio das Ostras de Cultura foram selecionadas para a Mostra Regional de Dança, reforçando a presença artística do município em um evento cultural da região.",
+      "data_publicacao": "2026-04-22T16:15:40-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/alunas-do-centro-de-formacao-artistica-se-apresentam-em-mostra-regional-de-danca/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município celebra o Abril Verde com ações de conscientização",
+      "descricao": "A campanha Abril Verde em Rio das Ostras terá mobilização, orientações e atividades educativas voltadas à saúde e segurança no trabalho, ampliando a conscientização sobre prevenção no ambiente profissional.",
+      "data_publicacao": "2026-04-22T15:09:40-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-celebra-o-abril-verde-com-acoes-de-conscientizacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Dia Nacional de Libras destaca importância da inclusão na educação pública",
+      "descricao": "A Faetec destacou o Dia Nacional de Libras com ênfase na inclusão de pessoas com deficiência auditiva e no fortalecimento de práticas educacionais mais acessíveis na rede pública fluminense.",
+      "data_publicacao": "2026-04-24T09:29:15-03:00",
+      "url": "https://www.faetec.rj.gov.br/dia-nacional-de-libras-destaca-importancia-da-inclusao-na-educacao-publica/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "Faetec transforma futuros com o ensino de Língua Inglesa e Espanhola",
+      "descricao": "A Faetec ressaltou o papel do ensino de inglês e espanhol na formação acadêmica e profissional dos estudantes, ampliando oportunidades de aprendizado e acesso a novos contextos culturais e de trabalho.",
+      "data_publicacao": "2026-04-23T12:19:39-03:00",
+      "url": "https://www.faetec.rj.gov.br/faetec-transforma-futuros-com-o-ensino-de-lingua-inglesa-e-espanhola/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "Clubes de futebol têm de pagar adicional noturno a jogadores, decide TST",
+      "descricao": "A ConJur repercutiu decisão do TST que reconheceu a aplicação das regras gerais trabalhistas aos atletas profissionais, determinando o pagamento de adicional noturno quando houver atuação em horário abrangido pela legislação.",
+      "data_publicacao": "2026-04-24T09:49:11-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-24/clubes-de-futebol-tem-de-pagar-adicional-noturno-a-jogadores-decide-tst/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Veículo modificado não pode circular sem certificado de regularidade",
+      "descricao": "A ConJur destacou decisão que reforça a necessidade de cumprir exigências técnicas e obter certificação adequada antes da circulação de veículos modificados, em nome da segurança e da regularidade no trânsito.",
+      "data_publicacao": "2026-04-24T07:32:44-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-24/veiculo-modificado-deve-cumprir-requisitos-legais-para-poder-circular/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Uso de IA para inventar jurisprudência resulta em condenação por litigância de má-fé",
+      "descricao": "A ConJur noticiou condenação por litigância de má-fé em caso no qual foram citadas jurisprudências e doutrinas inexistentes produzidas por IA sem revisão humana, reforçando a exigência de checagem responsável no uso dessas ferramentas.",
+      "data_publicacao": "2026-04-23T16:51:50-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-23/uso-de-ia-para-inventar-jurisprudencia-resulta-em-condenacao-por-litigancia-de-ma-fe/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Quem não recebeu escritura de imóvel pode pedir indenização sem prazo, decide STJ",
+      "descricao": "O CNB destacou decisão do STJ segundo a qual a falta de entrega da escritura de imóvel pode gerar pedido de indenização sem prazo prescricional, em entendimento relevante para negócios imobiliários e segurança jurídica.",
+      "data_publicacao": "2026-04-23T15:04:08-03:00",
+      "url": "https://www.notariado.org.br/quem-nao-recebeu-escritura-de-imovel-pode-pedir-indenizacao-sem-prazo-decide-stj/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "PROVIMENTO N. 220, DE 22 DE ABRIL DE 2026",
+      "descricao": "O CNB publicou o Provimento nº 220, que disciplina o procedimento administrativo para apuração de incapacidade permanente de delegatários de serviços notariais e de registro no exercício da delegação.",
+      "data_publicacao": "2026-04-23T15:03:39-03:00",
+      "url": "https://www.notariado.org.br/provimento-n-220-de-22-de-abril-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF indica tabeliães brasileiros para Grupos de Trabalho da CAAm e Alexandre Kassama assume coordenação em Informática e Segurança Jurídica",
+      "descricao": "O Colégio Notarial do Brasil anunciou novas indicações para grupos de trabalho da Comissão de Assuntos Americanos da UINL, ampliando a participação técnica brasileira em debates internacionais do notariado.",
+      "data_publicacao": "2026-04-22T17:20:28-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-indica-tabeliaes-brasileiros-para-grupos-de-trabalho-da-caam-e-alexandre-kassama-assume-coordenacao-em-informatica-e-seguranca-juridica/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

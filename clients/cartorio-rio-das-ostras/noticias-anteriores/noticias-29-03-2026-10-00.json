@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-03-29T10:00:44-03:00",
+  "noticias": [
+    {
+      "titulo": "Guarda de Rio das Ostras passa por treinamento e reforça preparo nas ruas",
+      "descricao": "A Guarda Civil Municipal iniciou uma nova etapa de capacitação com aulas teóricas e práticas sobre técnicas operacionais, uso proporcional da força e procedimentos de abordagem, visando aprimorar a atuação diária dos agentes na cidade.",
+      "data_publicacao": "2026-03-26T11:51:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/03/7227577-guarda-de-rio-das-ostras-passa-por-treinamento-e-reforca-preparo-nas-ruas.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Março Lilás reforça prevenção e amplia exames contra câncer do colo do útero em Rio das Ostras",
+      "descricao": "A campanha de conscientização promoveu ações nas unidades de saúde para ampliar o acesso ao exame preventivo, orientar sobre cuidados contínuos e incentivar a vacinação contra HPV.",
+      "data_publicacao": "2026-03-23T14:17:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/03/7226053-marco-lilas-reforca-prevencao-e-amplia-exames-contra-cancer-do-colo-do-utero-em-rio-das-ostras.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Artesanato de Rio das Ostras marca presença na ExpoRio Turismo 2026",
+      "descricao": "Artesãos da cidade foram selecionados para representar o município na ExpoRio Turismo, com peças variadas e ações de divulgação do artesanato local durante o evento estadual.",
+      "data_publicacao": "2026-03-25T11:36:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/artesanato-de-rio-das-ostras-marca-presenca-na-exporio-turismo-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Três Rios confirma participação na ExpoRio Turismo 2026 e apresenta novo complexo turístico Áurias",
+      "descricao": "O município confirmou presença na ExpoRio Turismo e detalhou atrações locais, além de apresentar o complexo Áurias, projeto de lazer e turismo com investimentos e parcerias para impulsionar a economia regional.",
+      "data_publicacao": "2026-03-24T09:00:00-03:00",
+      "url": "https://tresrios.rj.gov.br/2026/03/24/tres-rios-confirma-participacao-na-exporio-turismo-2026-e-apresenta-novo-complexo-turistico-aurias/",
+      "fonte": "Prefeitura de Três Rios"
+    },
+    {
+      "titulo": "STJ julga se ausência de registro do contrato em cartório afasta alienação fiduciária",
+      "descricao": "A 2ª Seção do STJ vai definir, em recurso repetitivo, se a falta de registro do contrato no cartório de imóveis afeta a eficácia da garantia por alienação fiduciária entre as partes.",
+      "data_publicacao": "2026-03-26T09:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-26/stj-julga-se-ausencia-de-registro-do-contrato-em-cartorio-afasta-alienacao-fiduciaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Código Civil e a prova da separação de fato perante o cartório",
+      "descricao": "Artigo analisa a proposta de reconhecer a separação de fato como marco para efeitos patrimoniais e discute a possibilidade de averbação no registro civil, com impactos sobre regime de bens e sucessões.",
+      "data_publicacao": "2026-03-22T09:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-22/a-reforma-do-codigo-civil-e-a-prova-da-separacao-de-fato-perante-o-rcpn/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Problemas do registro de imóveis apenas mudaram de lugar",
+      "descricao": "Análise sobre a digitalização dos registros imobiliários aponta avanços tecnológicos e discute desafios estruturais que persistem na organização e na gestão dos cartórios.",
+      "data_publicacao": "2026-03-24T09:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-24/digitalizar-vs-transformar-o-registro-de-imoveis-sobre-os-efeitos-da-lei-14-382/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Provimento do CNJ nº 219/26 estabelece regras para a gestão, atualização e publicidade da relação de Cartórios vagos",
+      "descricao": "O CNJ definiu critérios para organização da Relação Geral de Vacâncias, exigindo atualização contínua pelos tribunais e padronizando a publicidade das vagas em serventias extrajudiciais.",
+      "data_publicacao": "2026-03-20T09:00:00-03:00",
+      "url": "https://cnbrj.org.br/provimento-do-cnj-no-219-26-estabelece-regras-para-a-gestao-atualizacao-e-publicidade-da-relacao-de-cartorios-vagos/",
+      "fonte": "CNB/RJ"
+    },
+    {
+      "titulo": "Provimento nº 217/2026 altera regras do Código Nacional de Normas do Foro Extrajudicial",
+      "descricao": "O Provimento nº 217 ajusta a redação do Código Nacional de Normas para adequar procedimentos de averbação e garantir mais eficiência na prática dos atos registrais.",
+      "data_publicacao": "2026-03-09T09:00:00-03:00",
+      "url": "https://cnbrj.org.br/provimento-n-217-de-9-de-marco-de-2026/",
+      "fonte": "CNB/RJ"
+    },
+    {
+      "titulo": "CNJ publica Provimento nº 215/2026 e reforça localização de escrituras de autocuratela em processos de interdição",
+      "descricao": "O novo provimento disciplina a publicidade e a indexação de escrituras de autocuratela na CENSEC, ampliando a facilidade de localização dessas diretivas pelo Judiciário.",
+      "data_publicacao": "2026-03-03T09:00:00-03:00",
+      "url": "https://cnbrj.org.br/cnj-publica-provimento-no-215-2026-e-reforca-localizacao-de-escrituras-de-autocuratela-em-processos-de-interdicao/",
+      "fonte": "CNB/RJ"
+    },
+    {
+      "titulo": "CNJ publica Provimento nº 218/2026 e estabelece novas regras para o sistema Justiça Aberta",
+      "descricao": "A norma detalha critérios de envio e validação de informações ao sistema Justiça Aberta, reforçando prazos, integridade de dados e responsabilidades dos cartórios na atualização das bases.",
+      "data_publicacao": "2026-03-23T09:00:00-03:00",
+      "url": "https://cnbrj.org.br/cnj-publica-provimento-no-218-2026-e-estabelece-novas-regras-para-o-sistema-justica-aberta/",
+      "fonte": "CNB/RJ"
+    }
+  ]
+}

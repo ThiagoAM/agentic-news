@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-03-27T10:00:13-03:00",
+  "noticias": [
+    {
+      "titulo": "Cederj inicia aulas do Pré-vestibular presencial",
+      "descricao": "O Consórcio Cederj inicia neste sábado as aulas presenciais do curso Pré-Vestibular em Rio das Ostras, com turmas gratuitas no Centro Municipal de Qualificação Profissional, oferecendo preparação para o Enem e outros vestibulares.",
+      "data_publicacao": "2026-03-27T09:43:03-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/cederj-inicia-aulas-do-pre-vestibular-presencial/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Vigilância em Saúde participa de eventos de atualização",
+      "descricao": "A Vigilância em Saúde de Rio das Ostras participou de eventos técnicos de atualização para troca de conhecimentos e qualificação permanente das equipes, reforçando ações do setor no município.",
+      "data_publicacao": "2026-03-27T08:39:15-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/vigilancia-em-saude-participa-de-eventos-de-atualizacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Melhoria da drenagem segue como prioridade",
+      "descricao": "Equipes do SAAE de Rio das Ostras intensificam a limpeza e desobstrução de galerias pluviais e canais da cidade para melhorar o escoamento das águas e reduzir pontos de alagamento.",
+      "data_publicacao": "2026-03-26T16:05:17-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/melhoria-da-drenagem-segue-como-prioridade/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Seeduc apresenta projetos de empreendedorismo para estudantes",
+      "descricao": "A Secretaria de Estado de Educação do Rio de Janeiro apresentou as ações Super Futuro e Trilha Empreendedora 2026, com foco em oportunidades, empregabilidade e desenvolvimento de competências para alunos da rede estadual.",
+      "data_publicacao": "2026-03-25T00:00:00-03:00",
+      "url": "https://www.seeduc.rj.gov.br/not%C3%ADcias",
+      "fonte": "Seeduc-RJ"
+    },
+    {
+      "titulo": "Seeduc divulga lista do Projeto Jovem Repórter 2026",
+      "descricao": "A Seeduc-RJ divulgou a lista de estudantes selecionados para participar do Projeto Jovem Repórter 2026, iniciativa que envolve formação e prática jornalística na rede estadual.",
+      "data_publicacao": "2026-03-25T00:00:00-03:00",
+      "url": "https://www.seeduc.rj.gov.br/not%C3%ADcias",
+      "fonte": "Seeduc-RJ"
+    },
+    {
+      "titulo": "CNB/CF lança Conta Notarial Remunerada e novo modelo de prestação de serviços",
+      "descricao": "O CNB/CF anunciou o lançamento de novidades na Conta Notarial, incluindo módulo de rentabilidade e atualização no modelo de prestação de serviços, em parceria com o Banco Safra.",
+      "data_publicacao": "2026-03-24T09:19:57-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-conta-notarial-remunerada-e-novo-modelo-de-prestacao-de-servicos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Provimento do CNJ nº 219/26 regulamenta relação de cartórios vagos",
+      "descricao": "O CNB/CF destacou o Provimento nº 219/2026 do CNJ, que padroniza a formação, atualização e publicidade da lista nacional de cartórios vagos, com regras para envio e gestão das informações.",
+      "data_publicacao": "2026-03-23T22:55:19-03:00",
+      "url": "https://www.notariado.org.br/provimento-do-cnj-no-219-26-estabelece-regras-para-a-gestao-atualizacao-e-publicidade-da-relacao-de-cartorios-vagos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Ana Paula Frontini é eleita presidente do CNB/SP",
+      "descricao": "O Colégio Notarial do Brasil – Seção São Paulo elegeu Ana Paula Frontini para presidir a seccional no biênio 2026-2028, tornando-se a primeira mulher a liderar a entidade.",
+      "data_publicacao": "2026-03-20T20:36:36-03:00",
+      "url": "https://www.notariado.org.br/ana-paula-frontini-e-eleita-presidente-do-cnb-sp-e-se-torna-a-primeira-mulher-a-liderar-a-seccional/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "IRPF 2026 reforça fiscalização digital e malha fina instantânea",
+      "descricao": "Artigo analisa como o IRPF 2026 consolida a Receita Federal como órgão de inteligência, com cruzamento de dados em tempo real e maior automação na detecção de inconsistências.",
+      "data_publicacao": "2026-03-24T00:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-24/irpf-2026-consolidacao-do-fisco-algoritmico-e-desafios-da-malha-fina-instantanea/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Lei Complementar 227/2026 redefine parâmetros do ITCMD",
+      "descricao": "Análise jurídica aborda a nova arquitetura do ITCMD, destacando progressividade obrigatória, critérios de base de cálculo e mudanças na competência territorial entre estados.",
+      "data_publicacao": "2026-03-24T00:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-24/nova-arquitetura-do-itcmd-avancos-e-desafios-com-a-lei-complementar/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Receita uniformiza prazos em dias úteis e cria recesso no contencioso",
+      "descricao": "A Receita Federal publicou regras de transição que alinham o processo administrativo fiscal ao CPC, criando recesso e definindo contagem de prazos em dias úteis.",
+      "data_publicacao": "2026-03-11T00:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-11/receita-uniformiza-prazos-em-dias-uteis-e-institui-recesso-no-contencioso-administrativo/",
+      "fonte": "ConJur"
+    }
+  ]
+}

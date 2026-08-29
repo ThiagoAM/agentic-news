@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-04-14T10:00:21-03:00",
+  "noticias": [
+    {
+      "titulo": "Venda digital é tema de oficina para artesãos em Rio das Ostras",
+      "descricao": "A Prefeitura de Rio das Ostras promoveu uma oficina gratuita para artesãos com foco em marketing digital, presença online e estratégias simples para ampliar vendas e geração de renda no setor artesanal local.",
+      "data_publicacao": "2026-03-24T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/venda-digital-e-tema-de-oficina/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Defesa Civil atua após chuvas e desobstrui vias em Rio das Ostras",
+      "descricao": "Após fortes chuvas e ventos, a Defesa Civil de Rio das Ostras intensificou o corte de árvores e a liberação de vias em parceria com outros órgãos municipais e estaduais para restabelecer a normalidade na cidade.",
+      "data_publicacao": "2026-04-01T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/defesa-civil-atua-no-corte-de-arvores-e-desobstrucao-de-vias-apos-chuvas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Oficina de samba no pé abre inscrições em Rio das Ostras",
+      "descricao": "A Fundação Rio das Ostras de Cultura abriu inscrições para oficina de samba no pé com aulas semanais no Centro de Formação Artística, reunindo dança, coordenação motora e expressão corporal em atividade cultural da cidade.",
+      "data_publicacao": "2026-03-24T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/inscricoes-para-oficina-de-samba-no-pe-estao-abertas-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "ISERJ completa 146 anos reunindo ex-alunos e professores",
+      "descricao": "Administrado pela Faetec, o Instituto Superior de Educação do Rio de Janeiro celebrou 146 anos com homenagem a educadores e encontro da comunidade escolar, reforçando sua relevância histórica na formação de professores no estado.",
+      "data_publicacao": "2026-04-13T00:00:00-03:00",
+      "url": "https://www.faetec.rj.gov.br/instituto-superior-de-educacao-do-rio-de-janeiro-completa-146-anos-reunindo-ex-alunos-e-professores/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "Governo lança edital Arraiá Cultural RJ 2026 com investimento de R$ 10,5 milhões",
+      "descricao": "A Secretaria de Estado de Cultura e Economia Criativa lançou o edital Arraiá Cultural RJ 2026 para apoiar iniciativas culturais ligadas às festas juninas, ampliando o investimento público no calendário cultural fluminense.",
+      "data_publicacao": "2026-04-08T11:56:04-03:00",
+      "url": "http://cultura.rj.gov.br/governo-lanca-edital-arraia-cultural-rj-2026/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "STJ debate se SPE com patrimônio de afetação pode pedir recuperação judicial para dívidas gerais",
+      "descricao": "A ConJur destacou julgamento no STJ sobre a possibilidade de sociedades de propósito específico com patrimônio de afetação integrarem recuperação judicial para reestruturar dívidas gerais, tema com impacto no setor imobiliário e registral.",
+      "data_publicacao": "2026-04-12T09:41:24-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-12/stj-debate-se-spe-com-patrimonio-de-afetacao-pode-pedir-rj-para-dividas-gerais/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ julga se ausência de registro em cartório afasta alienação fiduciária",
+      "descricao": "A 2ª Seção do STJ vai uniformizar o entendimento sobre contratos de compra e venda de imóvel com alienação fiduciária não registrados em cartório, definindo se prevalece a lei específica ou o Código de Defesa do Consumidor.",
+      "data_publicacao": "2026-03-26T18:55:30-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-26/stj-julga-se-ausencia-de-registro-do-contrato-em-cartorio-afasta-alienacao-fiduciaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Digitalização do registro de imóveis ainda preserva entraves antigos, aponta análise",
+      "descricao": "Artigo publicado na ConJur avalia que a modernização digital do registro de imóveis avançou em interoperabilidade e serviços remotos, mas ainda mantém gargalos estruturais e necessidade de revisão dos fluxos decisórios dos cartórios.",
+      "data_publicacao": "2026-03-24T12:18:07-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-24/digitalizar-vs-transformar-o-registro-de-imoveis-sobre-os-efeitos-da-lei-14-382/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Notariado reforça uso da ata notarial no enfrentamento ao bullying digital",
+      "descricao": "O Colégio Notarial do Brasil destacou o crescimento do uso de atas notariais e de soluções digitais de prova para preservar evidências em casos de bullying e cyberbullying, ampliando o apoio jurídico às vítimas.",
+      "data_publicacao": "2026-04-07T11:43:59-03:00",
+      "url": "https://www.notariado.org.br/notariado-fortalece-combate-ao-bullying-com-uso-de-ata-notarial-para-producao-de-provas/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF seleciona quatro tabeliãs para representar o Brasil em universidade mundial do notariado",
+      "descricao": "O CNB/CF definiu quatro tabeliãs que representarão o Brasil na Universidade do Notariado Mundial 2026, em Roma, em programa voltado a intercâmbio técnico, direito comparado e inovação notarial.",
+      "data_publicacao": "2026-04-01T10:26:14-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-seleciona-quatro-tabelias-para-representar-o-brasil-na-universidade-do-notariado-mundial-2026-em-roma/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF lança Conta Notarial Remunerada e atualiza modelo de serviço",
+      "descricao": "O Colégio Notarial do Brasil anunciou uma nova fase da Conta Notarial com módulo de rentabilidade atrelado ao CDI e revisão da precificação, buscando ampliar eficiência, sustentabilidade e segurança nas operações notariais.",
+      "data_publicacao": "2026-03-24T09:19:57-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-conta-notarial-remunerada-e-novo-modelo-de-prestacao-de-servicos/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

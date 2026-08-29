@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-15T10:01:50-03:00",
+  "noticias": [
+    {
+      "titulo": "Cidade lança Programa Bem-Estar Animal sobre Rodas na terça, 19",
+      "descricao": "A Prefeitura de Rio das Ostras vai iniciar o projeto Bem-Estar Animal Sobre Rodas com atendimento veterinário gratuito por meio do Castramóvel, incluindo consultas, castrações agendadas e vacinação antirrábica para cães e gatos.",
+      "data_publicacao": "2026-05-13T10:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/cidade-lanca-programa-bem-estar-animal-sobre-rodas-na-proxima-terca-19/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Carreta Oftalmológica já supera os 2 mil atendimentos",
+      "descricao": "A unidade móvel do programa Agora Tem Especialistas já soma mais de 2 mil atendimentos em Rio das Ostras, com consultas, revisões e mais de 1,3 mil cirurgias de catarata realizadas ou agendadas para reduzir a fila da rede pública.",
+      "data_publicacao": "2026-05-14T10:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/carreta-oftalmologica-ja-supera-os-2-mil-atendimentos/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Atividades do Cras Sul são retomadas após obras emergenciais",
+      "descricao": "O Cras Sul voltou a funcionar nesta semana após reforma emergencial causada pelos danos das chuvas, com recuperação do telhado, parte elétrica, castelo d’água e salas internas para melhorar o atendimento às famílias assistidas.",
+      "data_publicacao": "2026-05-13T10:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/atividades-do-cras-sul-sao-retomadas-apos-obras-emergenciais/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Maio Amarelo ganha reforço em 16 mil painéis digitais no Rio",
+      "descricao": "A campanha Maio Amarelo passou a exibir mensagens educativas sobre segurança viária em mais de 16 mil painéis digitais espalhados pelo Rio, ampliando o alcance das ações de conscientização em áreas de grande circulação.",
+      "data_publicacao": "2026-05-14T19:00:00-03:00",
+      "url": "https://diariodorio.com/maio-amarelo-ganha-reforco-em-16-mil-paineis-digitais-no-rio",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Maio Amarelo leva educação no trânsito a 120 alunos na Quinta da Boa Vista",
+      "descricao": "Uma ação da CET-Rio reuniu cerca de 120 alunos da rede municipal em atividades práticas e lúdicas sobre travessia segura, leitura de placas, uso de bicicletas e convivência no trânsito durante a campanha Maio Amarelo.",
+      "data_publicacao": "2026-05-13T18:34:28-03:00",
+      "url": "https://diariodorio.com/maio-amarelo-leva-educacao-no-transito-a-120-alunos-na-quinta-da-boa-vista/",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Competência sobre IDPJ de empresa em falência é do juízo universal",
+      "descricao": "O ConJur noticiou decisão que reafirma que o incidente de desconsideração da personalidade jurídica em execução contra sócio de empresa falida deve ser processado no juízo universal, para preservar a isonomia entre credores.",
+      "data_publicacao": "2026-05-15T09:46:42-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-15/competencia-sobre-idpj-de-empresa-em-falencia-e-do-juizo-universal/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Decisão do STJ busca estabilizar realidade do mercado sobre aluguel de curta temporada",
+      "descricao": "Segundo o ConJur, a orientação recente do STJ sobre locação de curta temporada em condomínios residenciais tende a dar mais clareza ao mercado ao exigir autorização expressa na convenção conforme o perfil de cada empreendimento.",
+      "data_publicacao": "2026-05-15T08:54:55-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-15/decisao-do-stj-busca-assentar-realidade-de-aluguel-de-curta-temporada/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Para fins de registro de jornada, é considerado o total de empregados da empresa",
+      "descricao": "O ConJur destacou decisão da 7ª Turma do TST segundo a qual a obrigação de manter controle de jornada considera o número total de empregados da empresa, e não o contingente de cada filial isoladamente.",
+      "data_publicacao": "2026-05-15T08:24:51-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-15/para-fins-de-registro-de-jornada-e-considerado-o-total-de-empregados-da-empresa/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "e-Notariado passa a exigir prova de vida em todas as assinaturas digitais a partir de 1º de junho",
+      "descricao": "O CNB informou que a plataforma e-Notariado passará a exigir prova de vida em todas as assinaturas digitais das partes, adicionando verificação biométrica para reforçar a segurança e reduzir fraudes de identidade.",
+      "data_publicacao": "2026-05-12T10:00:00-03:00",
+      "url": "https://www.notariado.org.br/e-notariado-passa-a-exigir-prova-de-vida-em-todas-as-assinaturas-digitais-a-partir-de-1o-de-junho/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Delegação de Moçambique visita o Brasil para conhecer soluções digitais da atividade extrajudicial",
+      "descricao": "Representantes de Moçambique estiveram em São Paulo para acompanhar demonstrações do e-Notariado e do Registro de Imóveis Eletrônico, em agenda de intercâmbio técnico voltada à modernização dos serviços notariais.",
+      "data_publicacao": "2026-04-24T10:00:00-03:00",
+      "url": "https://www.notariado.org.br/delegacao-de-mocambique-visita-o-brasil-para-conhecer-solucoes-digitais-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF indica tabeliães brasileiros para Grupos de Trabalho da CAAm e Alexandre Kassama assume coordenação em Informática e Segurança Jurídica",
+      "descricao": "O CNB formalizou indicações de tabeliães brasileiros para os grupos de trabalho da Comissão de Assuntos Americanos da UINL, com destaque para a coordenação brasileira na área de informática e segurança jurídica.",
+      "data_publicacao": "2026-04-24T11:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-indica-tabeliaes-brasileiros-para-grupos-de-trabalho-da-caam-e-alexandre-kassama-assume-coordenacao-em-informatica-e-seguranca-juridica/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

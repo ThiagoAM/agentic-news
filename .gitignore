@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/
+clients/*/noticias-temp.json
+noticias-temp.json

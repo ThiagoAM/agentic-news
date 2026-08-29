@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-13T10:01:52-03:00",
+  "noticias": [
+    {
+      "titulo": "Oficina para deficientes visuais tem o apoio da Froc",
+      "descricao": "Parceria entre a Fundação Rio das Ostras de Cultura, a Jubarte Associação de Artesãos e a Secretaria Municipal de Assistência Social vai oferecer oficina de cerâmica voltada a pessoas com deficiência visual, ampliando ações de inclusão cultural no município.",
+      "data_publicacao": "2026-05-12T16:51:03-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/oficina-de-ceramica-para-deficientes-visuais-tem-o-apoio-da-froc/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Agenersa instala Ouvidoria Itinerante no Procon",
+      "descricao": "A população de Rio das Ostras passou a contar com atendimento itinerante da Agenersa no Procon, no Centro da Cidadania, para registrar demandas e buscar orientações sobre serviços regulados.",
+      "data_publicacao": "2026-05-12T15:12:48-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/agenersa-instala-ouvidoria-itinerante-no-procon/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura abre licitação para obras de melhorias no Âncora",
+      "descricao": "A Prefeitura de Rio das Ostras abriu licitação para intervenções no bairro Âncora, com urbanização, drenagem, pavimentação, sinalização e construção de ciclovia para melhorar a infraestrutura local.",
+      "data_publicacao": "2026-05-12T08:28:57-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-abre-licitacao-para-obras-de-melhorias-no-ancora/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Saúde RJ simplifica abertura de empresas, reclassificando algumas atividades como sendo de baixo risco sanitário",
+      "descricao": "A Secretaria de Estado de Saúde do Rio de Janeiro reenquadrou 39 atividades econômicas como de baixo risco sanitário, dispensando licença prévia em vários casos e reduzindo etapas para abertura e regularização de empresas.",
+      "data_publicacao": "2026-05-11T09:20:00-03:00",
+      "url": "https://www.rj.gov.br/saude/node/3993",
+      "fonte": "Secretaria de Estado de Saúde do Rio de Janeiro"
+    },
+    {
+      "titulo": "Secretaria de Estado de Saúde apresenta novas tecnologias durante 43º Congresso de Cardiologia",
+      "descricao": "Representantes da Secretaria de Estado de Saúde participaram do congresso da SOCERJ para divulgar inovações, apresentar soluções de capacitação e reforçar estratégias de atendimento cardiovascular na rede fluminense.",
+      "data_publicacao": "2026-05-08T16:11:42-03:00",
+      "url": "https://www.rj.gov.br/saude/node/3991",
+      "fonte": "Secretaria de Estado de Saúde do Rio de Janeiro"
+    },
+    {
+      "titulo": "'Processo justo': a senha do arbítrio judicial",
+      "descricao": "Em artigo, o ConJur discute a doutrina do chamado processo justo e sustenta que o conceito amplia o protagonismo judicial ao reinterpretar o devido processo legal sob uma linguagem processual e constitucional.",
+      "data_publicacao": "2026-05-11T09:20:00-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-11/processo-justo-a-senha-do-arbitrio-judicial/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Inventário extrajudicial dispensa a certidão negativa de débito",
+      "descricao": "O ConJur destacou decisão do CNJ segundo a qual a escritura pública de inventário e partilha extrajudicial não pode ser condicionada à apresentação de certidão negativa de débito, embora o tabelião ainda possa solicitá-la para fins informativos.",
+      "data_publicacao": "2026-04-30T07:52:00-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-30/inventario-extrajudicial-dispensa-a-certidao-negativa-de-debito/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Recibo de compra e venda é justo título para usucapião ordinária",
+      "descricao": "Segundo o ConJur, a 3ª Turma do STJ entendeu que o recibo de compra e venda de imóvel pode configurar justo título para usucapião ordinária quando houver elementos que comprovem a intenção de transferir a propriedade.",
+      "data_publicacao": "2026-04-29T13:51:15-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-29/recibo-de-compra-e-venda-e-justo-titulo-para-usucapiao-ordinaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "e-Notariado passa a exigir prova de vida em todas as assinaturas digitais a partir de 1º de junho",
+      "descricao": "O Colégio Notarial do Brasil informou que todas as assinaturas digitais feitas na plataforma e-Notariado passarão a exigir prova de vida, adicionando verificação biométrica para reforçar a segurança dos atos eletrônicos.",
+      "data_publicacao": "2026-05-11T18:31:51-03:00",
+      "url": "https://www.notariado.org.br/e-notariado-passa-a-exigir-prova-de-vida-em-todas-as-assinaturas-digitais-a-partir-de-1o-de-junho/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "ARTIGO – Imóveis herdados sem acordo entre famílias: o que pode destravar a venda?",
+      "descricao": "Em artigo publicado pelo Colégio Notarial do Brasil, o tema aborda caminhos para viabilizar a venda de imóveis herdados quando não há consenso entre as famílias, com foco nos efeitos do inventário e da partilha.",
+      "data_publicacao": "2026-05-08T17:32:39-03:00",
+      "url": "https://www.notariado.org.br/artigo-imoveis-herdados-sem-acordo-entre-familias-o-que-pode-destravar-a-venda/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Provimento n. 223 do CNJ institui o Programa Nacional de Execução Efetiva e estabelece diretrizes para a modernização da execução extrajudicial",
+      "descricao": "O Colégio Notarial do Brasil repercutiu o Provimento nº 223 do CNJ, que cria o Programa Nacional de Execução Efetiva e fixa diretrizes para modernizar a execução judicial e extrajudicial no país.",
+      "data_publicacao": "2026-05-08T17:29:26-03:00",
+      "url": "https://www.notariado.org.br/provimento-n-223-do-cnj-institui-o-programa-nacional-de-execucao-efetiva-e-estabelece-diretrizes-para-a-modernizacao-da-execucao-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

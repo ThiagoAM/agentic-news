@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-06-03T10:01:53-03:00",
+  "noticias": [
+    {
+      "titulo": "Programa Rio das Ostras Digital dá mais um passo na modernização com nova versão do SALI",
+      "descricao": "A Prefeitura de Rio das Ostras apresentou uma nova versão do SALI dentro do programa Rio das Ostras Digital. A atualização busca modernizar rotinas administrativas, dar mais agilidade ao trabalho interno e ampliar a transformação digital dos serviços municipais.",
+      "data_publicacao": "2026-06-02T09:21:55-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/programa-rio-das-ostras-digital-da-mais-um-passo-na-modernizacao-com-nova-versao-do-sali/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras é destaque na 20ª OBMEP",
+      "descricao": "Alunos da rede municipal de Rio das Ostras conquistaram ouro nacional e medalhas estaduais na 20ª OBMEP. O resultado reforça o desempenho da educação local e garantiu participação dos estudantes em cerimônia regional de premiação.",
+      "data_publicacao": "2026-06-02T08:49:58-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-e-destaque-na-20a-obmep-com-ouro-nacional-e-medalhas-estaduais/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Espaço Arthur Maia valoriza talentos locais no Festival de Jazz & Blues",
+      "descricao": "Rio das Ostras destacou a programação do Espaço Arthur Maia como vitrine para artistas locais e regionais durante o Festival de Jazz & Blues. A iniciativa fortalece a formação de público e amplia a visibilidade da cena cultural do município.",
+      "data_publicacao": "2026-06-01T19:57:36-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/espaco-arthur-maia-valoriza-talentos-locais-e-regionais-no-festival-de-jazz-blues/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio2C 2026 começa na Cidade das Artes; confira a programação",
+      "descricao": "O Rio2C 2026 começou na Cidade das Artes com uma programação voltada a audiovisual, música, games, moda, tecnologia, startups e inovação. O encontro reforça o papel do Rio de Janeiro como polo da economia criativa e dos grandes eventos do setor.",
+      "data_publicacao": "2026-05-26T11:09:10-03:00",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/05/26/rio2c-2026-comeca-na-cidade-das-artes.ghtml",
+      "fonte": "g1"
+    },
+    {
+      "titulo": "Maravalley terá agenda de inovação em junho antes e durante o Web Summit Rio",
+      "descricao": "O hub Maravalley programou eventos entre 1º e 11 de junho para conectar startups, empresas, investidores e pesquisadores na capital fluminense. A agenda aproveita a realização do Web Summit Rio para ampliar networking, negócios e debates sobre tecnologia e futuro do trabalho.",
+      "data_publicacao": "2026-05-29T18:26:54-03:00",
+      "url": "https://diariodorio.com/maravalley-tera-agenda-de-inovacao-em-junho-antes-e-durante-o-web-summit-rio/",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Cartório aplica precedente do STJ e evita judicialização",
+      "descricao": "O ConJur destacou um caso em que a aplicação de precedente do STJ no registro de imóveis ajudou a resolver uma questão registral sem necessidade de ação judicial. O episódio reforça o papel dos cartórios na desjudicialização e na segurança jurídica imobiliária.",
+      "data_publicacao": "2026-05-20T15:17:09-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-20/cartorio-aplica-precedente-do-stj-e-evita-judicializacao/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Honorários de sucumbência no processo de inventário",
+      "descricao": "Artigo publicado pelo ConJur analisa a incidência de honorários de sucumbência em disputas específicas dentro do inventário. O tema é relevante para a organização patrimonial e para a condução jurídica de conflitos sucessórios.",
+      "data_publicacao": "2026-05-23T17:22:45-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-23/honorarios-de-sucumbencia-no-processo-de-inventario/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Venda de imóvel de espólio com herdeira incapaz exige avaliação judicial",
+      "descricao": "O ConJur noticiou decisão que exige avaliação judicial prévia para a venda de imóvel de espólio com herdeira incapaz. A medida destaca cautelas legais importantes para a proteção patrimonial e a segurança jurídica em inventários.",
+      "data_publicacao": "2026-05-14T10:41:09-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-14/venda-de-imovel-de-espolio-com-herdeira-incapaz-exige-avaliacao-judicial/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Por ausência de escritura, TJ/SP rescinde contrato de multipropriedade",
+      "descricao": "O Colégio Notarial do Brasil repercutiu decisão que rescindiu um contrato de multipropriedade por falta de escritura definitiva. O caso destaca a importância do ato notarial e da formalização correta para dar segurança jurídica às transações imobiliárias.",
+      "data_publicacao": "2026-06-01T15:55:27-03:00",
+      "url": "https://www.notariado.org.br/por-ausencia-de-escritura-tj-sp-rescinde-contrato-de-multipropriedade/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Cartórios de Notas de MG registram quase 2 mil autorizações para doação de órgãos em dois anos",
+      "descricao": "Os cartórios de notas ampliaram o uso da AEDO e, em Minas Gerais, quase 2 mil autorizações digitais de doação de órgãos foram registradas em dois anos. O dado mostra a capilaridade do notariado na formalização eletrônica de manifestações de vontade com impacto social.",
+      "data_publicacao": "2026-06-01T15:52:57-03:00",
+      "url": "https://www.notariado.org.br/cartorios-de-notas-de-mg-registram-quase-2-mil-autorizacoes-para-doacao-de-orgaos-em-dois-anos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Segurança dos atos eletrônicos pressiona cartórios a reforçarem gestão interna e controle operacional",
+      "descricao": "O CNB destacou que o avanço dos atos eletrônicos vem exigindo mais rastreabilidade, padronização de processos e controles internos nas serventias. A discussão reforça a necessidade de elevar a segurança operacional dos serviços notariais digitais.",
+      "data_publicacao": "2026-05-29T17:38:42-03:00",
+      "url": "https://www.notariado.org.br/seguranca-dos-atos-eletronicos-pressiona-cartorios-a-reforcarem-gestao-interna-e-controle-operacional/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

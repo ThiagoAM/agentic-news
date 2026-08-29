@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-08-18T11:34:40-03:00",
+  "noticias": [
+    {
+      "titulo": "Fundações de Cultura e Sopro Novo firmam parceria em Rio das Ostras",
+      "descricao": "A Fundação Rio das Ostras de Cultura e a Fundação Sopro Novo Yamaha apresentaram parceria para oferecer cursos de Educação Musical e formar multiplicadores de ensino no município.",
+      "data_publicacao": "2026-08-18T09:17:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/fundacoes-rio-das-ostras-de-cultura-e-sopro-novo-firmam-parceria/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Banco de Empregos oferece 486 vagas em Rio das Ostras",
+      "descricao": "O Banco de Empregos de Rio das Ostras abriu 486 oportunidades em diferentes áreas, com inscrições gratuitas e atendimento presencial no Centro de Cidadania.",
+      "data_publicacao": "2026-08-17T12:12:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-486-vagas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Arraiá da Feirinha do Centro reúne atrações culturais em Rio das Ostras",
+      "descricao": "O Arraiá da Feirinha do Centro teve programação gratuita com música, apresentações culturais, quadrilha e artesanato na Feirinha Turística de Rio das Ostras.",
+      "data_publicacao": "2026-08-14T09:09:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/arraia-da-feirinha-do-centro-promete-agitar-rio-das-ostras-no-final-de-semana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Inscrições são abertas para nova turma do programa Justiça Cidadã",
+      "descricao": "O Tribunal de Justiça do Estado do Rio abriu inscrições gratuitas para a 49ª turma do Programa Justiça Cidadã, que capacita lideranças comunitárias em formato híbrido.",
+      "data_publicacao": "2026-08-15T11:55:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/08/7291150-abertas-inscricoes-gratuitas-para-nova-turma-do-programa-justica-cidada.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Rio apresenta ônibus de piso baixo com foco em acessibilidade",
+      "descricao": "A Prefeitura do Rio apresentou os primeiros ônibus do Sistema RIO com piso baixo, ampliando a acessibilidade para pessoas com deficiência e mobilidade reduzida.",
+      "data_publicacao": "2026-08-12T10:59:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/08/7289709-rio-apresenta-novos-onibus-de-piso-baixo-para-facilitar-embarque.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "CNJ e BC lançam iniciativa para ampliar segurança nas transferências de precatórios",
+      "descricao": "O CNJ e o Banco Central criaram grupo executivo para estruturar um sistema nacional de registro e rastreamento das transferências de créditos de precatórios, com integração de cartórios.",
+      "data_publicacao": "2026-08-11T19:06:01-03:00",
+      "url": "https://conjur.com.br/2026-ago-11/cnj-e-bc-lancam-iniciativa-para-ampliar-seguranca-nas-transferencias-de-precatorios/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ libera assinatura digital em cartório para transferência de veículos",
+      "descricao": "Decisão do CNJ restabeleceu parceria que permite a transferência de veículos por assinatura digital, inclusive com atos realizados em cartórios de estados diferentes.",
+      "data_publicacao": "2026-07-30T16:52:59-03:00",
+      "url": "https://conjur.com.br/2026-jul-30/cnj-libera-assinatura-digital-em-cartorio-para-transferencia-de-veiculos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ restaura força do instrumento particular na alienação fiduciária",
+      "descricao": "Análise do ConJur aborda decisão do CNJ que voltou a permitir a formalização ampla da alienação fiduciária de imóveis por instrumento particular com força de escritura pública.",
+      "data_publicacao": "2026-08-05T16:21:33-03:00",
+      "url": "https://conjur.com.br/2026-ago-05/cnj-restaurou-forca-do-instrumento-particular-na-alienacao-fiduciaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ e Banco Central reforçam proteção na transferência de precatórios",
+      "descricao": "O Colégio Notarial do Brasil informou que nova iniciativa prevê registro, rastreabilidade e controle das cessões de precatórios, além de escritura pública na primeira transferência.",
+      "data_publicacao": "2026-08-14T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-e-banco-central-reforcam-mecanismos-de-protecao-na-transferencia-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Uso de serviços digitais de Registro de Imóveis cresce no Rio",
+      "descricao": "O Rio de Janeiro registrou mais de 470 mil solicitações na plataforma RI Digital no primeiro semestre de 2026, alta de 19,7% e maior adesão a serviços eletrônicos dos cartórios.",
+      "data_publicacao": "2026-07-31T15:40:17-03:00",
+      "url": "https://www.notariado.org.br/uso-de-servicos-digitais-de-registro-de-imoveis-cresce-quase-20-no-rio-no-primeiro-semestre-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Projeto permite coletar depoimento de testemunha em cartório",
+      "descricao": "Projeto em análise na Câmara propõe permitir a coleta de depoimentos de testemunhas em cartório, inclusive por videoconferência, em processos sobre direitos disponíveis.",
+      "data_publicacao": "2026-07-27T16:44:38-03:00",
+      "url": "https://www.notariado.org.br/projeto-permite-coletar-depoimento-de-testemunha-em-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nome": "Érika Saquetti Martins Advocacia",
+  "descricao": "Notícias jurídicas de direito imobiliário, notarial e registral e planejamento patrimonial, exibidas no site da advocacia.",
+  "idioma": "pt-BR",
+  "timezone": "America/Sao_Paulo",
+  "validacao": {
+    "minNoticias": 11,
+    "maxNoticias": 17,
+    "maxIdadeDias": 30
+  },
+  "busca": {
+    "prompt": "Busque notícias jurídicas recentes publicadas no Brasil sobre os seguintes temas: direito imobiliário (compra e venda, incorporação, locação, financiamento, distratos); regularização fundiária e REURB; direito notarial e registral (atos de cartório, provimentos do CNJ, Colégio Notarial do Brasil, registros de imóveis); sucessões e planejamento patrimonial (inventário, testamento, holdings familiares, doação); e mercado imobiliário (dados, tendências e regulação com impacto jurídico). Priorize notícias publicadas hoje; se não houver quantidade suficiente, retroceda por data até atingir o mínimo exigido. Traga no mínimo 11 e no máximo 17 notícias. Cada descrição deve ter 2 a 3 frases, em tom informativo e neutro, sem promessa de resultado e sem mercantilização, compatível com o Provimento 205/2021 da OAB. Não inclua notícias sobre violência, política partidária ou temas polêmicos e sensacionalistas.",
+    "fontesSugeridas": [
+      { "nome": "Conjur", "url": "https://www.conjur.com.br/noticias/" },
+      { "nome": "Migalhas", "url": "https://www.migalhas.com.br/" },
+      { "nome": "Colégio Notarial do Brasil (CNB)", "url": "https://www.notariado.org.br/noticias/" }
+    ],
+    "exclusoes": [
+      "violência",
+      "política partidária",
+      "temas polêmicos ou sensacionalistas"
+    ]
+  },
+  "consumidores": [
+    {
+      "nome": "Site da advocacia",
+      "url": "https://saquettimartins.adv.br",
+      "repositorio": "https://github.com/ThiagoAM/site-advocacia-erika"
+    }
+  ]
+}

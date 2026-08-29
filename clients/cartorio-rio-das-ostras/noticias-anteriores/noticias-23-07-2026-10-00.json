@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-23T10:00:54-03:00",
+  "noticias": [
+    {
+      "titulo": "Turismo e CRECI-RJ fortalece integração entre os setores",
+      "descricao": "A Prefeitura de Rio das Ostras reuniu representantes do turismo e do CRECI-RJ para discutir cooperação técnica e um grupo permanente de trabalho, com foco em aproximar o desenvolvimento turístico do mercado imobiliário local.",
+      "data_publicacao": "2026-07-22T16:57:53-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/encontro-entre-turismo-e-creci-rj-fortalece-integracao-entre-os-setores/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras leva doadores ao Hemolagos neste sábado, 25",
+      "descricao": "A Prefeitura vai transportar voluntários cadastrados até o Hemolagos, em Cabo Frio, ampliando a campanha local de doação de sangue e facilitando a participação de moradores do município.",
+      "data_publicacao": "2026-07-22T13:05:12-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-leva-doadores-de-sangue-voluntarios-ao-hemolagos-neste-sabado-25/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cecierj oferece vagas para cursos de qualificação",
+      "descricao": "Moradores de Rio das Ostras podem se inscrever em 23 cursos livres de qualificação profissional a distância da Fundação Cecierj, ampliando oportunidades de formação e atualização no município.",
+      "data_publicacao": "2026-07-22T09:59:49-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/cecierj-oferece-vagas-para-cursos-de-qualificacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Provimento nº 43/2026 regulamenta protesto de decisões judiciais transitadas em julgado no RJ",
+      "descricao": "A Corregedoria do TJRJ regulamentou o protesto de decisões judiciais com obrigação pecuniária líquida, certa e exigível, reforçando o uso da Central de Protesto e o avanço da desjudicialização no Estado do Rio de Janeiro.",
+      "data_publicacao": "2026-07-20T00:00:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/cgj/noticias/noticia/-/visualizar-conteudo/1017893/406422531",
+      "fonte": "Corregedoria Geral da Justiça do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Provimento nº 31/2026 altera regra de emolumentos para retificações no extrajudicial do RJ",
+      "descricao": "A Corregedoria fluminense alterou o Código de Normas da Parte Extrajudicial para isentar emolumentos em atos de retificação previstos na Lei de Registros Públicos, ajustando a disciplina aplicada aos cartórios do estado.",
+      "data_publicacao": "2026-07-08T00:00:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/cgj/noticias/noticia/-/visualizar-conteudo/1017893/406372571",
+      "fonte": "Corregedoria Geral da Justiça do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Indenização por falta de escritura de imóvel não prescreve, decide STJ",
+      "descricao": "A 3ª Turma do STJ entendeu que, quando a outorga da escritura definitiva se torna inviável em ação de adjudicação compulsória, o pedido pode ser convertido em perdas e danos sem sujeição à prescrição.",
+      "data_publicacao": "2026-07-21T09:45:06-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-21/indenizacao-por-falta-de-escritura-de-imovel-nao-prescreve-decide-stj/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "CNJ mantém exigência de laudo da clínica para registro de bebê gerado por reprodução assistida",
+      "descricao": "A Corregedoria Nacional de Justiça manteve a exigência de declaração da clínica para registro civil de crianças geradas por reprodução assistida, destacando segurança sanitária, prevenção de fraudes e maior segurança jurídica.",
+      "data_publicacao": "2026-07-20T12:40:58-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-20/cnj-mantem-exigencia-de-declaracao-de-clinica-para-registro-de-bebe-gerado-por-reproducao-assistida/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Tabelião interino não responde por dívida de ISSQN de cartório",
+      "descricao": "Segundo decisão destacada pela ConJur, tabeliães interinos que respondem por serventias vagas atuam como prepostos do Estado e não têm responsabilidade tributária pessoal pelo ISSQN incidente sobre os emolumentos do cartório.",
+      "data_publicacao": "2026-07-07T07:52:46-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-07/tabeliao-interino-nao-responde-por-divida-de-issqn-de-cartorio/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "CNB/CF convida Tabeliães de Notas a participarem da pesquisa sobre a Conta Notarial",
+      "descricao": "O Colégio Notarial do Brasil convocou tabeliães e representantes estaduais a responderem pesquisa sobre adesão à Conta Notarial, com o objetivo de identificar barreiras, necessidades de capacitação e oportunidades de melhoria da ferramenta.",
+      "data_publicacao": "2026-07-15T18:19:29-03:00",
+      "url": "https://www.notariado.org.br/?p=39170",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Nova plataforma que simplifica acesso a documentos cartorários já recebeu 470 mil pedidos",
+      "descricao": "O programa Meu Registro, integrado por serviços de registro civil, imóveis e títulos e documentos, ultrapassou 470 mil solicitações em menos de um mês e ampliou o acesso digital a documentos cartorários no país.",
+      "data_publicacao": "2026-07-13T17:51:48-03:00",
+      "url": "https://www.notariado.org.br/?p=39159",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Acumulação de atividades cartoriais é validada",
+      "descricao": "O CNB repercutiu decisão unânime do STF que manteve válida, em situação preexistente, a acumulação de atividades cartoriais em Paulínia, com ressalva de concurso público caso venha a ser criada serventia autônoma de protesto.",
+      "data_publicacao": "2026-07-13T17:50:58-03:00",
+      "url": "https://www.notariado.org.br/?p=39157",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

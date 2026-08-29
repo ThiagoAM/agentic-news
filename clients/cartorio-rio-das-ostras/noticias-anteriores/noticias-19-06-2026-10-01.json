@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-06-19T10:01:32-03:00",
+  "noticias": [
+    {
+      "titulo": "Sorteio seleciona para curso de cerâmica e Mentoria da Froc",
+      "descricao": "A Fundação Rio das Ostras de Cultura abriu seleção por sorteio para vagas em curso de cerâmica e em uma mentoria da Froc. A iniciativa amplia o acesso à formação artística e ao desenvolvimento de projetos culturais no município.",
+      "data_publicacao": "2026-06-19T08:28:09-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/sorteio-dos-inscritos-no-curso-de-ceramica-e-na-mentoria-da-froc-acontece-dia-24/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município debate Plano de Educação",
+      "descricao": "Rio das Ostras promoveu discussão sobre o desenvolvimento do Plano Municipal de Educação, com foco no planejamento das metas e na organização de ações para a rede local. O debate busca alinhar prioridades e fortalecer a gestão educacional dos próximos anos.",
+      "data_publicacao": "2026-06-18T16:41:50-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-debate-desenvolvimento-de-plano-municipal-de-educacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras inicia atualização cadastral dos imóveis",
+      "descricao": "A Prefeitura iniciou a atualização cadastral dos imóveis para revisar informações territoriais e melhorar a base de dados urbana do município. A medida tende a apoiar planejamento, fiscalização e prestação de serviços públicos ligados ao território.",
+      "data_publicacao": "2026-06-18T15:20:04-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-atualizacao-cadastral-dos-imoveis/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Ações de recapeamento asfáltico chegam à ZEN em Rio das Ostras",
+      "descricao": "As obras de recapeamento avançaram para a Zona Especial de Negócios, com intervenções voltadas à melhoria das condições viárias e do acesso local. O trabalho reforça a infraestrutura urbana e beneficia a circulação de moradores, trabalhadores e empresas.",
+      "data_publicacao": "2026-06-18T11:40:22-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/acoes-de-recapeamento-asfaltico-chegam-a-zen-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Governo do RJ lança edital Infracultura com R$ 9,5 milhões para restauração de equipamentos culturais",
+      "descricao": "O Governo do Estado abriu o edital Infracultura para apoiar obras de reforma, restauração e revitalização de espaços culturais. O investimento busca preservar equipamentos públicos e ampliar a estrutura disponível para atividades culturais no Rio de Janeiro.",
+      "data_publicacao": "2026-06-08T16:12:48-03:00",
+      "url": "http://cultura.rj.gov.br/edital-infracultura-rj/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "SececRJ fortalece políticas públicas voltadas às bibliotecas do estado",
+      "descricao": "A Secretaria de Cultura e Economia Criativa firmou parcerias para reforçar políticas públicas direcionadas às bibliotecas fluminenses. A iniciativa mira modernização, qualificação e integração desses espaços à rede cultural do estado.",
+      "data_publicacao": "2026-06-03T13:12:04-03:00",
+      "url": "http://cultura.rj.gov.br/secec-rj-firma-parcerias-ministerio-cultura-biblioteca-nacional-para-bibliotecas/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Integralização de imóvel ao capital social dispensa escritura pública, reforça jurisprudência paulista",
+      "descricao": "O ConJur destacou entendimento que reforça a dispensa de escritura pública na integralização de imóvel ao capital social de empresas. A leitura tem impacto prático em reorganizações societárias, planejamento patrimonial e rotinas ligadas a registros imobiliários.",
+      "data_publicacao": "2026-06-18T13:00:01-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-18/integralizacao-de-imovel-ao-capital-social-dispensa-escritura-publica-novo-reforco-da-jurisprudencia-paulista/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Imunidade de ITBI na integralização de capital independe de atividade",
+      "descricao": "Segundo o ConJur, decisão judicial reafirmou que a imunidade de ITBI na integralização de capital social não depende da atividade exercida pela empresa. O tema interessa diretamente a operações societárias com imóveis e à formalização de atos patrimoniais.",
+      "data_publicacao": "2026-06-07T08:51:29-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-07/imunidade-de-itbi-na-integralizacao-de-capital-independe-de-atividade/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Dívidas de ITBI e cartório não afastam impenhorabilidade de bem de família",
+      "descricao": "O ConJur noticiou entendimento de que débitos de ITBI e despesas cartorárias não retiram a proteção do bem de família contra penhora. A decisão ajuda a delimitar o alcance dessa garantia em disputas patrimoniais envolvendo imóveis.",
+      "data_publicacao": "2026-05-25T09:46:18-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-25/dividas-de-itbi-e-cartorio-nao-afastam-impenhorabilidade-de-bem-de-familia/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB/CF e Notariado Uruguaio discutem cooperação em tecnologia e e-Notariado",
+      "descricao": "O Colégio Notarial do Brasil reuniu-se com representantes do notariado uruguaio para trocar experiências sobre transformação digital e ferramentas aplicadas à atividade notarial. A conversa reforça a agenda de inovação e cooperação internacional do setor.",
+      "data_publicacao": "2026-06-18T11:34:39-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-e-notariado-uruguaio-discutem-cooperacao-em-tecnologia-e-e-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Plano de Gestão da COGEX prioriza cidadania e melhoria dos serviços cartorários",
+      "descricao": "O CNB repercutiu o Plano de Gestão 2026-2028 da Corregedoria Geral do Foro Extrajudicial do Maranhão, com foco em cidadania e aperfeiçoamento dos serviços. O documento prevê ações de modernização, capacitação e melhoria operacional para o segmento cartorário.",
+      "data_publicacao": "2026-06-17T18:01:52-03:00",
+      "url": "https://www.notariado.org.br/plano-de-gestao-da-cogex-prioriza-cidadania-e-melhoria-dos-servicos-cartorarios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Live reúne notários e registradores para apresentar nova etapa da integração entre e-Notariado e RI Digital",
+      "descricao": "CNB e ONR apresentaram avanços da integração entre e-Notariado e RI Digital em transmissão voltada a notários e registradores. A iniciativa busca dar mais fluidez, padronização e segurança jurídica ao intercâmbio eletrônico de informações imobiliárias.",
+      "data_publicacao": "2026-06-17T15:20:28-03:00",
+      "url": "https://www.notariado.org.br/live-reune-notarios-e-registradores-para-apresentar-nova-etapa-da-integracao-entre-e-notariado-e-ri-digital/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

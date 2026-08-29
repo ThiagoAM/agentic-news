@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-07-13T10:01:16-03:00",
+  "noticias": [
+    {
+      "titulo": "Lagoa de Iriry será palco do Rio das Ostras Run",
+      "descricao": "Rio das Ostras anunciou a realização do Rio das Ostras Run na Lagoa de Iriry, com proposta de reunir atletas amadores e profissionais da região e fortalecer o calendário esportivo e turístico do município.",
+      "data_publicacao": "2026-07-09T12:10:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/lagoa-de-iriry-sera-palco-do-rio-das-ostras-run/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Festival Gastronômico de Rio das Ostras prepara edição de 2026",
+      "descricao": "A cidade confirmou uma edição ampliada do Festival Gastronômico na Lagoa de Iriry, com participação de chefs locais e programação pensada para movimentar o turismo, o lazer e os negócios do setor de alimentação.",
+      "data_publicacao": "2026-07-09T15:57:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/festival-gastronomico-de-rio-das-ostras-prepara-edicao-ampliada-para-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras fortalece economia local com nova Sala do Empreendedor",
+      "descricao": "A inauguração da nova Sala do Empreendedor concentrou serviços para microempreendedores e empresários, com foco em desburocratização, orientação e estímulo ao desenvolvimento econômico local.",
+      "data_publicacao": "2026-07-09T16:17:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-fortalece-economia-local-com-nova-sala-do-empreendedor/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras é destaque no Conderlagos",
+      "descricao": "O município ganhou evidência em encontro do Conderlagos ao ser apontado como uma das principais forças econômicas da região, reforçando sua presença em debates sobre integração e desenvolvimento regional.",
+      "data_publicacao": "2026-07-10T15:37:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-e-destaque-no-conderlagos-como-uma-das-principais-forcas-economicas-da-regiao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Região histórica do Rio, Praça Onze será revitalizada",
+      "descricao": "A Praça Onze e seu entorno devem passar por um projeto de revitalização com integração urbana, incentivo à economia criativa e valorização do patrimônio cultural em uma área histórica da capital fluminense.",
+      "data_publicacao": "2026-07-10T10:48:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/regiao-historica-do-rio-praca-onze-sera-revitalizada",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Rio de Janeiro sedia encontro mundial de bandas sinfônicas em julho",
+      "descricao": "O Rio de Janeiro recebe a 21ª edição da conferência da Wasbe, com concertos, oficinas e intercâmbio artístico, marcando a primeira vez que o encontro mundial de bandas sinfônicas acontece na América Latina.",
+      "data_publicacao": "2026-07-05T15:41:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/rio-de-janeiro-sedia-encontro-mundial-de-bandas-sinfonicas-em-julho",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Isenção tributária definitiva obriga baixa de protesto de dívida ativa, diz TJ-GO",
+      "descricao": "A ConJur destacou decisão que manteve a baixa imediata de protestos após reconhecimento definitivo de isenção tributária, reforçando a relação entre regularização fiscal e cancelamento de apontamentos em cartório.",
+      "data_publicacao": "2026-07-12T17:04:51-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-12/isencao-de-imposto-definitiva-obriga-baixa-de-protesto-de-divida-ativa/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Condições climáticas extremas autorizam prorrogação de dívida rural",
+      "descricao": "A ConJur repercutiu decisão judicial que autorizou nova prorrogação de dívida rural após prejuízos causados por chuvas e estiagens, reconhecendo o impacto direto das condições climáticas na capacidade de pagamento do produtor.",
+      "data_publicacao": "2026-07-13T07:52:57-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-13/condicoes-climaticas-extremas-autorizam-prorrogacao-de-divida-rural/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Trabalho remoto com jornada controlada dá direito a horas extras, afirma TRT-3",
+      "descricao": "A ConJur noticiou entendimento de que o trabalho remoto com controle efetivo de jornada não afasta o pagamento de horas extras, com reflexos legais reconhecidos em favor do empregado.",
+      "data_publicacao": "2026-07-12T10:33:14-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-12/trabalho-remoto-com-jornada-controlada-da-direito-a-horas-extras/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "R7 – Possível mudança em Imposto sobre Transmissão Causa Mortis e Doação faz crescer doações de imóveis",
+      "descricao": "O Colégio Notarial do Brasil repercutiu o aumento na procura por doações de imóveis diante da expectativa de mudança no ITCMD, indicando movimento antecipado de planejamento patrimonial pelas famílias.",
+      "data_publicacao": "2026-07-10T14:31:54-03:00",
+      "url": "https://www.notariado.org.br/r7-possivel-mudanca-em-imposto-sobre-transmissao-causa-mortis-e-doacao-faz-crescer-doacoes-de-imoveis/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Cartórios registram recorde de escrituras de doação de imóveis",
+      "descricao": "O Colégio Notarial do Brasil informou recorde nas escrituras de doação de imóveis, em um cenário de antecipação patrimonial motivado pela expectativa de alta na tributação sobre transmissões.",
+      "data_publicacao": "2026-07-10T14:28:32-03:00",
+      "url": "https://www.notariado.org.br/cartorios-registram-recorde-de-escrituras-de-doacao-de-imoveis/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "É possível partilha amigável com divisão desigual dos quinhões hereditários, decide Terceira Turma",
+      "descricao": "O Colégio Notarial do Brasil destacou decisão do STJ que admite partilha amigável com quinhões hereditários desiguais quando há cessão de direitos e manifestação livre de herdeiros maiores e capazes.",
+      "data_publicacao": "2026-07-06T17:28:38-03:00",
+      "url": "https://www.notariado.org.br/e-possivel-partilha-amigavel-com-divisao-desigual-dos-quinhoes-hereditarios-decide-terceira-turma/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

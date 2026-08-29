@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-12T10:01:47-03:00",
+  "noticias": [
+    {
+      "titulo": "Prefeitura abre licitação para obras de melhorias no Âncora",
+      "descricao": "A Prefeitura de Rio das Ostras abriu licitação para um conjunto de intervenções no Âncora, com urbanização, drenagem, pavimentação, sinalização e ciclovia para melhorar a mobilidade e a infraestrutura do bairro.",
+      "data_publicacao": "2026-05-12T08:28:57-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-abre-licitacao-para-obras-de-melhorias-no-ancora/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura orienta sobre Licenciamento Sanitário",
+      "descricao": "A administração municipal publicou orientações para estabelecimentos comerciais sobre o processo de licenciamento sanitário, detalhando exigências e procedimentos para regularização das atividades no município.",
+      "data_publicacao": "2026-05-11T11:49:21-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-orienta-sobre-licenciamento-sanitario/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Inscrições para Semana do Turismo",
+      "descricao": "Rio das Ostras abriu inscrições para a I Semana do Turismo, iniciativa voltada à formação e ao debate sobre o setor, com foco em qualificação e fortalecimento das atividades turísticas locais.",
+      "data_publicacao": "2026-05-11T11:46:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/abertas-inscricoes-para-i-semana-do-turismo/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Saúde RJ simplifica abertura de empresas, reclassificando algumas atividades como sendo de baixo risco sanitário",
+      "descricao": "A Secretaria de Estado de Saúde informou que a Vigilância Sanitária fluminense alterou a classificação de risco para 39 áreas de atuação, o que deve simplificar a abertura e a regularização de empresas no estado.",
+      "data_publicacao": "2026-05-11T09:20:00-03:00",
+      "url": "https://www.rj.gov.br/saude/node/3993",
+      "fonte": "Secretaria de Estado de Saúde do Rio de Janeiro"
+    },
+    {
+      "titulo": "Secretaria de Estado de Saúde apresenta novas tecnologias durante 43º Congresso de Cardiologia",
+      "descricao": "Representantes da Secretaria de Estado de Saúde do Rio de Janeiro participaram do congresso para divulgar inovações, discutir estratégias e aprimorar a assistência à população fluminense.",
+      "data_publicacao": "2026-05-08T16:11:42-03:00",
+      "url": "https://www.rj.gov.br/saude/node/3991",
+      "fonte": "Secretaria de Estado de Saúde do Rio de Janeiro"
+    },
+    {
+      "titulo": "'Processo justo': a senha do arbítrio judicial",
+      "descricao": "Em artigo, o ConJur debate criticamente o uso da expressão 'processo justo' e argumenta que o conceito pode ampliar a margem de atuação judicial sem base normativa suficientemente definida.",
+      "data_publicacao": "2026-05-11T09:20:00-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-11/processo-justo-a-senha-do-arbitrio-judicial/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Inventário extrajudicial dispensa a certidão negativa de débito",
+      "descricao": "O ConJur destacou decisão do CNJ segundo a qual a escritura pública de inventário e partilha extrajudicial não pode ser condicionada à certidão negativa de débito, mantendo a solicitação apenas para fins informativos.",
+      "data_publicacao": "2026-04-30T07:52:00-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-30/inventario-extrajudicial-dispensa-a-certidao-negativa-de-debito/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Recibo de compra e venda é justo título para usucapião ordinária",
+      "descricao": "O STJ decidiu, conforme noticiado pelo ConJur, que o recibo de compra e venda de imóvel pode configurar justo título para usucapião ordinária quando houver elementos suficientes para demonstrar a intenção de transferir a propriedade.",
+      "data_publicacao": "2026-04-29T13:51:15-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-29/recibo-de-compra-e-venda-e-justo-titulo-para-usucapiao-ordinaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB/CF indica tabeliães brasileiros para Grupos de Trabalho da CAAm e Alexandre Kassama assume coordenação em Informática e Segurança Jurídica",
+      "descricao": "O CNB/CF formalizou indicações para grupos de trabalho da Comissão de Assuntos Americanos da UINL, ampliando a presença técnica do notariado brasileiro em debates sobre cooperação, tecnologia e segurança jurídica.",
+      "data_publicacao": "2026-04-23T17:55:49-03:00",
+      "url": "https://www.sinoregmg.org.br/post/cnb-cf-indica-tabeli%C3%A3es-brasileiros-para-grupos-de-trabalho-da-caam-e-alexandre-kassama-assume-coord",
+      "fonte": "Sinoreg-MG"
+    },
+    {
+      "titulo": "Delegação de Moçambique visita o Brasil para conhecer soluções digitais da atividade extrajudicial",
+      "descricao": "Representantes de Moçambique visitaram São Paulo para conhecer ferramentas como e-Notariado e soluções dos registros públicos, em agenda voltada ao intercâmbio técnico e à modernização da atividade extrajudicial.",
+      "data_publicacao": "2026-04-22T14:36:44-03:00",
+      "url": "https://www.sinoregmg.org.br/post/delega%C3%A7%C3%A3o-de-mo%C3%A7ambique-visita-o-brasil-para-conhecer-solu%C3%A7%C3%B5es-digitais-da-atividade-extrajudicial",
+      "fonte": "Sinoreg-MG"
+    },
+    {
+      "titulo": "CNB/CF lança projeto 'Seccionais em Ação' para fortalecer a integração institucional às seccionais estaduais",
+      "descricao": "O Colégio Notarial do Brasil iniciou o projeto Seccionais em Ação para aproximar a entidade nacional das lideranças estaduais e reforçar a articulação institucional do notariado ao longo de 2026.",
+      "data_publicacao": "2026-05-05T11:33:54-03:00",
+      "url": "https://portaldori.com.br/2026/05/05/cnb-cnb-cf-lanca-projeto-seccionais-em-acao-para-fortalecer-a-integracao-institucional-as-seccionais-estaduais/",
+      "fonte": "Portal do RI"
+    }
+  ]
+}

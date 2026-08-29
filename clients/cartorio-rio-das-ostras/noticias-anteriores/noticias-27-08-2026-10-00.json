@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-08-27T10:00:37-03:00",
+  "noticias": [
+    {
+      "titulo": "Município participa de Seminário Regional de Saúde",
+      "descricao": "Rio das Ostras apresentou uma experiência do Programa Saúde na Escola durante seminário regional sobre educação permanente em saúde.",
+      "data_publicacao": "2026-08-27T09:33:29-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-participa-de-seminario-de-educacao-permanente/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras terá chuva e mar agitado nos próximos dias",
+      "descricao": "A previsão do tempo indica mudança nas condições meteorológicas e do mar em Rio das Ostras ao longo dos próximos dias.",
+      "data_publicacao": "2026-08-26T15:35:43-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-tera-chuva-e-mar-agitado-neste-fim-de-semana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Pacientes devem estar atentos a mensagens sobre exames e consultas",
+      "descricao": "A Secretaria de Saúde orienta pacientes sobre mensagens enviadas por celular pelo sistema estadual para marcação de exames e consultas.",
+      "data_publicacao": "2026-08-26T15:28:38-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/pacientes-devem-estar-atentos-a-mensagens-via-celular-sobre-exames-e-consultas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cristo Redentor prepara medidas para compensar impacto ambiental do turismo",
+      "descricao": "O complexo turístico do Cristo Redentor prepara ações de compensação ambiental relacionadas à visitação no Rio de Janeiro.",
+      "data_publicacao": "2026-08-21T16:48:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/cristo-redentor-se-prepara-para-compensar-impacto-ambiental-do-turismo",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Festival Rio Cello leva música a diferentes espaços do Rio de Janeiro",
+      "descricao": "O Festival Rio Cello promoveu uma programação musical em diferentes espaços da cidade do Rio de Janeiro durante o mês de agosto.",
+      "data_publicacao": "2026-08-08T12:33:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/festival-rio-cello-leva-musica-a-varios-espacos-do-rio-de-janeiro",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Laudo favorável a hospital não obriga juiz a descartar erro médico",
+      "descricao": "A 7ª Câmara de Direito Público do Tribunal de Justiça de São Paulo decidiu que outras provas podem prevalecer sobre laudo que isenta equipe de saúde.",
+      "data_publicacao": "2026-08-27T09:45:19-03:00",
+      "url": "https://conjur.com.br/2026-ago-27/laudo-favoravel-a-hospital-nao-obriga-juiz-a-descartar-erro-medico/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ evita que sucumbência vire entrave a credores de recuperação e falência",
+      "descricao": "O Superior Tribunal de Justiça definiu que incidentes de habilitação ou impugnação de crédito não geram automaticamente honorários de sucumbência.",
+      "data_publicacao": "2026-08-27T09:22:38-03:00",
+      "url": "https://conjur.com.br/2026-ago-27/stj-evita-que-honorarios-virem-entrave-aos-credores-na-rj-e-falencia/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Dois anos são dois anos: PGFN não pode prolongar quarentena da transação tributária",
+      "descricao": "Artigo analisa a regra que impede nova transação tributária por dois anos após a rescisão e discute os limites para ampliar esse prazo.",
+      "data_publicacao": "2026-08-27T09:32:40-03:00",
+      "url": "https://conjur.com.br/2026-ago-27/dois-anos-sao-dois-anos-a-pgfn-nao-pode-prolongar-a-quarentena-da-transacao-tributaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "O país precisa adotar um modelo de seguro imobiliário?",
+      "descricao": "Artigo discute o seguro de título imobiliário e compara sua função de proteção a compradores e financiadores com o modelo brasileiro.",
+      "data_publicacao": "2026-08-24T14:42:45-03:00",
+      "url": "https://www.notariado.org.br/o-pais-precisa-adotar-um-modelo-de-seguro-imobiliario/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STJ livra donos de cartórios de contribuir com o salário-educação",
+      "descricao": "A Primeira Seção do Superior Tribunal de Justiça concluiu que titulares de cartórios não exercem atividade empresarial para fins da contribuição ao salário-educação.",
+      "data_publicacao": "2026-08-24T14:41:53-03:00",
+      "url": "https://www.notariado.org.br/stj-livra-donos-de-cartorios-de-contribuir-com-o-salario-educacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Ata notarial na usucapião e na adjudicação compulsória é tema de painel",
+      "descricao": "Painel do Fórum de Integração Jurídica debateu o uso da ata notarial em procedimentos extrajudiciais de usucapião e adjudicação compulsória.",
+      "data_publicacao": "2026-08-20T11:56:24-03:00",
+      "url": "https://www.notariado.org.br/ata-notarial-na-usucapiao-e-na-adjudicacao-compulsoria-e-tema-do-ultimo-painel-do-xvi-forum-de-integracao-juridica/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

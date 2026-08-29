@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-03-28T10:00:17-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras reforça articulação regional e avança em estratégias de desenvolvimento na Costa do Sol",
+      "descricao": "Município participou de reunião do Consórcio Intermunicipal da Costa do Sol para alinhar ações conjuntas e discutir um plano integrado de desenvolvimento com foco em infraestrutura, turismo e meio ambiente.",
+      "data_publicacao": "2026-03-25T14:28:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/03/7227131-rio-das-ostras-reforca-articulacao-regional-e-avanca-em-estrategias-de-desenvolvimento-na-costa-do-sol.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Fiscalização em postos é reforçada em Rio das Ostras após aumento dos combustíveis",
+      "descricao": "Procon municipal intensificou vistorias em postos e passou a exigir notas fiscais para checar reajustes, buscando coibir aumentos sem justificativa e proteger o consumidor.",
+      "data_publicacao": "2026-03-26T11:51:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/03/7227570-fiscalizacao-em-postos-e-reforcada-em-rio-das-ostras-apos-aumento-dos-combustiveis.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Rio das Ostras mobiliza população para Dia D da vacinação contra gripe",
+      "descricao": "A prefeitura promoveu o Dia D da vacinação contra Influenza com abertura de unidades de saúde no sábado, ampliando o acesso para grupos prioritários e reforçando a meta de cobertura vacinal.",
+      "data_publicacao": "2026-03-26T11:51:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/03/7227569-rio-das-ostras-mobiliza-populacao-para-dia-d-da-vacinacao-contra-gripe-neste-sabado.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Cadastro em Ação leva atualização do CadÚnico para moradores de Rio Bonito",
+      "descricao": "Ação itinerante vai oferecer atualização do CadÚnico em local de fácil acesso, aproximando o serviço da população e facilitando atendimentos.",
+      "data_publicacao": "2026-03-27T15:14:22-03:00",
+      "url": "https://riobonito.rj.gov.br/cadastro-em-acao-leva-atualizacao-do-cadunico-mais-perto-da-populacao-em-rio-bonito/",
+      "fonte": "Prefeitura de Rio Bonito"
+    },
+    {
+      "titulo": "Queimados inaugura nova sede de escola municipal no bairro Paraíso",
+      "descricao": "A Prefeitura de Queimados reinaugurou a Escola Municipal Profª Anna Maria dos Santos Perobelli, ampliando a capacidade de atendimento e modernizando a infraestrutura escolar.",
+      "data_publicacao": "2026-03-26T15:49:03-03:00",
+      "url": "https://queimados.rj.gov.br/queimados-inaugura-escola-municipal-nesta-sexta-feira-27-03/",
+      "fonte": "Prefeitura de Queimados"
+    },
+    {
+      "titulo": "STJ julga se ausência de registro em cartório afasta alienação fiduciária",
+      "descricao": "O STJ analisou os efeitos da falta de registro do contrato de alienação fiduciária em cartório e discutiu a validade das garantias sem o registro formal.",
+      "data_publicacao": "2026-03-26T18:55:30-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-26/stj-julga-se-ausencia-de-registro-do-contrato-em-cartorio-afasta-alienacao-fiduciaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Reforma do Código Civil e a prova da separação de fato perante o RCPN",
+      "descricao": "Análise jurídica debate proposta de registrar a separação de fato no Registro Civil das Pessoas Naturais para dar marco temporal à ruptura conjugal.",
+      "data_publicacao": "2026-03-22T08:00:50-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-22/a-reforma-do-codigo-civil-e-a-prova-da-separacao-de-fato-perante-o-rcpn/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Decisão do STJ amplia padrões de transparência em arbitragens",
+      "descricao": "O tribunal indicou que deveres de revelação em arbitragens devem ser mais amplos, reforçando critérios de transparência e integridade dos procedimentos.",
+      "data_publicacao": "2026-03-27T13:52:38-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-27/manchete_decisao-do-stj-amplia-padroes-de-transparencia-em-arbitragens/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB/CF lança Conta Notarial Remunerada e novo modelo de prestação de serviços",
+      "descricao": "O CNB/CF anunciou a Conta Notarial com rentabilidade e mudanças na precificação, ampliando funcionalidades do serviço e alinhando a distribuição de receitas aos tabelionatos.",
+      "data_publicacao": "2026-03-24T09:19:57-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-conta-notarial-remunerada-e-novo-modelo-de-prestacao-de-servicos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Provimento CNJ nº 219/2026 define regras para relação de cartórios vagos",
+      "descricao": "Normativo do CNJ estabeleceu critérios para atualização e publicidade da lista de cartórios vagos, trazendo padronização e maior transparência na gestão das serventias.",
+      "data_publicacao": "2026-03-23T22:55:19-03:00",
+      "url": "https://www.notariado.org.br/provimento-do-cnj-no-219-26-estabelece-regras-para-a-gestao-atualizacao-e-publicidade-da-relacao-de-cartorios-vagos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Ana Paula Frontini é eleita presidente do CNB/SP",
+      "descricao": "O CNB/SP elegeu nova diretoria para o biênio 2026-2028, com Ana Paula Frontini assumindo a presidência e destacando a união institucional do notariado paulista.",
+      "data_publicacao": "2026-03-20T20:36:36-03:00",
+      "url": "https://www.notariado.org.br/ana-paula-frontini-e-eleita-presidente-do-cnb-sp-e-se-torna-a-primeira-mulher-a-liderar-a-seccional/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

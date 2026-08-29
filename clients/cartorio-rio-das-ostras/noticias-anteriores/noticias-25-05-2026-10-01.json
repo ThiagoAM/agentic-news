@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-25T10:01:47-03:00",
+  "noticias": [
+    {
+      "titulo": "Semana de Luta Antimanicomial é marcada por atividades inclusivas",
+      "descricao": "A Secretaria de Saúde de Rio das Ostras promoveu uma programação com exposição de trabalhos dos pacientes do CAPS e do CAPSi, ações de conscientização e celebração dos 19 anos do CAPS II, reforçando inclusão e cuidado em saúde mental.",
+      "data_publicacao": "2026-05-22T09:02:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/semana-de-luta-antimanicomial-e-marcada-por-atividades-inclusivas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura lança novo Jornal Oficial com foco em modernização e acessibilidade",
+      "descricao": "Rio das Ostras lançou um novo portal do Jornal Oficial com navegação responsiva, busca aprimorada e recursos de acessibilidade, buscando facilitar o acesso da população a atos públicos, decretos e resoluções municipais.",
+      "data_publicacao": "2026-05-21T12:27:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-lanca-novo-jornal-oficial-com-foco-em-modernizacao-e-acessibilidade/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Dia da Reciclagem reúne catadores",
+      "descricao": "A Prefeitura de Rio das Ostras e o Sebrae reuniram catadores, cooperativas e equipes técnicas para apresentar o Programa Pró-Catadores, com foco em sustentabilidade, inclusão social, cooperativismo e valorização dos resíduos eletrônicos.",
+      "data_publicacao": "2026-05-20T13:36:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/dia-da-reciclagem-reune-catadores/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Atividade econômica do Estado do Rio cresce 2,3% no primeiro trimestre do ano",
+      "descricao": "O Governo do Estado destacou avanço de 2,3% da atividade econômica fluminense no primeiro trimestre, com desempenho acima da média do Sudeste e sinal positivo para a economia do Rio de Janeiro.",
+      "data_publicacao": "2026-05-22T10:10:19-03:00",
+      "url": "https://www.rj.gov.br/noticias/atividade-economica-do-estado-do-rio-cresce-23-no-primeiro-trimestre-do-ano8474",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Professores da rede estadual terão formação inédita em Libras para fortalecer educação inclusiva",
+      "descricao": "A Fundação Cecierj vai oferecer curso gratuito de Libras com 600 vagas, incluindo reserva para docentes da rede estadual, em iniciativa voltada ao fortalecimento da educação inclusiva no Rio de Janeiro.",
+      "data_publicacao": "2026-05-21T10:33:59-03:00",
+      "url": "https://www.rj.gov.br/noticias/professores-da-rede-estadual-terao-formacao-inedita-em-libras-para-fortalecer-educacao-inclusiva2839",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Honorários sobre perícia de ofício devem ser divididos pelas partes",
+      "descricao": "O ConJur repercutiu decisão segundo a qual, em perícia determinada de ofício, os honorários periciais devem ser rateados entre as partes com base nas regras do CPC de 2015.",
+      "data_publicacao": "2026-05-24T08:54:23-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-24/honorarios-sobre-pericia-determinada-de-oficio-devem-ser-divididos-pelas-partes/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Análise do Tema 1.396 do STJ ultrapassa o Direito do Consumidor",
+      "descricao": "O ConJur destacou que o julgamento do Tema 1.396 pelo STJ, ao tratar da ausência de tentativa prévia de solução extrajudicial, pode produzir efeitos mais amplos sobre a litigiosidade e o acesso ao Judiciário.",
+      "data_publicacao": "2026-05-24T07:02:45-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-24/tema-1-396-e-a-crise-de-litigiosidade-stj-diante-de-uma-decisao-estrutural/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Negociação coletiva pode redefinir os limites da ADI 5.322",
+      "descricao": "O ConJur publicou análise sobre o papel da negociação coletiva na redefinição dos limites debatidos na ADI 5.322, com foco em previsibilidade e segurança nas relações entre empresas e trabalhadores.",
+      "data_publicacao": "2026-05-24T08:00:07-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-24/negociacao-coletiva-pode-redefinir-os-limites-da-adi-5-322/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Sessão Solene no Senado celebra 2 anos da AEDO e destaca papel do Notariado Brasileiro na doação de órgãos",
+      "descricao": "O Colégio Notarial do Brasil destacou sessão no Senado sobre os dois anos da Autorização Eletrônica de Doação de Órgãos, iniciativa que amplia segurança jurídica e conscientização sobre a doação de órgãos por meio dos cartórios de notas.",
+      "data_publicacao": "2026-05-19T16:09:34-03:00",
+      "url": "https://www.notariado.org.br/sessao-solene-no-senado-celebra-2-anos-da-aedo-e-destaca-papel-do-notariado-brasileiro-na-doacao-de-orgaos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "e-Notariado passa a exigir prova de vida em todas as assinaturas digitais a partir de 1º de junho",
+      "descricao": "O CNB/CF informou que a plataforma e-Notariado passará a exigir prova de vida nas assinaturas digitais, acrescentando verificação biométrica para reduzir fraudes e elevar a segurança jurídica dos atos eletrônicos.",
+      "data_publicacao": "2026-05-11T18:31:51-03:00",
+      "url": "https://www.notariado.org.br/e-notariado-passa-a-exigir-prova-de-vida-em-todas-as-assinaturas-digitais-a-partir-de-1o-de-junho/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF lança projeto “Seccionais em Ação” para fortalecer a integração institucional as Seccionais estaduais",
+      "descricao": "O Colégio Notarial do Brasil iniciou o projeto Seccionais em Ação para aproximar lideranças estaduais e agenda nacional, fortalecendo a articulação institucional do notariado com foco em 2026.",
+      "data_publicacao": "2026-04-29T19:44:52-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-projeto-seccionais-em-acao-para-fortalecer-a-integracao-institucional-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

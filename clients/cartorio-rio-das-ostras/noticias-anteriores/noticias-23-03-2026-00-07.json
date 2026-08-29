@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-03-23T00:07:18-03:00",
+  "noticias": [
+    {
+      "titulo": "Nova Unidade de Saude vai ampliar acesso dos moradores de Rio das Ostras a exames de imagem",
+      "descricao": "A Prefeitura de Rio das Ostras destacou a inauguracao de uma nova unidade de diagnostico por imagem em parceria com o Governo do Estado, ampliando a oferta de exames e o acesso da populacao a servicos de saude no municipio.",
+      "data_publicacao": "2026-03-21T15:03:30-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/mais-uma-parceria-importante-entre-rio-das-ostras-e-o-governo-do-estado-para-melhorar-a-qualidade-dos-servicos-de-saude/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras implanta ouvidoria digital na Educacao",
+      "descricao": "A rede municipal de ensino de Rio das Ostras passou a contar com uma ouvidoria digital no aplicativo Colab, criando um novo canal para receber demandas da comunidade escolar e melhorar a mediacao de solicitacoes.",
+      "data_publicacao": "2026-03-20T16:45:04-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-implanta-ouvidoria-digital-na-educacao-pelo-aplicativo-colab/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Semana do Artesao termina com oficina de identidade cultural",
+      "descricao": "Rio das Ostras encerrou a Semana do Artesao com uma oficina voltada a identidade cultural, reforcando a valorizacao do trabalho manual, da economia criativa e das referencias locais ligadas ao artesanato.",
+      "data_publicacao": "2026-03-20T15:58:20-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/semana-do-artesao-termina-com-oficina-de-identidade-cultural/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "DETRO fiscaliza onibus intermunicipais para garantir ar-condicionado na frota",
+      "descricao": "O Detro realizou uma operacao em terminais rodoviarios para verificar o funcionamento do ar-condicionado em onibus intermunicipais, buscando melhorar o conforto dos passageiros nas viagens pelo estado do Rio de Janeiro.",
+      "data_publicacao": "2026-03-20T16:29:13-03:00",
+      "url": "https://www.rj.gov.br/radioroquettepinto/node/16179",
+      "fonte": "Roquette Pinto"
+    },
+    {
+      "titulo": "Escola Movel de Tecnologia do Senac RJ oferta mais de 100 vagas em cursos gratuitos profissionalizantes",
+      "descricao": "Uma unidade movel de tecnologia do Senac RJ vai levar cursos gratuitos de qualificacao profissional para Itaocara, com vagas nas areas de tecnologia e logistica e foco em ampliar oportunidades de formacao no interior fluminense.",
+      "data_publicacao": "2026-03-20T15:24:55-03:00",
+      "url": "https://www.rj.gov.br/radioroquettepinto/node/16170",
+      "fonte": "Roquette Pinto"
+    },
+    {
+      "titulo": "Ana Paula Frontini e eleita presidente do CNB/SP e se torna a primeira mulher a liderar a Seccional",
+      "descricao": "O Colegio Notarial do Brasil em Sao Paulo elegeu Ana Paula Frontini para a presidencia do bienio 2026-2028, marcando a primeira vez que uma mulher assume o comando da seccional paulista da entidade.",
+      "data_publicacao": "2026-03-20T20:36:36-03:00",
+      "url": "https://www.notariado.org.br/ana-paula-frontini-e-eleita-presidente-do-cnb-sp-e-se-torna-a-primeira-mulher-a-liderar-a-seccional/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "PROVIMENTO N. 218 DE 13 DE MARCO DE 2026",
+      "descricao": "O CNB divulgou o Provimento 218, que atualiza regras do Codigo Nacional de Normas da Corregedoria Nacional de Justica para disciplinar a alimentacao e a gestao do sistema Justica Aberta no foro extrajudicial.",
+      "data_publicacao": "2026-03-20T20:25:20-03:00",
+      "url": "https://www.notariado.org.br/provimento-n-218-de-13-de-marco-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Folha de SP - Cartorio online ultrapassa 10 milhoes de atos digitais",
+      "descricao": "O CNB repercutiu a marca de 10 milhoes de atos digitais realizados pela plataforma e-Notariado, destacando o avanço do atendimento remoto em escrituras, procuracoes, inventarios, divorcios e testamentos.",
+      "data_publicacao": "2026-03-14T10:13:57-03:00",
+      "url": "https://www.notariado.org.br/folha-de-sp-cartorio-online-ultrapassa-10-milhoes-de-atos-digitais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Como excluir o sobrenome de casamento apos o divorcio",
+      "descricao": "O ConJur abordou a possibilidade de exclusao do sobrenome adotado no casamento pela via registral, explicando caminhos praticos para quem deseja atualizar seu nome apos o divorcio.",
+      "data_publicacao": "2026-03-06T06:39:05-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-06/sobrenome-do-ex-conjuge-apos-o-divorcio-exclusao-pela-via-registral/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Cobranca de cotas condominiais de imoveis adquiridos na planta",
+      "descricao": "O ConJur discutiu os criterios juridicos para definir a responsabilidade pelo pagamento de cotas condominiais em imoveis comprados na planta, com foco no peso do registro e na obrigacao propter rem.",
+      "data_publicacao": "2026-03-12T19:35:24-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-12/forca-do-registro-a-obrigacao-propter-rem/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Inventario judicial e as tecnicas para evitar a paralisacao do espolio",
+      "descricao": "O ConJur analisou tecnicas processuais para impedir que conflitos pontuais travem toda a partilha de bens, defendendo uma conducao mais eficiente do inventario judicial sem sacrificar garantias das partes.",
+      "data_publicacao": "2026-02-21T15:23:19-03:00",
+      "url": "https://www.conjur.com.br/2026-fev-21/inventario-judicial-no-cpc-e-as-tecnicas-para-evitar-a-paralisacao-do-espolio/",
+      "fonte": "ConJur"
+    }
+  ]
+}

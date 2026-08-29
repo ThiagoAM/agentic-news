@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-20T10:01:00-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras participa de reunião do Conderlagos com governador",
+      "descricao": "Prefeitos do Conderlagos, liderados por Rio das Ostras, apresentaram ao governo estadual demandas de infraestrutura, mobilidade, limpeza de rios e reforço operacional para a alta temporada na Região dos Lagos.",
+      "data_publicacao": "2026-07-17T08:11:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipios-do-conderlagos-levam-pauta-conjunta-ao-governador-em-exercicio/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Simplesmente Noivas reúne tendências do setor de casamentos em Rio das Ostras",
+      "descricao": "A 12ª edição do salão gratuito acontece nos dias 25 e 26 de julho na Pousada Latitude 22, com quase 70 expositores e foco em fortalecer o mercado regional de festas e celebrações.",
+      "data_publicacao": "2026-07-16T13:51:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/simplesmente-noivas-reune-tendencias-do-setor-de-casamentos-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras promove I Encontro dos Trabalhadores do SUAS",
+      "descricao": "A Prefeitura reuniu profissionais da rede socioassistencial para formação, integração e debates sobre qualificação permanente dos serviços de assistência social no município.",
+      "data_publicacao": "2026-07-15T16:06:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-promove-i-encontro-dos-trabalhadores-do-suas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "JERJ tem etapas decisivas neste fim de semana",
+      "descricao": "Os Jogos Escolares do Rio de Janeiro realizaram etapas estaduais de handebol, futsal e judô, definindo campeões e classificados para competições escolares nacionais.",
+      "data_publicacao": "2026-07-16T12:11:00-03:00",
+      "url": "https://www.rj.gov.br/esporte/jerj-tem-etapas-decisivas-fim-de-semana",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Você conhece o UTS? Saiba como funciona o torneio de tênis que acontece este mês no Rio",
+      "descricao": "O Maracanãzinho recebeu a etapa sul-americana do Ultimate Tennis Showdown, evento apoiado pela Lei Estadual de Incentivo ao Esporte e voltado à projeção internacional do Rio no calendário esportivo.",
+      "data_publicacao": "2026-07-08T16:18:00-03:00",
+      "url": "https://www.rj.gov.br/esporte/conheca-torneio-de-tenis-uts-que-acontece-no-rio",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Herança digital merece atenção para o planejamento sucessório",
+      "descricao": "Artigo da ConJur analisa os desafios jurídicos da sucessão de contas, arquivos e ativos digitais e destaca a ausência de regras específicas no Brasil para a herança digital.",
+      "data_publicacao": "2026-07-19T00:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-19/o-novo-paradigma-da-sucessao-e-heranca-digital/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Partilha com herdeiro menor: limites da desjudicialização do inventário",
+      "descricao": "A ConJur explica como a Resolução CNJ nº 571/2024 permite inventário por escritura pública em casos específicos com herdeiro menor ou incapaz, mantendo salvaguardas jurídicas e atuação do Ministério Público.",
+      "data_publicacao": "2026-07-11T00:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-11/partilha-com-herdeiro-menor-ou-incapaz-limites-da-desjudicializacao-do-inventario/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Partilha com divisão desigual de quinhões hereditários é válida",
+      "descricao": "O STJ admitiu partilha amigável com quinhões desiguais entre herdeiros maiores e capazes, desde que exista cessão de direitos e manifestação livre de vontade das partes.",
+      "data_publicacao": "2026-07-07T00:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-07/e-possivel-partilha-amigavel-com-divisao-desigual-dos-quinhoes-hereditarios-decide-stj/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça disponibiliza painel com relações gerais de vacâncias dos serviços extrajudiciais",
+      "descricao": "O CNB/RJ destacou a criação de um painel do CNJ que reúne e dá publicidade às listas de vacâncias das serventias extrajudiciais, facilitando o acompanhamento das informações pelos cartórios.",
+      "data_publicacao": "2026-07-01T15:44:09-03:00",
+      "url": "https://cnbrj.org.br/corregedoria-nacional-de-justica-disponibiliza-painel-com-relacoes-gerais-de-vacancias-dos-servicos-extrajudiciais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Quarta Turma afasta usucapião familiar sobre parte de imóvel com área total superior a 250 m²",
+      "descricao": "O CNB/RJ repercutiu decisão do STJ segundo a qual a usucapião familiar não pode recair sobre fração de imóvel urbano cuja área total ultrapasse 250 m², por se tratar de requisito objetivo da lei.",
+      "data_publicacao": "2026-07-01T15:38:00-03:00",
+      "url": "https://cnbrj.org.br/quarta-turma-afasta-usucapiao-familiar-sobre-parte-de-imovel-com-area-total-superior-a-250-m%C2%B2/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Semana da Qualidade mobiliza cartórios de todo o País para participação no PQTA 2026",
+      "descricao": "A mobilização nacional organizada pela ANOREG/BR com apoio das entidades estaduais busca ampliar a participação dos cartórios no PQTA 2026 e fortalecer a cultura de qualidade nos serviços extrajudiciais.",
+      "data_publicacao": "2026-06-30T00:00:00-03:00",
+      "url": "https://cnbrj.org.br/semana-da-qualidade-mobiliza-cartorios-de-todo-o-pais-para-participacao-no-pqta-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

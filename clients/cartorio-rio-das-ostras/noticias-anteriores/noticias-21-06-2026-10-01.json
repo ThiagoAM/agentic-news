@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-06-21T10:01:41-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras estreita parceria para ampliar cirurgias e atendimentos especializados",
+      "descricao": "A Prefeitura de Rio das Ostras informou que credenciou o Hospital Municipal no programa Agora Tem Especialistas e reforçou a integração regional da saúde. A medida busca ampliar recursos para cirurgias, exames e consultas especializadas, reduzindo filas de espera no município.",
+      "data_publicacao": "2026-06-18T16:42:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-estreita-parceria-com-governo-federal-para-avancos-na-saude/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras promove destino turístico em agências de Campos dos Goytacazes",
+      "descricao": "A Secretaria de Desenvolvimento Econômico e Turismo de Rio das Ostras realizou visitas institucionais a agências e operadoras de turismo de Campos dos Goytacazes. A ação apresentou atrativos, rede de hospedagem e calendário de eventos para ampliar a presença do município no mercado regional.",
+      "data_publicacao": "2026-06-17T12:33:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-realiza-promocao-turistica-com-agencias-campos-dos-goytacazes/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras avança no modelo de cidade inteligente",
+      "descricao": "A Prefeitura de Rio das Ostras participou de um encontro nacional de geointeligência e anunciou parceria para aplicar ferramentas de cidade inteligente na gestão municipal. A proposta inclui digitalização de serviços, centralização de dados e apoio ao planejamento urbano, tributário e ambiental.",
+      "data_publicacao": "2026-05-30T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-no-modelo-de-cidade-inteligente/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Niterói inaugura primeira arena indoor do estado fora da capital",
+      "descricao": "A Prefeitura de Niterói inaugurou a Arena Niterói, espaço com padrão internacional para competições esportivas, shows e eventos culturais. O equipamento amplia a infraestrutura de lazer e esporte do município e reforça o potencial da cidade para receber grandes programações.",
+      "data_publicacao": "2026-06-15T20:24:00-03:00",
+      "url": "https://odia.ig.com.br/niteroi/2026/06/7264964-prefeitura-inaugura-arena-niteroi-primeira-arena-indoor-fora-da-capital-fluminense.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Casimiro de Abreu promove Arraiá da Cultura com programação gratuita",
+      "descricao": "O Bosque das Carrapeteiras recebeu divulgação de uma programação junina com música, dança, atividades esportivas e apresentações artísticas em Casimiro de Abreu. A iniciativa valoriza a cultura popular, incentiva a convivência comunitária e fortalece o calendário cultural da região.",
+      "data_publicacao": "2026-06-18T09:48:00-03:00",
+      "url": "https://odia.ig.com.br/casimiro-de-abreu/2026/06/7266179-arraia-vai-tomar-conta-do-bosque-das-carrapeteiras-com-musica-cultura-e-lazer.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "ConJur destaca que renúncia de herança para beneficiário específico exige escritura pública",
+      "descricao": "Reportagem do ConJur mostrou decisão do TJ-MG segundo a qual a renúncia translativa de herança funciona como cessão de direitos e precisa ser formalizada por escritura pública. O entendimento reforça a exigência de registro adequado quando há indicação de destinatário específico.",
+      "data_publicacao": "2026-06-20T08:23:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-20/abdicar-de-heranca-em-prol-de-beneficiario-especifico-exige-escritura-publica/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur relata decisão que obriga plano de saúde a custear home care com indicação médica",
+      "descricao": "O ConJur noticiou que o TJ-SP manteve entendimento de que o tratamento domiciliar deve ser custeado por plano de saúde quando houver indicação médica comprovada. A decisão diferencia os itens essenciais do tratamento de produtos sem comprovação suficiente para cobertura obrigatória.",
+      "data_publicacao": "2026-06-20T07:52:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-20/plano-deve-custear-tratamento-domiciliar-sem-cobertura-contratual/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur informa curso da EPM sobre a Lei do Superendividamento",
+      "descricao": "O ConJur divulgou curso da Escola Paulista da Magistratura voltado à Lei do Superendividamento, com debates sobre procedimentos administrativos e judiciais, mínimo existencial e tutela de urgência. A atividade será oferecida em formato presencial e por videoconferência.",
+      "data_publicacao": "2026-06-19T18:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-19/lei-do-superendividamento-sera-debatida-em-curso-da-epm-na-terca-23-6/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "CNB/CF e notariado uruguaio discutem cooperação em tecnologia e e-Notariado",
+      "descricao": "O Colégio Notarial do Brasil informou que se reuniu com representantes do notariado uruguaio para trocar experiências sobre transformação digital e serviços eletrônicos. O encontro abordou o e-Notariado e a possibilidade de cooperação técnica entre as instituições.",
+      "data_publicacao": "2026-06-18T11:34:39-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-e-notariado-uruguaio-discutem-cooperacao-em-tecnologia-e-e-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB repercute entendimento do STJ sobre ação de regresso após pagamento integral da dívida",
+      "descricao": "O portal do Colégio Notarial do Brasil repercutiu decisão do STJ segundo a qual o direito de regresso entre devedores solidários só pode ser exercido depois do pagamento integral ao credor comum. O entendimento reforça que pagamento parcial não encerra a fase externa da solidariedade.",
+      "data_publicacao": "2026-06-17T18:04:09-03:00",
+      "url": "https://www.notariado.org.br/acao-de-regresso-e-prematura-quando-ha-apenas-pagamento-parcial-da-divida-entende-stj/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB analisa proposta de divórcio unilateral direto em cartório",
+      "descricao": "O Colégio Notarial do Brasil publicou análise sobre a proposta de divórcio unilateral em cartório prevista na reforma do Código Civil. A matéria apresenta argumentos a favor da desjudicialização e registra a preocupação do setor notarial com garantias e proteção das partes.",
+      "data_publicacao": "2026-06-19T19:05:58-03:00",
+      "url": "https://www.notariado.org.br/e-possivel-se-separar-sozinho-entenda-o-novo-tipo-de-divorcio-previsto-na-reforma-do-codigo-civil/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

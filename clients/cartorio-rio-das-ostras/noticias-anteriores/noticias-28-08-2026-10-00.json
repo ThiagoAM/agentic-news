@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-08-28T10:00:38-03:00",
+  "noticias": [
+    {
+      "titulo": "Teatro de Rio das Ostras terá humor e música em fim de semana",
+      "descricao": "O Teatro Municipal Joel Barcellos recebe uma comédia na sexta-feira e um espetáculo autoral de música no sábado, com apresentações às 20h.",
+      "data_publicacao": "2026-08-26T13:35:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/08/7295400-teatro-de-rio-das-ostras-tera-humor-e-musica-em-fim-de-semana.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Saneamento entra em nova rodada de debates em Rio das Ostras",
+      "descricao": "Reuniões setoriais e temáticas ampliam a participação dos moradores na construção do Plano Municipal de Saneamento Básico de Rio das Ostras.",
+      "data_publicacao": "2026-08-25T14:05:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/08/7294999-saneamento-entra-em-nova-rodada-de-debates-em-rio-das-ostras.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Rio das Ostras apresenta Plano Municipal de Educação Digital",
+      "descricao": "A Secretaria de Educação apresentou o plano que consolida ações de educação digital, computação, educação midiática e inovação pedagógica na rede municipal.",
+      "data_publicacao": "2026-08-14T09:03:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-apresenta-plano-municipal-de-educacao-digital-midiatica/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Seminário de Saúde Mental integra equipes e qualifica profissionais",
+      "descricao": "O II Seminário Interno do Departamento de Saúde Mental reuniu profissionais para aprimorar fluxos de trabalho e o atendimento da Rede de Atenção Psicossocial.",
+      "data_publicacao": "2026-08-19T16:08:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/seminario-de-saude-mental-integra-equipes-e-qualifica-profissionais/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Orientação do CNJ sobre o ITCMD resolve apenas parte da questão",
+      "descricao": "Artigo analisa a orientação do Conselho Nacional de Justiça sobre o recolhimento do ITCMD em inventários extrajudiciais e seus efeitos práticos.",
+      "data_publicacao": "2026-08-26T08:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-26/orientacao-do-cnj-sobre-o-itcmd-resolve-apenas-parte-da-questao/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "STJ delimita hipóteses para uso excepcional da reclamação constitucional",
+      "descricao": "Decisão do Superior Tribunal de Justiça estabelece limites para o uso excepcional da reclamação constitucional no sistema processual.",
+      "data_publicacao": "2026-08-26T08:54:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-26/stj-limita-o-que-nao-sera-excepcional-para-uso-da-reclamacao-constitucional/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Cargo multidisciplinar afasta exigência de registro profissional",
+      "descricao": "A análise jurídica aponta que o exercício de cargo público multidisciplinar, acessível a graduados de várias áreas, não exige registro em conselho profissional.",
+      "data_publicacao": "2026-08-26T11:01:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-26/cargo-de-natureza-multidisciplinar-afasta-exigencia-de-registro-profissional/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Provimento nº 249/26 qualifica a Corregedoria Nacional de Justiça como ICT Pública",
+      "descricao": "O provimento incorpora pesquisa aplicada, desenvolvimento tecnológico e inovação à missão institucional da Corregedoria Nacional de Justiça.",
+      "data_publicacao": "2026-08-17T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/provimento-no-249-26-qualifica-a-corregedoria-nacional-de-justica-como-instituicao-cientifica-tecnologica-e-de-inovacao-ict-publica/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Portaria designa comissão do Exame Nacional dos Cartórios",
+      "descricao": "A Corregedoria Nacional de Justiça designou os integrantes da comissão responsável pelo Exame Nacional dos Cartórios, o ENAC.",
+      "data_publicacao": "2026-08-12T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/portaria-no-76-de-12-de-agosto-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ dispensa pagamento prévio de ITCMD em inventário extrajudicial",
+      "descricao": "O CNJ decidiu que o recolhimento antecipado do ITCMD não pode ser condição para a lavratura de escritura de inventário e partilha em cartório.",
+      "data_publicacao": "2026-08-18T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-dispensa-pagamento-previo-de-itcmd-em-inventario-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Corregedoria suspende temporariamente provimento que instituiu o VNS",
+      "descricao": "A eficácia do provimento que criou o Validador Nacional de Selos de Fiscalização dos Atos Notariais e Registrais foi suspensa por 60 dias.",
+      "data_publicacao": "2026-08-13T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-suspende-temporariamente-provimento-cn-cnj-n-247-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

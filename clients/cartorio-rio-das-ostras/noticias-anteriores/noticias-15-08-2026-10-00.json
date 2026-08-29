@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-08-15T10:00:56-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras participa de seminário sobre fortalecimento da indústria",
+      "descricao": "A Prefeitura de Rio das Ostras participou do Seminário Agrega + Indústria, na capital fluminense, para discutir conteúdo local, cadeia de fornecedores e transição energética. O município destacou a importância de integrar sua Zona Especial de Negócios a novas oportunidades de investimento e geração de empregos.",
+      "data_publicacao": "2026-08-05T14:08:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-participa-do-seminario-agrega-industria/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Agosto Dourado mobiliza ações de incentivo à amamentação em Rio das Ostras",
+      "descricao": "A rede municipal de saúde de Rio das Ostras promove durante agosto rodas de conversa, orientações e atendimento especializado para gestantes, puérperas e famílias. A campanha reforça os benefícios do aleitamento materno e amplia o apoio contínuo oferecido pelo Ambulatório de Amamentação do município.",
+      "data_publicacao": "2026-08-11T09:16:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/agosto-dourado-tem-acoes-de-incentivo-a-amamentacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Feirão de emprego leva 50 vagas para atendimento em Rio das Ostras",
+      "descricao": "A Secretaria de Desenvolvimento Econômico e Turismo de Rio das Ostras intermediou um feirão de vagas do Assaí Atacadista com oportunidades operacionais e benefícios para os contratados. O atendimento presencial foi organizado com distribuição de senhas e vagas abertas também para pessoas com deficiência.",
+      "data_publicacao": "2026-08-10T16:47:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/assai-atacadista-realiza-feirao-de-emprego-nesta-quarta-feira-12-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Central do Brasil recebe feirão com vagas de emprego, estágio e cursos",
+      "descricao": "A Central do Brasil recebeu uma ação gratuita voltada à juventude com mais de três mil vagas de emprego, estágio e Jovem Aprendiz, além de bolsas e cursos de qualificação. A iniciativa reuniu empresas, instituições de ensino e serviços de orientação profissional para ampliar o acesso ao mercado de trabalho no Rio.",
+      "data_publicacao": "2026-08-12T11:19:00-03:00",
+      "url": "https://odia.ig.com.br/economia/empregos-e-negocios/2026/08/7289736-central-do-brasil-recebe-feirao-de-empregos-e-cursos.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Parque Realengo terá fim de semana de música, cultura e lazer gratuito",
+      "descricao": "O Parque Realengo – Susana Naspolini programou para os dias 15 e 16 de agosto um evento gratuito com música, recreação infantil, feira criativa e atividades ao ar livre. A proposta valoriza a economia criativa e amplia as opções de convivência e lazer para moradores e visitantes da cidade do Rio.",
+      "data_publicacao": "2026-08-12T18:53:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/08/7289961-parque-realengo-recebe-fim-de-semana-de-musica-cultura-e-lazer-gratuito.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "CNJ afasta exigência de certidão negativa no inventário extrajudicial",
+      "descricao": "Artigo publicado no ConJur destaca decisão do CNJ que considerou ilegal exigir certidão negativa de débitos para a lavratura de escritura pública de inventário e partilha extrajudicial. O entendimento preserva a função informativa do tabelião, sem transformar o cartório em mecanismo indireto de cobrança tributária.",
+      "data_publicacao": "2026-08-14T11:20:08-03:00",
+      "url": "https://conjur.com.br/2026-ago-14/cnj-afasta-exigencia-de-certidao-negativa-no-inventario-extrajudicial/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ confirma instrumento particular para alienação fiduciária fora do SFI",
+      "descricao": "O ConJur informou que o CNJ confirmou a possibilidade de usar instrumento particular com efeitos de escritura pública para alienação fiduciária de imóveis, mesmo fora do Sistema de Financiamento Imobiliário. A decisão reduz custos e amplia a utilização do modelo por pessoas físicas e jurídicas.",
+      "data_publicacao": "2026-08-07T19:21:01-03:00",
+      "url": "https://conjur.com.br/2026-ago-07/exigencia-de-escritura-publica-para-alienacao-fiduciaria-fora-do-sfi/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ConJur analisa impactos fiscais do condomínio rural antes e depois da reforma",
+      "descricao": "O ConJur publicou análise sobre o condomínio rural como instrumento de organização patrimonial e produtiva no campo, com foco em seus efeitos fiscais antes e depois da reforma tributária do consumo. O texto destaca a importância do correto enquadramento jurídico e registral para preservar segurança e eficiência nas operações.",
+      "data_publicacao": "2026-07-31T08:00:10-03:00",
+      "url": "https://conjur.com.br/2026-jul-31/condominio-rural-aspectos-fiscais-pre-e-pos-reforma/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Corregedoria reafirma competência territorial do e-Notariado em atos híbridos",
+      "descricao": "O Colégio Notarial do Brasil destacou decisão da Corregedoria Nacional que mantém a aplicação das regras territoriais do e-Notariado também para atos híbridos. O entendimento alcança escrituras com assinaturas presenciais e a distância no mesmo procedimento.",
+      "data_publicacao": "2026-07-24T15:50:16-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-reafirma-aplicacao-da-competencia-territorial-do-e-notariado-aos-atos-notariais-hibridos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Serviços digitais de Registro de Imóveis crescem quase 20% no Rio no semestre",
+      "descricao": "O Colégio Notarial do Brasil divulgou que o estado do Rio de Janeiro registrou mais de 470 mil solicitações na plataforma RI Digital no primeiro semestre de 2026. O avanço foi puxado por serviços como pesquisa prévia, certidões digitais e e-Protocolo, indicando maior adesão aos atendimentos eletrônicos.",
+      "data_publicacao": "2026-07-31T15:40:17-03:00",
+      "url": "https://www.notariado.org.br/uso-de-servicos-digitais-de-registro-de-imoveis-cresce-quase-20-no-rio-no-primeiro-semestre-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Projeto permite coletar depoimento de testemunha em cartório",
+      "descricao": "O Colégio Notarial do Brasil repercutiu projeto de lei que autoriza a coleta de depoimentos de testemunhas em cartório, inclusive por videoconferência, em processos sobre direitos disponíveis. A proposta busca acelerar a produção de provas sem retirar do juiz a análise final sobre a validade do material.",
+      "data_publicacao": "2026-07-27T16:44:38-03:00",
+      "url": "https://www.notariado.org.br/projeto-permite-coletar-depoimento-de-testemunha-em-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

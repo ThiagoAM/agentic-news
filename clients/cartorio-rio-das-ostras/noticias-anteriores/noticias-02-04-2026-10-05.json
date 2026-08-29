@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-04-02T10:05:04-03:00",
+  "noticias": [
+    {
+      "titulo": "Saúde se qualifica em desenvolvimento infantil e TEA",
+      "descricao": "A Secretaria de Saúde promoveu oficina sobre vigilância do desenvolvimento no 1º ano de vida e uso do M-CHAT para triagem de TEA, capacitando equipes da Saúde da Família.",
+      "data_publicacao": "2026-04-02T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/saude-se-qualifica-em-desenvolvimento-infantil-e-tea/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras celebra Selo Ouro do Compromisso com a Alfabetização",
+      "descricao": "O município recebeu o Selo Ouro do Compromisso Nacional com a Alfabetização e iniciou um circuito do símbolo pelas escolas. A premiação reconhece ações das 23 unidades da rede.",
+      "data_publicacao": "2026-04-01T16:45:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-celebra-selo-ouro-do-compromisso-nacional-com-a-alfabetizacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Estação Ferroviária de Rocha Leão celebra 138 anos",
+      "descricao": "A estação ferroviária, hoje Centro Ferroviário de Cultura, comemorou 138 anos com visita de alunos, oficinas e apresentações culturais. A ação reforça a memória histórica de Rocha Leão.",
+      "data_publicacao": "2026-04-01T14:42:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/estacao-ferroviaria-de-rocha-leao-celebra-138-anos-de-historia/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Educação que transforma: Polo Alerj inicia aulas do Pré-Vestibular Social da Fundação Cecierj",
+      "descricao": "O polo da Alerj iniciou as aulas do Pré‑Vestibular Social da Fundação Cecierj, ampliando a rede de ensino gratuito no RJ. A parceria reforça ainda o acesso ao ensino superior.",
+      "data_publicacao": "2026-04-01T00:00:00-03:00",
+      "url": "https://www.cecierj.edu.br/2026/04/01/educacao-que-transforma-polo-alerj-inicia-aulas-do-pre-vestibular-social-da-fundacao-cecierj/",
+      "fonte": "Fundação CECIERJ"
+    },
+    {
+      "titulo": "Vestibular Cederj 2026.2 abre inscrição para pedido de isenção e cotas e Ação Afirmativa",
+      "descricao": "O Cederj abriu pedidos de isenção da taxa e pré‑inscrição em cotas e ações afirmativas até 5 de abril. A medida atende candidatos e professores da rede pública antes do período regular.",
+      "data_publicacao": "2026-03-30T00:00:00-03:00",
+      "url": "https://www.cecierj.edu.br/2026/03/30/vestibular-cederj-2026-2-abre-inscricao-para-pedido-de-isencao-e-cotas-e-acao-afirmativa/",
+      "fonte": "Fundação CECIERJ"
+    },
+    {
+      "titulo": "Cliente que cancela serviço com aviso prévio não deve multa de fidelidade",
+      "descricao": "Decisão da 4ª Vara Cível de Santos afastou multa rescisória cobrada de condomínio que avisou com 60 dias o fim de contrato de gás. O juiz aplicou o CDC e validou o encerramento regular.",
+      "data_publicacao": "2026-04-02T08:33:18-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-02/cliente-que-cancela-servico-com-aviso-previo-nao-deve-multa-de-fidelidade/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Juiz responsabiliza Caixa por atraso em imóvel de programa habitacional",
+      "descricao": "A Justiça Federal de Campinas reconheceu responsabilidade solidária da Caixa por atraso em obra do programa habitacional e rescindiu o contrato, determinando restituição dos valores e indenização.",
+      "data_publicacao": "2026-04-02T07:49:04-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-02/juiz-responsabiliza-caixa-por-atraso-em-imovel-de-programa-habitacional/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "TJ-SP anula regra de condomínio que proibia fumo em áreas abertas",
+      "descricao": "O TJ-SP anulou norma condominial que vetava fumo em áreas abertas sem quórum qualificado para alterar o regulamento. A decisão afastou advertência aplicada a morador na área da piscina.",
+      "data_publicacao": "2026-04-02T07:22:52-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-02/tj-sp-anula-regra-de-condominio-que-proibia-fumo-em-areas-abertas/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Informe Notarial nº 12/2026",
+      "descricao": "O CNB/CF publicou o Informe Notarial nº 12/2026 com comunicados e orientações aos cartórios sobre documentos e procedimentos ligados ao reconhecimento de firma em fichas de apoiamento.",
+      "data_publicacao": "2026-04-01T15:42:44-03:00",
+      "url": "https://www.notariado.org.br/informes-notariais/informe-notarial-no-12-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Informe Notarial nº 11/2026",
+      "descricao": "O CNB/CF divulgou o Informe Notarial nº 11/2026 com avisos e diretrizes para cartórios, reunindo comunicados sobre documentos e procedimentos de reconhecimento de firma em fichas de apoiamento.",
+      "data_publicacao": "2026-03-31T13:46:47-03:00",
+      "url": "https://www.notariado.org.br/informes-notariais/informe-notarial-no-11-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Informe Notarial nº 10/2026",
+      "descricao": "O CNB/CF lançou o Informe Notarial nº 10/2026 com comunicados e orientações aos cartórios sobre documentos e procedimentos ligados ao reconhecimento de firma em fichas de apoiamento.",
+      "data_publicacao": "2026-03-26T09:06:40-03:00",
+      "url": "https://www.notariado.org.br/informes-notariais/informe-notarial-no-10-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

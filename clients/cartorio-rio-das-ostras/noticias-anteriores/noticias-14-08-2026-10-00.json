@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-08-14T10:00:57-03:00",
+  "noticias": [
+    {
+      "titulo": "Publicado edital de notificação para retirada de veículos apreendidos em Rio das Ostras",
+      "descricao": "A Prefeitura de Rio das Ostras publicou edital para que proprietários regularizem débitos e retirem veículos conservados recolhidos ao pátio público. O prazo é de 30 dias e, após esse período, os veículos poderão seguir para leilão conforme a legislação vigente.",
+      "data_publicacao": "2026-08-12T12:49:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/edital-de-notificacao-para-retirada-de-veiculos-apreendidos-e-publicado/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Teatro Municipal de Rio das Ostras apresenta show \"Tudo Azul\"",
+      "descricao": "A Fundação Rio das Ostras de Cultura programou para o Teatro Joel Barcellos o espetáculo \"Tudo Azul\", de Robson Farah, com repertório dedicado à obra de Nelson Motta. A apresentação encerra uma etapa da turnê estadual e amplia a agenda cultural do município.",
+      "data_publicacao": "2026-08-12T12:13:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/teatro-municipal-apresenta-espetaculo-tudo-azul/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Estudantes de Rio das Ostras são premiados em prêmio literário",
+      "descricao": "Mais de 1,5 mil estudantes da rede municipal participaram da terceira edição do Prêmio Literário do Ensino Fundamental em Rio das Ostras. Ao todo, 125 alunos de 19 escolas foram premiados e terão seus textos reunidos em publicação em livro.",
+      "data_publicacao": "2026-08-12T11:47:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/estudantes-riostrenses-sao-premiados-em-premio-literario/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Faetec encerra participação na Rio Innovation Week 2026 com palestras sobre educação e tecnologia",
+      "descricao": "A Faetec concluiu sua participação na Rio Innovation Week com palestras sobre objetos de aprendizagem, segurança digital e outros temas ligados à inovação. A instituição também levou mais de 60 projetos de estudantes em áreas como robótica, saúde e sustentabilidade.",
+      "data_publicacao": "2026-08-07T12:00:00-03:00",
+      "url": "https://www.faetec.rj.gov.br/faetec-encerra-participacao-na-rio-innovation-week-2026-com-palestras-sobre-educacao-e-tecnologia/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "Faetec leva projetos inovadores para a Rio Innovation Week 2026",
+      "descricao": "O Governo do Estado e a Faetec apresentaram na Rio Innovation Week mais de 60 projetos estudantis com foco em saúde, sustentabilidade, robótica e economia. Entre os destaques estão soluções para monitoramento de quedas em idosos, ansiedade em pets e educação financeira.",
+      "data_publicacao": "2026-08-03T12:00:00-03:00",
+      "url": "https://www.faetec.rj.gov.br/faetec-vai-levar-projetos-inovadores-para-a-rio-innovation-week-2026/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "CNJ e BC criam grupo para ampliar a transparência na cessão de precatórios",
+      "descricao": "O ConJur informou a criação de um grupo executivo entre CNJ e Banco Central para estruturar uma sistemática nacional de registro, rastreabilidade e controle da cessão de créditos de precatórios. A proposta prevê integração com cartórios e reforço da segurança jurídica nas transferências.",
+      "data_publicacao": "2026-08-12T15:49:21-03:00",
+      "url": "https://conjur.com.br/2026-ago-12/cnj-e-bc-criam-grupo-para-incrementar-transparencia-da-cessao-de-precatorios/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Bloqueio de matrícula após Provimento CNJ 224 já não impede todo ato registral",
+      "descricao": "Artigo publicado no ConJur analisa como o Provimento CNJ 224/2026 relativizou os efeitos do bloqueio de matrícula imobiliária. O texto destaca que a medida continua cautelar, mas deixa de impedir de forma automática toda prática registral.",
+      "data_publicacao": "2026-08-13T09:25:50-03:00",
+      "url": "https://conjur.com.br/2026-ago-13/bloqueio-de-matricula-apos-o-provimento-cnj-224-o-bloqueio-ja-nao-impede-todo-ato-registral/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ libera assinatura digital em cartório para transferência de veículos",
+      "descricao": "Segundo o ConJur, decisão do CNJ restabeleceu a transferência de veículos por assinatura digital, permitindo operações totalmente digitais para pessoas jurídicas. O modelo admite atos presenciais e virtuais em cartórios de diferentes estados dentro do mesmo processo.",
+      "data_publicacao": "2026-07-30T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-jul-30/cnj-libera-assinatura-digital-em-cartorio-para-transferencia-de-veiculos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Corregedoria reafirma competência territorial do e-Notariado em atos híbridos",
+      "descricao": "O Colégio Notarial do Brasil destacou decisão da Corregedoria Nacional que mantém a aplicação das regras territoriais do e-Notariado também para atos híbridos. O entendimento alcança escrituras com parte das assinaturas presenciais e parte colhida a distância.",
+      "data_publicacao": "2026-07-24T15:50:16-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-reafirma-aplicacao-da-competencia-territorial-do-e-notariado-aos-atos-notariais-hibridos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Uso de serviços digitais de Registro de Imóveis cresce quase 20% no Rio no primeiro semestre de 2026",
+      "descricao": "O Colégio Notarial do Brasil divulgou que o Rio de Janeiro registrou mais de 470 mil solicitações na plataforma RI Digital no primeiro semestre. O crescimento foi puxado por serviços como certidões, e-Protocolo e pesquisa prévia, que mais do que dobrou no período.",
+      "data_publicacao": "2026-07-31T15:40:17-03:00",
+      "url": "https://www.notariado.org.br/uso-de-servicos-digitais-de-registro-de-imoveis-cresce-quase-20-no-rio-no-primeiro-semestre-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Projeto permite coletar depoimento de testemunha em cartório",
+      "descricao": "O Colégio Notarial do Brasil repercutiu projeto de lei que autoriza depoimentos de testemunhas em cartório, inclusive por videoconferência, em processos sobre direitos disponíveis. A proposta busca acelerar a produção de provas sem retirar do juiz o controle sobre sua validade.",
+      "data_publicacao": "2026-07-27T16:44:38-03:00",
+      "url": "https://www.notariado.org.br/projeto-permite-coletar-depoimento-de-testemunha-em-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

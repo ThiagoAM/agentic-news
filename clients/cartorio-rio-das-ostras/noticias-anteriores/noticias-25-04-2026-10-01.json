@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-04-25T10:01:31-03:00",
+  "noticias": [
+    {
+      "titulo": "Ostrascycle é sucesso em Rio das Ostras",
+      "descricao": "O encontro internacional de motociclistas reuniu cerca de 45 mil pessoas em cinco dias, com 70 bandas, feira temática e forte impacto positivo na hotelaria, na gastronomia e no comércio local.",
+      "data_publicacao": "2026-04-20T17:06:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/ostrascycle-e-sucesso-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Com lançamento do “Rio das Ostras Digital”, Município moderniza gestão",
+      "descricao": "A Prefeitura lançou a plataforma Rio das Ostras Digital, que já reúne mais de 70 serviços, incluindo tributos, agendamentos e solicitações online, para ampliar a praticidade no atendimento aos moradores.",
+      "data_publicacao": "2026-04-10T14:55:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/com-lancamento-do-rio-das-ostras-digital-municipio-moderniza-gestao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras conclui diagnóstico de Plano de Saneamento",
+      "descricao": "A etapa de diagnóstico do Plano Municipal de Saneamento foi concluída com participação de órgãos técnicos e da sociedade civil, consolidando informações para orientar metas e investimentos no setor.",
+      "data_publicacao": "2026-04-08T09:32:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-conclui-diagnostico-de-plano-de-saneamento-junto-a-populacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "ExpoRio Turismo 2026 bate recordes",
+      "descricao": "A quinta edição da ExpoRio Turismo reuniu 66 municípios, cerca de 700 expositores e mais de 63 mil inscritos, reforçando o evento como vitrine do potencial turístico e econômico do estado.",
+      "data_publicacao": "2026-03-30T07:00:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/03/7228991-exporio-turismo-2026-bate-recordes-no-rio.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Feriados em abril aquecem consumo em bares e restaurantes do Rio de Janeiro",
+      "descricao": "Abrasel-RJ projeta aumento do movimento no setor de alimentação fora do lar durante os feriados de abril, impulsionado pelo fluxo de turistas e pelo bom desempenho recente do turismo no estado.",
+      "data_publicacao": "2026-04-17T18:11:07-03:00",
+      "url": "https://odia.ig.com.br/economia/2026/04/7238145-feriados-em-abril-aquecem-consumo-em-bares-e-restaurantes-do-rio-de-janeiro.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Quem não recebeu escritura de imóvel pode pedir indenização sem prazo, decide STJ",
+      "descricao": "Divulgado pelo CNB, o entendimento do STJ afirma que, se a adjudicação compulsória se tornar inviável, a conversão em perdas e danos também não se submete à prescrição, preservando o direito do comprador.",
+      "data_publicacao": "2026-04-23T15:04:08-03:00",
+      "url": "https://www.notariado.org.br/quem-nao-recebeu-escritura-de-imovel-pode-pedir-indenizacao-sem-prazo-decide-stj/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF indica tabeliães brasileiros para Grupos de Trabalho da CAAm e Alexandre Kassama assume coordenação em Informática e Segurança Jurídica",
+      "descricao": "O CNB/CF formalizou novas indicações para grupos técnicos da União Internacional do Notariado, ampliando a participação brasileira em temas como transformação digital, segurança jurídica e cooperação continental.",
+      "data_publicacao": "2026-04-22T17:20:28-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-indica-tabeliaes-brasileiros-para-grupos-de-trabalho-da-caam-e-alexandre-kassama-assume-coordenacao-em-informatica-e-seguranca-juridica/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Delegação de Moçambique visita o Brasil para conhecer soluções digitais da atividade extrajudicial",
+      "descricao": "Representantes de Moçambique visitaram cartórios e registros em São Paulo para conhecer ferramentas como o e-Notariado e o registro imobiliário eletrônico, em agenda voltada à modernização dos serviços notariais.",
+      "data_publicacao": "2026-04-22T10:10:38-03:00",
+      "url": "https://www.notariado.org.br/delegacao-de-mocambique-visita-o-brasil-para-conhecer-solucoes-digitais-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Advogado de empresa não pode ser compelido a fornecer dados de sócio",
+      "descricao": "A 2ª Câmara Cível do TJ do Tocantins afastou a tentativa de obrigar o advogado de uma empresa a informar telefone e endereço de sócio, reforçando a distinção entre o papel do patrono e os deveres da parte no processo.",
+      "data_publicacao": "2026-04-25T08:54:17-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-25/advogado-de-empresa-nao-pode-ser-compelido-a-fornecer-dados-de-socio/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Citação de réu pelo WhatsApp é inválida em ação de estado, decide STJ",
+      "descricao": "O STJ entendeu que ações de estado exigem citação pessoal, de modo que a comunicação por WhatsApp não supre a formalidade necessária para homologação de sentença estrangeira de divórcio.",
+      "data_publicacao": "2026-04-25T07:31:30-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-25/citacao-de-reu-pelo-whatsapp-e-invalida-em-acao-de-estado/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Registros em redes sociais comprovam união estável e garantem pensão a viúva",
+      "descricao": "A Justiça Federal no Paraná reconheceu união estável com base em fotos, publicações, contratos e prova oral, determinando o restabelecimento vitalício de pensão por morte à viúva.",
+      "data_publicacao": "2026-04-24T20:15:32-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-24/justica-federal-do-pr-reconhece-registros-em-redes-sociais-para-comprovar-uniao-estavel/",
+      "fonte": "ConJur"
+    }
+  ]
+}

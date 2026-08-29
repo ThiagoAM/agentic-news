@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-06-09T10:01:42-03:00",
+  "noticias": [
+    {
+      "titulo": "FeMASS recebe CIEE Rio para cadastro de vagas de estágio nesta terça",
+      "descricao": "A FeMASS, em Macaé, recebe uma ação do CIEE Rio voltada a estudantes que buscam estágio e inserção no mercado de trabalho. A atividade amplia o acesso a cadastro de vagas e aproxima os alunos de oportunidades profissionais no estado do Rio de Janeiro.",
+      "data_publicacao": "2026-06-09T09:03:00-03:00",
+      "url": "http://www.macae.rj.gov.br/noticias/leitura?noticia=62292",
+      "fonte": "Prefeitura de Macaé"
+    },
+    {
+      "titulo": "STJ suspende ações sobre aluguel de curta temporada para fixar tese",
+      "descricao": "O STJ suspendeu processos em todo o país sobre aluguel de curta temporada em condomínios residenciais para julgar o tema em rito repetitivo. A futura tese deve orientar de forma vinculante os limites desse tipo de locação diante das regras condominiais.",
+      "data_publicacao": "2026-06-06T09:45:36-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-06/manchete-stj-suspende-processos-sobre-aluguel-de-curta-temporada-para-fixar-tese-vinculante/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Locação de espaço para coworking não atrai incidência de ISS",
+      "descricao": "Decisão destacada pelo ConJur afastou a cobrança de ISS sobre atividade de coworking ao reconhecer que ela se enquadra como locação de espaço, e não prestação de serviço. O entendimento reforça a distinção entre cessão de uso e serviço tributável.",
+      "data_publicacao": "2026-06-06T07:45:08-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-06/cobranca-de-iss-sobre-atividade-de-coworking-e-indevida/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Consumidor lesado por empresa não tem de apresentar prova de fato negativo",
+      "descricao": "O ConJur repercutiu decisão que afastou a exigência de prova impossível ao consumidor em ação de reparação. O entendimento reconhece que a empresa deve apresentar os elementos técnicos quando está em melhores condições de demonstrar os fatos discutidos.",
+      "data_publicacao": "2026-06-05T19:45:23-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-05/consumidor-lesado-prova-fato-negativo/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "e-Notariado completa seis anos e consolida ecossistema de atos digitais com reconhecimento internacional",
+      "descricao": "O Colégio Notarial do Brasil destacou os seis anos do e-Notariado como uma plataforma já consolidada para atos digitais. A reportagem ressalta a expansão do ecossistema eletrônico e o reconhecimento obtido pela solução no ambiente jurídico e tecnológico.",
+      "data_publicacao": "2026-06-08T13:48:38-03:00",
+      "url": "https://www.notariado.org.br/e-notariado-completa-seis-anos-e-consolida-ecossistema-de-atos-digitais-com-reconhecimento-internacional/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF disponibiliza materiais para orientar cidadãos sobre a prova de vida no e-Notariado",
+      "descricao": "O CNB/CF lançou materiais de orientação ao público sobre a prova de vida no e-Notariado. A iniciativa inclui conteúdo explicativo para facilitar o uso do serviço e reforçar a segurança dos atos digitais realizados pelos cartórios.",
+      "data_publicacao": "2026-06-05T16:18:06-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-disponibiliza-materiais-para-orientar-cidadaos-sobre-a-prova-de-vida-no-e-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "XXVII Congresso Notarial Brasileiro será realizado nos dias 3 e 4 de dezembro, em Recife (PE)",
+      "descricao": "O Colégio Notarial do Brasil confirmou a realização do XXVII Congresso Notarial Brasileiro em dezembro, em Recife. O anúncio antecipa a mobilização institucional do setor para mais uma edição de debate e atualização profissional do notariado.",
+      "data_publicacao": "2026-06-03T16:54:42-03:00",
+      "url": "https://www.notariado.org.br/xxvii-congresso-notarial-brasileiro-sera-realizado-nos-dias-3-e-4-de-dezembro-em-recife-pe/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Município estende vacinação contra gripe a jovens até 19 anos",
+      "descricao": "A Prefeitura de Rio das Ostras ampliou a vacinação contra a gripe para jovens de até 19 anos. A medida aumenta o alcance da campanha e busca facilitar a proteção de um público maior neste período de circulação de doenças respiratórias.",
+      "data_publicacao": "2026-06-08T14:00:13-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-estende-vacinacao-contra-gripe-a-jovens-ate-19-anos/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cidade Praiana recebe Bem-Estar Animal Sobre Rodas nos dias 9 e 10",
+      "descricao": "Rio das Ostras recebe a ação Bem-Estar Animal Sobre Rodas com programação voltada ao cuidado e atendimento de animais. A iniciativa reforça os serviços públicos de proteção animal e aproxima esse suporte dos moradores da Cidade Praiana.",
+      "data_publicacao": "2026-06-08T12:02:37-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/cidade-praiana-recebe-bem-estar-animal-sobre-rodas-nos-dias-9-e-10/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Educação abre vagas de estágio em parceria com CIEE",
+      "descricao": "A área de Educação de Rio das Ostras abriu vagas de estágio em parceria com o CIEE. A ação cria novas oportunidades de formação prática e fortalece a conexão entre estudantes, qualificação profissional e mercado de trabalho local.",
+      "data_publicacao": "2026-06-08T09:58:28-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/educacao-de-rio-das-ostras-abre-vagas-de-estagio-em-parceria-com-ciee/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Thalita Rebouças é confirmada para Feira Literária de Rio Claro em agosto",
+      "descricao": "A Prefeitura de Rio Claro confirmou a participação da escritora Thalita Rebouças na feira literária do município marcada para agosto. O anúncio reforça a programação cultural da cidade e amplia a expectativa em torno do evento no interior fluminense.",
+      "data_publicacao": "2026-06-08T10:23:34-03:00",
+      "url": "https://rioclaro.rj.gov.br/thalita-reboucas-e-confirmada-para-feira-literaria-de-rio-claro-em-agosto/",
+      "fonte": "Prefeitura Municipal de Rio Claro RJ"
+    }
+  ]
+}

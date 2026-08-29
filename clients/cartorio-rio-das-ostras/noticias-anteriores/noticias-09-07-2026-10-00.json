@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-09T10:00:52-03:00",
+  "noticias": [
+    {
+      "titulo": "Rocha Leão terá Festival de Fatias neste fim de semana",
+      "descricao": "Rio das Ostras divulgou a realização do Festival de Fatias em Rocha Leão no sábado, com programação no Centro Ferroviário de Cultura Guilherme Nogueira para movimentar a agenda cultural local.",
+      "data_publicacao": "2026-07-09T09:19:58-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rocha-leao-tera-festival-de-fatias-neste-fim-de-semana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município triplica procedimentos de Saúde Bucal",
+      "descricao": "A Prefeitura de Rio das Ostras informou que reorganizou fluxos, ampliou investimentos e conseguiu triplicar procedimentos de saúde bucal, com redução de filas e modernização da rede de atendimento.",
+      "data_publicacao": "2026-07-09T08:37:44-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-triplica-procedimentos-de-saude-bucal/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Sistema de Arrecadação Municipal passa por atualização",
+      "descricao": "A Secretaria Municipal de Fazenda de Rio das Ostras anunciou uma atualização tecnológica no sistema de arrecadação para dar mais estabilidade e continuidade aos serviços oferecidos à população.",
+      "data_publicacao": "2026-07-09T07:12:23-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/sistema-de-arrecadacao-municipal-passa-por-atualizacao-tecnologica/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Programa de Cuidados Paliativos do Instituto Estadual do Cérebro servirá de modelo para o Ministério da Saúde replicar em outros estados",
+      "descricao": "A Secretaria de Estado de Saúde do Rio informou que a experiência do Instituto Estadual do Cérebro em cuidados paliativos será apresentada ao Ministério da Saúde como referência para ampliação dessa política em outros estados.",
+      "data_publicacao": "2026-07-02T09:16:20-03:00",
+      "url": "https://www.rj.gov.br/saude/node/4089",
+      "fonte": "Secretaria de Estado de Saúde do Rio de Janeiro"
+    },
+    {
+      "titulo": "Passaporte Cultural comemora cinco anos com mais de 280 mil pessoas atendidas em todo o estado",
+      "descricao": "A Secretaria de Estado de Cultura e Economia Criativa informou que o Passaporte Cultural alcançou os 92 municípios fluminenses e ultrapassou 280 mil atendimentos, reforçando o acesso da população de baixa renda a atividades culturais.",
+      "data_publicacao": "2026-06-25T15:26:51-03:00",
+      "url": "http://cultura.rj.gov.br/passaporte-cultural-celebra-cinco-anos-com-mais-de-280-mil-pessoas-atendidas-em-todo-o-estado/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Estado é responsável por erros decorrentes de dados desatualizados",
+      "descricao": "A ConJur destacou decisão que reconheceu a responsabilidade objetiva do Estado por falhas causadas por informações públicas desatualizadas, com indenização a um cidadão afetado por erro administrativo.",
+      "data_publicacao": "2026-07-09T08:23:56-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-09/estado-e-responsavel-por-erros-decorrentes-de-dados-desatualizados/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Banco tem o dever de coibir golpe da falsa central de atendimento",
+      "descricao": "A ConJur repercutiu decisão do TJ-BA que responsabilizou instituição financeira por não impedir fraude praticada com falsa central de atendimento, determinando restituição dos valores e indenização.",
+      "data_publicacao": "2026-07-09T07:52:22-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-09/banco-tem-o-dever-de-detectar-golpe-da-falsa-central-de-atendimento/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Previdência privada como ferramenta de planejamento sucessório",
+      "descricao": "A ConJur analisou o uso da previdência privada aberta no planejamento sucessório, discutindo limites, cuidados práticos e o papel desses produtos na organização patrimonial das famílias.",
+      "data_publicacao": "2026-07-09T08:00:39-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-09/previdencia-privada-como-ferramenta-de-planejamento-sucessorio-ponderacoes-necessarias/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "É possível partilha amigável com divisão desigual dos quinhões hereditários, decide Terceira Turma",
+      "descricao": "O Colégio Notarial do Brasil destacou decisão do STJ que admite partilha amigável com quinhões desiguais entre herdeiros maiores e capazes, desde que haja cessão de direitos e manifestação livre das partes.",
+      "data_publicacao": "2026-07-06T17:28:38-03:00",
+      "url": "https://www.notariado.org.br/e-possivel-partilha-amigavel-com-divisao-desigual-dos-quinhoes-hereditarios-decide-terceira-turma/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "É possível se separar sozinho? Entenda o novo tipo de divórcio previsto na reforma do Código Civil",
+      "descricao": "O Colégio Notarial do Brasil repercutiu a proposta de divórcio unilateral em cartório prevista na reforma do Código Civil e apontou os possíveis efeitos da medida para a desjudicialização e para a rotina registral.",
+      "data_publicacao": "2026-06-19T19:05:58-03:00",
+      "url": "https://www.notariado.org.br/e-possivel-se-separar-sozinho-entenda-o-novo-tipo-de-divorcio-previsto-na-reforma-do-codigo-civil/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Contratos de namoro disparam com busca por proteção patrimonial",
+      "descricao": "O Colégio Notarial do Brasil informou que os contratos de namoro cresceram com a busca por mais segurança jurídica e proteção patrimonial, sobretudo entre pessoas com patrimônio formado e herdeiros.",
+      "data_publicacao": "2026-06-12T17:41:21-03:00",
+      "url": "https://www.notariado.org.br/contratos-de-namoro-disparam-com-busca-por-protecao-patrimonial/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

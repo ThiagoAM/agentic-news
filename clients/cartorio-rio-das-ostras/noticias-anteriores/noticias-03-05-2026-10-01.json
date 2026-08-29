@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-05-03T10:01:55-03:00",
+  "noticias": [
+    {
+      "titulo": "Município recebe nota máxima em Mostra Estadual de Saúde",
+      "descricao": "Rio das Ostras recebeu pontuação máxima na 6ª Mostra Estadual de Práticas de Saúde com uma iniciativa do Programa Saúde na Escola, destacando integração entre atenção primária, escola e comunidade.",
+      "data_publicacao": "2026-04-28T15:11:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-recebe-nota-maxima-em-mostra-de-saude/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Ostrascycle é sucesso em Rio das Ostras",
+      "descricao": "A Prefeitura destacou o bom resultado do Ostrascycle 2026, que atraiu visitantes, reuniu motoclubes de vários estados e movimentou hotelaria, gastronomia e comércio local.",
+      "data_publicacao": "2026-04-20T17:06:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/ostrascycle-e-sucesso-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras conclui diagnóstico de plano de saneamento junto à população",
+      "descricao": "O município avançou no Plano Municipal de Saneamento com a consolidação do diagnóstico e o debate de prioridades em água, esgoto, resíduos sólidos e drenagem urbana.",
+      "data_publicacao": "2026-04-08T09:32:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-conclui-diagnostico-de-plano-de-saneamento-junto-a-populacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Festival LED abre inscrições para evento gratuito no Pier Mauá",
+      "descricao": "O festival gratuito dedicado à educação abriu inscrições para a edição no Rio de Janeiro, com debates e palestras sobre arte, ciência, saúde mental e inovação.",
+      "data_publicacao": "2026-04-30T15:36:54-03:00",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/04/30/festival-led-inscricoes-evento-gratuito.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "titulo": "Maior exposição da carreira de ícone da cultura pop japonesa chega ao CCBB",
+      "descricao": "O CCBB Rio recebeu a mostra \"Yoshitaka Amano – Além da Fantasia\", com 218 obras originais e espaço imersivo que amplia a programação cultural da capital fluminense.",
+      "data_publicacao": "2026-04-25T10:21:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/04/7241423-maior-exposicao-de-icone-da-cultura-pop-japonesa-chega-ao-ccbb.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Turismo no Rio de Janeiro dobra em maio com megashows em Copacabana",
+      "descricao": "Levantamento da Prefeitura do Rio aponta forte crescimento no fluxo de visitantes em maio, com impacto positivo sobre hospedagem e alimentação durante a temporada de grandes shows.",
+      "data_publicacao": "2026-04-27T14:42:04-03:00",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/todo-mundo-no-rio/noticia/2026/04/27/todo-mundo-no-rio-megashows-de-gaga-madonna-e-shakira-quase-dobraram-o-numero-de-turistas-em-maio-diz-prefeitura.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "titulo": "CNB/CF lança projeto “Seccionais em Ação” para fortalecer a integração institucional das seccionais estaduais",
+      "descricao": "O Colégio Notarial do Brasil iniciou o projeto Seccionais em Ação para aproximar lideranças estaduais dos debates em Brasília e fortalecer a articulação institucional do notariado.",
+      "data_publicacao": "2026-04-29T19:44:52-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-projeto-seccionais-em-acao-para-fortalecer-a-integracao-institucional-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "ARTIGO – A assinatura eletrônica notarizada criada na reforma do Código Civil – Por: Ana Amelia Menna Barreto",
+      "descricao": "O texto analisa a previsão de assinatura eletrônica notarizada na reforma do Código Civil e debate seus efeitos sobre atos notariais eletrônicos e a assinatura qualificada da ICP-Brasil.",
+      "data_publicacao": "2026-04-29T16:32:41-03:00",
+      "url": "https://www.notariado.org.br/artigo-a-assinatura-eletronica-notarizada-criada-na-reforma-do-codigo-civil-por-ana-amelia-menna-barreto/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "ARTIGO – Imunidade do ITBI na integralização de imóveis: Limites fixados pelo STF – Por: Daniella Maria de Oliveira Sobrinho",
+      "descricao": "O artigo revisa o entendimento do STF sobre a imunidade do ITBI na integralização de imóveis ao capital social e destaca dúvidas práticas que ainda geram litígios nos municípios.",
+      "data_publicacao": "2026-04-29T16:32:10-03:00",
+      "url": "https://www.notariado.org.br/artigo-imunidade-do-itbi-na-integralizacao-de-imoveis-limites-fixados-pelo-stf-por-daniella-maria-de-oliveira-sobrinho/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Inventário extrajudicial dispensa a certidão negativa de débito",
+      "descricao": "O ConJur noticiou decisão do CNJ segundo a qual a lavratura de escritura pública de inventário e partilha extrajudicial não pode ser condicionada à certidão negativa de débito.",
+      "data_publicacao": "2026-04-30T07:52:23-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-30/inventario-extrajudicial-dispensa-a-certidao-negativa-de-debito/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Recibo de compra e venda é justo título para usucapião ordinária",
+      "descricao": "Segundo o ConJur, o STJ decidiu que o recibo de compra e venda pode servir como justo título para usucapião ordinária quando houver elementos que revelem a intenção de transferir a propriedade.",
+      "data_publicacao": "2026-04-29T13:51:15-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-29/recibo-de-compra-e-venda-e-justo-titulo-para-usucapiao-ordinaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Construtoras são condenadas por não lavrar escritura de imóvel quitado",
+      "descricao": "O ConJur informou que construtoras e cooperativas foram condenadas por não entregar a escritura definitiva de imóvel quitado, com indenização e restituição de ITBI ao comprador.",
+      "data_publicacao": "2026-04-18T17:59:29-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-18/construtoras-sao-condenadas-por-nao-lavrar-escritura-de-imovel-quitado/",
+      "fonte": "ConJur"
+    }
+  ]
+}

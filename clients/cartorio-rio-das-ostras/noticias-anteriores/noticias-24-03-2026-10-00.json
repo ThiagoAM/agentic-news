@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-03-24T10:00:26-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras lança processo seletivo para contratações temporárias na Educação",
+      "descricao": "A Prefeitura anunciou inscrições online para o Processo Seletivo Simplificado da Secretaria de Educação, Esporte e Lazer, com vagas imediatas e cadastro de reserva em diversos cargos de níveis fundamental a superior.",
+      "data_publicacao": "2026-01-15T09:59:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-lanca-processo-seletivo-para-contratacao-temporaria-na-educacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "OstrasPrev conquista certificação máxima em gestão previdenciária",
+      "descricao": "O Instituto de Previdência de Rio das Ostras alcançou o nível IV do Pró-Gestão RPPS, destacando avanços em governança, controles internos e educação previdenciária, além de reforçar a sustentabilidade do regime próprio.",
+      "data_publicacao": "2025-12-19T16:58:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/instituto-de-previdencia-de-rio-das-ostras-conquista-certificacao-maxima-em-gestao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "OstrasPrev obtém nova qualificação nos indicadores previdenciários",
+      "descricao": "O Instituto de Previdência de Rio das Ostras passou a ser classificado como de grande porte nos indicadores do RPPS, refletindo o crescimento do número de servidores atendidos e a gestão superavitária no estado.",
+      "data_publicacao": "2022-10-24T17:03:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/ostrasprev-alcanca-nova-qualificacao-no-ministerio-da-economia/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "OstrasPrev renova Certificado de Regularidade Previdenciária",
+      "descricao": "O instituto de previdência de Rio das Ostras renovou o CRP, habilitando o município a acessar convênios e benefícios federais e mantendo a regularidade da gestão dos recursos previdenciários.",
+      "data_publicacao": "2016-01-27T11:33:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/ostrasprev-ganha-certificado-de-regularidade/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Transferência de veículo de falecido pode ser feita em cartório",
+      "descricao": "O CNB/RJ divulgou a autorização do CNJ para que a transferência de veículos de pessoa falecida seja realizada diretamente em cartório, com regras de concordância entre herdeiros e quitação de despesas do inventário.",
+      "data_publicacao": "2026-02-20T09:00:00-03:00",
+      "url": "https://cnbrj.org.br/nova-regra-transferencia-de-veiculo-de-falecido-pode-ser-feita-em-cartorio/",
+      "fonte": "CNB/RJ"
+    },
+    {
+      "titulo": "CNB/RJ inaugura nova sede no Jardim Botânico",
+      "descricao": "A seccional fluminense do Colégio Notarial do Brasil passou a funcionar em novo espaço no Jardim Botânico, reforçando a modernização institucional e a expansão dos serviços notariais digitais.",
+      "data_publicacao": "2022-12-28T09:00:00-03:00",
+      "url": "https://cnbrj.org.br/nova-sede-aos-pes-do-cristo-redentor/",
+      "fonte": "CNB/RJ"
+    },
+    {
+      "titulo": "Portaria CGJ 2838/2024 divulga tabela de custas extrajudiciais para 2025",
+      "descricao": "O CNB/RJ publicou a portaria da Corregedoria-Geral da Justiça do Rio de Janeiro com as tabelas de emolumentos extrajudiciais válidas a partir de 1º de janeiro de 2025.",
+      "data_publicacao": "2024-12-30T09:00:00-03:00",
+      "url": "https://cnbrj.org.br/portaria-cgj-2838-2024-confira-a-tabela-de-custas-extrajudiciais-para-2025/",
+      "fonte": "CNB/RJ"
+    },
+    {
+      "titulo": "CNB/RJ, CGJ-RJ e Detran/RJ firmam parceria para emissão de RG e CNH em cartórios",
+      "descricao": "Termo de cooperação técnica viabiliza que tabelionatos de notas no Rio de Janeiro realizem atendimentos para emissão de documentos de identificação e serviços relacionados a veículos, ampliando o acesso da população.",
+      "data_publicacao": "2022-09-02T10:00:00-03:00",
+      "url": "https://www.notariado.org.br/%EF%BB%BF02-09-2022-em-parceria-inedita-cnb-rj-corregedoria-geral-de-justica-do-rio-de-janeiro-e-detran-rj-assinam-termo-de-cooperacao-tecnica-para-que-tabelionatos-de-notas-realizem-emiss/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STF valida destinação de taxas de cartório à Procuradoria do RJ",
+      "descricao": "O Supremo reconheceu a constitucionalidade da norma fluminense que destina parte das custas e emolumentos extrajudiciais ao Fundo Especial da Procuradoria-Geral do Estado do Rio de Janeiro.",
+      "data_publicacao": "2021-05-03T13:54:00-03:00",
+      "url": "https://www.conjur.com.br/2021-mai-03/destinacao-taxas-cartorio-procuradoria-rj-valida/",
+      "fonte": "Conjur"
+    },
+    {
+      "titulo": "TJ-RJ mantém destinação de parte das taxas de cartório ao fundo da PGE-RJ",
+      "descricao": "O Órgão Especial do Tribunal de Justiça do Rio de Janeiro negou pedido do sindicato da categoria e reafirmou a validade da destinação de 5% das receitas extrajudiciais ao Funperj.",
+      "data_publicacao": "2022-04-11T11:44:00-03:00",
+      "url": "https://www.conjur.com.br/2022-abr-11/tj-mantem-destinacao-parte-taxas-cartorio-fundo-pge-rj/",
+      "fonte": "Conjur"
+    },
+    {
+      "titulo": "TJ-RJ declara constitucional lei sobre chefias de cartórios judiciais",
+      "descricao": "O Órgão Especial do Tribunal de Justiça do Rio de Janeiro considerou válida a lei estadual que alterou as regras de nomeação dos chefes de cartórios judiciais.",
+      "data_publicacao": "2016-05-10T09:00:00-03:00",
+      "url": "https://www.conjur.com.br/2016-mai-10/lei-regras-chefes-cartorios-constitucional-tj-rj/",
+      "fonte": "Conjur"
+    }
+  ]
+}

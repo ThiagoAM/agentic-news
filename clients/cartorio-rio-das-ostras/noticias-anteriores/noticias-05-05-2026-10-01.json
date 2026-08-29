@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-05T10:01:50-03:00",
+  "noticias": [
+    {
+      "titulo": "Fundação de Cultura firma parceria com universidade em Rio das Ostras",
+      "descricao": "A Fundação Rio das Ostras de Cultura firmou parceria com a Unip para oferecer descontos e facilitar o acesso de servidores, artistas e fazedores de cultura a cursos de pós-graduação EAD.",
+      "data_publicacao": "2026-04-30T17:10:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/fundacao-de-cultura-firma-parceria-com-universidade/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras divulga esquema especial de funcionamento no Dia do Trabalhador",
+      "descricao": "A Prefeitura de Rio das Ostras informou os horários de funcionamento dos serviços municipais no feriado, com manutenção do atendimento de urgência em saúde e abertura de parques e espaços culturais em horários específicos.",
+      "data_publicacao": "2026-04-30T15:05:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/dia-do-trabalhador-confira-o-que-funciona/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cavalgada do Trabalhador movimenta o feriado em Rio das Ostras",
+      "descricao": "Rio das Ostras anunciou a programação da tradicional Cavalgada do Trabalhador, com concentração no Âncora, trajeto até Cantagalo e dois dias de atrações culturais e musicais no município.",
+      "data_publicacao": "2026-04-29T15:32:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/cavalgada-do-trabalhador-movimento-o-feriado-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Todo Mundo no Rio está garantido até 2028, diz prefeitura",
+      "descricao": "Segundo a prefeitura do Rio, o projeto Todo Mundo no Rio seguirá até 2028 e o show de Shakira em Copacabana deve movimentar cerca de R$ 800 milhões na economia carioca, com reflexos em hotelaria, gastronomia, transporte e comércio.",
+      "data_publicacao": "2026-05-03T09:11:44-03:00",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/todo-mundo-no-rio/noticia/2026/05/03/todo-mundo-no-rio-esta-garantido-ate-2028-diz-prefeitura.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "titulo": "Turismo no Rio de Janeiro dobra em maio com megashows em Copacabana",
+      "descricao": "Estudo da prefeitura do Rio apontou que o número de visitantes praticamente dobrou em maio com os megashows em Copacabana, reforçando o peso do turismo para a economia da capital fluminense.",
+      "data_publicacao": "2026-04-27T14:42:04-03:00",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/todo-mundo-no-rio/noticia/2026/04/27/todo-mundo-no-rio-megashows-de-gaga-madonna-e-shakira-quase-dobraram-o-numero-de-turistas-em-maio-diz-prefeitura.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "titulo": "Inventário extrajudicial dispensa a certidão negativa de débito",
+      "descricao": "O ConJur destacou decisão do CNJ que afasta a exigência de certidão negativa de débito como condição para escritura pública de inventário e partilha extrajudicial, preservando a transparência sem impedir o ato notarial.",
+      "data_publicacao": "2026-04-30T07:52:23-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-30/inventario-extrajudicial-dispensa-a-certidao-negativa-de-debito/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Recibo de compra e venda é justo título para usucapião ordinária",
+      "descricao": "Segundo o ConJur, a 3ª Turma do STJ entendeu que o recibo de compra e venda de imóvel pode servir como justo título para usucapião ordinária quando houver elementos que comprovem a intenção de transferir a propriedade.",
+      "data_publicacao": "2026-04-29T13:51:15-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-29/recibo-de-compra-e-venda-e-justo-titulo-para-usucapiao-ordinaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Construtoras são condenadas por não lavrar escritura de imóvel quitado",
+      "descricao": "O ConJur informou decisão do TJ-MG que condenou construtoras e cooperativas por não entregar a escritura definitiva de um imóvel quitado, com indenização por danos morais e restituição do ITBI ao comprador.",
+      "data_publicacao": "2026-04-18T17:59:29-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-18/construtoras-sao-condenadas-por-nao-lavrar-escritura-de-imovel-quitado/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "PROVIMENTO N. 220, DE 22 DE ABRIL DE 2026",
+      "descricao": "O Colégio Notarial do Brasil repercutiu o Provimento nº 220/2026, que uniformiza o procedimento administrativo para apuração de incapacidade permanente de delegatários dos serviços notariais e de registro.",
+      "data_publicacao": "2026-04-22T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/provimento-n-220-de-22-de-abril-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "ARTIGO - A assinatura eletrônica notarizada criada na reforma do Código Civil - Por: Ana Amelia Menna Barreto",
+      "descricao": "O Colégio Notarial do Brasil publicou artigo que discute a assinatura eletrônica notarizada prevista na reforma do Código Civil e seus possíveis impactos sobre a validade e a prática dos atos notariais eletrônicos.",
+      "data_publicacao": "2026-04-29T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/artigo-a-assinatura-eletronica-notarizada-criada-na-reforma-do-codigo-civil-por-ana-amelia-menna-barreto/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "EXAME NACIONAL DOS CARTÓRIOS – ENAC – Edital n° 01/2026",
+      "descricao": "O Colégio Notarial do Brasil divulgou atualização ligada ao ENAC 2026, com orientações sobre a etapa de heteroidentificação e procedimentos administrativos voltados aos candidatos do exame nacional dos cartórios.",
+      "data_publicacao": "2026-04-13T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/exame-nacional-dos-cartorios-enac-edital-n-01-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

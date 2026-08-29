@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-04-18T10:00:18-03:00",
+  "noticias": [
+    {
+      "titulo": "Ostrascycle movimenta economia e deve receber 25 mil pessoas até domingo",
+      "descricao": "Rio das Ostras abriu o Ostrascycle com expectativa de grande público, alta ocupação hoteleira e impacto positivo na economia local, reforçando o calendário de eventos do município.",
+      "data_publicacao": "2026-04-17T17:59:47-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/ostrascycle-movimenta-economia-e-deve-receber-25-mil-pessoas-ate-domingo/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Atleta de Rio das Ostras conquista bronze no Pan-Americano de Bodyboard no Panamá",
+      "descricao": "A jovem Manuella Giacomassi, de Rio das Ostras, conquistou medalha de bronze no Pan-Americano de Bodyboard, levando o nome da cidade ao cenário esportivo internacional.",
+      "data_publicacao": "2026-04-17T17:41:22-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/atleta-de-rio-das-ostras-conquista-bronze-no-pan-americano-de-bodyboard-no-panama/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura realiza melhorias em diversas localidades da Cidade",
+      "descricao": "Equipes da Secretaria de Serviços Públicos intensificaram ações de manutenção em diferentes bairros de Rio das Ostras, com foco em conservação urbana e atendimento cotidiano à população.",
+      "data_publicacao": "2026-04-17T16:50:31-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-realiza-melhorias-em-diversas-localidades-do-municipio/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município é destaque em Encontro de Educação Digital",
+      "descricao": "A participação da rede municipal de ensino em encontro nacional de educação digital destacou experiências de Rio das Ostras com inovação pedagógica e transformação da educação pública.",
+      "data_publicacao": "2026-04-17T16:37:25-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-e-destaque-no-encontro-nacional-de-educacao-digital-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Faetec capacita professores para levar educação financeira às salas de aula",
+      "descricao": "Professores da Faetec participaram do projeto Seu Amanhã com atividades práticas e jogos voltados ao ensino de planejamento financeiro, investimentos e empreendedorismo nas escolas.",
+      "data_publicacao": "2026-04-16T16:22:42-03:00",
+      "url": "https://www.faetec.rj.gov.br/faetec-capacita-professores-para-levar-educacao-financeira-as-salas-de-aula/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "Faetec Paraty realiza mais de 200 inscrições para cursos de qualificação profissional",
+      "descricao": "A nova unidade da Faetec em Paraty registrou mais de 200 inscrições em cursos gratuitos de qualificação profissional, ampliando a oferta de formação na Costa Verde fluminense.",
+      "data_publicacao": "2026-04-16T16:16:41-03:00",
+      "url": "https://www.faetec.rj.gov.br/faetec-paraty-realiza-mais-de-200-inscricoes-para-cursos-de-qualificacao-profissional/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "STJ julga se compensação tributária deve ser iniciada e concluída em cinco anos",
+      "descricao": "A 1ª Seção do STJ vai definir se a compensação tributária de créditos reconhecidos judicialmente precisa ser iniciada e também concluída dentro do prazo prescricional de cinco anos.",
+      "data_publicacao": "2026-04-18T09:56:44-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-18/stj-vai-fixar-se-compensacao-tributaria-deve-ser-iniciada-e-concluida-em-5-anos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Exercício de cargo de confiança não implica suspeição de testemunha",
+      "descricao": "A 7ª Turma do TST entendeu que o simples exercício de cargo de confiança não torna uma testemunha automaticamente suspeita, exigindo demonstração concreta de falta de isenção.",
+      "data_publicacao": "2026-04-18T08:54:42-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-18/exercicio-de-cargo-de-confianca-nao-implica-suspeicao-de-testemunha/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Uso de prejuízo fiscal em transação tributária é pagamento, e não renúncia",
+      "descricao": "Decisão destacada pela ConJur apontou que o uso de créditos de prejuízo fiscal em transações tributárias funciona como forma de pagamento, sem se confundir com renúncia de receita.",
+      "data_publicacao": "2026-04-18T07:31:19-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-18/uso-de-prejuizo-fiscal-em-transacao-tributaria-e-pagamento-e-nao-renuncia/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STF barra recurso sobre imóvel adquirido com procuração falsa e mantém nulidade do negócio jurídico",
+      "descricao": "O Colégio Notarial do Brasil repercutiu decisão do STF que manteve a nulidade de negócio jurídico envolvendo imóvel adquirido com procuração falsa, reforçando a segurança documental nas transações.",
+      "data_publicacao": "2026-04-16T17:43:46-03:00",
+      "url": "https://www.notariado.org.br/stf-barra-recurso-sobre-imovel-adquirido-com-procuracao-falsa-e-mantem-nulidade-do-negocio-juridico/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "TJBA participa de revisão nacional das normas para concursos de cartórios",
+      "descricao": "O TJBA passou a integrar grupo de trabalho do CNJ voltado à revisão das normas nacionais para concursos de cartórios, tema relevante para a organização e modernização do setor extrajudicial.",
+      "data_publicacao": "2026-04-16T17:43:07-03:00",
+      "url": "https://www.notariado.org.br/tjba-participa-de-revisao-nacional-das-normas-para-concursos-de-cartorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "ENNOR oferece curso \"A Reforma Tributária e o Extrajudicial\" para preparar Cartórios para as mudanças de 2026",
+      "descricao": "A ENNOR lançou curso para preparar cartórios diante dos impactos da reforma tributária, com foco em adaptação prática, rotinas extrajudiciais e planejamento das serventias.",
+      "data_publicacao": "2026-04-14T17:10:42-03:00",
+      "url": "https://www.notariado.org.br/ennor-oferece-curso-a-reforma-tributaria-e-o-extrajudicial-para-preparar-cartorios-para-as-mudancas-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

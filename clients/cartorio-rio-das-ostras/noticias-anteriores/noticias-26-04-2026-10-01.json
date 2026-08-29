@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-04-26T10:01:32-03:00",
+  "noticias": [
+    {
+      "titulo": "Município celebra o Abril Verde com ações de conscientização",
+      "descricao": "Rio das Ostras programou mobilização na Praça José Pereira Câmara para o Dia da Saúde e Segurança no Trabalho, com ações de conscientização voltadas à prevenção e ao cuidado no ambiente laboral.",
+      "data_publicacao": "2026-04-22T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-celebra-o-abril-verde-com-acoes-de-conscientizacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prazo para pagamento da Taxa de Vigilância Sanitária termina 30 de abril",
+      "descricao": "A Prefeitura informou que estabelecimentos sujeitos à Vigilância Sanitária, como mercados, restaurantes, clínicas, escolas e hotéis, devem quitar o tributo até o fim de abril para manter a regularidade.",
+      "data_publicacao": "2026-04-20T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prazo-para-pagamento-da-taxa-de-vigilancia-sanitaria-termina-30-de-abril/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município é destaque em Encontro de Educação Digital",
+      "descricao": "A participação da rede municipal de ensino em encontro nacional reforçou o avanço de Rio das Ostras na transformação da educação pública por meio de iniciativas e práticas ligadas ao ensino digital.",
+      "data_publicacao": "2026-04-17T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-e-destaque-no-encontro-nacional-de-educacao-digital-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Feriados em abril aquecem consumo em bares e restaurantes do Rio de Janeiro",
+      "descricao": "Abrasel-RJ estimou crescimento de até 30% nas vendas do setor, impulsionado pelo fluxo de turistas e pelo calendário de feriados, reforçando o bom momento da economia ligada ao turismo no estado.",
+      "data_publicacao": "2026-04-17T18:11:07-03:00",
+      "url": "https://odia.ig.com.br/economia/2026/04/7238145-feriados-em-abril-aquecem-consumo-em-bares-e-restaurantes-do-rio-de-janeiro.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "ExpoRio Turismo 2026 bate recordes",
+      "descricao": "O evento no Lagoon reuniu 66 municípios, cerca de 700 expositores e mais de 63 mil inscritos em quatro dias, consolidando a feira como vitrine do turismo, da cultura e dos negócios do estado do Rio.",
+      "data_publicacao": "2026-03-30T07:00:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/03/7228991-exporio-turismo-2026-bate-recordes-no-rio.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "PROVIMENTO N. 220, DE 22 DE ABRIL DE 2026",
+      "descricao": "Divulgado pelo Colégio Notarial do Brasil, o provimento disciplina o procedimento administrativo para apuração de incapacidade permanente de delegatário de serviços notariais e de registro no exercício da delegação.",
+      "data_publicacao": "2026-04-23T15:03:39-03:00",
+      "url": "https://www.notariado.org.br/provimento-n-220-de-22-de-abril-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Quem não recebeu escritura de imóvel pode pedir indenização sem prazo, decide STJ",
+      "descricao": "O CNB destacou entendimento do STJ segundo o qual, quando a adjudicação compulsória se tornar inviável, o comprador pode buscar conversão em perdas e danos sem incidência de prazo prescricional.",
+      "data_publicacao": "2026-04-23T15:04:08-03:00",
+      "url": "https://www.notariado.org.br/quem-nao-recebeu-escritura-de-imovel-pode-pedir-indenizacao-sem-prazo-decide-stj/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF indica tabeliães brasileiros para Grupos de Trabalho da CAAm e Alexandre Kassama assume coordenação em Informática e Segurança Jurídica",
+      "descricao": "O CNB/CF formalizou indicações de tabeliães brasileiros para grupos de trabalho da União Internacional do Notariado, ampliando a presença técnica do notariado nacional em debates sobre informática e segurança jurídica.",
+      "data_publicacao": "2026-04-22T17:20:28-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-indica-tabeliaes-brasileiros-para-grupos-de-trabalho-da-caam-e-alexandre-kassama-assume-coordenacao-em-informatica-e-seguranca-juridica/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Advogado de empresa não é obrigado a fornecer dados de sócio",
+      "descricao": "O ConJur reportou decisão que afastou a obrigação de advogado fornecer telefone e endereço de sócio que não representava, reforçando os limites do dever processual do patrono no incidente.",
+      "data_publicacao": "2026-04-25T08:54:17-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-25/advogado-de-empresa-nao-pode-ser-compelido-a-fornecer-dados-de-socio/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ reafirma que citação por WhatsApp é inválida em ações de estado",
+      "descricao": "Segundo o ConJur, o STJ entendeu que ações ligadas ao estado civil ou familiar exigem citação pessoal, de modo que o uso do WhatsApp não supre a formalidade necessária.",
+      "data_publicacao": "2026-04-25T07:31:30-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-25/citacao-de-reu-pelo-whatsapp-e-invalida-em-acao-de-estado/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ diz que repasse de fundo cartorário a associações privadas é irregular",
+      "descricao": "O ConJur noticiou decisão que vedou o repasse compulsório de parte do fundo cartorário a associações privadas, por considerar irregular a destinação de recursos para manutenção de infraestrutura tecnológica.",
+      "data_publicacao": "2026-04-25T17:50:40-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-25/repasse-de-fundo-cartorario-a-associacoes-privadas-na-paraiba-e-declarado-irregular-pelo-cnj/",
+      "fonte": "ConJur"
+    }
+  ]
+}

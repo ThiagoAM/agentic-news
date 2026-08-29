@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-06-30T10:01:35-03:00",
+  "noticias": [
+    {
+      "titulo": "Prefeitura integra dados de fiscalização",
+      "descricao": "A Secretaria de Fazenda de Rio das Ostras começou a integrar as ações de fiscalização e posturas ao Sistema de Arrecadação Municipal para padronizar procedimentos, compartilhar dados e dar mais segurança jurídica e agilidade aos processos administrativos.",
+      "data_publicacao": "2026-06-26T10:08:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-integra-dados-de-fiscalizacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município participa do CONGEMAS",
+      "descricao": "A equipe de Desenvolvimento e Assistência Social de Rio das Ostras participou do 26º Encontro Nacional do CONGEMAS para discutir fortalecimento do SUAS, proteção social e troca de boas práticas na gestão de políticas públicas.",
+      "data_publicacao": "2026-06-25T09:59:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-participa-do-26o-encontro-nacional-do-congemas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Onda em Movimento em Rio das Ostras",
+      "descricao": "A Fundação Rio das Ostras de Cultura vai levar alunos do curso de guitarra para uma apresentação pública ao ar livre no Centro, em ação criada para valorizar a formação artística, divulgar os cursos e aproximar a população das atividades culturais do município.",
+      "data_publicacao": "2026-06-24T09:29:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/onda-em-movimento-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Encerramento do Mês do Meio Ambiente promove educação ambiental e conscientização em Barra de São João",
+      "descricao": "A Prefeitura de Casimiro de Abreu programou para 30 de junho uma ação aberta ao público com estação meteorológica, vídeos educativos, exposições interativas e distribuição de mudas para incentivar a preservação ambiental e o engajamento comunitário.",
+      "data_publicacao": "2026-06-25T11:46:28-03:00",
+      "url": "https://casimirodeabreu.rj.gov.br/encerramento-do-mes-do-meio-ambiente-promove-educacao-ambiental-e-conscientizacao-em-barra-de-sao-joao/",
+      "fonte": "Prefeitura de Casimiro de Abreu"
+    },
+    {
+      "titulo": "Casimiro de Abreu é destaque nacional em Educação Ambiental",
+      "descricao": "O município foi selecionado para participar do Circuito Tela Verde e da 15ª Mostra Nacional de Produção Audiovisual Independente, reconhecimento que reforça o trabalho local de educação ambiental, conscientização e formação cidadã.",
+      "data_publicacao": "2026-06-16T14:10:30-03:00",
+      "url": "https://casimirodeabreu.rj.gov.br/casimiro-de-abreu-e-destaque-nacional-em-educacao-ambiental/",
+      "fonte": "Prefeitura de Casimiro de Abreu"
+    },
+    {
+      "titulo": "Registro civil não pode ser condicionado a status migratório de pais estrangeiros",
+      "descricao": "A ConJur repercutiu decisão que autorizou o registro tardio de nascimento de uma criança filha de imigrantes, reafirmando que o registro civil é direito fundamental e não pode depender da regularidade migratória dos pais.",
+      "data_publicacao": "2026-06-03T10:19:20-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-03/registro-civil-nao-pode-ser-condicionado-a-status-migratorio-de-pais-estrangeiros/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Abdicar de herança em prol de beneficiário específico exige escritura pública",
+      "descricao": "A ConJur destacou entendimento de que a renúncia translativa de herança, quando direcionada a uma pessoa determinada, equivale a cessão patrimonial e precisa ser formalizada por escritura pública em cartório.",
+      "data_publicacao": "2026-06-20T08:23:58-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-20/abdicar-de-heranca-em-prol-de-beneficiario-especifico-exige-escritura-publica/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Diretivas antecipadas e autonomia do paciente",
+      "descricao": "A ConJur publicou análise sobre a Lei 15.378/2026 e defendeu que mecanismos com mais autenticidade, estabilidade e verificabilidade, como a formalização adequada da vontade, ajudam a dar segurança jurídica às diretivas antecipadas do paciente.",
+      "data_publicacao": "2026-06-28T17:24:15-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-28/diretivas-antecipadas-autonomia-do-paciente-e-seguranca-juridica-apos-lei-15-378/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Adriano Leal é eleito presidente do CNB/PI para novo biênio 2026-2028",
+      "descricao": "O Colégio Notarial do Brasil acompanhou a eleição de Adriano Leal no CNB/PI, com propostas de integração entre notários, qualificação técnica e reforço da segurança dos procedimentos notariais físicos e digitais.",
+      "data_publicacao": "2026-06-25T17:47:14-03:00",
+      "url": "https://www.notariado.org.br/adriano-leal-e-eleito-presidente-do-cnb-pi-para-novo-bienio-2026-2028/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Meu Registro permitirá solicitar certidões de diferentes cartórios em um único ambiente",
+      "descricao": "O CNB divulgou o lançamento da plataforma Meu Registro, criada para concentrar pedidos de certidões de diferentes especialidades e estados em um único fluxo, com acompanhamento integrado e possibilidade de atendimento também no balcão do cartório.",
+      "data_publicacao": "2026-06-23T17:20:22-03:00",
+      "url": "https://www.notariado.org.br/meu-registro-permitira-solicitar-certidoes-de-diferentes-cartorios-em-um-unico-ambiente/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Plataforma Meu Registro simplifica acesso do cidadão a serviços de registro público",
+      "descricao": "O CNB repercutiu o lançamento do Meu Registro pelo CNJ e pela Corregedoria Nacional, destacando a integração de serviços registrais em um único ambiente digital com pagamento on-line, rastreamento dos pedidos e mais previsibilidade para o cidadão.",
+      "data_publicacao": "2026-06-23T17:00:31-03:00",
+      "url": "https://www.notariado.org.br/plataforma-meu-registro-simplifica-acesso-do-cidadao-a-servicos-de-registro-publico/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

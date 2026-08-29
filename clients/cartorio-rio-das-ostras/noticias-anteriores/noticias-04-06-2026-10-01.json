@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-06-04T10:01:58-03:00",
+  "noticias": [
+    {
+      "titulo": "Município monta plano especial de serviços durante Festival de Jazz e Blues",
+      "descricao": "A Prefeitura de Rio das Ostras organizou um plano especial de serviços para o período do Festival de Jazz e Blues, com reforço operacional para atender moradores e visitantes. A medida busca manter o funcionamento urbano e dar suporte à realização do evento na cidade.",
+      "data_publicacao": "2026-06-03T11:04:11-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-monta-plano-especial-de-servicos-durante-festival-de-jazz-e-blues/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município recebe “Festival da Gente”",
+      "descricao": "Rio das Ostras divulgou a chegada do projeto Festival da Gente, com programação voltada à economia criativa, inclusão e valorização de artistas locais. A iniciativa amplia a agenda cultural do município com atividades abertas ao público.",
+      "data_publicacao": "2026-06-03T10:56:03-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-recebe-o-projeto-festival-da-gente/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Aplicativo informa sobre Festival de Jazz",
+      "descricao": "A Prefeitura de Rio das Ostras lançou um aplicativo com informações úteis sobre o Festival de Jazz, facilitando o acesso do público à programação e aos serviços do evento. A ferramenta reforça a organização digital da experiência para moradores e turistas.",
+      "data_publicacao": "2026-06-03T13:00:25-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/aplicativo-informa-sobre-festival-de-jazz/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Naves do Conhecimento oferecem 6.650 vagas em cursos gratuitos em junho",
+      "descricao": "A rede Naves do Conhecimento abriu 6.650 vagas em cursos, oficinas e palestras gratuitas no Rio de Janeiro ao longo de junho. A programação amplia o acesso a capacitação em tecnologia, inovação e cultura digital no estado.",
+      "data_publicacao": "2026-06-02T12:00:00-03:00",
+      "url": "https://diariodorio.com/naves-do-conhecimento-oferecem-6-650-vagas-em-cursos-gratuitos-em-junho",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Seminário gratuito sobre games reúne inovação, educação e mercado no Rio e em Niterói",
+      "descricao": "Rio de Janeiro e Niterói receberam a terceira edição do seminário Games: um RIO de Oportunidades, dedicado à indústria de jogos, inovação e empreendedorismo. O evento reforça o papel do estado na formação de talentos e no desenvolvimento da economia criativa.",
+      "data_publicacao": "2026-06-01T12:00:00-03:00",
+      "url": "https://diariodorio.com/seminario-gratuito-sobre-games-reune-inovacao-educacao-e-mercado-no-rio-e-em-niteroi",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Registro civil não pode ser condicionado a status migratório de pais estrangeiros",
+      "descricao": "O ConJur destacou entendimento de que o registro civil não pode ser negado ou condicionado pela situação migratória dos pais estrangeiros. A orientação reforça o acesso à documentação básica e a proteção de direitos fundamentais no âmbito registral.",
+      "data_publicacao": "2026-06-03T10:19:20-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-03/registro-civil-nao-pode-ser-condicionado-a-status-migratorio-de-pais-estrangeiros/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Juízo determina anulação de certidão de óbito de aposentado que está vivo",
+      "descricao": "O ConJur noticiou decisão que determinou a anulação de uma certidão de óbito emitida indevidamente para um aposentado vivo. O caso evidencia a importância da correção registral e da segurança jurídica nos atos documentais.",
+      "data_publicacao": "2026-06-01T13:00:36-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-01/juizo-determina-anulacao-de-certidao-de-obito-de-aposentado-que-esta-vivo/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Dívidas de ITBI e cartório não afastam impenhorabilidade de bem de família",
+      "descricao": "Segundo o ConJur, decisão reafirmou que débitos ligados a ITBI e despesas cartorárias não retiram a proteção legal do bem de família. A notícia ressalta limites da cobrança patrimonial e a preservação da moradia como garantia jurídica.",
+      "data_publicacao": "2026-05-25T09:46:18-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-25/dividas-de-itbi-e-cartorio-nao-afastam-impenhorabilidade-de-bem-de-familia/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "XXVII Congresso Notarial Brasileiro será realizado nos dias 3 e 4 de dezembro, em Recife (PE)",
+      "descricao": "O Colégio Notarial do Brasil anunciou a realização do XXVII Congresso Notarial Brasileiro em Recife, nos dias 3 e 4 de dezembro. O encontro deve reunir a classe para debater modernização, atividade notarial e temas estratégicos do setor.",
+      "data_publicacao": "2026-06-03T16:54:42-03:00",
+      "url": "https://www.notariado.org.br/xxvii-congresso-notarial-brasileiro-sera-realizado-nos-dias-3-e-4-de-dezembro-em-recife-pe/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "O registro da união estável no Livro “E” como condição de produção de efeitos jurídicos perante terceiros",
+      "descricao": "Em artigo publicado pelo CNB, especialistas analisam como o registro da união estável no Livro E contribui para produzir efeitos jurídicos perante terceiros. O conteúdo reforça o papel do registro na publicidade e na segurança das relações patrimoniais e familiares.",
+      "data_publicacao": "2026-06-02T16:06:12-03:00",
+      "url": "https://www.notariado.org.br/artigo-o-registro-da-uniao-estavel-no-livro-e-como-condicao-de-producao-de-efeitos-juridicos-perante-terceiros-por-leticia-franco-maculan-assumpcao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Por ausência de escritura, TJ/SP rescinde contrato de multipropriedade",
+      "descricao": "O Colégio Notarial do Brasil repercutiu decisão que rescindiu contrato de multipropriedade por falta de escritura. O caso destaca a relevância da formalização notarial adequada para assegurar validade e previsibilidade em negócios imobiliários.",
+      "data_publicacao": "2026-06-01T15:55:27-03:00",
+      "url": "https://www.notariado.org.br/por-ausencia-de-escritura-tj-sp-rescinde-contrato-de-multipropriedade/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

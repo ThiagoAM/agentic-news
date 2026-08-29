@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-06T10:01:54-03:00",
+  "noticias": [
+    {
+      "titulo": "Teatro apresenta “As Lendárias do K-Pop”",
+      "descricao": "O Teatro Municipal Joel Barcellos reabre as portas em Rio das Ostras com o espetáculo “As Lendárias do K-Pop”, que mistura música, coreografias e referências ao folclore coreano para atrair o público jovem da cidade.",
+      "data_publicacao": "2026-05-06T09:22:25-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/teatro-municipal-apresenta-as-lendarias-do-k-pop/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura apresenta projeto de urbanização para Terra Firme",
+      "descricao": "A Secretaria de Infraestrutura Urbana e Obras Públicas apresentou a moradores do Terra Firme o projeto de urbanização da área, retomando uma obra que havia sido encontrada com irregularidades e reforçando o diálogo com a comunidade.",
+      "data_publicacao": "2026-05-05T16:41:33-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-apresenta-projeto-de-obras-de-urbanizacao-a-moradores-do-terra-firme/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cidade tem ocupação hoteleira de 80% no fim de semana",
+      "descricao": "Rio das Ostras registrou ocupação hoteleira de 80% no último fim de semana, resultado associado ao aumento do fluxo de visitantes, à divulgação turística do município e à realização do Rio das Ostras Bike Fest.",
+      "data_publicacao": "2026-05-05T12:10:24-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/cidade-tem-ocupacao-hoteleira-de-80-no-fim-de-semana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "‘Todo mundo no Rio’ está garantido até 2028, diz prefeitura",
+      "descricao": "A prefeitura do Rio informou que o projeto Todo Mundo no Rio seguirá até 2028 e estimou impacto de cerca de R$ 800 milhões na economia carioca, com reflexos em hotelaria, gastronomia, transporte e comércio.",
+      "data_publicacao": "2026-05-03T09:11:44-03:00",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/todo-mundo-no-rio/noticia/2026/05/03/todo-mundo-no-rio-esta-garantido-ate-2028-diz-prefeitura.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "titulo": "Turismo no Rio de Janeiro dobra em maio com megashows em Copacabana",
+      "descricao": "Dados do Observatório do Turismo Carioca mostram que o número de visitantes no Rio praticamente dobrou em maio com os megashows em Copacabana, impulsionando sobretudo hospedagem e alimentação.",
+      "data_publicacao": "2026-04-27T14:42:04-03:00",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/todo-mundo-no-rio/noticia/2026/04/27/todo-mundo-no-rio-megashows-de-gaga-madonna-e-shakira-quase-dobraram-o-numero-de-turistas-em-maio-diz-prefeitura.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "titulo": "Inventário extrajudicial dispensa a certidão negativa de débito",
+      "descricao": "O ConJur destacou decisão do CNJ que afastou a exigência de certidão negativa de débito para lavratura de escritura pública de inventário e partilha extrajudicial, mantendo apenas a solicitação das certidões para fins informativos.",
+      "data_publicacao": "2026-04-30T07:52:00-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-30/inventario-extrajudicial-dispensa-a-certidao-negativa-de-debito/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Recibo de compra e venda é justo título para usucapião ordinária",
+      "descricao": "Segundo o ConJur, a 3ª Turma do STJ decidiu que o recibo de compra e venda de imóvel pode servir como justo título na usucapião ordinária quando houver elementos suficientes para comprovar a intenção de transferir a propriedade.",
+      "data_publicacao": "2026-04-29T13:51:15-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-29/recibo-de-compra-e-venda-e-justo-titulo-para-usucapiao-ordinaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Construtoras são condenadas por não lavrar escritura de imóvel quitado",
+      "descricao": "O ConJur informou decisão do TJ-MG que condenou construtoras e cooperativas por não providenciarem a escritura definitiva de imóvel já quitado, com indenização por danos morais e restituição do ITBI ao comprador.",
+      "data_publicacao": "2026-04-18T17:59:29-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-18/construtoras-sao-condenadas-por-nao-lavrar-escritura-de-imovel-quitado/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Nada a ver com herança: saiba o que é testamento vital e entenda por que este documento é importante",
+      "descricao": "O Colégio Notarial do Brasil destacou a entrada em vigor do Estatuto do Paciente e explicou como o testamento vital registra a vontade da pessoa sobre tratamentos médicos em situações graves, reforçando segurança jurídica para pacientes e famílias.",
+      "data_publicacao": "2026-05-05T17:07:02-03:00",
+      "url": "https://www.notariado.org.br/nada-a-ver-com-heranca-saiba-o-que-e-testamento-vital-e-entenda-por-que-este-documento-e-importante/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "ARTIGO – Herança digital: Por que o testamento público é indispensável – Por: autor não identificado",
+      "descricao": "Artigo publicado pelo Colégio Notarial do Brasil analisa a herança digital e defende o testamento público como instrumento importante para organizar a sucessão de contas, arquivos, ativos virtuais e outros bens existentes no ambiente online.",
+      "data_publicacao": "2026-05-05T14:56:29-03:00",
+      "url": "https://www.notariado.org.br/artigo-heranca-digital-por-que-o-testamento-publico-e-indispensavel-por-autor-nao-identificado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF lança projeto “Seccionais em Ação” para fortalecer a integração institucional as Seccionais estaduais",
+      "descricao": "O CNB/CF iniciou o projeto Seccionais em Ação para ampliar o alinhamento entre a entidade nacional e as seccionais estaduais, com foco em integração institucional, troca de pautas prioritárias e fortalecimento do setor extrajudicial.",
+      "data_publicacao": "2026-04-29T19:44:52-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-projeto-seccionais-em-acao-para-fortalecer-a-integracao-institucional-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

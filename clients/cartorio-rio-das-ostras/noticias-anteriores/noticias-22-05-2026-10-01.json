@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-22T10:01:45-03:00",
+  "noticias": [
+    {
+      "titulo": "Prefeitura divulga calendário das Audiências Públicas do POP em 2026",
+      "descricao": "A Prefeitura de Rio das Ostras divulgou o calendário das Audiências Públicas do Planejamento e Orçamento Participativo de 2026, com reuniões por setores da cidade entre junho e agosto para levantar prioridades de investimentos junto aos moradores.",
+      "data_publicacao": "2026-05-21T15:52:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-divulga-calendario-das-audiencias-publicas-do-pop-em-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras lança novo Jornal Oficial com foco em modernização e acessibilidade",
+      "descricao": "A Prefeitura de Rio das Ostras colocou no ar uma versão reformulada do Jornal Oficial, com navegação mais ágil, busca aprimorada e recursos de acessibilidade para ampliar a transparência e o acesso da população aos atos públicos municipais.",
+      "data_publicacao": "2026-05-21T12:27:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-lanca-novo-jornal-oficial-com-foco-em-modernizacao-e-acessibilidade/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Últimos dias para inscrição na Semana do MEI",
+      "descricao": "Rio das Ostras segue com inscrições abertas para a Semana do MEI, com oficinas gratuitas entre 26 e 28 de maio sobre vendas, inteligência artificial e gestão financeira voltadas ao fortalecimento dos pequenos negócios locais.",
+      "data_publicacao": "2026-05-21T10:06:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/ultimos-dias-para-inscricao-na-semana-do-mei/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Calendário de eventos do Rio cresce 31% e projeta US$ 1,5 bilhão na economia",
+      "descricao": "Levantamento do Visit Rio aponta que a capital fluminense chegou a 481 eventos confirmados até o fim de abril, com expectativa de forte impacto em turismo, hotelaria, gastronomia e arrecadação ao longo de 2026.",
+      "data_publicacao": "2026-05-19T15:04:39-03:00",
+      "url": "https://diariodorio.com/calendario-de-eventos-do-rio-cresce-31-e-projeta-us-15-bilhao-na-economia/",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Maio tem recorde de vagas de trabalho no Rio, com oportunidades para todos os perfis",
+      "descricao": "A Prefeitura do Rio abriu maio com 2.710 vagas de emprego em diferentes bairros, incluindo postos para pessoas com deficiência, candidatos sem experiência e estudantes em busca de estágio.",
+      "data_publicacao": "2026-05-04T11:47:31-03:00",
+      "url": "https://diariodorio.com/maio-tem-recorde-de-vagas-de-trabalho-no-rio-com-oportunidades-para-todos-os-perfis",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Cartório aplica precedente do STJ e evita judicialização",
+      "descricao": "O ConJur destacou um caso em que o registro de imóveis aplicou entendimento já consolidado do STJ para cancelar gravame de alienação fiduciária sem necessidade de judicialização, reforçando a desjudicialização no direito imobiliário.",
+      "data_publicacao": "2026-05-20T15:17:09-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-20/cartorio-aplica-precedente-do-stj-e-evita-judicializacao/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Teses do STJ dão à dívida de condomínio supremacia de cobrança",
+      "descricao": "Segundo o ConJur, precedentes recentes do STJ reforçam a primazia da cobrança de taxas condominiais, inclusive em situações de recuperação judicial, alienação fiduciária e controvérsias sobre posse do imóvel.",
+      "data_publicacao": "2026-05-20T08:54:47-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-20/teses-do-stj-dao-a-divida-de-condominio-supremacia-de-cobranca/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Tese do STJ sobre IDPJ protege responsabilidade limitada do empresário",
+      "descricao": "O ConJur repercutiu entendimento do STJ de que a falta de bens penhoráveis ou o encerramento irregular da empresa, por si só, não autorizam a desconsideração da personalidade jurídica sem prova efetiva de abuso.",
+      "data_publicacao": "2026-05-18T08:54:29-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-18/tese-do-stj-sobre-idpj-protege-responsabilidade-limitada-do-empresario/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "e-Notariado passa a exigir prova de vida em todas as assinaturas digitais a partir de 1º de junho",
+      "descricao": "O Colégio Notarial do Brasil informou que a plataforma e-Notariado passará a exigir prova de vida em todas as assinaturas digitais, adicionando verificação biométrica para ampliar a segurança jurídica dos atos eletrônicos.",
+      "data_publicacao": "2026-05-11T18:31:51-03:00",
+      "url": "https://www.notariado.org.br/e-notariado-passa-a-exigir-prova-de-vida-em-todas-as-assinaturas-digitais-a-partir-de-1o-de-junho/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF indica tabeliães brasileiros para Grupos de Trabalho da CAAm e Alexandre Kassama assume coordenação em Informática e Segurança Jurídica",
+      "descricao": "O CNB/CF formalizou indicações de tabeliães brasileiros para grupos técnicos da Comissão de Assuntos Americanos da UINL, reforçando a presença do notariado nacional em debates sobre transformação digital, segurança jurídica e boas práticas continentais.",
+      "data_publicacao": "2026-04-22T17:20:28-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-indica-tabeliaes-brasileiros-para-grupos-de-trabalho-da-caam-e-alexandre-kassama-assume-coordenacao-em-informatica-e-seguranca-juridica/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Delegação de Moçambique visita o Brasil para conhecer soluções digitais da atividade extrajudicial",
+      "descricao": "Representantes de Moçambique estiveram em São Paulo para acompanhar demonstrações do e-Notariado e do Registro de Imóveis Eletrônico, em uma agenda de intercâmbio sobre modernização e informatização dos serviços extrajudiciais.",
+      "data_publicacao": "2026-04-22T10:10:38-03:00",
+      "url": "https://www.notariado.org.br/delegacao-de-mocambique-visita-o-brasil-para-conhecer-solucoes-digitais-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

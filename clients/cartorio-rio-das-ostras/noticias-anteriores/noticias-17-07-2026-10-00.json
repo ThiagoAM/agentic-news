@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-17T10:00:53-03:00",
+  "noticias": [
+    {
+      "titulo": "Municípios do Conderlagos levam pauta conjunta ao governador em exercício",
+      "descricao": "Representantes do consórcio regional apresentaram demandas conjuntas ao governo estadual, com foco em desenvolvimento e articulação entre os municípios da Região dos Lagos, incluindo Rio das Ostras.",
+      "data_publicacao": "2026-07-17T08:11:49-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipios-do-conderlagos-levam-pauta-conjunta-ao-governador-em-exercicio/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Evento “Entre Nós, Mães” promove acolhimento e escuta",
+      "descricao": "A Fundação Rio das Ostras de Cultura promove um encontro voltado ao acolhimento, à escuta e à conexão entre mães, ampliando ações de apoio e convivência no município.",
+      "data_publicacao": "2026-07-16T15:17:08-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/evento-entre-nos-maes-promove-acolhimento-escuta-e-conexao-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Biblioteca Viva promove programação especial de férias",
+      "descricao": "A Biblioteca Municipal Professora Íris Galvão preparou atividades gratuitas para o período de férias, reforçando a agenda cultural infantil e familiar em Rio das Ostras.",
+      "data_publicacao": "2026-07-16T12:28:03-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/biblioteca-viva-promove-programacao-especial-de-ferias/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Theatro Municipal celebra aniversário com ópera de Carlos Gomes",
+      "descricao": "O Theatro Municipal do Rio de Janeiro comemora 117 anos com programação especial e apresentação de ópera, destacando a relevância do equipamento cultural para o estado.",
+      "data_publicacao": "2026-07-06T11:11:05-03:00",
+      "url": "http://cultura.rj.gov.br/theatro-municipal-celebra-117-anos-com-opera-de-carlos-gomes/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Passaporte Cultural comemora cinco anos com mais de 280 mil pessoas atendidas em todo o estado",
+      "descricao": "O programa da SececRJ alcançou os 92 municípios fluminenses e ampliou o acesso da população de baixa renda a atividades e equipamentos culturais em todo o estado.",
+      "data_publicacao": "2026-06-25T15:26:51-03:00",
+      "url": "http://cultura.rj.gov.br/passaporte-cultural-celebra-cinco-anos-com-mais-de-280-mil-pessoas-atendidas-em-todo-o-estado/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Tomadora de serviços é responsável por morte de prestador terceirizado",
+      "descricao": "A ConJur destacou decisão que reconhece a responsabilidade da tomadora de serviços quando há falhas no cumprimento das normas de segurança em contrato de terceirização.",
+      "data_publicacao": "2026-07-17T08:23:04-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-17/tomadora-de-servicos-e-responsavel-por-morte-de-prestador-terceirizado/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Crédito rural depende da finalidade, não da natureza do contrato",
+      "descricao": "Segundo decisão repercutida pela ConJur, o enquadramento jurídico do financiamento rural deve considerar a destinação efetiva dos recursos, e não apenas a forma contratual adotada.",
+      "data_publicacao": "2026-07-17T07:52:26-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-17/credito-de-natureza-rural-depende-da-finalidade-nao-do-contrato/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Indenização por produto com defeito é sujeita ao prazo prescricional",
+      "descricao": "A ConJur repercutiu decisão que extinguiu ação proposta anos após o recebimento do produto, reforçando a aplicação do prazo prescricional em demandas de consumo.",
+      "data_publicacao": "2026-07-17T07:31:42-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-17/juiz-extingue-acao-de-consumidor-que-reclamou-de-produto-cinco-anos-depois-de-recebe-lo/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça disponibiliza painel com relações gerais de vacâncias dos serviços extrajudiciais",
+      "descricao": "O CNB/RJ repercutiu a disponibilização de um painel da Corregedoria Nacional com dados sobre vacâncias dos serviços extrajudiciais, facilitando a consulta de informações do setor.",
+      "data_publicacao": "2026-07-01T15:44:09-03:00",
+      "url": "https://cnbrj.org.br/corregedoria-nacional-de-justica-disponibiliza-painel-com-relacoes-gerais-de-vacancias-dos-servicos-extrajudiciais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Inventário extrajudicial e suspeita de sonegação: o que o STJ acaba de deixar claro",
+      "descricao": "O CNB/RJ destacou entendimento do STJ de que suspeitas de ocultação patrimonial não se resolvem no inventário extrajudicial, devendo ser tratadas pela via processual adequada.",
+      "data_publicacao": "2026-07-01T15:12:15-03:00",
+      "url": "https://cnbrj.org.br/inventario-extrajudicial-e-suspeita-de-sonegacao-o-que-o-stj-acaba-de-deixar-claro/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Atualização da NR-1 reforça gestão de pessoas e saúde mental nos cartórios",
+      "descricao": "O CNB/RJ informou que a atualização da NR-1 amplia a atenção aos riscos psicossociais e fortalece a necessidade de ambientes de trabalho mais estruturados nos cartórios.",
+      "data_publicacao": "2026-06-25T17:30:34-03:00",
+      "url": "https://cnbrj.org.br/atualizacao-da-nr-1-reforca-gestao-de-pessoas-e-saude-mental-nos-cartorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

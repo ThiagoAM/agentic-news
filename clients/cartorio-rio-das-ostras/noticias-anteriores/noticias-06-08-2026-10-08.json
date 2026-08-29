@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-08-06T10:08:09-03:00",
+  "noticias": [
+    {
+      "titulo": "Vigilância Sanitária de Rio das Ostras reforça atuação educativa e de proteção à saúde pública",
+      "descricao": "A Vigilância Sanitária de Rio das Ostras destacou, no Dia Nacional da Vigilância Sanitária, o trabalho de orientação, fiscalização e licenciamento em áreas como alimentos, medicamentos, clínicas e eventos, com foco em prevenção e segurança da população.",
+      "data_publicacao": "2026-08-05T17:10:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/vigilancia-sanitaria-prioriza-protecao-a-saude-publica/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Defesa Civil alerta para ventos fortes com nova frente fria em Rio das Ostras",
+      "descricao": "A Defesa Civil de Rio das Ostras informou a chegada de uma frente fria com possibilidade de rajadas de vento moderadas a fortes e orientou a população sobre cuidados diante da mudança do tempo nos próximos dias.",
+      "data_publicacao": "2026-08-05T16:29:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/nova-frente-fria-deve-trazer-ventos-fortes-a-regiao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras inicia atualização cadastral dos imóveis com apoio de tecnologia geográfica",
+      "descricao": "A Prefeitura começou a atualização da base territorial do Município com visitas técnicas, uso de aplicativos móveis e levantamento aerofotogramétrico, buscando melhorar planejamento urbano, integração de dados e eficiência administrativa.",
+      "data_publicacao": "2026-08-05T13:05:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/administracao-inicia-atualizacao-cadastral-dos-imoveis/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura amplia oferta de eletrocardiograma na Unidade de Saúde da Família do Âncora",
+      "descricao": "A nova sala de eletrocardiograma da USF do Âncora deve permitir cerca de 400 exames por mês, ampliando o acesso ao atendimento e agilizando diagnósticos para pacientes de diferentes unidades de saúde de Rio das Ostras.",
+      "data_publicacao": "2026-08-04T12:40:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-amplia-a-oferta-de-eletrocardiograma/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Faetec apresenta projetos inovadores na Rio Innovation Week 2026",
+      "descricao": "A Faetec e a Secretaria de Estado de Ciência, Tecnologia e Inovação levaram à Rio Innovation Week mais de 60 projetos estudantis nas áreas de saúde, sustentabilidade, robótica e educação financeira, reforçando a vitrine de inovação do estado.",
+      "data_publicacao": "2026-08-03T12:00:00-03:00",
+      "url": "https://www.faetec.rj.gov.br/faetec-vai-levar-projetos-inovadores-para-a-rio-innovation-week-2026/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "Faetec destaca divulgação científica e inclusão na Rio Innovation Week",
+      "descricao": "Durante a Rio Innovation Week, a Faetec apresentou iniciativas como o Banco de Oportunidades e Talentos e a revista Inova Faetec, além de debates sobre práticas inclusivas e desenvolvimento de talentos na educação profissional.",
+      "data_publicacao": "2026-08-05T12:00:00-03:00",
+      "url": "https://www.faetec.rj.gov.br/faetec-mostra-inovacao-e-desenvolvimento-na-rio-innovation-week/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "CNJ restaurou força do instrumento particular na alienação fiduciária",
+      "descricao": "Artigo publicado pelo ConJur destaca decisão do CNJ que afastou restrições criadas em 2024 e voltou a admitir, nos termos da lei, a formalização da alienação fiduciária imobiliária por instrumento particular com efeitos de escritura pública.",
+      "data_publicacao": "2026-08-05T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-05/cnj-restaurou-forca-do-instrumento-particular-na-alienacao-fiduciaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ libera assinatura digital em cartório para transferência de veículos",
+      "descricao": "O ConJur informou que o CNJ restabeleceu a possibilidade de transferência de veículos por assinatura digital, permitindo tramitação totalmente eletrônica em casos específicos e integração entre cartórios e sistema de trânsito.",
+      "data_publicacao": "2026-07-30T16:52:59-03:00",
+      "url": "https://conjur.com.br/2026-jul-30/cnj-libera-assinatura-digital-em-cartorio-para-transferencia-de-veiculos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ mantém exigência de declaração de clínica para registro de bebê por reprodução assistida",
+      "descricao": "Segundo o ConJur, a Corregedoria Nacional manteve a exigência de declaração emitida por clínica especializada para o registro civil de crianças concebidas por reprodução assistida, destacando prevenção de fraudes e segurança jurídica.",
+      "data_publicacao": "2026-07-20T12:40:58-03:00",
+      "url": "https://conjur.com.br/2026-jul-20/cnj-mantem-exigencia-de-declaracao-de-clinica-para-registro-de-bebe-gerado-por-reproducao-assistida-2/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Uso de serviços digitais de Registro de Imóveis cresce quase 20% no Rio no primeiro semestre de 2026",
+      "descricao": "Levantamento divulgado pelo Colégio Notarial do Brasil mostrou avanço das solicitações eletrônicas no Registro de Imóveis do Rio, com crescimento expressivo da pesquisa prévia e manutenção da certidão digital como serviço mais demandado.",
+      "data_publicacao": "2026-07-31T15:40:17-03:00",
+      "url": "https://www.notariado.org.br/uso-de-servicos-digitais-de-registro-de-imoveis-cresce-quase-20-no-rio-no-primeiro-semestre-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Projeto permite coletar depoimento de testemunha em cartório",
+      "descricao": "O Colégio Notarial do Brasil repercutiu projeto de lei que autoriza a coleta de depoimentos de testemunhas em cartório, com gravação em áudio e vídeo e possibilidade de uso da ata como prova em processos judiciais e administrativos.",
+      "data_publicacao": "2026-07-27T16:44:38-03:00",
+      "url": "https://www.notariado.org.br/projeto-permite-coletar-depoimento-de-testemunha-em-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Corregedoria Nacional reafirma competência territorial do e-Notariado em atos híbridos",
+      "descricao": "A Corregedoria Nacional de Justiça reafirmou que atos híbridos com uso do e-Notariado continuam submetidos às regras de competência territorial dos atos eletrônicos, consolidando o entendimento sobre escrituras com participação remota.",
+      "data_publicacao": "2026-07-24T15:50:16-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-reafirma-aplicacao-da-competencia-territorial-do-e-notariado-aos-atos-notariais-hibridos/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-03-25T10:00:21-03:00",
+  "noticias": [
+    {
+      "titulo": "Turismo mantém economia aquecida e sustenta milhares de empregos em Rio das Ostras",
+      "descricao": "O turismo continua sendo motor da economia local, mantendo milhares de empregos ao longo do ano. A prefeitura destaca o papel dos eventos e da diversificação das atividades para reduzir a sazonalidade e fortalecer comércio e serviços.",
+      "data_publicacao": "2026-03-24T12:46:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/03/7226520-turismo-mantem-economia-aquecida-e-sustenta-milhares-de-empregos-em-rio-das-ostras.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Campanha contra tuberculose mobiliza bairros e reforça diagnóstico precoce em Rio das Ostras",
+      "descricao": "Ações de conscientização percorrem bairros e unidades de saúde com orientações sobre sintomas, prevenção e tratamento. A iniciativa marca o Dia Mundial da Tuberculose e amplia a busca ativa por casos.",
+      "data_publicacao": "2026-03-24T12:46:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/03/7226523-campanha-contra-tuberculose-mobiliza-bairros-e-reforca-diagnostico-precoce-em-rio-das-ostras.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Booster Norte promete reforçar abastecimento de água para mais de 150 mil moradores em Rio das Ostras",
+      "descricao": "Novo sistema de pressurização deve aumentar a vazão e regularizar o abastecimento em áreas mais altas e distantes. A concessionária afirma que a modernização melhora o controle da rede e reduz interrupções.",
+      "data_publicacao": "2026-03-23T14:17:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/03/7226045-booster-norte-promete-reforcar-abastecimento-de-agua-para-mais-de-150-mil-moradores-em-rio-das-ostras.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Rio das Ostras busca inovação no transporte e mira parcerias em visita técnica ao SEST SENAT",
+      "descricao": "Gestores municipais visitaram o SEST SENAT para conhecer programas de qualificação, tecnologias e ações de mobilidade. A cidade avalia parcerias para melhorar transporte público e capacitação de profissionais.",
+      "data_publicacao": "2026-03-24T12:46:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/03/7226529-rio-das-ostras-busca-inovacao-no-transporte-e-mira-parcerias-em-visita-tecnica-ao-sest-senat.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "CNB/CF lança Conta Notarial Remunerada e novo modelo de prestação de serviços",
+      "descricao": "O CNB/CF anunciou a Conta Notarial com rentabilidade e mudanças no modelo de precificação, em parceria com o Banco Safra. A novidade amplia a eficiência da ferramenta e define novas condições de uso para tabelionatos.",
+      "data_publicacao": "2026-03-24T09:19:57-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-conta-notarial-remunerada-e-novo-modelo-de-prestacao-de-servicos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Provimento do CNJ nº 219/26 estabelece regras para a relação de cartórios vagos",
+      "descricao": "O provimento define critérios de gestão e publicidade da Relação Geral de Vacâncias das serventias extrajudiciais. O texto padroniza a atualização das listas e orienta concursos de outorga.",
+      "data_publicacao": "2026-03-23T22:55:19-03:00",
+      "url": "https://www.notariado.org.br/provimento-do-cnj-no-219-26-estabelece-regras-para-a-gestao-atualizacao-e-publicidade-da-relacao-de-cartorios-vagos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Ana Paula Frontini é eleita presidente do CNB/SP e se torna a primeira mulher a liderar a Seccional",
+      "descricao": "O CNB/SP elegeu a nova diretoria para o biênio 2026-2028, com Ana Paula Frontini na presidência. A entidade destacou a continuidade dos trabalhos e o fortalecimento institucional do notariado paulista.",
+      "data_publicacao": "2026-03-20T20:36:36-03:00",
+      "url": "https://www.notariado.org.br/ana-paula-frontini-e-eleita-presidente-do-cnb-sp-e-se-torna-a-primeira-mulher-a-liderar-a-seccional/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ publica Provimento nº 218/2026 e estabelece novas regras para o sistema Justiça Aberta",
+      "descricao": "O CNB/RJ destacou que a norma reforça a atualização periódica e a qualidade dos dados enviados por cartórios ao sistema Justiça Aberta. O texto prevê auditorias e prazos para revisão das informações no estado.",
+      "data_publicacao": "2026-03-23T19:42:26-03:00",
+      "url": "https://cnbrj.org.br/cnj-publica-provimento-no-218-2026-e-estabelece-novas-regras-para-o-sistema-justica-aberta/",
+      "fonte": "CNB/RJ"
+    },
+    {
+      "titulo": "Provimento do CNJ nº 219/26 define regras para gestão de cartórios vagos no Rio de Janeiro",
+      "descricao": "O CNB/RJ resume o provimento que padroniza a relação de vacâncias e determina publicações semestrais. A medida busca transparência e uniformidade na gestão das serventias extrajudiciais.",
+      "data_publicacao": "2026-03-23T17:50:49-03:00",
+      "url": "https://cnbrj.org.br/provimento-do-cnj-no-219-26-estabelece-regras-para-a-gestao-atualizacao-e-publicidade-da-relacao-de-cartorios-vagos/",
+      "fonte": "CNB/RJ"
+    },
+    {
+      "titulo": "Com processo parado por três anos, juiz suspende multa aduaneira de R$ 3,6 mi",
+      "descricao": "Decisão aplicou entendimento do STJ sobre prescrição intercorrente quando há inércia administrativa prolongada. A cobrança de multa aduaneira foi suspensa por paralisação do processo.",
+      "data_publicacao": "2026-03-25T09:44:40-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-25/com-processo-parado-por-tres-anos-juiz-suspende-multa-aduaneira-de-r-36-mi/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Extinção de execuções fiscais em lote desencadeia novo embate nos tribunais",
+      "descricao": "A aplicação da Resolução 547/2024 gerou recursos de procuradorias que contestam extinções automáticas de execuções fiscais. O tema reabre discussões sobre critérios e intimações da Fazenda Pública.",
+      "data_publicacao": "2026-03-25T08:51:07-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-25/extincao-de-execucoes-fiscais-em-lote-cria-novo-embate-nos-tribunais/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "A sentença arbitral precisa ser homologada pelo Judiciário?",
+      "descricao": "Artigo explica que a sentença arbitral tem natureza jurisdicional e não depende de homologação judicial. O texto aborda implicações práticas para quem utiliza a arbitragem.",
+      "data_publicacao": "2026-03-25T08:00:31-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-25/a-sentenca-arbitral-precisa-ser-homologada-pelo-judiciario/",
+      "fonte": "Consultor Jurídico"
+    }
+  ]
+}

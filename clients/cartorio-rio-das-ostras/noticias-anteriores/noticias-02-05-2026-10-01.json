@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-02T10:01:54-03:00",
+  "noticias": [
+    {
+      "titulo": "Município recebe nota máxima em Mostra Estadual de Saúde",
+      "descricao": "Rio das Ostras recebeu pontuação máxima na 6ª Mostra Estadual de Práticas de Saúde com uma iniciativa do Programa Saúde na Escola, destacando integração entre atenção primária, escola e comunidade.",
+      "data_publicacao": "2026-04-28T15:11:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-recebe-nota-maxima-em-mostra-de-saude/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Ostrascycle é sucesso em Rio das Ostras",
+      "descricao": "A Prefeitura destacou o bom resultado do Ostrascycle 2026, que atraiu visitantes e movimentou hotelaria, gastronomia, artesanato e comércio local durante cinco dias de programação.",
+      "data_publicacao": "2026-04-20T17:06:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/ostrascycle-e-sucesso-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras conclui diagnóstico de plano de saneamento junto à população",
+      "descricao": "O município avançou no Plano Municipal de Saneamento com a consolidação do diagnóstico e debate de prioridades em água, esgoto, resíduos sólidos e drenagem urbana.",
+      "data_publicacao": "2026-04-08T09:32:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-conclui-diagnostico-de-plano-de-saneamento-junto-a-populacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Nova Iguaçu inaugura primeiro Museu de Arqueologia e Etnologia do estado no Dia da Baixada",
+      "descricao": "Nova Iguaçu anunciou a abertura do primeiro Museu de Arqueologia e Etnologia do estado do Rio de Janeiro, ampliando a oferta cultural e valorizando o patrimônio histórico da Baixada Fluminense.",
+      "data_publicacao": "2026-04-29T18:06:00-03:00",
+      "url": "https://odia.ig.com.br/nova-iguacu/2026/04/7243439-nova-iguacu-inaugura-primeiro-museu-de-arqueologia-e-etnologia-do-estado-no-dia-da-baixada.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Festival LED abre inscrições para evento gratuito no Pier Mauá",
+      "descricao": "O Festival LED abriu inscrições para mais uma edição no Rio de Janeiro, reunindo debates, palestras e experiências voltadas à educação, inovação e cultura em programação gratuita.",
+      "data_publicacao": "2026-04-30T15:36:00-03:00",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/04/30/festival-led-inscricoes-evento-gratuito.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "titulo": "CNB/CF lança projeto “Seccionais em Ação” para fortalecer a integração institucional das seccionais estaduais",
+      "descricao": "O Colégio Notarial do Brasil lançou o projeto “Seccionais em Ação” para aproximar a entidade nacional das seccionais estaduais e reforçar a coordenação de prioridades do notariado.",
+      "data_publicacao": "2026-04-29T19:44:52-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-projeto-seccionais-em-acao-para-fortalecer-a-integracao-institucional-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "PROVIMENTO N. 220, DE 22 DE ABRIL DE 2026",
+      "descricao": "O CNB publicou o Provimento nº 220/2026, que disciplina o procedimento administrativo para apuração de incapacidade permanente de delegatários de serviços notariais e de registro.",
+      "data_publicacao": "2026-04-23T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/provimento-n-220-de-22-de-abril-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "ARTIGO – A assinatura eletrônica notarizada criada na reforma do Código Civil – Por: Ana Amelia Menna Barreto",
+      "descricao": "Texto divulgado pelo CNB debate o papel da assinatura eletrônica notarizada na reforma do Código Civil e seus impactos sobre a prática de atos notariais eletrônicos no país.",
+      "data_publicacao": "2026-04-29T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/artigo-a-assinatura-eletronica-notarizada-criada-na-reforma-do-codigo-civil-por-ana-amelia-menna-barreto/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Inventário extrajudicial dispensa a certidão negativa de débito",
+      "descricao": "O ConJur noticiou entendimento que afasta a exigência de certidão negativa de débito para escritura pública de inventário e partilha extrajudicial, preservando a simplicidade do procedimento.",
+      "data_publicacao": "2026-04-30T07:52:23-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-30/inventario-extrajudicial-dispensa-a-certidao-negativa-de-debito/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Recibo de compra e venda é justo título para usucapião ordinária",
+      "descricao": "Segundo o ConJur, decisão recente reconheceu que recibo de compra e venda pode servir como justo título para usucapião ordinária, com impacto relevante na regularização imobiliária.",
+      "data_publicacao": "2026-04-29T13:51:15-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-29/recibo-de-compra-e-venda-e-justo-titulo-para-usucapiao-ordinaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Construtoras são condenadas por não lavrar escritura de imóvel quitado",
+      "descricao": "O ConJur informou que construtoras foram condenadas por não providenciar a escritura de imóvel já quitado, reforçando a importância da formalização adequada na transferência da propriedade.",
+      "data_publicacao": "2026-04-18T17:59:29-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-18/construtoras-sao-condenadas-por-nao-lavrar-escritura-de-imovel-quitado/",
+      "fonte": "ConJur"
+    }
+  ]
+}

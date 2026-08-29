@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-03-19T23:25:49-03:00",
+  "noticias": [
+    {
+      "titulo": "Pré-vestibular Cecierj: prorrogadas inscrições",
+      "descricao": "A Prefeitura de Rio das Ostras prorrogou até 9 de março as inscrições gratuitas para o Pré-Vestibular Cecierj 2026, com 120 vagas para moradores da cidade que estejam cursando ou já tenham concluído o ensino médio.",
+      "data_publicacao": "2026-03-05T09:30:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prorrogadas-inscricoes-para-o-pre-vestibular-cecierj/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "REABERTURA EXCEPCIONAL de inscrições para Processo Seletivo da Saúde",
+      "descricao": "A Secretaria Municipal de Saúde reabriu de forma excepcional as inscrições do processo seletivo simplificado após interrupção de energia, preservando a participação dos candidatos e mantendo válido o cronograma original do edital.",
+      "data_publicacao": "2026-03-04T14:55:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/reabertura-excepcional-de-inscricoes-para-processo-seletivo-da-saude/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio de Janeiro registra maior atividade econômica da história em 2025",
+      "descricao": "O Estado do Rio fechou 2025 com recorde no índice de atividade econômica do Banco Central, superando a média do Sudeste e reforçando o cenário de expansão da economia fluminense.",
+      "data_publicacao": "2026-03-02T12:43:00-03:00",
+      "url": "https://www.rj.gov.br/casacivil/node/1089",
+      "fonte": "Casa Civil do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Salvador sediará o LI Encontro dos Oficiais de Registro de Imóveis do Brasil em 2026",
+      "descricao": "O ONR informou que Salvador receberá, entre 28 e 30 de outubro, o encontro nacional dos oficiais de registro de imóveis, com foco em inovação, tecnologia e desafios atuais da atividade registral.",
+      "data_publicacao": "2026-02-27T00:00:00-03:00",
+      "url": "https://www.onr.org.br/salvador-sediara-o-li-encontro-dos-oficiais-de-registro-de-imoveis-do-brasil-em-2026/",
+      "fonte": "ONR"
+    },
+    {
+      "titulo": "Experimente Rio das Ostras leva informações turísticas para visitantes",
+      "descricao": "O portal oficial \"Experimente Rio das Ostras\" passou a reunir informações de hospedagem, gastronomia, praias, eventos e pontos turísticos, facilitando o planejamento de viagens e a divulgação do destino ao longo do ano.",
+      "data_publicacao": "2026-02-26T12:35:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/experimente-rio-das-ostras-leva-informacoes-turisticas-para-visitantes/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio de Janeiro abre 2026 com alta de 17% no turismo internacional e registra o melhor janeiro da história",
+      "descricao": "O estado recebeu 289.255 turistas internacionais em janeiro, avanço de 17% sobre o mesmo período do ano anterior, mantendo o ritmo recorde do turismo fluminense e ampliando a meta de visitantes para 2026.",
+      "data_publicacao": "2026-02-25T10:32:00-03:00",
+      "url": "https://www.rj.gov.br/casacivil/node/1087",
+      "fonte": "Casa Civil do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Conselho de Turismo elege nova diretoria",
+      "descricao": "O Conselho Municipal de Turismo de Rio das Ostras definiu a diretoria para o biênio 2026-2027 durante a primeira assembleia do ano, reforçando a articulação entre poder público, setor empresarial e sociedade civil.",
+      "data_publicacao": "2026-01-27T14:27:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/conselho-de-turismo-elege-nova-diretoria/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Faetec: vagas para cursos de qualificação",
+      "descricao": "A unidade da Faetec em Rio das Ostras abriu 370 vagas gratuitas em cursos como inglês, informática e assistência administrativa, com aulas previstas no Centro Municipal de Qualificação Profissional.",
+      "data_publicacao": "2026-01-19T08:58:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/faetec-de-rio-das-ostras-abre-vagas-para-cursos-gratuitos-de-qualificacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Estado do Rio registra mais de R$ 283 bilhões em investimentos privados em 2025",
+      "descricao": "Dados da Jucerja mostraram volume recorde de capital privado no estado em 2025, acompanhado do maior número histórico de abertura de empresas e de um ambiente mais favorável ao empreendedorismo.",
+      "data_publicacao": "2026-02-06T12:13:00-03:00",
+      "url": "https://www.rj.gov.br/casacivil/node/1077",
+      "fonte": "Casa Civil do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Cartórios de AL formalizam 849 casamentos coletivos em 2025",
+      "descricao": "A Arpen-Brasil destacou que os cartórios de Alagoas formalizaram 849 casamentos coletivos ao longo de 2025, ampliando o acesso ao registro civil e mantendo nova edição programada para 2026.",
+      "data_publicacao": "2025-12-30T00:00:00-03:00",
+      "url": "https://arpenbrasil.org.br/cartorios-de-al-formalizam-849-casamentos-coletivos-em-2025/",
+      "fonte": "Arpen-Brasil"
+    },
+    {
+      "titulo": "Atividades turísticas no país crescem 4,6% em 2025 e atingem recorde",
+      "descricao": "Levantamento do IBGE mostrou que o turismo brasileiro atingiu o maior nível da série histórica, com destaque para o Rio de Janeiro, que registrou alta de 10,8% e ajudou a puxar o resultado nacional.",
+      "data_publicacao": "2026-02-12T12:59:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/atividades-turisticas-no-pais-crescem-46-em-2025-e-atingem-recorde",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Novo lote de cadastro de artista fica aberto até 30 de junho",
+      "descricao": "Rio das Ostras abriu novo lote de credenciamento para artistas, produtores e outros profissionais da cultura, permitindo contratações para eventos públicos e reforçando a organização do calendário cultural do município.",
+      "data_publicacao": "2026-02-04T16:19:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/inscricoes-para-novo-lote-de-credenciamento-de-artistas-estao-abertas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    }
+  ]
+}

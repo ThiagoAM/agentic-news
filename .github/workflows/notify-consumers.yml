@@ -1,0 +1,33 @@
+name: Notify consumers
+
+# Quando o noticias.json de um cliente muda, dispara um repository_dispatch no
+# repositorio do site consumidor para rebuild imediato. Sem o secret
+# CONSUMER_DISPATCH_TOKEN (fine-grained PAT com Contents: read/write no repo
+# consumidor), o passo apenas informa e sai com sucesso — o site consumidor
+# tambem rebuilda sozinho em um horario agendado diario.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "clients/advocacia-erika/noticias.json"
+
+jobs:
+  dispatch-site-advocacia-erika:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch rebuild
+        env:
+          DISPATCH_TOKEN: ${{ secrets.CONSUMER_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$DISPATCH_TOKEN" ]; then
+            echo "Secret CONSUMER_DISPATCH_TOKEN ausente; pulando o dispatch."
+            echo "O site consumidor sera atualizado pelo rebuild agendado diario."
+            exit 0
+          fi
+          curl -fsS -X POST \
+            -H "Authorization: Bearer $DISPATCH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/ThiagoAM/site-advocacia-erika/dispatches \
+            -d '{"event_type":"news-updated"}'
+          echo "Dispatch enviado para ThiagoAM/site-advocacia-erika."

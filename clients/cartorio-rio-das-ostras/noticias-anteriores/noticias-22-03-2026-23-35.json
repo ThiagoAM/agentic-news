@@ -1,0 +1,110 @@
+{
+  "data-busca": "2026-03-22T23:35:30-03:00",
+  "noticias": [
+    {
+      "titulo": "TJ-RO nega vício de iniciativa em lei de distribuição de remédios",
+      "descricao": "O Tribunal de Justiça de Rondônia validou norma estadual que prevê fornecimento gratuito de medicamentos à base de canabidiol e afastou a tese de vício de iniciativa na criação da lei.",
+      "data_publicacao": "2026-03-22T17:47:45-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-22/tj-ro-nega-vicio-de-iniciativa-em-lei-de-distribuicao-de-remedios/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Plano não pode negar custeio de ‘conta residual’ de hospital",
+      "descricao": "O ConJur destacou decisão segundo a qual despesas remanescentes do tratamento, como exames, remédios e insumos, não podem ser recusadas pelo plano de saúde sem justificativa adequada.",
+      "data_publicacao": "2026-03-22T16:30:37-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-22/plano-nao-pode-negar-custeio-de-conta-residual-de-hospital/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "TJ-PB afasta multa por bis in idem em contrato de locação",
+      "descricao": "O tribunal paraibano deu provimento parcial a recurso para afastar dupla punição em contrato de locação, mantendo apenas cobranças consideradas compatíveis com o caso.",
+      "data_publicacao": "2026-03-22T15:48:03-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-22/tj-pb-afasta-multa-por-dupla-punicao-e-reconhece-excesso-de-execucao-em-contrato/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Nova Unidade de Saúde vai ampliar acesso dos moradores de Rio das Ostras a exames de imagem",
+      "descricao": "Rio das Ostras passou a contar com o Rio Imagem Lagos, unidade estadual inaugurada com apoio do município para ampliar o acesso da população a exames como tomografia e ressonância magnética.",
+      "data_publicacao": "2026-03-21T15:03:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/mais-uma-parceria-importante-entre-rio-das-ostras-e-o-governo-do-estado-para-melhorar-a-qualidade-dos-servicos-de-saude/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Ana Paula Frontini é eleita presidente do CNB/SP e se torna a primeira mulher a liderar a Seccional",
+      "descricao": "O Colégio Notarial do Brasil divulgou a eleição de Ana Paula Frontini para a presidência do CNB/SP, marcando a primeira vez que uma mulher assume o comando da seccional paulista.",
+      "data_publicacao": "2026-03-20T20:36:36-03:00",
+      "url": "https://www.notariado.org.br/ana-paula-frontini-e-eleita-presidente-do-cnb-sp-e-se-torna-a-primeira-mulher-a-liderar-a-seccional/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Estado do Rio produz 732 mil toneladas de aço em fevereiro",
+      "descricao": "O governo estadual informou que o Rio respondeu por 29% da produção nacional de aço em fevereiro, consolidando o setor como vetor relevante de emprego, investimento e atividade industrial no estado.",
+      "data_publicacao": "2026-03-20T15:37:00-03:00",
+      "url": "https://www.rj.gov.br/noticias/estado-do-rio-produz-732-mil-toneladas-de-aco-em-fevereiro7866",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Rio das Ostras Festival celebra 34 anos do município com shows gratuitos",
+      "descricao": "O município anunciou programação do Rio das Ostras Festival, de 10 a 12 de abril, com atrações como Mumuzinho, Tiee e Felipe Araújo. O evento terá entrada franca e aposta em parcerias privadas para estimular turismo e economia local.",
+      "data_publicacao": "2026-03-20T13:03:00-03:00",
+      "url": "https://odiario24h.com.br/noticia/rio-das-ostras-festival-celebra-34-anos-do-municipio",
+      "fonte": "O Diário 24H"
+    },
+    {
+      "titulo": "Matrículas para EJA seguem abertas em Rio das Ostras",
+      "descricao": "A Rede Municipal de Ensino mantém abertas as matrículas para Educação de Jovens e Adultos, com turmas noturnas em quatro unidades escolares e opções de inscrição online ou presencial. A iniciativa inclui também cursos de formação básica e profissionalizante.",
+      "data_publicacao": "2026-03-20T11:03:00-03:00",
+      "url": "https://odiario24h.com.br/noticia/matriculas-para-eja-seguem-abertas-em-rio-das-ostras",
+      "fonte": "O Diário 24H"
+    },
+    {
+      "titulo": "Rio das Ostras Festival celebra 34 anos do Município",
+      "descricao": "A Prefeitura anunciou a programação do Rio das Ostras Festival para comemorar os 34 anos da cidade, com shows gratuitos em abril e foco no fortalecimento do calendário cultural local.",
+      "data_publicacao": "2026-03-20T09:24:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-festival-celebra-34-anos-do-municipio/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Obra da nova ponte sobre o rio das Ostras entra em fase de licitação",
+      "descricao": "A Prefeitura de Rio das Ostras informou que a substituição da Ponte de Madeira, na Boca da Barra, avançou para a fase de habilitação da licitação. O projeto prevê nova estrutura com duas faixas, passarela acessível e revitalização do entorno, buscando melhorar mobilidade e segurança.",
+      "data_publicacao": "2026-03-19T16:03:00-03:00",
+      "url": "https://odiario24h.com.br/noticia/obra-da-nova-ponte-sobre-o-rio-das-ostras-entra-em-fase-de-licitacao",
+      "fonte": "O Diário 24H"
+    },
+    {
+      "titulo": "Rio das Ostras articula parcerias no Macaé Energy 2026",
+      "descricao": "Representantes do município participaram do Macaé Energy 2026 para discutir negócios e oportunidades na cadeia de petróleo, gás e energias. A agenda incluiu alinhamentos para qualificação profissional e fortalecimento de fornecedores locais.",
+      "data_publicacao": "2026-03-19T16:03:00-03:00",
+      "url": "https://odiario24h.com.br/noticia/rio-das-ostras-articula-parcerias-no-macae-energy-2026",
+      "fonte": "O Diário 24H"
+    },
+    {
+      "titulo": "Rio das Ostras recebe AgeRio e oferece linhas de crédito",
+      "descricao": "Empresários da cidade participaram de encontro com a AgeRio para conhecer linhas de crédito voltadas ao turismo e a pequenos negócios, com condições facilitadas para estimular a economia local.",
+      "data_publicacao": "2026-03-19T13:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-recebe-agerio-e-oferece-linhas-de-credito/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Inscrições abertas para o Projeto Jovem Repórter 2026",
+      "descricao": "A Secretaria de Estado de Educação abriu inscrições para estudantes da rede estadual participarem do Projeto Jovem Repórter em 2026. O programa oferece vivência em produção de conteúdo e cobertura de eventos institucionais.",
+      "data_publicacao": "2026-03-18T17:31:29-03:00",
+      "url": "https://tvprefeito.com/inscricoes-abertas-para-o-projeto-jovem-reporter-2026/",
+      "fonte": "TV Prefeito"
+    },
+    {
+      "titulo": "Pablo Kling é nomeado secretário de Desenvolvimento Econômico e Turismo de Rio das Ostras",
+      "descricao": "A Prefeitura anunciou a nomeação de Pablo Kling para a Secretaria de Desenvolvimento Econômico e Turismo, com foco na diversificação da oferta turística e fortalecimento da economia local. Ele chega com experiência em políticas públicas e promoção de destinos no RJ.",
+      "data_publicacao": "2026-03-18T10:06:30-03:00",
+      "url": "https://abihrj.com.br/noticias/pablo-king-e-o-novo-secretario-de-turismo-de-rio-das-ostras",
+      "fonte": "ABIH RJ"
+    },
+    {
+      "titulo": "Projeto Container do Esporte abre 240 vagas gratuitas em Mangaratiba",
+      "descricao": "O projeto retorna a Mangaratiba com aulas gratuitas de vôlei, handebol, tênis, badminton e atletismo para crianças e adolescentes. As inscrições ocorrem no CIEP 294, com início das atividades previsto para 19 de março.",
+      "data_publicacao": "2026-03-17T18:56:15-03:00",
+      "url": "https://tvprefeito.com/com-apoio-do-instituto-motiva-e-riosp-projeto-container-do-esporte-abre-240-vagas-gratuitas-em-mangaratiba-rj/",
+      "fonte": "TV Prefeito"
+    }
+  ]
+}

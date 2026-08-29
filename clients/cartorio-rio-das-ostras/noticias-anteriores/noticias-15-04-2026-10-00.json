@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-04-15T10:00:17-03:00",
+  "noticias": [
+    {
+      "titulo": "Ostrascycle divulga programação de 2026 em Rio das Ostras",
+      "descricao": "A Prefeitura de Rio das Ostras apresentou a programação do Ostrascycle 2026, com dezenas de shows distribuídos em quatro palcos em Costazul entre os dias 15 e 19 de abril, reforçando o calendário turístico e cultural do município.",
+      "data_publicacao": "2026-04-14T12:58:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/ostrascycle-divulga-programacao-de-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras mantém arboviroses sob controle com ações permanentes",
+      "descricao": "A Vigilância em Saúde de Rio das Ostras informou que dengue, zika e chikungunya seguem em baixos níveis no município, com monitoramento por ovitrampas, vistorias em imóveis e orientações contínuas à população.",
+      "data_publicacao": "2026-04-14T09:40:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-mantem-arboviroses-sob-controle-com-acoes-permanentes/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Diário Eletrônico da educação é modernizado e integrado ao sistema municipal",
+      "descricao": "Rio das Ostras modernizou o Diário Eletrônico da rede municipal de ensino, integrando a ferramenta ao sistema de gestão e-Cidade para agilizar registros escolares, ampliar o acompanhamento pedagógico e reduzir custos com documentos impressos.",
+      "data_publicacao": "2026-04-13T11:20:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/diario-eletronico-da-educacao-e-modernizado-e-integrado-ao-sistema-municipal-de-gestao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Instituto Superior de Educação do Rio de Janeiro completa 146 anos",
+      "descricao": "O ISERJ, administrado pela Faetec, celebrou 146 anos reunindo ex-alunos, professores e comunidade escolar em uma programação que destacou a trajetória histórica da instituição na formação de educadores no estado do Rio de Janeiro.",
+      "data_publicacao": "2026-04-13T15:48:45-03:00",
+      "url": "https://www.faetec.rj.gov.br/instituto-superior-de-educacao-do-rio-de-janeiro-completa-146-anos-reunindo-ex-alunos-e-professores/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "Alunos da Faetec Cidade de Deus fazem aula prática na Light",
+      "descricao": "Estudantes dos cursos de NR 10 e 33 da Faetec Cidade de Deus visitaram a sede da Light para acompanhar protocolos de segurança do trabalho, gestão de riscos e rotinas operacionais aplicadas ao setor elétrico.",
+      "data_publicacao": "2026-04-10T13:09:31-03:00",
+      "url": "https://www.faetec.rj.gov.br/alunos-da-faetec-cidade-de-deus-visitam-sede-da-light-e-realizam-aula-pratica-do-curso-de-seguranca-e-saude-no-trabalho/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "Falta de intimação pessoal do devedor anula leilão extrajudicial de imóvel",
+      "descricao": "A ConJur destacou decisão do STJ que anulou leilões extrajudiciais de um imóvel por ausência de intimação pessoal da devedora, reforçando a exigência legal de comunicação direta antes da alienação fiduciária.",
+      "data_publicacao": "2026-04-06T20:58:52-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-06/falta-de-intimacao-pessoal-do-devedor-anula-leilao-extrajudicial-de-imovel/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Documento original não é requisito indispensável para execução extrajudicial",
+      "descricao": "Segundo a ConJur, a 4ª Turma do STJ entendeu que a apresentação da via original da cédula de crédito bancário não é exigência automática para o ajuizamento de execução de título extrajudicial, cabendo análise fundamentada em cada caso.",
+      "data_publicacao": "2026-03-30T14:43:25-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-30/documento-original-nao-e-requisito-para-execucao-extrajudicial/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ julga se ausência de registro em cartório afasta alienação fiduciária",
+      "descricao": "A ConJur informou que a 2ª Seção do STJ vai definir, em recurso repetitivo, se a falta de registro em cartório do contrato de compra e venda com alienação fiduciária retira sua eficácia entre as partes.",
+      "data_publicacao": "2026-03-26T18:55:30-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-26/stj-julga-se-ausencia-de-registro-do-contrato-em-cartorio-afasta-alienacao-fiduciaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ENNOR oferece curso sobre reforma tributária e o extrajudicial para cartórios",
+      "descricao": "O Colégio Notarial do Brasil divulgou curso da ENNOR voltado a titulares, substitutos e colaboradores de cartórios, com foco nos impactos da reforma tributária de 2026, rotinas contábeis e estratégias de compliance para serventias extrajudiciais.",
+      "data_publicacao": "2026-04-14T17:10:42-03:00",
+      "url": "https://www.notariado.org.br/ennor-oferece-curso-a-reforma-tributaria-e-o-extrajudicial-para-preparar-cartorios-para-as-mudancas-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Impossibilidade de registrar imóvel gera indenização, destaca CNB",
+      "descricao": "O CNB repercutiu decisão do TJMG que condenou construtoras e cooperativas a indenizar um morador impedido de registrar imóvel já quitado, em caso que envolveu entraves documentais e restrições sobre o bem.",
+      "data_publicacao": "2026-04-14T17:10:07-03:00",
+      "url": "https://www.notariado.org.br/impossibilidade-de-registrar-imovel-gera-indenizacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STJ autoriza uso do Serp-Jud para busca de bens penhoráveis",
+      "descricao": "O Colégio Notarial do Brasil destacou decisão da 4ª Turma do STJ favorável ao uso do Serp-Jud na localização de bens passíveis de penhora em execuções civis, ampliando o emprego de ferramentas digitais integradas aos registros públicos.",
+      "data_publicacao": "2026-04-13T15:55:46-03:00",
+      "url": "https://www.notariado.org.br/stj-autoriza-uso-do-serp-jud-para-busca-de-bens-penhoraveis/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

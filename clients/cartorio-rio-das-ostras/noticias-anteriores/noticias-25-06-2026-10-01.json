@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-06-25T10:01:09-03:00",
+  "noticias": [
+    {
+      "titulo": "Alunos da rede municipal de Rio das Ostras criam revista digital escolar",
+      "descricao": "A Secretaria Municipal de Educação de Rio das Ostras apresentou um projeto em que estudantes do 6º ao 9º ano produzem uma revista digital com reportagens, entrevistas e registros do cotidiano escolar. A iniciativa reforça educação midiática, uso ético da tecnologia e desenvolvimento de competências de pesquisa, escrita e análise crítica.",
+      "data_publicacao": "2026-06-19T14:37:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/alunos-da-rede-municipal-de-rio-das-ostras-criam-revista-digital-escolar/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras realiza promoção turística com agências de Campos dos Goytacazes",
+      "descricao": "A Prefeitura de Rio das Ostras e o Convention & Visitors Bureau realizaram visitas a agências e operadoras de turismo de Campos dos Goytacazes para ampliar a divulgação do município. A ação apresentou atrativos naturais, hospedagem, gastronomia e calendário de eventos para fortalecer a venda do destino ao longo do ano.",
+      "data_publicacao": "2026-06-17T12:33:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-realiza-promocao-turistica-com-agencias-campos-dos-goytacazes/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras amplia qualificação profissional em parceria com o SENAI/Firjan",
+      "descricao": "A Prefeitura de Rio das Ostras informou o início de curso gratuito de Auxiliar de Controle de Qualidade, dentro de um programa que prevê 400 vagas em 10 cursos até 2027. A formação mira setores estratégicos da indústria e dos serviços, com foco em ampliar empregabilidade e geração de renda na região.",
+      "data_publicacao": "2026-06-02T11:55:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-investe-na-qualificacao-profissional-por-meio-de-curso-em-parceria-com-o-senai-firjan/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cadastro do Programa Turismo Rural RJ passa a ser feito pela plataforma RJ Digital",
+      "descricao": "O Governo do Estado do Rio de Janeiro passou a oferecer o cadastramento do Programa Turismo Rural RJ pela plataforma RJ Digital. A mudança busca facilitar a adesão de produtores, empreendedores e negócios do interior fluminense, com acesso ao selo do programa, capacitações e ações de divulgação.",
+      "data_publicacao": "2026-06-24T17:11:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/06/7269062-cadastramento-do-programa-turismo-rural-pode-ser-feito-pela-plataforma-rj-digital.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Ramal do bonde de Santa Teresa volta a operar após mais de 20 anos",
+      "descricao": "O ramal Silvestre do Bonde de Santa Teresa voltou a circular em fase de testes após mais de duas décadas desativado. A retomada faz parte da modernização do sistema e deve beneficiar moradores e visitantes, além de reforçar a mobilidade e o turismo na capital fluminense.",
+      "data_publicacao": "2026-06-11T15:40:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/06/7263265-ramal-do-bonde-de-santa-teresa-volta-a-operar-apos-mais-de-20-anos.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "CNB destaca provimento que regulamenta extratos eletrônicos para atos com repercussão imobiliária",
+      "descricao": "O Colégio Notarial do Brasil repercutiu o Provimento nº 228/2026, que disciplina o envio de extratos eletrônicos ao Registro de Imóveis. A medida reforça a integração digital entre tabelionatos e registros, exige maior padronização de dados e cria novas rotinas operacionais para atos notariais ligados a imóveis.",
+      "data_publicacao": "2026-06-18T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/provimento-no-228-2026-regulamenta-extratos-eletronicos-para-atos-com-repercussao-imobiliaria-e-impacta-rotina-dos-tabelionatos-de-notas/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF e notariado uruguaio discutem cooperação em tecnologia e e-Notariado",
+      "descricao": "O Colégio Notarial do Brasil informou que recebeu representantes do notariado uruguaio em reunião virtual voltada ao intercâmbio de experiências sobre transformação digital. O encontro tratou de serviços eletrônicos, integração tecnológica, segurança jurídica e possíveis instrumentos formais de cooperação entre os dois países.",
+      "data_publicacao": "2026-06-12T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-e-notariado-uruguaio-discutem-cooperacao-em-tecnologia-e-e-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Live apresenta nova etapa da integração entre e-Notariado e RI Digital",
+      "descricao": "O CNB/CF e o ONR apresentaram os avanços da integração entre o e-Notariado e o RI Digital, incluindo o piloto de envio de título estruturado para atos imobiliários eletrônicos. A iniciativa busca reduzir etapas operacionais, padronizar dados e tornar mais ágil a comunicação entre tabelionatos e registros de imóveis.",
+      "data_publicacao": "2026-06-16T19:00:00-03:00",
+      "url": "https://www.notariado.org.br/live-reune-notarios-e-registradores-para-apresentar-nova-etapa-da-integracao-entre-e-notariado-e-ri-digital/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF divulga materiais para orientar cidadãos sobre prova de vida no e-Notariado",
+      "descricao": "O Colégio Notarial do Brasil disponibilizou vídeo e panfleto explicativo para ajudar cartórios a orientar usuários sobre a prova de vida facial no e-Notariado. A nova camada de segurança entrou em vigor em junho e busca reforçar a identificação do signatário, dificultando fraudes com imagens, vídeos e deepfakes.",
+      "data_publicacao": "2026-06-01T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-disponibiliza-materiais-para-orientar-cidadaos-sobre-a-prova-de-vida-no-e-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "ConJur noticia que o STJ vai definir critérios para limitar multa por descumprimento judicial",
+      "descricao": "A ConJur informou que a Corte Especial do STJ afetou recursos para fixar parâmetros sobre a razoabilidade e a proporcionalidade das astreintes acumuladas. O julgamento deve orientar quando a multa por descumprimento de decisão judicial permanece compatível com a obrigação principal discutida.",
+      "data_publicacao": "2026-06-25T08:54:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-25/stj-definira-criterios-para-limitar-multa-por-descumprimento-judicial/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur repercute decisão que manteve cobrança de ICMS em compra incompatível com uso pessoal",
+      "descricao": "A ConJur relatou decisão da 2ª Turma Recursal do Distrito Federal que confirmou auto de infração por aquisição de mercadorias com finalidade comercial sem recolhimento de ICMS. O colegiado entendeu que o volume das compras, incluindo 14 celulares, não era compatível com uso pessoal.",
+      "data_publicacao": "2026-06-25T07:52:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-25/compra-de-mercadoria-incompativel-com-uso-pessoal-atrai-icms/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur destaca entendimento de que cuidado com parente idoso não gera vínculo empregatício por si só",
+      "descricao": "A ConJur publicou decisão do TRT-17 segundo a qual o cuidado de um sobrinho com o tio idoso, sem prova dos requisitos da CLT, não configura relação de emprego. O caso reforça que vínculo trabalhista exige demonstração de subordinação, habitualidade, pessoalidade e onerosidade.",
+      "data_publicacao": "2026-06-25T07:31:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-25/cuidado-com-parente-idoso-por-si-so-nao-gera-vinculo-empregaticio/",
+      "fonte": "Consultor Jurídico"
+    }
+  ]
+}

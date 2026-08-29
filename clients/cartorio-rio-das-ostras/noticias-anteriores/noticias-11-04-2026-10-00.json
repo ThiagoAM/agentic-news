@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-04-11T10:00:17-03:00",
+  "noticias": [
+    {
+      "titulo": "Com lançamento do ‘Rio das Ostras Digital’, Município moderniza gestão",
+      "descricao": "Rio das Ostras apresentou a plataforma Rio das Ostras Digital como parte da modernização da gestão pública, reunindo serviços e rotinas administrativas em ambiente mais integrado e acessível.",
+      "data_publicacao": "2026-04-10T14:55:10-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/com-lancamento-do-rio-das-ostras-digital-municipio-moderniza-gestao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Casa de Cultura recebe visita de alunos da Rede Municipal",
+      "descricao": "Alunos da rede municipal participaram de visita educativa à Casa de Cultura Bento Costa Júnior, em atividade voltada à valorização do patrimônio cultural e da formação dos estudantes em Rio das Ostras.",
+      "data_publicacao": "2026-04-09T16:29:47-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/casa-de-cultura-bento-costa-junior-recebe-visita-de-alunos-da-rede-municipal/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Fundação de Cultura promove Curso de Costura Criativa",
+      "descricao": "A Fundação de Cultura de Rio das Ostras divulgou curso gratuito de Costura Criativa e Moda Sustentável, iniciativa de capacitação que incentiva práticas manuais e reaproveitamento de materiais.",
+      "data_publicacao": "2026-04-09T15:02:58-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/fundacao-de-cultura-promove-curso-de-costura-criativa-moda-sustentavel/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Governo do Estado inaugura primeira exposição temporária do novo MIS Copacabana",
+      "descricao": "O Governo do Estado do Rio de Janeiro inaugurou a primeira exposição temporária do novo MIS Copacabana, marcando a abertura gradual do espaço cultural ao público após longo período de obras.",
+      "data_publicacao": "2026-04-10T12:15:53-03:00",
+      "url": "http://cultura.rj.gov.br/mis-copacabana-exposicao-inauguracao/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Alunos da Faetec Cidade de Deus visitam sede da Light e realizam aula prática do curso de Segurança e Saúde no Trabalho",
+      "descricao": "Estudantes da Faetec participaram de visita técnica à sede da Light para uma aula prática do curso de Segurança e Saúde no Trabalho, ampliando a vivência profissional e o contato com aplicações do conteúdo estudado.",
+      "data_publicacao": "2026-04-10T13:09:31-03:00",
+      "url": "https://www.faetec.rj.gov.br/alunos-da-faetec-cidade-de-deus-visitam-sede-da-light-e-realizam-aula-pratica-do-curso-de-seguranca-e-saude-no-trabalho/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "A Lei nº 15.371/2026 e os limites da licença-paternidade no Brasil",
+      "descricao": "A ConJur analisou os efeitos da Lei nº 15.371/2026 sobre a licença-paternidade, destacando avanços no reconhecimento do tema e os limites jurídicos que ainda permanecem na regulamentação brasileira.",
+      "data_publicacao": "2026-04-10T09:22:11-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-10/a-lei-no-15-371-2026-e-a-licenca-paternidade-no-brasil/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Interesse público limita reprodução de vídeos virais na imprensa",
+      "descricao": "A ConJur discutiu os limites jurídicos para a reprodução de vídeos virais por veículos de imprensa, com foco no equilíbrio entre interesse público, contexto editorial e proteção da imagem.",
+      "data_publicacao": "2026-04-10T08:54:09-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-10/interesse-publico-define-limites-para-reproducao-de-videos-virais-na-imprensa/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Questionamento genérico não invalida contrato digital",
+      "descricao": "Segundo análise publicada pela ConJur, o STJ entendeu que a contestação genérica de assinatura digital, sem indícios de fraude e diante da vontade de contratar, não basta para anular o negócio firmado.",
+      "data_publicacao": "2026-03-23T14:17:35-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-23/questionamento-generico-de-assinatura-digital-nao-invalida-contrato/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Campanha ‘É rápido, é fácil, é no Cartório!’ destaca segurança e praticidade na autenticação de documentos e reconhecimento de assinaturas",
+      "descricao": "O Colégio Notarial do Brasil divulgou material informativo para orientar a população sobre autenticação de documentos e reconhecimento de assinaturas, com ênfase em validade jurídica, praticidade e prevenção a fraudes.",
+      "data_publicacao": "2026-04-07T17:15:40-03:00",
+      "url": "https://www.notariado.org.br/campanha-e-rapido-e-facil-e-no-cartorio-destaca-seguranca-e-praticidade-na-autenticacao-de-documentos-e-reconhecimento-de-assinaturas/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Portaria nº 25 do CNJ determina inspeção para verificação do funcionamento de serventias extrajudiciais do Estado do Rio de Janeiro",
+      "descricao": "O Colégio Notarial do Brasil repercutiu portaria do CNJ que determinou inspeção sobre o funcionamento das serventias extrajudiciais do Estado do Rio de Janeiro e de setores ligados ao Tribunal de Justiça fluminense.",
+      "data_publicacao": "2026-04-10T16:56:44-03:00",
+      "url": "https://www.notariado.org.br/portaria-no-25-do-cnj-determina-inspecao-para-verificacao-do-funcionamento-de-serventias-extrajudiciais-do-estado-do-rio-de-janeiro/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF lança Conta Notarial Remunerada e novo modelo de prestação de serviços",
+      "descricao": "Em parceria com o Banco Safra, o CNB/CF anunciou novidades na Conta Notarial, incluindo módulo de rentabilidade e atualização do modelo de prestação de serviços para ampliar a eficiência da ferramenta.",
+      "data_publicacao": "2026-03-24T09:19:57-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-conta-notarial-remunerada-e-novo-modelo-de-prestacao-de-servicos/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

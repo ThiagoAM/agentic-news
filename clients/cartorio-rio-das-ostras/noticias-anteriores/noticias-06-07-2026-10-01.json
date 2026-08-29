@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-07-06T10:01:58-03:00",
+  "noticias": [
+    {
+      "titulo": "Prefeito visita obras do Centro Integrado Sesc Senac",
+      "descricao": "A Prefeitura de Rio das Ostras destacou a visita às obras do futuro Centro Integrado Sesc Senac, previsto para agosto, com foco na ampliação de serviços de educação, saúde, cultura, esporte, lazer e qualificação profissional no município.",
+      "data_publicacao": "2026-07-06T09:58:15-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeito-de-rio-das-ostras-visita-obras-do-centro-integrado-sesc-senac/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Julho Amarelo conscientiza sobre Hepatites e oferece testes rápidos",
+      "descricao": "Rio das Ostras iniciou a campanha Julho Amarelo com ações educativas, orientação em unidades de saúde e oferta de testes rápidos para hepatites e outras ISTs, reforçando prevenção e diagnóstico precoce ao longo do mês.",
+      "data_publicacao": "2026-07-02T08:40:01-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/julho-amarelo-conscientiza-sobre-hepatites/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras inaugura primeiro Centro Dia – Casa do Idoso",
+      "descricao": "O município inaugurou a Casa do Idoso no Âncora para reunir assistência social, saúde, cultura, esporte e lazer em um mesmo espaço, com expectativa de cerca de 300 atendimentos diários para pessoas com 60 anos ou mais.",
+      "data_publicacao": "2026-07-01T14:53:08-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inaugura-primeiro-centro-dia-casa-do-idoso/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Concurso da Saúde: Governo do Estado nomeia comissão de fiscalização",
+      "descricao": "A Secretaria de Estado de Saúde do Rio de Janeiro publicou a comissão de acompanhamento do novo concurso público da pasta e do Iaserj, que prevê 287 vagas para níveis médio, superior e especialistas.",
+      "data_publicacao": "2026-06-08T15:51:48-03:00",
+      "url": "https://www.rj.gov.br/saude/node/4042",
+      "fonte": "Secretaria de Estado de Saúde do Rio de Janeiro"
+    },
+    {
+      "titulo": "Secretaria de Estado de Saúde do Rio de Janeiro e Organização Pan-Americana de Saúde no Brasil debatem parcerias e projetos futuros",
+      "descricao": "A SES-RJ e a OPAS discutiram cooperação em vigilância da tuberculose, monitoramento de excessos de calor e uso de tecnologia para acompanhar doenças transmissíveis, com perspectiva de continuidade técnica nos próximos anos.",
+      "data_publicacao": "2026-06-08T17:29:53-03:00",
+      "url": "https://www.rj.gov.br/saude/node/4047",
+      "fonte": "Secretaria de Estado de Saúde do Rio de Janeiro"
+    },
+    {
+      "titulo": "Programa de Cuidados Paliativos do Instituto Estadual do Cérebro servirá de modelo para o Ministério da Saúde replicar em outros estados",
+      "descricao": "O programa de cuidados paliativos do Instituto Estadual do Cérebro, no Rio de Janeiro, foi apontado como referência para um grupo de trabalho nacional, destacando atendimento humanizado e expansão da política estadual de cuidados paliativos.",
+      "data_publicacao": "2026-07-02T09:16:20-03:00",
+      "url": "https://www.rj.gov.br/saude/node/4089",
+      "fonte": "Secretaria de Estado de Saúde do Rio de Janeiro"
+    },
+    {
+      "titulo": "Levantamento financeiro não prova sonegação em empresas sujeitas ao ICMS-ST",
+      "descricao": "A ConJur repercutiu decisão que afastou o uso de levantamento financeiro por presunção como prova suficiente de sonegação penal em empresa submetida ao regime de substituição tributária do ICMS.",
+      "data_publicacao": "2026-07-05T16:41:07-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-05/tecnica-de-levantamento-financeiro-nao-e-adequada-para-identificar-sonegacao-do-icms-st/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Indícios de fraude não autorizam extinção precoce de recuperação judicial",
+      "descricao": "Segundo a ConJur, o TJ-SP entendeu que suspeitas de fraude e inconsistências documentais não bastam para encerrar de forma prematura um processo de recuperação judicial, que deve seguir para apuração adequada dos fatos.",
+      "data_publicacao": "2026-07-05T14:14:23-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-05/indicios-de-fraude-nao-autorizam-extincao-precoce-de-recuperacao-judicial/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Constatação de abuso em reajuste de plano de saúde exige perícia",
+      "descricao": "A ConJur informou que a verificação de abusividade em reajustes de plano de saúde coletivo depende de perícia atuarial, sem conclusão automática apenas pela divergência em relação aos índices aplicados aos contratos individuais.",
+      "data_publicacao": "2026-07-05T08:51:32-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-05/constatacao-de-abuso-em-reajuste-de-plano-de-saude-exige-pericia/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Live reúne notários e registradores para apresentar nova etapa da integração entre e-Notariado e RI Digital",
+      "descricao": "O CNB/CF e o ONR apresentaram avanços da integração entre e-Notariado e RI Digital, incluindo piloto de envio de título estruturado para tornar mais ágil, padronizado e seguro o fluxo dos atos imobiliários eletrônicos.",
+      "data_publicacao": "2026-06-17T15:20:28-03:00",
+      "url": "https://www.notariado.org.br/live-reune-notarios-e-registradores-para-apresentar-nova-etapa-da-integracao-entre-e-notariado-e-ri-digital/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "e-Notariado completa seis anos e consolida ecossistema de atos digitais com reconhecimento internacional",
+      "descricao": "O Colégio Notarial do Brasil destacou a evolução do e-Notariado como infraestrutura digital nacional, com ampliação de módulos, crescimento do volume de atos eletrônicos e reconhecimento internacional do modelo brasileiro.",
+      "data_publicacao": "2026-06-08T13:48:38-03:00",
+      "url": "https://www.notariado.org.br/e-notariado-completa-seis-anos-e-consolida-ecossistema-de-atos-digitais-com-reconhecimento-internacional/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça disponibiliza painel com relações gerais de vacâncias dos serviços extrajudiciais",
+      "descricao": "O Colégio Notarial do Brasil repercutiu a criação de um painel nacional para dar transparência às relações gerais de vacâncias dos serviços extrajudiciais, reunindo listas encaminhadas pelos tribunais de justiça do país.",
+      "data_publicacao": "2026-07-01T17:23:31-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-disponibiliza-painel-com-relacoes-gerais-de-vacancias-dos-servicos-extrajudiciais/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

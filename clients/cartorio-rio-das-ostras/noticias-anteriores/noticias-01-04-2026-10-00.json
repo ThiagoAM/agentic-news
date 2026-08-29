@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-04-01T10:00:25-03:00",
+  "noticias": [
+    {
+      "titulo": "Município moderniza todas as unidades da Saúde Bucal",
+      "descricao": "A Prefeitura de Rio das Ostras iniciou a modernização dos consultórios odontológicos da rede municipal com novas cadeiras, autoclaves, compressores e equipamentos de alta tecnologia. A medida dá sequência à reorganização da Saúde Bucal, que reduziu filas e retomou serviços especializados, com planos de ampliar a capacidade de atendimento.",
+      "data_publicacao": "2026-04-01T09:48:49-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-moderniza-todas-as-unidades-da-saude-bucal/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Vigilância trabalha para manter a Cidade sem sarampo e rubéola",
+      "descricao": "A Vigilância Epidemiológica de Rio das Ostras realizou busca ativa em creche municipal para identificar casos suspeitos e pendências de vacinação. A ação integra a mobilização do Dia “S” e reforça a prevenção de sarampo e rubéola, sem casos suspeitos detectados entre os alunos avaliados.",
+      "data_publicacao": "2026-04-01T08:53:14-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/vigilancia-trabalha-para-manter-a-cidade-sem-sarampo-e-rubeola/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Editais da Fundação de Cultura estão com inscrições abertas",
+      "descricao": "A Fundação Rio das Ostras de Cultura abriu inscrições para editais de Projetos Continuados, Projetos Culturais e Coletivos e Grupos Culturais. Os recursos ultrapassam R$ 1 milhão e contemplam desde manutenção de Pontos de Cultura até seleção de propostas culturais em diversas linguagens artísticas.",
+      "data_publicacao": "2026-03-31T16:33:38-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/editais-da-fundacao-de-cultura-estao-com-inscricoes-abertas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Itapebussus: opção de turismo de natureza em Rio das Ostras",
+      "descricao": "A Praia de Itapebussus, próxima à lagoa de água doce, vem ganhando destaque como destino de natureza em Rio das Ostras. O acesso é feito por trilha ou caminhada pela areia e o local oferece águas claras, opções de mergulho e recomendações de visita com atenção à segurança e ao lixo.",
+      "data_publicacao": "2026-03-31T14:36:58-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/itapebussus-opcao-de-turismo-de-natureza/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Secretaria de Estado de Saúde do RJ reforça cuidados para evitar intoxicação alimentar com pescados na Semana Santa",
+      "descricao": "A SES-RJ divulgou orientações para compra, armazenamento e preparo de peixes e frutos do mar durante a Semana Santa. A Vigilância Sanitária esteve no Mercado São Pedro, em Niterói, com dicas de frescor, higiene e conservação para reduzir riscos de intoxicação alimentar.",
+      "data_publicacao": "2026-03-29T10:36:10-03:00",
+      "url": "https://www.rj.gov.br/saude/node/3935",
+      "fonte": "Secretaria de Estado de Saúde do RJ"
+    },
+    {
+      "titulo": "SES-RJ apoia municípios na campanha do Dia D de Vacinação contra a Influenza",
+      "descricao": "A Secretaria de Estado de Saúde apoiou o Dia D de vacinação contra a influenza com unidades móveis e distribuição de doses aos municípios fluminenses. A campanha prioriza crianças pequenas, idosos e gestantes, e reforça a proteção antes do período de maior circulação do vírus.",
+      "data_publicacao": "2026-03-28T17:33:56-03:00",
+      "url": "https://www.rj.gov.br/saude/node/3934",
+      "fonte": "Secretaria de Estado de Saúde do RJ"
+    },
+    {
+      "titulo": "Procuração sem ICP-Brasil é válida se não houver dúvida sobre autenticidade",
+      "descricao": "O STJ decidiu que procurações eletrônicas podem ser válidas sem certificado ICP-Brasil, desde que não haja dúvidas sobre a autenticidade. O tribunal ressalvou que o juiz pode exigir assinatura qualificada se houver questionamentos sobre a representação processual.",
+      "data_publicacao": "2026-04-01T07:31:57-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-01/procuracao-sem-icp-e-valida-se-nao-houver-duvida-sobre-autenticidade/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Valor pago por fora como previdência privada tem natureza salarial",
+      "descricao": "A SDI-1 do TST reconheceu que pagamentos feitos por banco a executivo em forma de previdência privada tinham natureza salarial e devem integrar outras verbas. A decisão considerou que a parcela era calculada a partir do salário e do desempenho do empregado.",
+      "data_publicacao": "2026-04-01T07:52:58-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-01/valor-pago-por-fora-como-previdencia-privada-tem-natureza-salarial/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "CPC 51: demonstrações contábeis de cara nova. Há efeitos fiscais?",
+      "descricao": "Artigo analisa o Pronunciamento CPC 51, que altera a apresentação e divulgação de demonstrações financeiras a partir de 2027. O texto discute a neutralidade tributária das novas regras e questiona possíveis impactos fiscais futuros.",
+      "data_publicacao": "2026-04-01T08:00:02-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-01/cpc-51-demonstracoes-contabeis-de-cara-nova-ha-efeitos-fiscais/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Victor Fróis Rodrigues é eleito presidente do CNB/MG para novo biênio",
+      "descricao": "O CNB/MG elegeu Victor Fróis Rodrigues para presidir a entidade no próximo biênio. A nova gestão destacou metas de fortalecimento institucional, qualificação profissional e ampliação das atribuições notariais.",
+      "data_publicacao": "2026-03-26T16:39:13-03:00",
+      "url": "https://www.notariado.org.br/victor-frois-rodrigues-e-eleito-presidente-do-cnb-mg-para-novo-bienio/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF lança Conta Notarial Remunerada e novo modelo de prestação de serviços",
+      "descricao": "O CNB/CF anunciou a Conta Notarial com rentabilidade atrelada ao CDI e um novo modelo de precificação do serviço. A iniciativa busca modernizar a ferramenta, ampliar a sustentabilidade e oferecer remuneração ao tabelionato durante operações custodiadas.",
+      "data_publicacao": "2026-03-24T09:19:57-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-conta-notarial-remunerada-e-novo-modelo-de-prestacao-de-servicos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Provimento do CNJ nº 219/26 estabelece regras para a gestão, atualização e publicidade da relação de Cartórios vagos",
+      "descricao": "O CNJ publicou o Provimento nº 219/2026, definindo regras para organizar e atualizar a lista de cartórios vagos. O normativo prevê padronização, transparência e controle na gestão das serventias extrajudiciais.",
+      "data_publicacao": "2026-03-23T22:55:19-03:00",
+      "url": "https://www.notariado.org.br/provimento-do-cnj-no-219-26-estabelece-regras-para-a-gestao-atualizacao-e-publicidade-da-relacao-de-cartorios-vagos/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

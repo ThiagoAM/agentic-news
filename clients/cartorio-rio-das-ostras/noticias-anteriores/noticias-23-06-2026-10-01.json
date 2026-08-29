@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-06-23T10:01:41-03:00",
+  "noticias": [
+    {
+      "titulo": "Alunos aprendem sobre reciclagem com peça em Rio das Ostras",
+      "descricao": "Alunos da rede municipal de Rio das Ostras participam de apresentações teatrais e musicais sobre reciclagem, coleta seletiva e descarte correto do lixo. A ação da Trupe da Leitura busca reforçar a educação ambiental durante o mês dedicado ao Meio Ambiente.",
+      "data_publicacao": "2026-06-19T12:35:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/alunos-aprendem-sobre-reciclagem-com-peca/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Educação de Rio das Ostras oferta cursos sobre cultura afro-brasileira e indígena",
+      "descricao": "A Secretaria de Educação de Rio das Ostras abriu formação híbrida para profissionais da rede municipal sobre cultura afro-brasileira e indígena. O curso pretende fortalecer práticas pedagógicas voltadas à equidade étnico-racial e formar multiplicadores nas escolas.",
+      "data_publicacao": "2026-06-18T17:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/educacao-de-rio-das-ostras-oferta-cursos-sobre-cultura-afro-brasileira-e-indigena/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras debate desenvolvimento de novo Plano Municipal de Educação",
+      "descricao": "Representantes de Rio das Ostras participaram de oficinas da Rede de Cooperação Técnica do Rio de Janeiro para construir os novos planos decenais de educação. A iniciativa apoia o planejamento do próximo Plano Municipal de Educação com diagnóstico, escuta pública e definição de metas.",
+      "data_publicacao": "2026-06-18T16:41:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-debate-desenvolvimento-de-plano-municipal-de-educacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Atletas de Rio das Ostras conquistam ouro em campeonato sul-americano de vôlei master",
+      "descricao": "Os atletas Danúbio Rondon e Felipe Maia, de Rio das Ostras, venceram a categoria 40+ de vôlei de praia na Rota Sul-Americana de Vôlei Master. A conquista destaca o desempenho esportivo local em uma competição que reuniu delegações de vários estados e países vizinhos.",
+      "data_publicacao": "2026-06-17T17:30:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/riostrenses-vencem-em-sul-americano/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Niterói abre inscrições gratuitas para o projeto Ecotur Sem Barreiras",
+      "descricao": "A Neltur abriu inscrições para novas trilhas do projeto Ecotur Sem Barreiras em Niterói, com passeios inclusivos e uso da cadeira Julietti para pessoas com deficiência. A programação de junho amplia o acesso ao turismo e ao lazer em áreas naturais da cidade.",
+      "data_publicacao": "2026-06-03T06:20:14-03:00",
+      "url": "https://odia.ig.com.br/niteroi/2026/06/7260019-niteroi-ecotur-sem-barreiras-com-inscricoes-abertas.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Rio de Janeiro recebe 1,2 milhão de turistas estrangeiros e lidera crescimento no país",
+      "descricao": "O estado do Rio de Janeiro somou mais de 1,2 milhão de turistas internacionais entre janeiro e maio de 2026, com avanço de 17,4% sobre o mesmo período do ano anterior. O resultado reforça o peso do turismo para hotéis, restaurantes, transporte, comércio e serviços em várias regiões fluminenses.",
+      "data_publicacao": "2026-06-19T22:47:00-03:00",
+      "url": "https://odia.ig.com.br/economia/2026/06/7267114-rio-recebe-12-milhao-de-turistas-estrangeiros-e-tem-maior-avanco-do-pais.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "ConJur destaca exigência de escritura pública para renúncia de herança com beneficiário específico",
+      "descricao": "O ConJur repercutiu decisão segundo a qual a renúncia de herança em favor de pessoa determinada configura cessão de direitos hereditários e exige escritura pública. O entendimento reforça a diferença entre renúncia simples e transferência patrimonial direcionada no contexto do inventário.",
+      "data_publicacao": "2026-06-20T08:23:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-20/abdicar-de-heranca-em-prol-de-beneficiario-especifico-exige-escritura-publica/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur repercute entendimento de que integralização de imóvel em empresa dispensa escritura pública",
+      "descricao": "O ConJur noticiou reforço da jurisprudência paulista no sentido de que atos societários arquivados na Junta Comercial podem servir como título hábil para transferência de imóvel ao capital social. A decisão valoriza a desburocratização e a segurança jurídica em operações patrimoniais e societárias.",
+      "data_publicacao": "2026-06-18T12:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-18/integralizacao-de-imovel-ao-capital-social-dispensa-escritura-publica-novo-reforco-da-jurisprudencia-paulista/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur informa que bens no Brasil seguem a lei brasileira em sucessão mesmo com domicílio no exterior",
+      "descricao": "O ConJur relatou decisão que reconheceu a aplicação da legislação brasileira à sucessão de bens localizados no país, mesmo com domicílio também no exterior. O caso anulou escritura pública de inventário baseada apenas em lei estrangeira e determinou a reabertura da partilha conforme o direito nacional.",
+      "data_publicacao": "2026-06-07T12:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-07/domicilio-no-exterior-nao-afasta-lei-brasileira-para-reger-sucessao-de-bens/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "CNB e notariado uruguaio discutem cooperação em tecnologia e e-Notariado",
+      "descricao": "O Colégio Notarial do Brasil e representantes do notariado uruguaio realizaram reunião para trocar experiências sobre transformação digital e serviços eletrônicos. A conversa tratou de cooperação técnica, testes de ambiente e possíveis acordos para ampliar soluções seguras na atividade notarial.",
+      "data_publicacao": "2026-06-18T11:34:39-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-e-notariado-uruguaio-discutem-cooperacao-em-tecnologia-e-e-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB explica proposta de divórcio unilateral direto em cartório",
+      "descricao": "O portal do Colégio Notarial do Brasil detalhou a proposta de divórcio unilateral em cartório prevista na reforma do Código Civil. A matéria mostra argumentos de desburocratização e também ressalta a preocupação do notariado com a proteção jurídica das partes e a prevenção de conflitos futuros.",
+      "data_publicacao": "2026-06-19T19:05:58-03:00",
+      "url": "https://www.notariado.org.br/e-possivel-se-separar-sozinho-entenda-o-novo-tipo-de-divorcio-previsto-na-reforma-do-codigo-civil/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB repercute decisão do STJ sobre momento do direito de regresso entre devedores solidários",
+      "descricao": "O Colégio Notarial do Brasil repercutiu entendimento do STJ de que a ação de regresso entre devedores solidários só pode ser proposta após o pagamento integral da dívida. A decisão diferencia pagamento parcial e quitação total, delimitando quando começa a fase interna de reembolso entre os codevedores.",
+      "data_publicacao": "2026-06-17T18:04:09-03:00",
+      "url": "https://www.notariado.org.br/acao-de-regresso-e-prematura-quando-ha-apenas-pagamento-parcial-da-divida-entende-stj/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

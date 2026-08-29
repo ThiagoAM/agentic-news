@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-04-29T10:01:55-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras Bike Fest vai contar com segurança reforçada",
+      "descricao": "A Prefeitura de Rio das Ostras montou um esquema especial de segurança para a segunda edição do Bike Fest, com reforço da Guarda Civil Municipal, apoio ao trânsito, patrulhamento preventivo e suporte a atletas, moradores e visitantes durante os três dias do evento.",
+      "data_publicacao": "2026-04-28T11:52:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-bike-fest-vai-contar-com-seguranca-reforcada/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "SAAE coíbe esgoto irregular e promove melhorias na drenagem do Município",
+      "descricao": "O SAAE de Rio das Ostras intensificou ações de drenagem e saneamento com retirada de ligações clandestinas de esgoto, limpeza de redes e canais e recuperação de estruturas em vários bairros para prevenir alagamentos e proteger a saúde pública.",
+      "data_publicacao": "2026-04-28T11:09:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/saae-coibe-esgoto-irregular-e-promove-melhorias-na-drenagem-do-municipio/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Caminhada no dia 30 marca combate à hipertensão",
+      "descricao": "A Secretaria de Saúde de Rio das Ostras promove uma caminhada de conscientização na Orla do Centro, acompanhada de aferição de pressão arterial e orientações sobre alimentação saudável e atividade física para prevenção da hipertensão.",
+      "data_publicacao": "2026-04-28T09:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/caminhada-no-dia-30-marca-combate-a-hipertensao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Artesãos de Rio das Ostras ganham espaço em feira estadual e levam identidade local para o Rio",
+      "descricao": "Artesãos de Rio das Ostras participam da Feira Rio Artes com peças ligadas à identidade cultural do município, ampliando visibilidade, oportunidades de profissionalização e conexões com outros setores da economia criativa do estado.",
+      "data_publicacao": "2026-04-07T13:04:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/04/7232785-artesaos-de-rio-das-ostras-ganham-espaco-em-feira-estadual-e-levam-identidade-local-para-o-rio.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Casa Brasil inaugura duas exposições com obras de 60 artistas de diferentes regiões do estado do Rio",
+      "descricao": "A Casa Brasil, no Centro do Rio, abriu duas exposições gratuitas com 97 obras de 60 artistas fluminenses, valorizando identidade, diversidade, tradições e economia criativa em diferentes regiões do estado.",
+      "data_publicacao": "2026-04-07T11:11:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/04/7232689-casa-brasil-inaugura-duas-mostras-com-obras-de-60-artistas-de-diferentes-regioes-do-estado-do-rio.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Arquidiocese inaugura duas exposições em comemoração aos 450 anos da Igreja Católica no Rio",
+      "descricao": "A Catedral Metropolitana do Rio abriu duas exposições comemorativas sobre a história da Igreja Católica na cidade, reunindo obras, documentos e acervos do Museu Arquidiocesano de Arte Sacra com visitação gratuita até julho.",
+      "data_publicacao": "2026-04-28T12:04:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/04/7242631-catedral-metropolitana-inaugura-exposicoes-em-comemoracao-aos-450-anos-da-fe-catolica-no-rio.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Arras e corretagem imobiliária: estruturação negocial e a atuação notarial como instrumento de prevenção de litígios",
+      "descricao": "Artigo publicado pelo Colégio Notarial do Brasil analisa como arras, corretagem e atuação do tabelião podem estruturar melhor a compra e venda de imóveis, reduzir conflitos e ampliar a segurança jurídica nas negociações.",
+      "data_publicacao": "2026-04-28T13:01:16+00:00",
+      "url": "https://www.notariado.org.br/arras-e-corretagem-imobiliaria-estruturacao-negocial-e-a-atuacao-notarial-como-instrumento-de-prevencao-de-litigios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Quem não recebeu escritura de imóvel pode pedir indenização sem prazo, decide STJ",
+      "descricao": "O Colégio Notarial do Brasil destacou decisão do STJ que estende à indenização por perdas e danos a imprescritibilidade reconhecida para a adjudicação compulsória quando a escritura definitiva do imóvel não puder ser obtida.",
+      "data_publicacao": "2026-04-23T18:04:08+00:00",
+      "url": "https://www.notariado.org.br/quem-nao-recebeu-escritura-de-imovel-pode-pedir-indenizacao-sem-prazo-decide-stj/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Provimento n. 220, de 22 de abril de 2026",
+      "descricao": "O CNB publicou o provimento da Corregedoria Nacional de Justiça que uniformiza o procedimento administrativo para apuração de incapacidade permanente de delegatários dos serviços notariais e de registro.",
+      "data_publicacao": "2026-04-23T18:03:39+00:00",
+      "url": "https://www.notariado.org.br/provimento-n-220-de-22-de-abril-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Citação de réu pelo WhatsApp é inválida em ação de estado",
+      "descricao": "O STJ reafirmou, em notícia do ConJur, que ações sobre estado da pessoa exigem citação pessoal, de modo que a comunicação por WhatsApp não atende ao requisito legal previsto para esse tipo de processo.",
+      "data_publicacao": "2026-04-25T10:31:30+00:00",
+      "url": "https://www.conjur.com.br/2026-abr-25/citacao-de-reu-pelo-whatsapp-e-invalida-em-acao-de-estado/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Repasse de fundo cartorário a associações privadas na Paraíba é declarado irregular pelo CNJ",
+      "descricao": "Segundo o ConJur, o CNJ considerou irregular o repasse obrigatório de percentual do fundo de compensação dos cartórios da Paraíba para associações privadas, exigindo ressarcimento de despesas comprovadas e regularização da gestão tecnológica.",
+      "data_publicacao": "2026-04-25T20:50:40+00:00",
+      "url": "https://www.conjur.com.br/2026-abr-25/repasse-de-fundo-cartorario-a-associacoes-privadas-na-paraiba-e-declarado-irregular-pelo-cnj/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Construtoras são condenadas por não lavrar escritura de imóvel quitado",
+      "descricao": "O ConJur noticiou decisão do TJ-MG que condenou construtoras e cooperativas a indenizar comprador impedido de registrar imóvel quitado, reforçando a importância da escritura definitiva e da entrega do bem livre de ônus.",
+      "data_publicacao": "2026-04-18T20:59:29+00:00",
+      "url": "https://www.conjur.com.br/2026-abr-18/construtoras-sao-condenadas-por-nao-lavrar-escritura-de-imovel-quitado/",
+      "fonte": "ConJur"
+    }
+  ]
+}

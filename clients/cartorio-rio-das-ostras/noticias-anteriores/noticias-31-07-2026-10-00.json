@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-31T10:00:59-03:00",
+  "noticias": [
+    {
+      "titulo": "Saúde promove vacinação no Shopping Plaza Rio das Ostras",
+      "descricao": "A Prefeitura de Rio das Ostras levou a campanha de vacinação ao Shopping Plaza para ampliar o acesso do público às doses de rotina. A ação busca facilitar a atualização da caderneta e reforçar a prevenção em um ponto de grande circulação na cidade.",
+      "data_publicacao": "2026-07-30T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/saude-de-rio-das-ostras-promove-vacinacao-no-shopping-plaza/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município investe em qualificação profissional",
+      "descricao": "Rio das Ostras iniciou, em parceria com o SENAI/Firjan, uma nova frente de qualificação profissional gratuita para moradores. A iniciativa amplia oportunidades de formação voltadas ao mercado de trabalho e ao desenvolvimento econômico local.",
+      "data_publicacao": "2026-07-29T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-investe-em-qualificacao-profissional-em-parceria-com-o-senai-firjan/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Festival Gastronômico de Rio das Ostras divulga pratos",
+      "descricao": "A organização do Festival Gastronômico apresentou os pratos da segunda edição do evento, que reúne culinária, turismo e programação cultural no município. A divulgação ajuda a movimentar o setor de bares e restaurantes e a atrair visitantes para a cidade.",
+      "data_publicacao": "2026-07-20T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/festival-gastronomico-de-rio-das-ostras-divulga-pratos-da-segunda-edicao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "4ª Feira da Economia do Mar será realizada durante a Expo Macaé 2026",
+      "descricao": "Macaé anunciou a realização da 4ª Feira da Economia do Mar dentro da Expo Macaé 2026, com foco em inovação, sustentabilidade e atividades ligadas ao mar. O evento reforça a vocação econômica da região e destaca segmentos como turismo náutico e economia azul.",
+      "data_publicacao": "2026-07-31T12:00:00-03:00",
+      "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/4-feira-da-economia-do-mar-sera-realizada-de-24-a-28-de-julho-durante-a-expo-macae-2026",
+      "fonte": "Prefeitura de Macaé"
+    },
+    {
+      "titulo": "Expo Macaé 2026 reúne tradição agropecuária, inovação, cultura e negócios",
+      "descricao": "A Expo Macaé 2026 foi apresentada como vitrine de cultura, agronegócio, inovação e oportunidades de negócios no interior fluminense. A programação combina entretenimento e desenvolvimento regional, com espaço para debates e atividades econômicas.",
+      "data_publicacao": "2026-07-31T12:00:00-03:00",
+      "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/expo-macae-2026-reune-grandes-shows-tradicao-agropecuaria-inovacao-cultura-e-oportunidades-de-negocios",
+      "fonte": "Prefeitura de Macaé"
+    },
+    {
+      "titulo": "CNJ libera alienação fiduciária em contrato sem escritura pública",
+      "descricao": "A ConJur destacou decisão do CNJ que afastou a exigência de escritura pública para determinada operação de alienação fiduciária. O entendimento preserva a necessidade de registro imobiliário e impacta a formalização de garantias em negócios patrimoniais.",
+      "data_publicacao": "2026-07-27T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-jul-27/cnj-libera-alienacao-fiduciaria-em-contrato-sem-escritura-publica/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Registro de bebê de reprodução assistida exige laudo da clínica",
+      "descricao": "Segundo a ConJur, o CNJ manteve a exigência de declaração da clínica para o registro civil de bebê gerado por reprodução assistida. A decisão reforça critérios documentais aplicáveis aos cartórios em procedimentos dessa natureza.",
+      "data_publicacao": "2026-07-20T00:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-20/cnj-mantem-exigencia-de-declaracao-de-clinica-para-registro-de-bebe-gerado-por-reproducao-assistida/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Partilha com herdeiro menor reacende debate sobre limites da desjudicialização do inventário",
+      "descricao": "Artigo publicado pela ConJur analisa os limites do inventário extrajudicial quando há herdeiro menor ou incapaz. O texto discute os reflexos práticos da medida para a atuação dos cartórios e para a segurança do procedimento sucessório.",
+      "data_publicacao": "2026-07-11T00:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-11/partilha-com-herdeiro-menor-ou-incapaz-limites-da-desjudicializacao-do-inventario/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Projeto permite coletar depoimento de testemunha em cartório",
+      "descricao": "O Colégio Notarial do Brasil repercutiu projeto de lei que autoriza a coleta de depoimento de testemunha em cartório para processos sobre direitos disponíveis. A proposta amplia o uso de instrumentos notariais como meio de prova em demandas judiciais e administrativas.",
+      "data_publicacao": "2026-07-27T16:44:38-03:00",
+      "url": "https://www.notariado.org.br/projeto-permite-coletar-depoimento-de-testemunha-em-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Corregedoria reafirma competência territorial do e-Notariado em atos híbridos",
+      "descricao": "A Corregedoria Nacional de Justiça reafirmou que atos notariais híbridos com uso do e-Notariado seguem as regras de competência territorial já aplicáveis aos atos eletrônicos. O entendimento fortalece a segurança jurídica nas práticas remotas e semipresenciais.",
+      "data_publicacao": "2026-07-24T15:50:16-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-reafirma-aplicacao-da-competencia-territorial-do-e-notariado-aos-atos-notariais-hibridos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Revista do Notariado Brasileiro lança 3ª edição com foco em justiça preventiva e segurança jurídica",
+      "descricao": "O CNB lançou a terceira edição da Revista do Notariado Brasileiro com conteúdo voltado a justiça preventiva, inovação e segurança jurídica. A publicação reúne análises e reportagens sobre o papel do notariado na modernização dos serviços.",
+      "data_publicacao": "2026-07-23T11:40:59-03:00",
+      "url": "https://www.notariado.org.br/revista-do-notariado-brasileiro-lanca-sua-3a-edicao-com-foco-em-justica-preventiva-seguranca-juridica-e-protagonismo-internacional/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

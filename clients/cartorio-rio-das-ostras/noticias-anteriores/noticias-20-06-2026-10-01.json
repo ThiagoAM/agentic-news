@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-06-20T10:01:41-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras estreita parceria para ampliar cirurgias e atendimentos especializados",
+      "descricao": "A Prefeitura de Rio das Ostras informou que credenciou o Hospital Municipal no programa Agora Tem Especialistas e reforçou a integração regional da saúde. A medida busca ampliar recursos para cirurgias, exames e consultas especializadas, reduzindo filas de espera no município.",
+      "data_publicacao": "2026-06-18T16:42:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-estreita-parceria-com-governo-federal-para-avancos-na-saude/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras promove destino turístico em agências de Campos dos Goytacazes",
+      "descricao": "A Secretaria de Desenvolvimento Econômico e Turismo de Rio das Ostras realizou visitas institucionais a agências e operadoras de turismo de Campos dos Goytacazes. A ação apresentou atrativos, rede de hospedagem e calendário de eventos para ampliar a presença do município no mercado regional.",
+      "data_publicacao": "2026-06-17T12:33:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-realiza-promocao-turistica-com-agencias-campos-dos-goytacazes/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras anuncia novos investimentos em monitoramento e capacitação da Guarda Municipal",
+      "descricao": "A Prefeitura de Rio das Ostras anunciou medidas para reforçar a segurança urbana, com aquisição de veículos, equipamentos e cursos de capacitação. Entre as ações previstas estão videomonitoramento inteligente e ampliação de recursos para melhorar o atendimento à população.",
+      "data_publicacao": "2026-06-17T16:48:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-anuncia-avancos-para-seguranca-publica/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Macaé divulga resultado final de edital com 492 vagas gratuitas de qualificação profissional",
+      "descricao": "A Secretaria de Qualificação Profissional de Macaé publicou o resultado final do Edital 3/2026, com 492 vagas em cursos de capacitação e aperfeiçoamento. O processo inclui formações em áreas tradicionais e cursos voltados à inclusão, como Libras e informática básica para surdos.",
+      "data_publicacao": "2026-05-30T11:22:00-03:00",
+      "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/qualificacao-profissional-divulga-resultado-final-do-edital-32026",
+      "fonte": "Prefeitura de Macaé"
+    },
+    {
+      "titulo": "Macaé prepara encontro sobre Educação de Jovens e Adultos com foco em diálogo e práticas pedagógicas",
+      "descricao": "A Secretaria Municipal de Educação de Macaé anunciou o I Encontro da Educação de Jovens e Adultos 2026. A programação prevê debates sobre diretrizes da modalidade, troca de experiências e valorização das trajetórias dos estudantes da rede pública municipal.",
+      "data_publicacao": "2026-05-22T12:10:00-03:00",
+      "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/educacao-promove-i-encontro-da-educacao-de-jovens-e-adultos-2026",
+      "fonte": "Prefeitura de Macaé"
+    },
+    {
+      "titulo": "ConJur destaca que renúncia de herança para beneficiário específico exige escritura pública",
+      "descricao": "Reportagem do ConJur mostrou decisão do TJ-MG segundo a qual a renúncia translativa de herança funciona como cessão de direitos e precisa ser formalizada por escritura pública. O entendimento reforça a exigência de registro adequado quando há indicação de destinatário específico.",
+      "data_publicacao": "2026-06-20T08:23:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-20/abdicar-de-heranca-em-prol-de-beneficiario-especifico-exige-escritura-publica/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur relata decisão que obriga plano de saúde a custear home care com indicação médica",
+      "descricao": "O ConJur noticiou que o TJ-SP manteve entendimento de que o tratamento domiciliar deve ser custeado por plano de saúde quando houver indicação médica comprovada. A decisão diferencia os itens essenciais do tratamento de produtos sem comprovação suficiente para cobertura obrigatória.",
+      "data_publicacao": "2026-06-20T07:52:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-20/plano-deve-custear-tratamento-domiciliar-sem-cobertura-contratual/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur informa curso da EPM sobre a Lei do Superendividamento",
+      "descricao": "O ConJur divulgou curso da Escola Paulista da Magistratura voltado à Lei do Superendividamento, com debates sobre procedimentos administrativos e judiciais, mínimo existencial e tutela de urgência. A atividade será oferecida em formato presencial e por videoconferência.",
+      "data_publicacao": "2026-06-19T18:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-19/lei-do-superendividamento-sera-debatida-em-curso-da-epm-na-terca-23-6/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "CNB/CF e notariado uruguaio discutem cooperação em tecnologia e e-Notariado",
+      "descricao": "O Colégio Notarial do Brasil informou que se reuniu com representantes do notariado uruguaio para trocar experiências sobre transformação digital e serviços eletrônicos. O encontro abordou o e-Notariado e a possibilidade de cooperação técnica entre as instituições.",
+      "data_publicacao": "2026-06-18T11:34:39-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-e-notariado-uruguaio-discutem-cooperacao-em-tecnologia-e-e-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB repercute entendimento do STJ sobre ação de regresso após pagamento integral da dívida",
+      "descricao": "O portal do Colégio Notarial do Brasil repercutiu decisão do STJ segundo a qual o direito de regresso entre devedores solidários só pode ser exercido depois do pagamento integral ao credor comum. O entendimento reforça que pagamento parcial não encerra a fase externa da solidariedade.",
+      "data_publicacao": "2026-06-17T18:04:09-03:00",
+      "url": "https://www.notariado.org.br/acao-de-regresso-e-prematura-quando-ha-apenas-pagamento-parcial-da-divida-entende-stj/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB analisa proposta de divórcio unilateral direto em cartório",
+      "descricao": "O Colégio Notarial do Brasil publicou análise sobre a proposta de divórcio unilateral em cartório prevista na reforma do Código Civil. A matéria apresenta argumentos a favor da desjudicialização e registra a preocupação do setor notarial com garantias e proteção das partes.",
+      "data_publicacao": "2026-06-19T19:05:58-03:00",
+      "url": "https://www.notariado.org.br/e-possivel-se-separar-sozinho-entenda-o-novo-tipo-de-divorcio-previsto-na-reforma-do-codigo-civil/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

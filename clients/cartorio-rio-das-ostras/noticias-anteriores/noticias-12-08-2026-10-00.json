@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-08-12T10:00:54-03:00",
+  "noticias": [
+    {
+      "titulo": "Casa de Cultura recebe exposição itinerante do Theatro Municipal",
+      "descricao": "A Casa de Cultura Bento Costa Júnior, em Rio das Ostras, recebe entre 12 e 30 de agosto a mostra itinerante do Theatro Municipal do Rio de Janeiro, com fotografias, figurinos, objetos históricos e atividades educativas abertas ao público.",
+      "data_publicacao": "2026-08-10T17:05:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/casa-de-cultura-recebe-exposicao-itinerante-do-theatro-municipal/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Evento no CAPSi fortalece vínculos entre famílias e equipe de saúde",
+      "descricao": "A Secretaria de Saúde de Rio das Ostras promoveu atividades de integração no CAPSi para fortalecer vínculos entre crianças, adolescentes, familiares e profissionais, usando ações festivas como parte das estratégias terapêuticas de cuidado psicossocial.",
+      "data_publicacao": "2026-08-07T10:38:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/evento-no-capsi-contribui-para-fortalecimento-de-vinculos/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Fundação lança Jardineira Cultural Itinerante",
+      "descricao": "A Fundação Rio das Ostras de Cultura lançou a Jardineira Cultural, veículo pensado para ampliar o acesso da população a oficinas, visitas, apresentações e outras experiências culturais, educativas e sociais em diferentes pontos da cidade.",
+      "data_publicacao": "2026-08-06T15:38:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/fundacao-lanca-jardineira-cultural-itinerante/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras realiza Fórum Municipal do Artesanato",
+      "descricao": "O Município realizou fórum com artesãos, Sebrae RJ e parceiros para discutir capacitação, identidade local, comercialização e integração do artesanato com turismo e economia criativa, buscando fortalecer o setor na cidade.",
+      "data_publicacao": "2026-08-05T12:42:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-realiza-forum-municipal-do-artesanato/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "FAETEC encerra participação na Rio Innovation Week 2026 com palestras sobre educação e tecnologia",
+      "descricao": "A FAETEC concluiu sua participação na Rio Innovation Week com palestras sobre objetos de aprendizagem, segurança digital e mais de 60 projetos estudantis, reforçando a presença da rede estadual no ecossistema fluminense de inovação.",
+      "data_publicacao": "2026-08-07T12:00:00-03:00",
+      "url": "https://www.faetec.rj.gov.br/faetec-encerra-participacao-na-rio-innovation-week-2026-com-palestras-sobre-educacao-e-tecnologia/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "Faetec mostra inovação e desenvolvimento na Rio Innovation Week",
+      "descricao": "Durante a Rio Innovation Week, a Faetec apresentou iniciativas de divulgação científica, plataforma de oportunidades para alunos e práticas inclusivas, destacando inovação, formação profissional e conexão com o mercado de trabalho no estado do Rio.",
+      "data_publicacao": "2026-08-05T12:00:00-03:00",
+      "url": "https://www.faetec.rj.gov.br/faetec-mostra-inovacao-e-desenvolvimento-na-rio-innovation-week/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "CNJ e BC lançam iniciativa para ampliar segurança nas transferências de precatórios",
+      "descricao": "O ConJur informou que CNJ e Banco Central vão estruturar um sistema nacional para registrar e rastrear transferências de créditos de precatórios, com integração de informações de tribunais, cartórios e entidades autorizadas.",
+      "data_publicacao": "2026-08-11T19:06:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-11/cnj-e-bc-lancam-iniciativa-para-ampliar-seguranca-nas-transferencias-de-precatorios/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Exigência de escritura pública para alienação fiduciária fora do SFI",
+      "descricao": "O ConJur repercutiu a decisão do CNJ que confirmou a possibilidade de constituição de alienação fiduciária de imóveis por instrumento particular com efeitos de escritura pública, inclusive fora do SFI e do SFH.",
+      "data_publicacao": "2026-08-07T19:21:01-03:00",
+      "url": "https://conjur.com.br/2026-ago-07/exigencia-de-escritura-publica-para-alienacao-fiduciaria-fora-do-sfi/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ libera assinatura digital em cartório para transferência de veículos",
+      "descricao": "O ConJur destacou decisão que voltou a permitir a transferência de veículos com assinatura digital, viabilizando processos totalmente digitais para pessoas jurídicas e integração entre cartórios de estados diferentes.",
+      "data_publicacao": "2026-07-30T16:52:59-03:00",
+      "url": "https://conjur.com.br/2026-jul-30/cnj-libera-assinatura-digital-em-cartorio-para-transferencia-de-veiculos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Uso de serviços digitais de Registro de Imóveis cresce quase 20% no Rio no primeiro semestre de 2026",
+      "descricao": "O Colégio Notarial do Brasil divulgou que o Rio de Janeiro somou mais de 470 mil solicitações pela plataforma RI Digital no primeiro semestre, com crescimento puxado por certidões, e-Protocolo e pesquisa prévia.",
+      "data_publicacao": "2026-07-31T15:40:17-03:00",
+      "url": "https://www.notariado.org.br/uso-de-servicos-digitais-de-registro-de-imoveis-cresce-quase-20-no-rio-no-primeiro-semestre-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Projeto permite coletar depoimento de testemunha em cartório",
+      "descricao": "O Colégio Notarial do Brasil destacou projeto de lei que autoriza a coleta de depoimentos de testemunhas em cartório, inclusive por videoconferência, como alternativa para tornar a produção de prova mais ágil em processos sobre direitos disponíveis.",
+      "data_publicacao": "2026-07-27T16:44:38-03:00",
+      "url": "https://www.notariado.org.br/projeto-permite-coletar-depoimento-de-testemunha-em-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Corregedoria Nacional reafirma aplicação da competência territorial do e-Notariado aos atos híbridos",
+      "descricao": "O Colégio Notarial do Brasil informou que a Corregedoria Nacional de Justiça reafirmou que atos híbridos praticados com uso do e-Notariado seguem submetidos às regras de competência territorial dos atos eletrônicos.",
+      "data_publicacao": "2026-07-24T15:50:16-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-reafirma-aplicacao-da-competencia-territorial-do-e-notariado-aos-atos-notariais-hibridos/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

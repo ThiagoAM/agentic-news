@@ -1,0 +1,96 @@
+{
+  "data-busca": "2026-07-08T10:00:54-03:00",
+  "noticias": [
+    {
+      "titulo": "Programação do Teatro Municipal Joel Barcellos começa na quinta",
+      "descricao": "O Teatro Municipal Joel Barcellos abre a programação do fim de semana com atrações culturais variadas, reforçando a agenda de lazer e artes em Rio das Ostras.",
+      "data_publicacao": "2026-07-08T09:39:33-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/programacao-do-teatro-municipal-joel-barcellos-essa-semana-comeca-na-quinta/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Procon participa do Fórum de Direito do Consumidor",
+      "descricao": "O Procon de Rio das Ostras participou do Fórum Regional de Direito do Consumidor para trocar experiências e fortalecer ações de orientação e defesa dos consumidores no município.",
+      "data_publicacao": "2026-07-08T09:34:49-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/procon-participa-do-forum-regional-de-direito-do-consumidor/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Artesão presentes no Cine Enel",
+      "descricao": "Artesãos de Rio das Ostras vão expor seus trabalhos durante a programação do Cine Enel na Praça São Pedro, ampliando a visibilidade da produção criativa local.",
+      "data_publicacao": "2026-07-08T09:03:05-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/artesaos-riostrenses-marcam-presenca-no-cine-enel/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Sábado é dia de estreia na Casa de Cultura",
+      "descricao": "A Casa de Cultura de Rio das Ostras recebe a estreia de nova exposição artística, ampliando o calendário cultural e o acesso do público a produções autorais locais.",
+      "data_publicacao": "2026-07-08T08:50:39-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/sabado-e-dia-de-estreia-na-casa-de-cultura/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Saúde capacita equipes para fortalecer Atenção Primária",
+      "descricao": "A Secretaria de Saúde de Rio das Ostras iniciou ações do PlanificaSUS para integrar processos e qualificar o atendimento da Atenção Primária no município.",
+      "data_publicacao": "2026-07-08T08:04:45-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/saude-capacita-equipes-para-fortalecer-atencao-primaria/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Programa de Cuidados Paliativos do Instituto Estadual do Cérebro servirá de modelo para o Ministério da Saúde replicar em outros estados",
+      "descricao": "A Secretaria de Estado de Saúde do Rio de Janeiro informou que a experiência do Instituto Estadual do Cérebro em cuidados paliativos será apresentada ao governo federal como referência para expansão da política a outros estados.",
+      "data_publicacao": "2026-07-02T09:16:20-03:00",
+      "url": "https://www.rj.gov.br/saude/node/4089",
+      "fonte": "Secretaria de Estado de Saúde do Rio de Janeiro"
+    },
+    {
+      "titulo": "Concurso da Saúde: Governo do Estado nomeia comissão de fiscalização",
+      "descricao": "O Governo do Estado do Rio de Janeiro publicou a comissão que acompanhará o novo concurso da Saúde e do Iaserj, etapa que antecede o edital para 287 vagas em áreas técnicas, administrativas e especializadas.",
+      "data_publicacao": "2026-06-08T15:51:48-03:00",
+      "url": "https://www.rj.gov.br/saude/node/4042",
+      "fonte": "Secretaria de Estado de Saúde do Rio de Janeiro"
+    },
+    {
+      "titulo": "Estado deve fornecer fórmula alimentar especial a criança alérgica",
+      "descricao": "A ConJur repercutiu decisão do TJ-SC que manteve o fornecimento de fórmula alimentar especial a uma criança com alergia à proteína do leite, destacando que a prescrição médica individual prevalece sobre limites gerais das diretrizes do SUS.",
+      "data_publicacao": "2026-07-07T08:23:26-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-07/estado-deve-fornecer-formula-alimentar-especial-a-crianca-alergica/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Tabelião interino não responde por dívida de ISSQN de cartório",
+      "descricao": "Segundo a ConJur, a Justiça afastou a responsabilização penal de ex-tabeliães interinos por dívida de ISSQN, ao entender que eles atuavam como prepostos do Estado e não como contribuintes pessoais do tributo da serventia.",
+      "data_publicacao": "2026-07-07T07:52:46-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-07/tabeliao-interino-nao-responde-por-divida-de-issqn-de-cartorio/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Propaganda que deixa explícita forma de pagamento de prêmio não é abusiva",
+      "descricao": "A ConJur noticiou decisão do TRF-1 que autorizou campanhas de filantropia premiável com imagens ilustrativas, desde que a publicidade informe de forma clara que o prêmio será pago em dinheiro.",
+      "data_publicacao": "2026-07-06T19:59:23-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-06/propaganda-que-deixa-explicita-forma-de-pagamento-de-premio-nao-e-abusiva/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "É possível partilha amigável com divisão desigual dos quinhões hereditários, decide Terceira Turma",
+      "descricao": "O Colégio Notarial do Brasil destacou decisão do STJ que admite partilha amigável com quinhões desiguais entre herdeiros maiores e capazes, desde que haja cessão de direitos e manifestação livre das partes.",
+      "data_publicacao": "2026-07-06T17:28:38-03:00",
+      "url": "https://www.notariado.org.br/e-possivel-partilha-amigavel-com-divisao-desigual-dos-quinhoes-hereditarios-decide-terceira-turma/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Semana da Qualidade mobiliza Cartórios de todo o País para participação no PQTA 2026",
+      "descricao": "O CNB divulgou a mobilização nacional da Semana da Qualidade, organizada com a ANOREG/BR e entidades estaduais para ampliar a participação dos cartórios no PQTA 2026 e incentivar boas práticas de gestão e inovação.",
+      "data_publicacao": "2026-07-01T17:23:51-03:00",
+      "url": "https://www.notariado.org.br/semana-da-qualidade-mobiliza-cartorios-de-todo-o-pais-para-participacao-no-pqta-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça disponibiliza painel com relações gerais de vacâncias dos serviços extrajudiciais",
+      "descricao": "O Colégio Notarial do Brasil repercutiu a criação de um painel nacional da Corregedoria do CNJ para consolidar e dar transparência às listas de vacâncias dos serviços extrajudiciais encaminhadas pelos tribunais de justiça.",
+      "data_publicacao": "2026-07-01T17:23:31-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-disponibiliza-painel-com-relacoes-gerais-de-vacancias-dos-servicos-extrajudiciais/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

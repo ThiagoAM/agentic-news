@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-01T10:01:52-03:00",
+  "noticias": [
+    {
+      "titulo": "Procon promove Café do Consumidor nesta quinta, dia 2",
+      "descricao": "O Procon de Rio das Ostras vai celebrar seus 14 anos de atuação com uma ação de orientação ao público, reforçando educação para o consumo, atendimento próximo e esclarecimento de direitos dos consumidores no município.",
+      "data_publicacao": "2026-07-01T07:46:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/procon-promove-cafe-do-consumidor-nesta-quinta-dia-2/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras inaugura Casa do Idoso nesta quarta, 1º de julho",
+      "descricao": "A nova Casa do Idoso foi apresentada como um espaço de proteção e cuidado, com consultas de saúde e atividades culturais e sociais voltadas à autonomia, convivência e qualidade de vida da população idosa.",
+      "data_publicacao": "2026-06-30T13:26:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inaugura-casa-do-idoso-nesta-quarta-1o-de-julho/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Academia Riostrense de Letras está com inscrições abertas",
+      "descricao": "Rio das Ostras abriu inscrições para a seleção de membros da Academia Riostrense de Letras, em iniciativa que valoriza produção cultural, literatura local e participação de autores na vida cultural do município.",
+      "data_publicacao": "2026-06-30T10:05:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/inscricoes-para-academia-riostrense-de-letras-comecam-nesta-quarta-dia-1o/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Casimiro Sangue Bom celebra Junho Vermelho",
+      "descricao": "Casimiro de Abreu destacou nova mobilização da campanha de doação de sangue, com voluntários encaminhados ao Hemolagos e ações de conscientização para manter o engajamento solidário da população fluminense.",
+      "data_publicacao": "2026-06-30T09:39:31-03:00",
+      "url": "https://casimirodeabreu.rj.gov.br/casimiro-sangue-bom-celebra-junho-vermelho/",
+      "fonte": "Prefeitura de Casimiro de Abreu"
+    },
+    {
+      "titulo": "Casimiro leva Práticas Integrativas ao V Encontro de Agroecologia de Silva Jardim",
+      "descricao": "A Academia da Saúde de Casimiro de Abreu participou do Encontro Estadual de Agroecologia do Rio de Janeiro, levando práticas integrativas e reforçando o diálogo entre saúde, alimentação e sustentabilidade no estado.",
+      "data_publicacao": "2026-06-30T22:35:21-03:00",
+      "url": "https://casimirodeabreu.rj.gov.br/casimiro-leva-praticas-integrativas-ao-v-encontro-de-agroecologia-de-silva-jardim/",
+      "fonte": "Prefeitura de Casimiro de Abreu"
+    },
+    {
+      "titulo": "Usucapião: da posse qualificada por determinado lapso temporal",
+      "descricao": "A ConJur publicou análise sobre a usucapião como instrumento de regularização imobiliária, destacando a posse qualificada e o papel do instituto na segurança jurídica da propriedade.",
+      "data_publicacao": "2026-06-24T13:24:26-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-24/usucapiao-da-suficiencia-da-posse-qualificada-por-determinado-lapso-temporal/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ITBI na cessão de compromisso de compra e venda",
+      "descricao": "A ConJur discutiu os efeitos do entendimento do STF sobre ITBI em cessões de direitos de compra e venda, tema com impacto prático para mercado imobiliário, atividade registral e segurança jurídica das operações.",
+      "data_publicacao": "2026-06-18T06:02:22-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-18/itbi-na-cessao-de-compromisso-de-compra-e-venda-qual-a-tese-correta-do-stf/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Diretivas antecipadas e autonomia do paciente",
+      "descricao": "A ConJur abordou os efeitos da Lei 15.378/2026 sobre a vontade do paciente, com foco em autonomia, autenticidade e mecanismos que ampliem a segurança jurídica na formalização de diretivas antecipadas.",
+      "data_publicacao": "2026-06-28T17:24:15-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-28/diretivas-antecipadas-autonomia-do-paciente-e-seguranca-juridica-apos-lei-15-378/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Provimento nº 228/2026 regulamenta extratos eletrônicos para atos com repercussão imobiliária e impacta rotina dos Tabelionatos de Notas",
+      "descricao": "O CNB repercutiu a nova norma da Corregedoria Nacional que disciplina o envio de dados estruturados ao Registro de Imóveis, fortalecendo a integração eletrônica entre atividade notarial e registral.",
+      "data_publicacao": "2026-06-17T14:30:30-03:00",
+      "url": "https://www.notariado.org.br/provimento-no-228-2026-regulamenta-extratos-eletronicos-para-atos-com-repercussao-imobiliaria-e-impacta-rotina-dos-tabelionatos-de-notas/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Adriano Leal é eleito presidente do CNB/PI para novo biênio 2026-2028",
+      "descricao": "O Colégio Notarial do Brasil acompanhou a eleição de Adriano Leal no CNB/PI, com proposta de ampliar integração entre notários, qualificação técnica e fortalecimento da atividade notarial no estado.",
+      "data_publicacao": "2026-06-25T17:47:14-03:00",
+      "url": "https://www.notariado.org.br/adriano-leal-e-eleito-presidente-do-cnb-pi-para-novo-bienio-2026-2028/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Meu Registro permitirá solicitar certidões de diferentes cartórios em um único ambiente",
+      "descricao": "O CNB divulgou a plataforma Meu Registro, criada para concentrar pedidos de certidões de diferentes cartórios em um fluxo único, com acompanhamento integrado e atendimento mais simples para o cidadão.",
+      "data_publicacao": "2026-06-23T17:20:22-03:00",
+      "url": "https://www.notariado.org.br/meu-registro-permitira-solicitar-certidoes-de-diferentes-cartorios-em-um-unico-ambiente/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

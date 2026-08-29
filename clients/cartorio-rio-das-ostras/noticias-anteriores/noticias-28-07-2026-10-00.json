@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-07-28T10:00:58-03:00",
+  "noticias": [
+    {
+      "titulo": "Instituto BW realiza soltura de tartaruga-verde em Rio das Ostras",
+      "descricao": "Ação ambiental na Praia do Abricó marcou o retorno de uma tartaruga-verde ao habitat natural após reabilitação. A atividade reuniu moradores e visitantes e reforçou a importância da conservação da fauna marinha no litoral da região.",
+      "data_publicacao": "2026-07-24T12:58:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/instituto-bw-realiza-soltura-de-tartaruga-verde-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Professora da rede municipal de Rio das Ostras participa da Flip 2026",
+      "descricao": "A escritora e professora Adriana Izidoro integrou a programação da Festa Literária Internacional de Paraty com lançamento de obra e sessão de autógrafos. A notícia destaca a projeção nacional e internacional da autora ligada à rede municipal de ensino.",
+      "data_publicacao": "2026-07-24T11:42:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/professora-da-rede-na-flip-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Festival Gastronômico de Rio das Ostras divulga pratos da segunda edição",
+      "descricao": "O evento na Lagoa do Iriry apresentou cardápios exclusivos, shows, artesanato e atrações para toda a família entre 30 de julho e 2 de agosto. A programação busca valorizar os empreendedores locais e movimentar o turismo e os serviços da cidade.",
+      "data_publicacao": "2026-07-20T16:46:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/festival-gastronomico-de-rio-das-ostras-divulga-pratos-da-segunda-edicao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Festival Gastronômico de Rio das Ostras prepara edição ampliada para 2026",
+      "descricao": "A segunda edição do festival foi anunciada com cerca de 40 operações gastronômicas, cozinha show, mercado de sabores e programação cultural gratuita. A proposta é fortalecer a economia local e consolidar o evento como referência turística no interior fluminense.",
+      "data_publicacao": "2026-07-09T15:57:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/festival-gastronomico-de-rio-das-ostras-prepara-edicao-ampliada-para-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Biblioteca Parque Estadual inaugura exposição em homenagem à cultura dos bate-bolas",
+      "descricao": "A mostra gratuita Clóvis: o rosto detrás da máscara reúne fantasias, fotografias, vídeos e adereços para apresentar os bastidores de uma das manifestações mais emblemáticas do carnaval carioca. A iniciativa valoriza memória, pertencimento e patrimônio cultural fluminense.",
+      "data_publicacao": "2026-07-21T17:57:50-03:00",
+      "url": "https://cultura.rj.gov.br/biblioteca-parque-estadual-inaugura-exposicao-em-homenagem-a-cultura-dos-bate-bolas/",
+      "fonte": "Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro"
+    },
+    {
+      "titulo": "SececRJ divulga convocatória e programação da Flip 2026",
+      "descricao": "A Secretaria de Estado de Cultura e Economia Criativa confirmou participação na Flip 2026 com a Casa da Leitura e do Conhecimento, espaço gratuito para fazedores de cultura do estado. Ao longo do evento, 43 artistas fluminenses terão atividades programadas em Paraty.",
+      "data_publicacao": "2026-07-16T16:52:00-03:00",
+      "url": "https://cultura.rj.gov.br/sececrj-divulga-convocatoria-da-flip-2026/",
+      "fonte": "Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro"
+    },
+    {
+      "titulo": "STF valida acumulação de atividades cartoriais de notas e de protesto",
+      "descricao": "O Supremo manteve a validade de lei paulista que reúne em uma serventia já existente as atribuições de notas e protesto em Paulínia. A decisão ressalta que eventual criação futura de serventia autônoma deverá ocorrer por concurso público.",
+      "data_publicacao": "2026-07-09T20:56:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-09/stf-valida-acumulacao-de-atividades-cartoriais-de-notas-e-de-protesto/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Tabelião interino não responde por dívida de ISSQN de cartório, decide juiz",
+      "descricao": "Decisão da 2ª Vara Criminal de João Pessoa rejeitou denúncia contra ex-tabeliães interinos por entender que eles atuam como prepostos do Estado e não possuem responsabilidade tributária pessoal sobre o ISSQN da serventia vaga.",
+      "data_publicacao": "2026-07-07T07:52:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-07/tabeliao-interino-nao-responde-por-divida-de-issqn-de-cartorio/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Filiações biológica e socioafetiva podem coexistir em registro civil",
+      "descricao": "A Justiça de Santa Catarina reconheceu a paternidade socioafetiva de um homem em relação a uma adolescente sem excluir a filiação biológica já existente. A decisão autorizou a inclusão do novo vínculo no registro civil e a alteração do nome.",
+      "data_publicacao": "2026-07-20T00:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-20/filiacoes-biologica-e-socioafetiva-podem-coexistir-em-registro-civil/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Corregedoria Nacional reafirma competência territorial do e-Notariado em atos híbridos",
+      "descricao": "A Corregedoria Nacional de Justiça decidiu que atos notariais híbridos, com parte das assinaturas feitas a distância pelo e-Notariado, seguem as mesmas regras territoriais dos atos eletrônicos. O entendimento reforça a segurança jurídica na lavratura de escrituras com participação remota.",
+      "data_publicacao": "2026-07-24T15:50:16-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-reafirma-aplicacao-da-competencia-territorial-do-e-notariado-aos-atos-notariais-hibridos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Recorde de doações de imóveis repercute na imprensa nacional",
+      "descricao": "Levantamento do CNB/CF apontou 185.861 escrituras públicas de doação de imóveis em 2025, com alta de 59% em relação a 2020. O dado ganhou destaque na imprensa ao mostrar o avanço do planejamento patrimonial e sucessório no país.",
+      "data_publicacao": "2026-07-23T17:40:33-03:00",
+      "url": "https://www.notariado.org.br/recorde-de-doacoes-de-imoveis-repercute-na-imprensa-nacional/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Revista do Notariado Brasileiro lança 3ª edição com foco em justiça preventiva e segurança jurídica",
+      "descricao": "O CNB/CF publicou a nova edição da Revista do Notariado Brasileiro com análises sobre justiça preventiva, transformação digital e cooperação internacional. O conteúdo também destaca novas camadas de segurança no e-Notariado e debates sobre o futuro da atividade notarial.",
+      "data_publicacao": "2026-07-23T11:40:59-03:00",
+      "url": "https://www.notariado.org.br/revista-do-notariado-brasileiro-lanca-sua-3a-edicao-com-foco-em-justica-preventiva-seguranca-juridica-e-protagonismo-internacional/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

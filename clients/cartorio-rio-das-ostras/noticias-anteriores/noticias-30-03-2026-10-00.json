@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-03-30T10:00:14-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras atualiza Cadastro Territorial",
+      "descricao": "A Prefeitura informou que equipes estão entregando cartas de acesso para a atualização da base de dados territoriais, com apoio do Consórcio Costa Azul, visando aprimorar o planejamento urbano e a gestão de políticas públicas.",
+      "data_publicacao": "2026-03-30T09:47:08-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-atualiza-cadastro-territorial/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Banco de Empregos oferece 576 vagas",
+      "descricao": "O Banco de Empregos de Rio das Ostras abriu 576 oportunidades com inscrições presenciais no Centro de Cidadania, apresentando requisitos e horários de atendimento ao público.",
+      "data_publicacao": "2026-03-30T09:01:48-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-576-vagas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município tem reunião do Plano Municipal de Saneamento Básico",
+      "descricao": "A Prefeitura anunciou a reunião de consolidação participativa do diagnóstico do PMSB, com debates sobre água, esgoto, resíduos e drenagem e incentivo à participação dos moradores.",
+      "data_publicacao": "2026-03-27T15:58:30-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-promove-reuniao-do-plano-municipal-de-saneamento-basico/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cidade realiza Conferência de Meio Ambiente em junho e elege Conselho",
+      "descricao": "A Secretaria de Meio Ambiente abriu inscrições para o processo eleitoral do Conselho Municipal de Meio Ambiente e divulgou a realização da 15ª Conferência Municipal em junho.",
+      "data_publicacao": "2026-03-27T15:41:28-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-realiza-conferencia-de-meio-ambiente-em-junho-e-elege-conselho/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Insumo essencial obtém crédito de ICMS mesmo sem compor produto final",
+      "descricao": "O STJ reafirmou que o crédito de ICMS pode ser reconhecido quando o insumo é essencial à atividade da empresa, ainda que não se incorpore fisicamente ao produto final.",
+      "data_publicacao": "2026-03-30T09:47:40-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-30/insumo-essencial-obtem-credito-de-icms-mesmo-sem-compor-produto-final/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Fracionar ações contra parte contrária não implica litigância abusiva",
+      "descricao": "Turma Recursal entendeu que ajuizar ações separadas sobre fatos distintos não configura litigância abusiva, sendo exercício regular do direito de ação.",
+      "data_publicacao": "2026-03-30T07:53:09-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-30/fracionar-acoes-contra-parte-contraria-nao-implica-litigancia-abusiva/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "STJ julga tributação de empresas concessionárias de energia elétrica",
+      "descricao": "O STJ afetou recursos para definir, sob o rito dos repetitivos, controvérsia sobre a tributação de concessionárias de energia elétrica na apuração do IRPJ e CSLL.",
+      "data_publicacao": "2026-03-29T17:56:32-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-29/stj-julga-tributacao-de-empresas-concessionarias-de-energia-eletrica/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "CNB/CF lança Conta Notarial Remunerada e novo modelo de prestação de serviços",
+      "descricao": "O CNB/CF anunciou a conta notarial com rentabilidade atrelada ao CDI e mudanças no modelo de precificação do serviço, ampliando a sustentabilidade da ferramenta para os tabelionatos.",
+      "data_publicacao": "2026-03-24T09:19:57-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-conta-notarial-remunerada-e-novo-modelo-de-prestacao-de-servicos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Provimento do CNJ nº 219/26 estabelece regras para relação de cartórios vagos",
+      "descricao": "O CNJ publicou provimento com diretrizes para formação, atualização e publicidade de lista única de cartórios vagos, definindo critérios e procedimentos para os responsáveis.",
+      "data_publicacao": "2026-03-23T22:55:19-03:00",
+      "url": "https://www.notariado.org.br/provimento-do-cnj-no-219-26-estabelece-regras-para-a-gestao-atualizacao-e-publicidade-da-relacao-de-cartorios-vagos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Ana Paula Frontini é eleita presidente do CNB/SP",
+      "descricao": "O CNB/SP elegeu Ana Paula Frontini para presidir a seccional no biênio 2026-2028, sendo a primeira mulher a ocupar o cargo.",
+      "data_publicacao": "2026-03-20T20:36:36-03:00",
+      "url": "https://www.notariado.org.br/ana-paula-frontini-e-eleita-presidente-do-cnb-sp-e-se-torna-a-primeira-mulher-a-liderar-a-seccional/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Seeduc recebe propostas de agricultores familiares para alimentação escolar",
+      "descricao": "A Secretaria de Educação do RJ abriu as propostas de agricultores familiares para fornecimento de alimentos às escolas estaduais, reforçando a política de compras do PNAE.",
+      "data_publicacao": "2026-03-27T00:00:00-03:00",
+      "url": "https://www.seeduc.rj.gov.br/not%C3%ADcias",
+      "fonte": "Seeduc-RJ"
+    },
+    {
+      "titulo": "Seeduc apresenta projetos de empreendedorismo para estudantes",
+      "descricao": "Em parceria com a Junior Achievement, a Seeduc apresentou os projetos Super Futuro e Trilha Empreendedora 2026, ampliando oportunidades e formação para alunos da rede estadual.",
+      "data_publicacao": "2026-03-25T00:00:00-03:00",
+      "url": "https://www.seeduc.rj.gov.br/not%C3%ADcias",
+      "fonte": "Seeduc-RJ"
+    }
+  ]
+}

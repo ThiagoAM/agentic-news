@@ -1,0 +1,96 @@
+{
+  "data-busca": "2026-05-07T10:01:38-03:00",
+  "noticias": [
+    {
+      "titulo": "Froc recebe 198 projetos para editais",
+      "descricao": "A Fundação Rio das Ostras de Cultura recebeu 198 propostas nos três editais recém-lançados, com destaque para o fomento cultural e previsão de mais de R$ 1 milhão em investimentos via PNAB e Cultura Viva.",
+      "data_publicacao": "2026-05-06T14:48:35-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/fundacao-de-cultura-recebe-cerca-de-200-projetos-para-os-tres-editais-lancados/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Teatro apresenta “As Lendárias do K-Pop”",
+      "descricao": "O Teatro Municipal Joel Barcellos reabre em Rio das Ostras com o espetáculo “As Lendárias do K-Pop”, que mistura fantasia, música, coreografias e referências ao folclore coreano para atrair principalmente o público jovem.",
+      "data_publicacao": "2026-05-06T09:22:25-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/teatro-municipal-apresenta-as-lendarias-do-k-pop/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cidade tem ocupação hoteleira de 80% no fim de semana",
+      "descricao": "Rio das Ostras registrou ocupação hoteleira de 80% no último fim de semana, resultado associado ao aumento de visitantes, à divulgação turística do município e à realização do Rio das Ostras Bike Fest.",
+      "data_publicacao": "2026-05-05T12:10:24-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/cidade-tem-ocupacao-hoteleira-de-80-no-fim-de-semana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Oficina qualifica permissionários das feirinhas",
+      "descricao": "A Secretaria de Desenvolvimento Econômico e Turismo promoveu uma oficina para permissionários das feiras locais, com foco em vendas, gestão e fortalecimento dos pequenos negócios ligados ao comércio de rua da cidade.",
+      "data_publicacao": "2026-05-05T11:47:40-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/oficina-qualifica-permissionarios-das-feirinhas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Turnê Três Graças, Titãs, Monolink e exposição “Eu chorei rios”: veja o que fazer no Rio",
+      "descricao": "O Guia RJ reuniu opções de programação cultural no estado, com shows, exposições e eventos de lazer para os próximos dias, ajudando o público a montar roteiros culturais no Rio de Janeiro.",
+      "data_publicacao": "2026-05-07T05:33:53-03:00",
+      "url": "https://g1.globo.com/guia/guia-rj/noticia/2026/05/07/turne-tres-gracas-titas-monolink-exposicao-eu-chorei-rios-veja-o-que-fazer-no-rio.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "titulo": "Campanha do Agasalho 2026 oferece meia-entrada no Festival de Inverno Rio para quem doar agasalhos ou cobertores",
+      "descricao": "A campanha troca doações de agasalhos e cobertores por meia-entrada no Festival de Inverno Rio e busca arrecadar mais de 10 toneladas de peças para pessoas em situação de vulnerabilidade social.",
+      "data_publicacao": "2026-05-06T21:14:50-03:00",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/05/06/campanha-do-agasalho-2026-oferece-meia-entrada-no-festival-de-inverno-rio-para-quem-doar-agasalhos-ou-cobertores.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "titulo": "Praça Mauá receberá unidades móveis de saúde e educação do Sesc e Senac RJ",
+      "descricao": "A Praça Mauá vai receber atendimentos gratuitos de saúde, biblioteca itinerante e ações de capacitação profissional em unidades móveis do Sesc e do Senac RJ, com agenda marcada para maio.",
+      "data_publicacao": "2026-05-06T17:18:23-03:00",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/05/06/praca-maua-recebera-unidades-moveis-de-saude-e-educacao-do-sesc-e-senac-rj.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "titulo": "Inventário extrajudicial dispensa a certidão negativa de débito",
+      "descricao": "O ConJur destacou decisão do CNJ que afastou a exigência de certidão negativa de débito para a escritura pública de inventário e partilha extrajudicial, mantendo apenas a solicitação das certidões para fins informativos.",
+      "data_publicacao": "2026-04-30T07:52:23-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-30/inventario-extrajudicial-dispensa-a-certidao-negativa-de-debito/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Recibo de compra e venda é justo título para usucapião ordinária",
+      "descricao": "Segundo o ConJur, a 3ª Turma do STJ decidiu que o recibo de compra e venda de imóvel pode servir como justo título na usucapião ordinária quando houver elementos suficientes para demonstrar a intenção de transferir a propriedade.",
+      "data_publicacao": "2026-04-29T13:51:15-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-29/recibo-de-compra-e-venda-e-justo-titulo-para-usucapiao-ordinaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Doação feita a filhos antes do nascimento de outros herdeiros é legítima",
+      "descricao": "O ConJur informou decisão do TJ-SP que reconheceu como válida uma doação feita a filhos de um primeiro relacionamento antes do nascimento de outros herdeiros, afastando a tese de violação da legítima.",
+      "data_publicacao": "2026-04-10T20:13:56-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-10/doacao-feita-a-filhos-antes-do-nascimento-de-outros-herdeiros-e-legitima/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ invalida cláusula retroativa de separação de bens em união estável",
+      "descricao": "O Colégio Notarial do Brasil repercutiu decisão da 4ª Turma do STJ que afastou a retroatividade de cláusula de separação total de bens em união estável e determinou nova análise sobre a aquisição patrimonial discutida no processo.",
+      "data_publicacao": "2026-05-06T16:30:12-03:00",
+      "url": "https://www.notariado.org.br/stj-invalida-clausula-retroativa-de-separacao-de-bens-em-uniao-estavel/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Nada a ver com herança: saiba o que é testamento vital e entenda por que este documento é importante",
+      "descricao": "O Colégio Notarial do Brasil explicou como a diretriz antecipada de vontade, conhecida como testamento vital, registra preferências sobre tratamentos médicos em casos graves e ganhou ainda mais relevância com a entrada em vigor do Estatuto do Paciente.",
+      "data_publicacao": "2026-05-05T17:07:02-03:00",
+      "url": "https://www.notariado.org.br/nada-a-ver-com-heranca-saiba-o-que-e-testamento-vital-e-entenda-por-que-este-documento-e-importante/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "ARTIGO – Herança digital: Por que o testamento público é indispensável",
+      "descricao": "Artigo publicado pelo Colégio Notarial do Brasil analisa a herança digital e defende o testamento público como instrumento central para organizar contas, arquivos, criptoativos e outros bens virtuais com mais segurança jurídica.",
+      "data_publicacao": "2026-05-05T14:56:29-03:00",
+      "url": "https://www.notariado.org.br/artigo-heranca-digital-por-que-o-testamento-publico-e-indispensavel-por-autor-nao-identificado/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

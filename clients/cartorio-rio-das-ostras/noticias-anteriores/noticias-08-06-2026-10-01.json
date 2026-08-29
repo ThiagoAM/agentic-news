@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-06-08T10:01:38-03:00",
+  "noticias": [
+    {
+      "titulo": "STJ suspende processos sobre aluguel de curta temporada para fixar tese vinculante",
+      "descricao": "O STJ suspendeu em todo o país os processos sobre aluguel de curta temporada em condomínios residenciais para julgar o tema em rito repetitivo. A futura tese deve consolidar o entendimento sobre os limites desse tipo de locação diante das convenções condominiais.",
+      "data_publicacao": "2026-06-06T09:45:36-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-06/manchete-stj-suspende-processos-sobre-aluguel-de-curta-temporada-para-fixar-tese-vinculante/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Locação de espaço para coworking não atrai incidência de ISS",
+      "descricao": "Decisão destacada pelo ConJur afastou a cobrança de ISS sobre atividade de coworking ao reconhecer que ela se enquadra como locação de espaço físico, e não prestação de serviço. O entendimento reforça a distinção entre obrigação de dar e obrigação de fazer na área tributária.",
+      "data_publicacao": "2026-06-06T07:45:08-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-06/cobranca-de-iss-sobre-atividade-de-coworking-e-indevida/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Consumidor lesado por empresa não tem de apresentar prova de fato negativo",
+      "descricao": "O ConJur repercutiu decisão que afastou a exigência de prova impossível ao consumidor em ação de reparação por danos materiais. O entendimento reconhece que a empresa concessionária deve apresentar os registros e elementos técnicos quando está em melhores condições de comprovar os fatos.",
+      "data_publicacao": "2026-06-05T19:45:23-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-05/consumidor-lesado-prova-fato-negativo/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB/CF disponibiliza materiais para orientar cidadãos sobre a prova de vida no e-Notariado",
+      "descricao": "O Colégio Notarial do Brasil lançou vídeo tutorial e panfleto para explicar aos usuários a nova prova de vida facial do e-Notariado. A iniciativa busca facilitar a comunicação dos cartórios com o público e reforçar a segurança dos atos eletrônicos.",
+      "data_publicacao": "2026-06-05T16:18:06-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-disponibiliza-materiais-para-orientar-cidadaos-sobre-a-prova-de-vida-no-e-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "e-Notariado passa a exigir prova de vida em todas as assinaturas digitais a partir de 1º de junho",
+      "descricao": "O CNB/CF informou que a plataforma e-Notariado passou a exigir prova de vida em todas as assinaturas digitais das partes em atos protocolares. A medida amplia a proteção contra fraudes de identidade e adiciona uma nova camada biométrica aos atos eletrônicos.",
+      "data_publicacao": "2026-05-11T18:31:51-03:00",
+      "url": "https://www.notariado.org.br/e-notariado-passa-a-exigir-prova-de-vida-em-todas-as-assinaturas-digitais-a-partir-de-1o-de-junho/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Senado celebra dois anos da AEDO e destaca o papel do Notariado Brasileiro na doação de órgãos",
+      "descricao": "Sessão solene no Senado destacou os dois anos da Autorização Eletrônica de Doação de Órgãos e a contribuição do notariado para ampliar segurança jurídica e conscientização sobre a doação. A cobertura ressalta a integração entre tecnologia e serviço público nos cartórios.",
+      "data_publicacao": "2026-05-19T16:09:34-03:00",
+      "url": "https://www.notariado.org.br/sessao-solene-no-senado-celebra-2-anos-da-aedo-e-destaca-papel-do-notariado-brasileiro-na-doacao-de-orgaos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Rio das Ostras celebra a reabertura do Píer do Emissário",
+      "descricao": "A Prefeitura de Rio das Ostras entregou a revitalização do Píer do Emissário, em Costazul, com novos guarda-corpos, iluminação, pintura e melhorias de mobilidade. A reabertura devolve à população um dos pontos mais simbólicos da orla com mais segurança, acessibilidade e conforto.",
+      "data_publicacao": "2026-06-04T14:45:18-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-celebra-a-reabertura-do-pier-do-emissario/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras avança no modelo de Cidade Inteligente",
+      "descricao": "A Prefeitura de Rio das Ostras iniciou novas parcerias para digitalizar serviços públicos, ampliar o acesso a dados da cidade e apoiar decisões com geointeligência. A proposta busca modernizar a gestão municipal e facilitar o atendimento a moradores, turistas e investidores.",
+      "data_publicacao": "2026-06-02T14:23:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-no-modelo-de-cidade-inteligente/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras é destaque na 20ª OBMEP com ouro nacional e medalhas estaduais",
+      "descricao": "Alunos da rede municipal de Rio das Ostras conquistaram duas medalhas nacionais, sete estaduais e 25 menções honrosas na OBMEP. O resultado reforça o desempenho da cidade na olimpíada e deu destaque à participação de estudantes e professores na cerimônia regional de premiação.",
+      "data_publicacao": "2026-06-02T08:49:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-e-destaque-na-20a-obmep-com-ouro-nacional-e-medalhas-estaduais/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Desenvolve RJ: Macaé abre edição 2026 e reforça protagonismo no estado",
+      "descricao": "Macaé abriu a edição 2026 do Desenvolve RJ com debates sobre desenvolvimento econômico, empreendedorismo e integração entre setor público e privado. A programação também destaca turismo, economia local e oportunidades ligadas à cadeia de energia e fertilizantes.",
+      "data_publicacao": "2026-06-05T22:25:00-03:00",
+      "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/desenvolve-rj-macae-abre-edicao-2026-e-reforca-protagonismo-no-estado",
+      "fonte": "Prefeitura de Macaé"
+    },
+    {
+      "titulo": "Festa da Paz de Lídice terá shows, esporte e programação cultural em Rio Claro",
+      "descricao": "A Prefeitura de Rio Claro divulgou a programação da Festa da Paz de Lídice 2026, que reunirá shows nacionais e regionais, gincana, desfile cívico, corrida e atividades culturais. O evento busca movimentar o distrito entre os dias 18 e 21 de junho com atrações para moradores e visitantes.",
+      "data_publicacao": "2026-06-02T12:00:00-03:00",
+      "url": "https://rioclaro.rj.gov.br/festa-da-paz-de-lidice-tera-shows-de-mumuzinho-chimarruts-e-biquini/",
+      "fonte": "Prefeitura de Rio Claro"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-06-16T10:01:58-03:00",
+  "noticias": [
+    {
+      "titulo": "Município comemora o Mês do Meio Ambiente com diversas ações",
+      "descricao": "Rio das Ostras promove uma programação do Mês do Meio Ambiente com limpeza de praias, distribuição de mudas e realização da conferência municipal. A agenda reforça educação ambiental, mobilização comunitária e cuidado com os espaços naturais da cidade.",
+      "data_publicacao": "2026-06-12T13:07:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-comemora-o-mes-do-meio-ambiente-com-diversas-acoes/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras qualifica diretores de escola em liderança e gestão",
+      "descricao": "A Prefeitura abriu inscrições para um curso voltado a diretores escolares com foco em liderança, gestão e melhoria do aprendizado. A iniciativa busca fortalecer a qualidade da educação municipal e apoiar a administração das unidades de ensino.",
+      "data_publicacao": "2026-06-12T12:28:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-qualifica-diretores-de-escola-em-lideranca-e-gestao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura trabalha para avançar na Regularização Fundiária",
+      "descricao": "A gestão municipal informou que está ampliando as ações de regularização fundiária em diferentes localidades de Rio das Ostras. O objetivo é beneficiar mais famílias com segurança jurídica e entrega de títulos de propriedade.",
+      "data_publicacao": "2026-06-12T12:26:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-trabalha-para-avancar-na-regularizacao-fundiaria/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Biblioteca Parque Estadual recebe cerimônia da Medalha Ìyá Oloórí e reforça valorização da cultura afro-brasileira",
+      "descricao": "A Biblioteca Parque Estadual recebeu a cerimônia da Medalha Ìyá Oloórí, homenagem a pessoas e instituições atuantes na preservação da ancestralidade. O evento reforça a valorização da cultura afro-brasileira na programação cultural do estado.",
+      "data_publicacao": "2026-06-10T17:15:40-03:00",
+      "url": "http://cultura.rj.gov.br/cerimonia-da-medalha-iya-oloori/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Último mês: Exposições na Casa Brasil celebram a diversidade cultural do Rio de Janeiro",
+      "descricao": "A Casa Brasil entrou no último mês de visitação de exposições que reúnem dezenas de obras e artistas de diferentes regiões fluminenses. A iniciativa destaca a diversidade cultural do Rio de Janeiro e amplia o acesso do público à produção artística do estado.",
+      "data_publicacao": "2026-06-10T15:18:13-03:00",
+      "url": "http://cultura.rj.gov.br/ultimo-mes-exposicoes-na-casa-brasil-celebram-a-diversidade-cultural-do-rio-de-janeiro/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Anunciar empreendimento imobiliário antes do registro leva à condenação",
+      "descricao": "Decisão repercutida pelo ConJur destacou que a divulgação e negociação de unidades imobiliárias dependem do prévio registro da incorporação. O entendimento reforça a proteção do mercado e a segurança jurídica nas operações imobiliárias.",
+      "data_publicacao": "2026-06-10T15:39:30-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-10/anunciar-empreendimento-imobiliario-antes-de-registro-fere-dinamica-concorrencial-e-leva-a-condenacao/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Inventário sob lei de Nova York é anulado por afastar herdeiros no Brasil",
+      "descricao": "O ConJur noticiou decisão que afastou a aplicação de lei estrangeira em sucessão com vínculos relevantes no Brasil. O caso reforça a importância da escritura pública de inventário e da proteção dos herdeiros no país.",
+      "data_publicacao": "2026-06-07T10:29:37-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-07/domicilio-no-exterior-nao-afasta-lei-brasileira-para-reger-sucessao-de-bens/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "TJ-MT permite consolidação de propriedade fiduciária durante stay period da recuperação judicial",
+      "descricao": "Segundo o ConJur, o tribunal autorizou a averbação em cartório para consolidação da propriedade fiduciária durante a recuperação judicial, sem permitir posse do imóvel ou leilão nesse período. A decisão diferencia o ato registral das medidas de expropriação material.",
+      "data_publicacao": "2026-06-04T16:30:21-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-04/tj-mt-permite-consolidacao-de-propriedade-fiduciaria-durante-stay-period-da-recuperacao-judicial/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Contratos de namoro disparam com busca por proteção patrimonial",
+      "descricao": "O Colégio Notarial do Brasil informou crescimento expressivo dos contratos de namoro registrados no país, impulsionado por divorciados e viúvos que voltam a se relacionar. O levantamento mostra a busca por organização patrimonial e segurança jurídica nas relações afetivas.",
+      "data_publicacao": "2026-06-12T17:41:21-03:00",
+      "url": "https://www.notariado.org.br/contratos-de-namoro-disparam-com-busca-por-protecao-patrimonial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "X Jornada de Direito Civil promove debate qualificado sobre a reforma do Código Civil, afirma o ministro Ribeiro Dantas",
+      "descricao": "O CNB destacou a programação da X Jornada de Direito Civil, que reunirá especialistas nos dias 15 e 16 de junho para discutir temas centrais e a reforma do Código Civil. A expectativa é ampliar a segurança jurídica e orientar a interpretação das relações civis contemporâneas.",
+      "data_publicacao": "2026-06-10T16:11:31-03:00",
+      "url": "https://www.notariado.org.br/x-jornada-de-direito-civil-promove-debate-qualificado-sobre-a-reforma-do-codigo-civil-afirma-o-ministro-ribeiro-dantas/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "3º Exame Nacional dos Cartórios acontece neste domingo (14/6): confira os locais de prova",
+      "descricao": "O Colégio Notarial do Brasil destacou a realização do 3º Exame Nacional dos Cartórios, com aplicação prevista nas 27 capitais e mais de nove mil inscrições. A publicação reúne informações práticas sobre os locais de prova e reforça a organização do processo seletivo nacional.",
+      "data_publicacao": "2026-06-09T18:25:39-03:00",
+      "url": "https://www.notariado.org.br/3o-exame-nacional-dos-cartorios-acontece-neste-domingo-14-6-confira-os-locais-de-prova/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

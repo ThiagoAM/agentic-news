@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-06-10T10:01:56-03:00",
+  "noticias": [
+    {
+      "titulo": "Fundação promove Oficina Terapêutica",
+      "descricao": "A Fundação Rio das Ostras de Cultura realizará uma oficina terapêutica na Casa de Cultura Bento Costa Júnior nesta sexta-feira, com proposta de acolhimento, expressão e bem-estar por meio de atividades culturais.",
+      "data_publicacao": "2026-06-10T08:43:14-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/fundacao-de-cultura-promove-oficina-terapeutica-nesta-sexta/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Conferência Municipal de Saúde será dia 27 de junho",
+      "descricao": "Rio das Ostras marcou para 27 de junho a Conferência Municipal de Saúde, convidando a população a participar das discussões que ajudam a definir prioridades e diretrizes das políticas públicas de saúde no município.",
+      "data_publicacao": "2026-06-09T16:53:50-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/conferencia-municipal-de-saude-sera-dia-27-de-junho/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras contrata e convoca novos profissionais para a Educação",
+      "descricao": "A Prefeitura de Rio das Ostras divulgou novas contratações e convocações para reforçar a rede municipal de ensino, ampliando a estrutura de atendimento e o suporte às atividades educacionais locais.",
+      "data_publicacao": "2026-06-09T16:23:45-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-contrata-e-convoca-novos-profissionais-para-a-educacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "FLIRC 2026 abre inscrições para autores, palestrantes e contadores de histórias",
+      "descricao": "Rio Claro abriu inscrições para autores, palestrantes e contadores de histórias interessados em participar da Feira Literária de Rio Claro 2026, fortalecendo a programação cultural e a circulação de atividades ligadas ao livro e à leitura no estado.",
+      "data_publicacao": "2026-06-09T11:06:59-03:00",
+      "url": "https://rioclaro.rj.gov.br/flirc-2026-abre-inscricoes-para-autores-palestrantes-e-contadores-de-historias/",
+      "fonte": "Prefeitura de Rio Claro RJ"
+    },
+    {
+      "titulo": "Thalita Rebouças é confirmada para Feira Literária de Rio Claro em agosto",
+      "descricao": "A Prefeitura de Rio Claro confirmou a participação da escritora Thalita Rebouças na FLIRC 2026, reforçando a agenda cultural do município e ampliando a expectativa em torno da feira literária fluminense.",
+      "data_publicacao": "2026-06-08T10:23:34-03:00",
+      "url": "https://rioclaro.rj.gov.br/thalita-reboucas-e-confirmada-para-feira-literaria-de-rio-claro-em-agosto/",
+      "fonte": "Prefeitura de Rio Claro RJ"
+    },
+    {
+      "titulo": "STJ suspende ações sobre aluguel de curta temporada para fixar tese",
+      "descricao": "O STJ suspendeu processos sobre aluguel de curta temporada em condomínios residenciais para julgar o tema em rito repetitivo. A futura tese deve orientar de forma vinculante os limites desse tipo de locação no país.",
+      "data_publicacao": "2026-06-06T09:45:36-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-06/manchete-stj-suspende-processos-sobre-aluguel-de-curta-temporada-para-fixar-tese-vinculante/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Locação de espaço para coworking não atrai incidência de ISS",
+      "descricao": "Decisão destacada pelo ConJur afastou a cobrança de ISS sobre atividade de coworking ao reconhecer que ela se enquadra como locação de espaço, e não como prestação de serviço tributável.",
+      "data_publicacao": "2026-06-06T07:45:08-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-06/cobranca-de-iss-sobre-atividade-de-coworking-e-indevida/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Consumidor lesado por empresa não tem de apresentar prova de fato negativo",
+      "descricao": "O ConJur repercutiu decisão que afastou a exigência de prova impossível ao consumidor em ação de reparação, reforçando que a empresa deve apresentar os elementos técnicos quando está em melhor condição de demonstrar os fatos discutidos.",
+      "data_publicacao": "2026-06-05T19:45:23-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-05/consumidor-lesado-prova-fato-negativo/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "TJ/SC anula inventário baseado em lei dos EUA que excluiu pais de herança",
+      "descricao": "O Colégio Notarial do Brasil destacou decisão do TJ de Santa Catarina que anulou escritura pública de inventário feita com base exclusiva em lei estrangeira, ao reconhecer elementos de domicílio também no Brasil e impacto sucessório relevante.",
+      "data_publicacao": "2026-06-09T18:28:57-03:00",
+      "url": "https://www.notariado.org.br/tj-sc-anula-inventario-baseado-em-lei-dos-eua-que-excluiu-pais-de-heranca-2/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Escritura pública de inventário e partilha com reconhecimento de filiação socioafetiva post mortem é analisada em parecer registral",
+      "descricao": "O CNB publicou parecer sobre escritura pública de inventário e partilha com reconhecimento de filiação socioafetiva post mortem, abordando os requisitos registrais para admitir o ato e seu ingresso na matrícula imobiliária.",
+      "data_publicacao": "2026-06-09T18:27:35-03:00",
+      "url": "https://www.notariado.org.br/escritura-publica-de-inventario-e-partilha-com-reconhecimento-de-filiacao-socioafetiva-post-mortem-qualificacao-registral-e-requisitos-para-o-registro-matricula-no-23-122/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Cessão de direitos hereditários viabiliza partilha amigável desigual, define STJ",
+      "descricao": "O Colégio Notarial do Brasil repercutiu entendimento do STJ de que a cessão de direitos hereditários pode viabilizar partilha amigável desigual entre herdeiros maiores e capazes, desde que haja consenso e formalização adequada.",
+      "data_publicacao": "2026-06-09T18:26:14-03:00",
+      "url": "https://www.notariado.org.br/cessao-de-direitos-hereditarios-viabiliza-partilha-amigavel-desigual-define-stj/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

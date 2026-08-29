@@ -1,0 +1,96 @@
+{
+  "data-busca": "2026-06-05T10:01:18-03:00",
+  "noticias": [
+    {
+      "titulo": "Meta de formar família separa união estável de namoro qualificado",
+      "descricao": "O ConJur noticiou decisão do TJ-RS que afastou o reconhecimento de união estável em um relacionamento de mais de dois anos por falta de prova da intenção concreta de constituir família. O entendimento reforça a distinção jurídica entre namoro qualificado e entidade familiar para fins de partilha e alimentos.",
+      "data_publicacao": "2026-06-05T07:23:38-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-05/intencao-de-formar-familia-diferencia-uniao-estavel-de-namoro-qualificado/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Empresa não pode recusar atestado do SUS para dar justa causa",
+      "descricao": "Segundo o ConJur, a Justiça do Trabalho reverteu uma dispensa por justa causa ao considerar abusiva a recusa de atestados médicos emitidos pelo SUS. A decisão destaca a função protetiva da legislação trabalhista e afasta critérios internos arbitrários que prejudiquem o empregado.",
+      "data_publicacao": "2026-06-05T08:31:53-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-05/empresa-nao-pode-recusar-atestado-do-sus-para-aplicar-justa-causa/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Defesa pode exigir sustentação oral síncrona por videoconferência",
+      "descricao": "O STJ assegurou, em decisão destacada pelo ConJur, o direito de a defesa realizar sustentação oral síncrona por videoconferência em processo penal. O caso reforça a ampla defesa e a necessidade de preservar meios efetivos de participação dos advogados no julgamento.",
+      "data_publicacao": "2026-06-05T09:48:31-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-05/sustentacao-oral-sincrona-telepresencial-assegurada-stj/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Rio das Ostras celebra a reabertura do Píer do Emissário",
+      "descricao": "A Prefeitura de Rio das Ostras entregou a revitalização do Píer do Emissário, em Costazul, com novos guarda-corpos, iluminação, pintura e melhorias de mobilidade. A reabertura devolve à população um dos cartões-postais da cidade com mais segurança, acessibilidade e conforto.",
+      "data_publicacao": "2026-06-04T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-celebra-a-reabertura-do-pier-do-emissario/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "X Jornada de Direito Civil destaca contribuição do evento para a reforma do Código Civil",
+      "descricao": "O Colégio Notarial do Brasil repercutiu a preparação para a X Jornada de Direito Civil, com participação de juristas como Rosa Nery e Flávio Tartuce. A matéria aponta que os debates e enunciados do encontro podem orientar a atualização da legislação civil e fortalecer a reflexão jurídica qualificada.",
+      "data_publicacao": "2026-06-02T16:05:25-03:00",
+      "url": "https://www.notariado.org.br/x-jornada-de-direito-civil-juristas-rosa-nery-e-flavio-tartuce-destacam-contribuicao-do-evento-para-a-reforma-do-codigo-civil/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "XXVII Congresso Notarial Brasileiro será realizado nos dias 3 e 4 de dezembro, em Recife (PE)",
+      "descricao": "O CNB/CF confirmou a realização do XXVII Congresso Notarial Brasileiro em dezembro, no Recife Expo Center. O encontro reunirá tabeliães, especialistas e lideranças para discutir inovação, segurança jurídica, tecnologia e a evolução dos serviços notariais no país.",
+      "data_publicacao": "2026-06-03T16:54:42-03:00",
+      "url": "https://www.notariado.org.br/xxvii-congresso-notarial-brasileiro-sera-realizado-nos-dias-3-e-4-de-dezembro-em-recife-pe/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Empresa deve restituir pagamentos por venda casada de seguros em crédito rural",
+      "descricao": "Em notícia publicada pelo CNB, a Justiça reconheceu como abusiva a exigência de seguros vinculados à contratação de crédito rural. A decisão determina a devolução dos valores descontados e reforça a proteção do consumidor contra a venda casada em operações financeiras.",
+      "data_publicacao": "2026-06-01T15:56:27-03:00",
+      "url": "https://www.notariado.org.br/empresa-deve-restituir-pagamentos-por-venda-casada-de-seguros-em-credito-rural/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Município monta plano especial de serviços durante Festival de Jazz e Blues",
+      "descricao": "A Prefeitura de Rio das Ostras organizou um plano especial de serviços para o feriadão de Corpus Christi e para o Jazz & Blues Festival, com mudanças viárias e reforço operacional. A medida busca melhorar a mobilidade, o transporte e o atendimento a moradores e visitantes durante o evento.",
+      "data_publicacao": "2026-06-03T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-monta-plano-especial-de-servicos-durante-festival-de-jazz-e-blues/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Fundação Rio das Ostras de Cultura lança “Projeto Marias”",
+      "descricao": "A Fundação Rio das Ostras de Cultura lançou o Projeto Marias, iniciativa feita com a Associação Jubarte, o Ceam e a Assistência Social para acolhimento e geração de renda. A proposta oferece oficinas de artesanato e apoio a mulheres atendidas pela rede de proteção do município.",
+      "data_publicacao": "2026-06-02T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/fundacao-rio-das-ostras-de-cultura-lanca-projeto-marias/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Carreta Oftalmológica realiza 1300 cirurgias de catarata",
+      "descricao": "A Carreta Oftalmológica do programa Agora Tem Especialista encerrou sua passagem por Rio das Ostras com 1.300 cirurgias de catarata e mais de 4.600 atendimentos entre consultas e revisões. O resultado superou a previsão inicial e ajudou a reduzir a fila regulada da rede municipal de saúde.",
+      "data_publicacao": "2026-06-02T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/carreta-oftalmologica-realiza-1300-cirurgias-de-catarata/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras é destaque na 20ª OBMEP",
+      "descricao": "Rio das Ostras conquistou duas medalhas nacionais, sete títulos estaduais e 25 menções honrosas na 20ª Olimpíada Brasileira de Matemática das Escolas Públicas. O desempenho levou alunos da rede municipal à cerimônia regional da premiação e reforçou o destaque do município no ensino de matemática.",
+      "data_publicacao": "2026-06-02T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-e-destaque-na-20a-obmep-com-ouro-nacional-e-medalhas-estaduais/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cultura movimenta Macaé com programação na serra e concerto especial no Centro",
+      "descricao": "Macaé divulgou uma agenda cultural gratuita para o fim de semana, com música, literatura, gastronomia, oficinas e artesanato em diferentes pontos do município. A programação inclui ações no Sana e um concerto comemorativo da Sociedade Musical Nova Aurora, valorizando artistas locais e a economia criativa.",
+      "data_publicacao": "2026-06-03T12:00:00-03:00",
+      "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/cultura-movimenta-macae-com-programacao-na-serra-e-concerto-especial-no-centro",
+      "fonte": "Prefeitura de Macaé"
+    },
+    {
+      "titulo": "Educação que acolhe: CEMEAES comemora 27 anos com evento especial",
+      "descricao": "O CEMEAES de Macaé anunciou uma programação especial para celebrar 27 anos de atuação com foco em educação inclusiva. O evento reunirá estudantes, famílias e profissionais para dar visibilidade às práticas pedagógicas e aos recursos de acessibilidade desenvolvidos pela rede municipal.",
+      "data_publicacao": "2026-06-03T12:00:00-03:00",
+      "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/educacao-que-acolhe-cemeaes-comemora-27-anos-com-evento-especial",
+      "fonte": "Prefeitura de Macaé"
+    }
+  ]
+}

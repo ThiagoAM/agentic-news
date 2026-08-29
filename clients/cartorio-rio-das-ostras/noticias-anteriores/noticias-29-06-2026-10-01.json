@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-06-29T10:01:35-03:00",
+  "noticias": [
+    {
+      "titulo": "Prefeitura de Rio das Ostras lança canal oficial no WhatsApp",
+      "descricao": "A Prefeitura de Rio das Ostras criou um canal oficial no WhatsApp para divulgar avisos, serviços, vagas, eventos e outras atualizações municipais em tempo real, com foco em transparência e combate à desinformação.",
+      "data_publicacao": "2026-06-25T11:21:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-de-rio-das-ostras-lanca-canal-oficial-no-whatsapp/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Carreta de exames de imagem chega a Rio das Ostras para reduzir fila de tomografias",
+      "descricao": "Uma unidade móvel de exames de imagem começou a atender em Rio das Ostras com capacidade para realizar tomografias agendadas pela rede municipal, ajudando a acelerar diagnósticos e diminuir a fila de espera do SUS local.",
+      "data_publicacao": "2026-06-25T12:25:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/carreta-de-exames-de-imagem-chega-a-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Alunos de Rio das Ostras produzem revista digital escolar",
+      "descricao": "Estudantes da rede municipal de Rio das Ostras passaram a produzir uma revista digital escolar com reportagens, entrevistas e textos próprios, em uma iniciativa que fortalece educação midiática, escrita e uso responsável de tecnologias.",
+      "data_publicacao": "2026-06-19T14:37:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/alunos-da-rede-municipal-de-rio-das-ostras-criam-revista-digital-escolar/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Macaé recebe encontro nacional sobre ensino de ciências, saúde e ambiente",
+      "descricao": "A Cidade Universitária de Macaé sediou o VIII Encontro Nacional de Ensino de Ciências, da Saúde e do Ambiente, reunindo pesquisadores, educadores e gestores para debater sustentabilidade, inclusão social e formação científica no interior fluminense.",
+      "data_publicacao": "2026-06-29T00:00:00-03:00",
+      "url": "https://www.macae.rj.gov.br/semed/leitura/noticia/viii-encontro-nacional-de-ensino-de-ciencias-da-saude-e-do-ambiente-e-realizado-na-cidade-universitaria-de-macae",
+      "fonte": "Prefeitura de Macaé"
+    },
+    {
+      "titulo": "Casimiro de Abreu promove ação de educação ambiental em Barra de São João",
+      "descricao": "A Prefeitura de Casimiro de Abreu programou o encerramento do Mês do Meio Ambiente com atividades educativas, vídeos, exposição interativa e distribuição de mudas, incentivando a preservação ambiental e a participação da comunidade.",
+      "data_publicacao": "2026-06-25T11:46:28-03:00",
+      "url": "https://casimirodeabreu.rj.gov.br/encerramento-do-mes-do-meio-ambiente-promove-educacao-ambiental-e-conscientizacao-em-barra-de-sao-joao/",
+      "fonte": "Prefeitura de Casimiro de Abreu"
+    },
+    {
+      "titulo": "ConJur destaca que registro civil não pode depender da situação migratória dos pais",
+      "descricao": "A Consultor Jurídico repercutiu decisão que autorizou o registro tardio de nascimento de filha de estrangeiros, reforçando que o direito ao registro civil é fundamental e não pode ser condicionado à regularidade migratória dos genitores.",
+      "data_publicacao": "2026-06-03T07:19:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-03/registro-civil-nao-pode-ser-condicionado-a-status-migratorio-de-pais-estrangeiros/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur repercute exigência de escritura pública para cessão de herança a beneficiário específico",
+      "descricao": "A Consultor Jurídico informou que a cessão de herança em favor de pessoa determinada exige escritura pública, pois o ato tem natureza de transferência patrimonial e não pode ser validado apenas por termo no inventário.",
+      "data_publicacao": "2026-06-20T08:23:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-20/abdicar-de-heranca-em-prol-de-beneficiario-especifico-exige-escritura-publica/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur analisa o papel da escritura pública nas diretivas antecipadas de vontade",
+      "descricao": "A Consultor Jurídico publicou análise sobre a nova disciplina das diretivas antecipadas, defendendo que a escritura pública pode dar mais autenticidade, estabilidade e segurança jurídica à manifestação de vontade do paciente.",
+      "data_publicacao": "2026-06-28T17:24:15-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-28/diretivas-antecipadas-autonomia-do-paciente-e-seguranca-juridica-apos-lei-15-378/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Adriano Leal é eleito presidente do CNB/PI para o biênio 2026-2028",
+      "descricao": "O Colégio Notarial do Brasil destacou a eleição de Adriano Leal para a presidência do CNB/PI, com propostas de integração entre notários, capacitação técnica e fortalecimento da segurança dos procedimentos notariais físicos e virtuais.",
+      "data_publicacao": "2026-06-25T17:47:14-03:00",
+      "url": "https://www.notariado.org.br/adriano-leal-e-eleito-presidente-do-cnb-pi-para-novo-bienio-2026-2028/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB divulga plataforma Meu Registro para pedir certidões de vários cartórios em um só ambiente",
+      "descricao": "O Colégio Notarial do Brasil repercutiu o lançamento da plataforma Meu Registro, que permite solicitar certidões de diferentes especialidades e estados em um único fluxo digital ou presencial, simplificando o acesso aos serviços registrais.",
+      "data_publicacao": "2026-06-23T17:20:22-03:00",
+      "url": "https://www.notariado.org.br/meu-registro-permitira-solicitar-certidoes-de-diferentes-cartorios-em-um-unico-ambiente/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Plataforma Meu Registro reúne serviços de cartórios de todo o país",
+      "descricao": "O Colégio Notarial do Brasil noticiou o lançamento da plataforma Meu Registro, criada para integrar pedidos de documentos, acompanhamento e pagamento on-line em um único ambiente voltado aos serviços de registro público.",
+      "data_publicacao": "2026-06-23T17:00:31-03:00",
+      "url": "https://www.notariado.org.br/plataforma-meu-registro-simplifica-acesso-do-cidadao-a-servicos-de-registro-publico/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-06-27T10:01:22-03:00",
+  "noticias": [
+    {
+      "titulo": "Prefeitura de Rio das Ostras lança canal oficial no WhatsApp",
+      "descricao": "A Prefeitura de Rio das Ostras lançou um canal oficial no WhatsApp para distribuir avisos, decretos, vagas, eventos e notícias da administração municipal em tempo real. A iniciativa busca ampliar a transparência, facilitar o acesso da população à informação pública e combater a circulação de notícias falsas.",
+      "data_publicacao": "2026-06-25T11:21:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-de-rio-das-ostras-lanca-canal-oficial-no-whatsapp/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Carreta de exames de imagem chega a Rio das Ostras",
+      "descricao": "Rio das Ostras recebeu uma unidade móvel para realização de tomografias pelo programa Agora Tem Especialistas. A estrutura deve ampliar a oferta de exames, acelerar diagnósticos e ajudar a reduzir a fila de espera do SUS no município ao longo dos próximos 30 dias.",
+      "data_publicacao": "2026-06-25T12:25:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/carreta-de-exames-de-imagem-chega-a-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras recebe equipamentos agrícolas para fortalecer a agricultura familiar",
+      "descricao": "A Prefeitura de Rio das Ostras recebeu novos equipamentos agrícolas e insumos para apoiar produtores rurais de Cantagalo e região. O reforço deve melhorar a infraestrutura no campo, facilitar o escoamento da produção e fortalecer a agricultura familiar no município.",
+      "data_publicacao": "2026-06-25T17:39:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-recebe-equipamentos-agricolas-para-fortalecimento-da-agricultura-familiar/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cadastramento do Programa Turismo Rural RJ passa a ser feito pela plataforma RJ Digital",
+      "descricao": "O Governo do Estado do Rio de Janeiro passou a oferecer pela plataforma RJ Digital o cadastro do Programa Turismo Rural RJ, voltado a produtores, agricultores familiares e empreendedores do setor. A mudança facilita a adesão ao programa, o acesso ao selo da iniciativa e a participação em ações de capacitação e divulgação.",
+      "data_publicacao": "2026-06-24T17:11:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/06/7269062-cadastramento-do-programa-turismo-rural-pode-ser-feito-pela-plataforma-rj-digital.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Ramal do bonde de Santa Teresa volta a operar após mais de 20 anos",
+      "descricao": "O ramal Silvestre do Bonde de Santa Teresa retomou a circulação em fase de testes depois de mais de duas décadas desativado. A reabertura integra a modernização do sistema, melhora a mobilidade local e fortalece o potencial turístico da capital fluminense.",
+      "data_publicacao": "2026-06-11T15:40:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/06/7263265-ramal-do-bonde-de-santa-teresa-volta-a-operar-apos-mais-de-20-anos.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "CNB destaca provimento que regulamenta extratos eletrônicos para atos com repercussão imobiliária",
+      "descricao": "O Colégio Notarial do Brasil repercutiu o Provimento nº 228/2026, que disciplina o envio de extratos eletrônicos ao Registro de Imóveis em atos com repercussão imobiliária. A norma amplia a integração digital entre tabelionatos e registros e exige maior padronização e conferência dos dados transmitidos.",
+      "data_publicacao": "2026-06-18T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/provimento-no-228-2026-regulamenta-extratos-eletronicos-para-atos-com-repercussao-imobiliaria-e-impacta-rotina-dos-tabelionatos-de-notas/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Live apresenta nova etapa da integração entre e-Notariado e RI Digital",
+      "descricao": "Uma transmissão promovida pelo CNB/CF e pelo ONR apresentou avanços da integração entre o e-Notariado e o RI Digital, incluindo o piloto de envio de título estruturado. A iniciativa busca reduzir etapas operacionais, melhorar a interoperabilidade entre cartórios e aumentar a segurança jurídica dos atos imobiliários eletrônicos.",
+      "data_publicacao": "2026-06-17T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/live-reune-notarios-e-registradores-para-apresentar-nova-etapa-da-integracao-entre-e-notariado-e-ri-digital/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF divulga materiais para orientar cidadãos sobre prova de vida no e-Notariado",
+      "descricao": "O Colégio Notarial do Brasil disponibilizou vídeo e panfleto para ajudar os cartórios a explicar aos usuários a prova de vida facial no e-Notariado. Os materiais apoiam a adoção da nova etapa de segurança e buscam tornar os atos eletrônicos mais claros, simples e protegidos contra fraudes.",
+      "data_publicacao": "2026-06-08T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-disponibiliza-materiais-para-orientar-cidadaos-sobre-a-prova-de-vida-no-e-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "ConJur noticia que o STJ vai definir critérios para limitar multa por descumprimento judicial",
+      "descricao": "A Consultor Jurídico informou que a Corte Especial do STJ afetou recursos repetitivos para fixar parâmetros sobre a razoabilidade e a proporcionalidade das astreintes acumuladas. O julgamento deve orientar quando a multa por descumprimento de decisão judicial permanece compatível com a obrigação principal discutida.",
+      "data_publicacao": "2026-06-25T08:54:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-25/stj-definira-criterios-para-limitar-multa-por-descumprimento-judicial/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur destaca debate constitucional sobre ITBI na cessão de compromisso de compra e venda",
+      "descricao": "A Consultor Jurídico publicou análise sobre a controvérsia do Tema 1.124 do STF a respeito da incidência de ITBI na cessão de direitos decorrentes de compromisso de compra e venda. O texto destaca os efeitos práticos do debate para o mercado imobiliário e para a interpretação registral desses negócios.",
+      "data_publicacao": "2026-06-18T10:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-18/itbi-na-cessao-de-compromisso-de-compra-e-venda-qual-a-tese-correta-do-stf/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur aborda fundamentos da usucapião e critica extinções prematuras de ações",
+      "descricao": "A Consultor Jurídico publicou artigo explicando a usucapião como modo originário de aquisição da propriedade e defendendo que negociações anteriores não impedem automaticamente o processamento da demanda. O texto também sustenta que a via judicial não deve ser encerrada de forma prematura quando houver alegação suficiente de posse qualificada.",
+      "data_publicacao": "2026-06-24T10:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-24/usucapiao-da-suficiencia-da-posse-qualificada-por-determinado-lapso-temporal/",
+      "fonte": "Consultor Jurídico"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-04-09T10:00:15-03:00",
+  "noticias": [
+    {
+      "titulo": "Secretaria de Saúde atualiza horários das salas de vacina",
+      "descricao": "A Prefeitura de Rio das Ostras informou novos horários de funcionamento das salas de vacina do município, para orientar moradores e facilitar o acesso à imunização na rede pública.",
+      "data_publicacao": "2026-04-09T09:32:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/saude-atualiza-horarios-das-salas-de-vacina/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Aniversário da Cidade: funcionamento de serviços municipais",
+      "descricao": "Rio das Ostras divulgou como os serviços municipais vão funcionar durante o feriado de aniversário da cidade, com orientações para atendimento ao público e manutenção das atividades essenciais.",
+      "data_publicacao": "2026-04-09T09:09:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/aniversario-da-cidade-funcionamento-de-servicos-municipais/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras conclui diagnóstico de Plano de Saneamento",
+      "descricao": "A cidade concluiu a etapa de diagnóstico do Plano Municipal de Saneamento após reuniões com técnicos, órgãos públicos e sociedade civil para mapear prioridades e necessidades locais.",
+      "data_publicacao": "2026-04-08T09:32:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-conclui-diagnostico-de-plano-de-saneamento-junto-a-populacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cultura ocupa espaço prisional no Rio de Janeiro",
+      "descricao": "O CNJ promove no estado do Rio a primeira Semana da Cultura no Sistema Prisional, com atividades de literatura, música, cinema, teatro e artes visuais voltadas a pessoas privadas de liberdade, egressos e familiares.",
+      "data_publicacao": "2026-04-07T10:02:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/cultura-ocupa-espaco-prisional-no-rio-de-janeiro",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Rio de Janeiro sedia etapa estadual da 2ª Conferência Nacional de Arquivos",
+      "descricao": "O estado recebe a etapa preparatória da 2ª Conferência Nacional de Arquivos, encontro que vai discutir propostas para políticas públicas do setor arquivístico e selecionar contribuições para a fase nacional.",
+      "data_publicacao": "2026-03-20T12:00:00-03:00",
+      "url": "https://www.rj.gov.br/casacivil/node/1093",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Juíza bloqueia R$ 60 mil da Fictor para garantir retorno a investidor",
+      "descricao": "A ConJur noticiou decisão que determinou o bloqueio cautelar de valores para resguardar o resultado de uma ação judicial diante de risco de dissipação de ativos e interrupção de pagamentos ao investidor.",
+      "data_publicacao": "2026-04-09T09:44:20-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-09/juiza-bloqueia-r-60-mil-da-fictor-para-garantir-retorno-a-investidor/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Semelhança visual de produtos não implica concorrência desleal",
+      "descricao": "A publicação destaca entendimento de que elementos visuais comuns em um mesmo nicho não bastam para caracterizar concorrência desleal quando a análise global dos produtos revela diferenças relevantes.",
+      "data_publicacao": "2026-04-09T07:52:18-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-09/semelhanca-visual-de-produtos-nao-implica-concorrencia-desleal/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Justiça do Trabalho não tem competência para julgar divisão de honorários de sucumbência",
+      "descricao": "Segundo a ConJur, decisão recente afastou a competência da Justiça do Trabalho para analisar disputa sobre divisão de honorários de sucumbência entre profissionais da advocacia.",
+      "data_publicacao": "2026-04-08T20:25:46-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-08/justica-do-trabalho-nao-tem-competencia-para-julgar-divisao-de-honorarios-de-sucumbencia/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Campanha “É rápido, é fácil, é no Cartório!” destaca segurança e praticidade na autenticação de documentos e reconhecimento de assinaturas",
+      "descricao": "O Colégio Notarial do Brasil repercutiu material informativo que orienta a população sobre autenticação de documentos e reconhecimento de assinaturas, com foco em validade jurídica, praticidade e prevenção a fraudes.",
+      "data_publicacao": "2026-04-07T17:15:40-03:00",
+      "url": "https://www.notariado.org.br/campanha-e-rapido-e-facil-e-no-cartorio-destaca-seguranca-e-praticidade-na-autenticacao-de-documentos-e-reconhecimento-de-assinaturas/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "ANOREG/BR divulga orientações sobre emissão de nota fiscal pelos Cartórios diante da reforma tributária",
+      "descricao": "A notícia reúne orientações para os cartórios sobre emissão de nota fiscal no contexto da reforma tributária, detalhando encaminhamentos enviados aos associados sobre a adaptação do setor.",
+      "data_publicacao": "2026-04-07T17:14:23-03:00",
+      "url": "https://www.notariado.org.br/anoreg-br-divulga-orientacoes-sobre-emissao-de-nota-fiscal-pelos-cartorios-diante-da-reforma-tributaria/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Notariado fortalece combate ao bullying com uso de Ata Notarial para produção de provas",
+      "descricao": "Em referência ao Dia Nacional de Combate ao Bullying, o CNB destaca o uso da ata notarial como ferramenta para formalizar provas digitais e documentais em casos que exigem respaldo jurídico.",
+      "data_publicacao": "2026-04-07T11:43:59-03:00",
+      "url": "https://www.notariado.org.br/notariado-fortalece-combate-ao-bullying-com-uso-de-ata-notarial-para-producao-de-provas/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

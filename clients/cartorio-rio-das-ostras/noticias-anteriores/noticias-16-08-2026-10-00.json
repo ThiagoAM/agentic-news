@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-08-16T10:00:56-03:00",
+  "noticias": [
+    {
+      "titulo": "Bem-Estar Animal Sobre Rodas chega à localidade de Gelson Apicelo",
+      "descricao": "Rio das Ostras levará o CastraMóvel à localidade de Gelson Apicelo nos dias 18 e 19 de agosto para ampliar o atendimento de castração e orientação sobre cuidados com os animais. A ação reforça a política municipal de bem-estar animal e aproxima o serviço das famílias da região.",
+      "data_publicacao": "2026-08-14T11:19:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/bem-estar-animal-sobre-rodas-chega-a-localidade-de-gelson-apicelo/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município tem novo Centro de Exames de Imagem",
+      "descricao": "Rio das Ostras anunciou um novo Centro de Exames de Imagem no Âncora, com oferta de tomografia, mamografia, ultrassom, raio-x e eletrocardiograma. A estrutura amplia a capacidade local de diagnóstico e reduz a necessidade de deslocamentos para outros municípios.",
+      "data_publicacao": "2026-08-14T08:38:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-tem-novo-centro-de-exames-de-imagem/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Feira Reviva Centro terá sua 2° edição no fim de semana",
+      "descricao": "A segunda edição da Feira Reviva Centro será realizada na Rua Rego Barros com foco em convivência, circulação de público e valorização do comércio local. O evento aposta em atrações culturais e no uso do espaço urbano como ponto de encontro para moradores e visitantes.",
+      "data_publicacao": "2026-08-12T15:47:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/feira-reviva-centro-tera-sua-2-edicao-no-fim-de-semana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Abertas inscrições para nova turma do programa Justiça Cidadã",
+      "descricao": "O Tribunal de Justiça do Rio abriu inscrições para uma nova turma do programa Justiça Cidadã, voltado à formação gratuita de lideranças comunitárias. A iniciativa amplia o acesso à informação jurídica e fortalece a atuação cidadã em diferentes territórios do estado.",
+      "data_publicacao": "2026-08-15T11:55:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/08/7291150-abertas-inscricoes-gratuitas-para-nova-turma-do-programa-justica-cidada.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Pedágio eletrônico Free Flow muda viagem na Rio-Santos",
+      "descricao": "A adoção do sistema Free Flow na Rio-Santos elimina paradas em praças de pedágio e promete mais fluidez para motoristas que circulam pelo estado do Rio de Janeiro. O modelo também prevê descontos por frequência de uso e moderniza a experiência de deslocamento rodoviário.",
+      "data_publicacao": "2026-08-15T06:00:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/08/7289926-pedagio-eletronico-free-flow-muda-viagem-na-rio-santos.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "CNJ afasta exigência e redefine os limites da atuação do tabelião",
+      "descricao": "O ConJur destacou decisão do CNJ que afastou a exigência de certidão negativa como condição para escritura pública de inventário e partilha extrajudicial. O entendimento preserva a função jurídica do tabelião sem transformar o cartório em instrumento indireto de cobrança tributária.",
+      "data_publicacao": "2026-08-14T11:20:08-03:00",
+      "url": "https://conjur.com.br/2026-ago-14/cnj-afasta-exigencia-de-certidao-negativa-no-inventario-extrajudicial/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Exigência de escritura pública para alienação fiduciária fora do SFI",
+      "descricao": "O ConJur informou que o CNJ confirmou a possibilidade de constituir alienação fiduciária de imóveis por instrumento particular com efeitos de escritura pública fora do Sistema de Financiamento Imobiliário. A decisão tende a reduzir custos e ampliar a utilização desse tipo de garantia no mercado.",
+      "data_publicacao": "2026-08-07T19:21:01-03:00",
+      "url": "https://conjur.com.br/2026-ago-07/exigencia-de-escritura-publica-para-alienacao-fiduciaria-fora-do-sfi/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Condomínio rural: aspectos fiscais pré e pós-reforma tributária",
+      "descricao": "O ConJur publicou análise sobre o condomínio rural como modelo de organização patrimonial e produtiva, com foco nos reflexos fiscais antes e depois da reforma tributária. O tema é relevante para operações que dependem de estruturação jurídica clara e segurança registral.",
+      "data_publicacao": "2026-07-31T08:00:10-03:00",
+      "url": "https://conjur.com.br/2026-jul-31/condominio-rural-aspectos-fiscais-pre-e-pos-reforma/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça reafirma aplicação da competência territorial do e-Notariado aos atos notariais híbridos",
+      "descricao": "O Colégio Notarial do Brasil repercutiu decisão da Corregedoria Nacional que mantém as regras de competência territorial do e-Notariado também para atos híbridos. O entendimento alcança escrituras em que uma parte assina presencialmente e outra participa a distância.",
+      "data_publicacao": "2026-07-24T15:50:16-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-reafirma-aplicacao-da-competencia-territorial-do-e-notariado-aos-atos-notariais-hibridos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Uso de serviços digitais de Registro de Imóveis cresce quase 20% no Rio no primeiro semestre de 2026",
+      "descricao": "O Colégio Notarial do Brasil informou que o Rio de Janeiro registrou mais de 470 mil solicitações na plataforma RI Digital no primeiro semestre de 2026. O avanço mostra maior adesão a certidões, pesquisas e protocolos eletrônicos ligados ao mercado imobiliário e aos cartórios.",
+      "data_publicacao": "2026-07-31T15:40:17-03:00",
+      "url": "https://www.notariado.org.br/uso-de-servicos-digitais-de-registro-de-imoveis-cresce-quase-20-no-rio-no-primeiro-semestre-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Projeto permite coletar depoimento de testemunha em cartório",
+      "descricao": "O Colégio Notarial do Brasil repercutiu projeto de lei que permite colher depoimentos de testemunhas em cartório, inclusive em processos sobre direitos disponíveis. A proposta busca acelerar a produção de prova e ampliar alternativas de atendimento com apoio dos tabelionatos.",
+      "data_publicacao": "2026-07-27T16:44:38-03:00",
+      "url": "https://www.notariado.org.br/projeto-permite-coletar-depoimento-de-testemunha-em-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

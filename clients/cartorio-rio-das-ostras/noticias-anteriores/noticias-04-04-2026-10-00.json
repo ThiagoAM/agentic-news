@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-04-04T10:00:29-03:00",
+  "noticias": [
+    {
+      "titulo": "Alunos da rede municipal de Rio das Ostras entram em semana decisiva de avaliações",
+      "descricao": "Estudantes do 1º ao 9º ano participam de avaliações de Língua Portuguesa e Matemática que ajudam a mapear o aprendizado e orientar ações pedagógicas. Os testes fazem parte de dois programas de monitoramento e seguem cronograma por escolas do município.",
+      "data_publicacao": "2026-03-28T16:24:18-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/03/7228703-alunos-da-rede-municipal-de-rio-das-ostras-entram-em-semana-decisiva-de-avaliacoes.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Artesanato de Rio das Ostras ganha destaque estadual e projeto vira finalista de prêmio do Sebrae",
+      "descricao": "A iniciativa de mentoria para artesãos com identidade cultural chegou à final do Prêmio Sebrae Prefeitura Empreendedora. O projeto capacita produtores locais, fortalece a cultura e amplia oportunidades de renda no município.",
+      "data_publicacao": "2026-03-25T14:28:43-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/03/7227129-artesanato-de-rio-das-ostras-ganha-destaque-estadual-e-projeto-vira-finalista-de-premio-do-sebrae.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Rio das Ostras anuncia festival com shows gratuitos no aniversário da cidade",
+      "descricao": "O Rio das Ostras Festival celebra os 34 anos de emancipação do município com programação de shows gratuitos entre 10 e 12 de abril. A proposta busca movimentar o turismo e a economia local.",
+      "data_publicacao": "2026-03-21T11:00:00-03:00",
+      "url": "https://prensadebabel.com.br/festival-rio-das-ostras-2026/",
+      "fonte": "Prensa de Babel"
+    },
+    {
+      "titulo": "Região dos Lagos terá shows, feiras culturais, esportes e eventos gratuitos no fim de semana",
+      "descricao": "A programação regional reúne atrações culturais, feiras e competições esportivas em cidades como Cabo Frio, Búzios, São Pedro da Aldeia, Iguaba Grande e Saquarema. A maior parte das atividades tem entrada gratuita.",
+      "data_publicacao": "2026-03-13T15:00:03-03:00",
+      "url": "https://rc24h.com.br/giro-de-eventos-regiao-dos-lagos-tera-shows-feiras-culturais-esportes-e-eventos-gratuitos-neste-fim-de-semana/",
+      "fonte": "RC24H"
+    },
+    {
+      "titulo": "Gastro Samba estreia em Cabo Frio com música, gastronomia e programação para a família",
+      "descricao": "Evento realizado no Shopping Park Lagos reúne samba, DJs, feira de artesanato e área kids. A proposta combina lazer e gastronomia com entrada gratuita durante o feriadão.",
+      "data_publicacao": "2026-04-03T13:51:04-03:00",
+      "url": "https://rc24h.com.br/gastro-samba-acontece-pela-primeira-vez-a-cabo-frio-com-musica-gastronomia-e-programacao-para-toda-a-familia/",
+      "fonte": "RC24H"
+    },
+    {
+      "titulo": "STJ julga se ausência de registro em cartório afasta alienação fiduciária",
+      "descricao": "O Superior Tribunal de Justiça analisa se a falta de registro em cartório de contrato de compra e venda com garantia de alienação fiduciária retira a eficácia entre as partes. O debate trata da segurança jurídica nos registros imobiliários.",
+      "data_publicacao": "2026-03-26T18:55:30-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-26/stj-julga-se-ausencia-de-registro-do-contrato-em-cartorio-afasta-alienacao-fiduciaria/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Documento original não é requisito para execução extrajudicial",
+      "descricao": "Decisão destacada pela ConJur aponta que não é obrigatório apresentar o documento original para iniciar execução extrajudicial, cabendo ao juiz exigir depósito em cartório quando necessário. O entendimento busca reduzir burocracias no processo.",
+      "data_publicacao": "2026-03-30T14:43:25-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-30/documento-original-nao-e-requisito-para-execucao-extrajudicial/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Código Civil e a prova da separação de fato perante o cartório",
+      "descricao": "Artigo discute propostas de reforma do Código Civil e a possibilidade de comprovar a separação de fato por meio de declaração em cartório de registro civil. O texto analisa impactos patrimoniais e a formalização de registros.",
+      "data_publicacao": "2026-03-22T09:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-mar-22/a-reforma-do-codigo-civil-e-a-prova-da-separacao-de-fato-perante-o-rcpn/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Informe Notarial nº 12/2026",
+      "descricao": "Nova edição do Informe Notarial do Colégio Notarial do Brasil reúne atualizações e comunicados de interesse do notariado brasileiro e dos cartórios de notas.",
+      "data_publicacao": "2026-04-01T15:42:44-03:00",
+      "url": "https://www.notariado.org.br/informes-notariais/informe-notarial-no-12-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Informe Notarial nº 11/2026",
+      "descricao": "Edição semanal do CNB/CF com informes e orientações voltadas ao notariado, serviços eletrônicos e temas de interesse dos cartórios.",
+      "data_publicacao": "2026-03-31T13:46:47-03:00",
+      "url": "https://www.notariado.org.br/informes-notariais/informe-notarial-no-11-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Informe Notarial nº 10/2026",
+      "descricao": "Boletim do Colégio Notarial do Brasil com comunicados e novidades direcionadas aos cartórios e à atividade notarial.",
+      "data_publicacao": "2026-03-26T09:06:40-03:00",
+      "url": "https://www.notariado.org.br/informes-notariais/informe-notarial-no-10-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

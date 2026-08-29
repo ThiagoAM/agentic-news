@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-16T10:01:49-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras e Macaé têm transporte público integrado",
+      "descricao": "Passageiros dos dois municípios já podem embarcar e desembarcar no Terminal do Parque dos Tubos, em uma integração que amplia a mobilidade urbana e facilita deslocamentos entre Rio das Ostras e Macaé.",
+      "data_publicacao": "2026-05-15T17:16:41-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-e-macae-tem-transporte-publico-integrado/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Dia Mundial da Reciclagem terá ações de conscientização",
+      "descricao": "Rio das Ostras vai promover ações especiais pelo Dia Mundial da Reciclagem, com foco em educação ambiental e conscientização da população sobre descarte correto e reaproveitamento de materiais.",
+      "data_publicacao": "2026-05-15T16:18:24-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/dia-mundial-da-reciclagem-tera-acoes-de-conscientizacao-ambiental/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Sistema eletrônico moderniza registro imobiliário na Cidade",
+      "descricao": "A Secretaria Municipal de Fazenda concluiu a implantação de uma ferramenta eletrônica para o registro imobiliário em Rio das Ostras, com a proposta de dar mais agilidade, organização e rastreabilidade aos processos.",
+      "data_publicacao": "2026-05-15T10:29:17-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-moderniza-registro-imobiliario-com-sistema-eletronico/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Comlurb comemora Dia Mundial da Reciclagem com evento especial neste sábado",
+      "descricao": "A Comlurb realiza em Laranjeiras uma ação especial pelo Dia Mundial da Reciclagem, com campanha de conscientização e atividades voltadas ao público para estimular práticas sustentáveis no Rio de Janeiro.",
+      "data_publicacao": "2026-05-16T01:14:23-03:00",
+      "url": "https://diariodorio.com/comlurb-comemora-dia-mundial-da-reciclagem-com-evento-especial-neste-sabado/",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Firjan SENAI abre quase 4 mil vagas gratuitas em cursos técnicos de nível médio",
+      "descricao": "A Firjan SENAI abriu quase 4 mil vagas gratuitas em cursos técnicos de nível médio no estado do Rio, com inscrições online e foco em ampliar a formação profissional de jovens e adultos.",
+      "data_publicacao": "2026-05-16T00:27:03-03:00",
+      "url": "https://diariodorio.com/firjan-senai-abre-quase-4-mil-vagas-gratuitas-em-cursos-tecnicos-de-nivel-medio-2/",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Teimosinha na execução fiscal gera impacto desproporcional",
+      "descricao": "O ConJur destacou que o uso recorrente da ferramenta conhecida como “teimosinha” em execuções fiscais pode gerar bloqueios repetidos e um impacto desproporcional para empresas sem capacidade de reagir rapidamente.",
+      "data_publicacao": "2026-05-16T09:47:29-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-16/teimosinha-na-execucao-fiscal-gera-impacto-desproporcional-a-empresas/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Mera possibilidade de inaptidão não exclui candidato de concurso",
+      "descricao": "Segundo o ConJur, o TJ-MG entendeu que a exclusão de um candidato foi genérica e não demonstrou limitação funcional atual, afastando a eliminação com base apenas em hipótese futura de inaptidão.",
+      "data_publicacao": "2026-05-16T08:54:42-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-16/mera-possibilidade-de-inaptidao-futura-nao-exclui-candidato-de-concurso/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Renúncia a ação coletiva não anula dever de pagar honorários",
+      "descricao": "O ConJur informou que, para o TST, a renúncia ao valor buscado em ação coletiva é ato unilateral e não afasta o direito dos advogados ao recebimento de honorários sucumbenciais.",
+      "data_publicacao": "2026-05-16T07:52:44-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-16/renuncia-a-valor-de-acao-coletiva-nao-anula-dever-de-pagar-honorarios/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Pesquisa aponta avanço na avaliação dos atendimentos realizados pelos cartórios",
+      "descricao": "Levantamento divulgado pelo Colégio Notarial do Brasil com base na revista Cartórios em Números mostrou melhora na percepção dos usuários sobre os atendimentos realizados pelos cartórios brasileiros.",
+      "data_publicacao": "2026-05-15T16:10:59-03:00",
+      "url": "https://www.notariado.org.br/pesquisa-aponta-avanco-na-avaliacao-dos-atendimentos-realizados-pelos-cartorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Cartórios do Brasil participam do 97º ENCOGE em Goiânia e destacam protagonismo da atividade extrajudicial",
+      "descricao": "Representantes dos cartórios brasileiros participaram do 97º ENCOGE, em Goiânia, reforçando a parceria com o Judiciário e o papel da atividade extrajudicial na modernização dos serviços prestados à população.",
+      "data_publicacao": "2026-05-13T15:41:39-03:00",
+      "url": "https://www.notariado.org.br/cartorios-do-brasil-participam-do-97o-encoge-em-goiania-e-destacam-protagonismo-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Novo Código de Normas da Corregedoria do Foro Extrajudicial paranaense é aprovado pelo TJPR",
+      "descricao": "O Colégio Notarial do Brasil repercutiu a aprovação do novo Código de Normas do Foro Extrajudicial do Paraná, que atualiza diretrizes e procedimentos para a atuação das serventias no estado.",
+      "data_publicacao": "2026-05-13T15:41:23-03:00",
+      "url": "https://www.notariado.org.br/novo-codigo-de-normas-da-corregedoria-do-foro-extrajudicial-paranaense-e-aprovado-pelo-tjpr/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

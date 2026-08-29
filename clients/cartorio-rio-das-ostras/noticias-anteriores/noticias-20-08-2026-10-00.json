@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-08-20T10:00:38-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras apresenta Plano Municipal de Educação Digital",
+      "descricao": "A Prefeitura apresentou o Plano Municipal de Educação Digital Midiática no Polo Rio das Ostras da Universidade Federal Fluminense, com foco no uso responsável e educativo da tecnologia.",
+      "data_publicacao": "2026-08-14T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-apresenta-plano-municipal-de-educacao-digital-midiatica/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras participa do Seminário Agrega + Indústria",
+      "descricao": "Representantes de Rio das Ostras participaram de seminário sobre fortalecimento do conteúdo local, resiliência e desenvolvimento da indústria no estado do Rio de Janeiro.",
+      "data_publicacao": "2026-08-04T17:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-participa-do-seminario-agrega-industria/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "CastraMóvel levará atendimento gratuito a cães e gatos em Rio das Ostras",
+      "descricao": "O projeto Bem-Estar Animal Sobre Rodas levou atendimento gratuito para cães e gatos da cidade nos dias 18 e 19 de agosto, com ações de cuidado e prevenção.",
+      "data_publicacao": "2026-08-15T12:00:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/08/7291240-castramovel-levara-atendimento-gratuito-a-caes-e-gatos-em-rio-das-ostras.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Regin passa por instabilidade temporária em Angra dos Reis",
+      "descricao": "A Prefeitura de Angra dos Reis informou instabilidade temporária no Regin, sistema integrado usado para legalização e licenciamento municipal no estado do Rio de Janeiro.",
+      "data_publicacao": "2026-08-19T12:00:00-03:00",
+      "url": "https://www.angra.rj.gov.br/noticias/19-08-2026/regin-passa-por-instabilidade-temporaria",
+      "fonte": "Prefeitura de Angra dos Reis"
+    },
+    {
+      "titulo": "Cabo Frio recebe etapa do Campeonato Estadual de Tênis de Mesa",
+      "descricao": "Cabo Frio sediará a terceira etapa do Campeonato Estadual de Tênis de Mesa entre 21 e 23 de agosto, reunindo atletas no Ginásio Poliesportivo Alfredo Barreto.",
+      "data_publicacao": "2026-08-19T18:00:00-03:00",
+      "url": "https://noticias.cabofrio.rj.gov.br/cabo-frio-recebe-3a-etapa-do-campeonato-estadual-de-tenis-de-mesa/",
+      "fonte": "Prefeitura de Cabo Frio"
+    },
+    {
+      "titulo": "Limites do IDPJ trabalhista no reconhecimento do sócio oculto",
+      "descricao": "Artigo do ConJur analisa os limites do incidente de desconsideração da personalidade jurídica na execução trabalhista e os requisitos para responsabilizar sócios ocultos.",
+      "data_publicacao": "2026-08-03T09:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-03/os-limites-do-idpj-trabalhista-no-reconhecimento-do-socio-oculto/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Proteção contra penhora de até 40 salários não alcança entidades",
+      "descricao": "O ConJur aborda entendimento do STJ de que a proteção legal da poupança de até 40 salários mínimos não se aplica a pessoas jurídicas sem fins lucrativos.",
+      "data_publicacao": "2026-08-04T09:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-04/impenhorabilidade-de-40-salarios-minimos-visa-proteger-pessoas-fisicas-afirma-stj/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Relações de consumo: tentativa extrajudicial não é condição de ação",
+      "descricao": "Análise publicada pelo ConJur explica que a tentativa de solução extrajudicial não é requisito obrigatório para o ajuizamento de ações de consumo, conforme entendimento do STJ.",
+      "data_publicacao": "2026-08-10T09:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-10/tema-1-396-do-stj-a-tentativa-extrajudicial-e-onus-de-conduta-nao-condicao-da-acao/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Corregedoria Nacional suspende temporariamente provimento sobre cartórios",
+      "descricao": "O Colégio Notarial do Brasil informou a suspensão temporária do Provimento CN-CNJ nº 247/2026 e orientou os tabelionatos sobre os efeitos da medida.",
+      "data_publicacao": "2026-08-17T09:00:00-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-suspende-temporariamente-provimento-cn-cnj-n-247-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ e Banco Central reforçam proteção na transferência de precatórios",
+      "descricao": "Notícia do Colégio Notarial do Brasil detalha medidas do CNJ e do Banco Central para reforçar a segurança nas transferências de precatórios.",
+      "data_publicacao": "2026-08-14T09:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-e-banco-central-reforcam-mecanismos-de-protecao-na-transferencia-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ reafirma competência territorial do e-Notariado em atos híbridos",
+      "descricao": "O Colégio Notarial do Brasil informou que a Corregedoria Nacional reafirmou a aplicação das regras de competência territorial do e-Notariado aos atos notariais híbridos.",
+      "data_publicacao": "2026-07-24T09:00:00-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-reafirma-aplicacao-da-competencia-territorial-do-e-notariado-aos-atos-notariais-hibridos/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

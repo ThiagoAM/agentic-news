@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-11T10:01:43-03:00",
+  "noticias": [
+    {
+      "titulo": "Parceria com Governo Federal amplia cirurgias no Município",
+      "descricao": "Rio das Ostras confirmou a expansão do programa Agora Tem Especialistas após reunião com representante do Ministério da Saúde, com foco em ampliar cirurgias e atendimentos especializados para a população local.",
+      "data_publicacao": "2026-05-08T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-faz-parceria-com-governo-federal-para-ampliar-numero-de-cirurgias/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Museu de Sítio Sambaqui da Tarioba recebe doação de tarioba africana",
+      "descricao": "A Fundação Rio das Ostras de Cultura recebeu uma peça com concha tarioba e areia da Praia de Luanda para ampliar o acervo do Museu de Sítio Arqueológico Sambaqui da Tarioba e reforçar a conexão histórica e cultural com a ancestralidade africana.",
+      "data_publicacao": "2026-05-07T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/museu-de-sitio-sambaqui-da-tarioba-recebe-doacao-de-tarioba-africana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Banco de Empregos oferece 551 vagas",
+      "descricao": "O Banco de Empregos de Rio das Ostras abriu 551 oportunidades em diferentes áreas, com inscrições presenciais gratuitas no Centro de Cidadania para ampliar o acesso da população ao mercado de trabalho local.",
+      "data_publicacao": "2026-05-11T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-551-vagas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "No Rio, Cinema na Rua terá duas exibições em maio",
+      "descricao": "O projeto Cinema na Rua terá duas sessões gratuitas a céu aberto na Cinelândia, no centro do Rio de Janeiro, ampliando o acesso do público ao audiovisual brasileiro ao longo de maio.",
+      "data_publicacao": "2026-05-10T16:02:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/no-rio-cinema-na-rua-tera-duas-novas-exibicoes-em-maio",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Governo do RJ cria observatório da fome em homenagem a Betinho",
+      "descricao": "O governo fluminense criou o Observatório da Fome Herbert de Souza para reunir dados, apoiar políticas públicas e publicar relatórios anuais sobre insegurança alimentar e pobreza extrema no estado.",
+      "data_publicacao": "2026-05-07T21:09:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-05/governo-do-rj-cria-observatorio-da-fome-em-homenagem-betinho",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "'Processo justo': a senha do arbítrio judicial",
+      "descricao": "Em artigo no ConJur, Antônio Carvalho Filho sustenta que o uso genérico da expressão 'processo justo' pode abrir espaço para decisões pouco controláveis, defendendo maior rigor conceitual na aplicação do direito processual.",
+      "data_publicacao": "2026-05-11T09:20:26-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-11/processo-justo-a-senha-do-arbitrio-judicial/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Inventário extrajudicial dispensa a certidão negativa de débito",
+      "descricao": "O ConJur destacou decisão do CNJ segundo a qual a escritura pública de inventário e partilha extrajudicial não pode ser condicionada à apresentação de certidão negativa de débito, mantendo a exigência apenas para fins informativos.",
+      "data_publicacao": "2026-04-30T07:52:23-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-30/inventario-extrajudicial-dispensa-a-certidao-negativa-de-debito/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Recibo de compra e venda é justo título para usucapião ordinária",
+      "descricao": "O STJ decidiu, conforme noticiado pelo ConJur, que o recibo de compra e venda de imóvel pode caracterizar justo título para usucapião ordinária quando demonstrar de forma suficiente a intenção de transferir a propriedade.",
+      "data_publicacao": "2026-04-29T13:51:15-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-29/recibo-de-compra-e-venda-e-justo-titulo-para-usucapiao-ordinaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Imóveis herdados sem acordo entre famílias: o que pode destravar a venda?",
+      "descricao": "O CNB/MG explicou caminhos jurídicos e notariais para viabilizar a venda de imóveis herdados quando não há consenso entre familiares, destacando alternativas que podem reduzir impasses na gestão patrimonial.",
+      "data_publicacao": "2026-05-08T12:00:00-03:00",
+      "url": "https://cnbmg.org.br/imoveis-herdados-sem-acordo-entre-familias-o-que-pode-destravar-a-venda/",
+      "fonte": "Colégio Notarial do Brasil - Seção Minas Gerais"
+    },
+    {
+      "titulo": "Separação de bens não retroage para atingir patrimônio adquirido antes do pacto, diz STJ",
+      "descricao": "O CNB/MG repercutiu entendimento do STJ de que a separação de bens convencionada em pacto não retroage para alcançar patrimônio adquirido antes do ajuste, reforçando a segurança jurídica em relações patrimoniais.",
+      "data_publicacao": "2026-05-07T12:00:00-03:00",
+      "url": "https://cnbmg.org.br/separacao-de-bens-nao-retroage-para-atingir-patrimonio-adquirido-antes-do-pacto-diz-stj/",
+      "fonte": "Colégio Notarial do Brasil - Seção Minas Gerais"
+    },
+    {
+      "titulo": "CNB/CF indica tabeliães brasileiros para Grupos de Trabalho da CAAm e Alexandre Kassama assume coordenação em Informática e Segurança Jurídica",
+      "descricao": "O CNB/CF formalizou indicações de tabeliães brasileiros para grupos de trabalho da Comissão de Assuntos Americanos da UINL, ampliando a participação técnica do notariado nacional em temas de transformação digital e segurança jurídica.",
+      "data_publicacao": "2026-04-23T17:55:49-03:00",
+      "url": "https://www.sinoregmg.org.br/post/cnb-cf-indica-tabeliaes-brasileiros-para-grupos-de-trabalho-da-caam-e-alexandre-kassama-assume-coord",
+      "fonte": "Sinoreg-MG"
+    }
+  ]
+}

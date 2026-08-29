@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-08-03T10:00:59-03:00",
+  "noticias": [
+    {
+      "titulo": "Banco de Empregos oferece 477 vagas",
+      "descricao": "O Banco de Empregos de Rio das Ostras divulgou 477 oportunidades nesta segunda-feira, ampliando as opções para quem busca inserção ou recolocação profissional no município.",
+      "data_publicacao": "2026-08-03T09:00:17-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-477-vagas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura promove capacitação de pilotos de moto aquática",
+      "descricao": "A Prefeitura de Rio das Ostras promoveu treinamento para pilotos de moto aquática voluntários, com foco em prevenção e apoio a respostas rápidas em ocorrências nas praias da cidade.",
+      "data_publicacao": "2026-08-03T08:53:56-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-promove-capacitacao-de-pilotos-de-moto-aquatica/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras recebe Desafio dos Mares neste final de semana",
+      "descricao": "Rio das Ostras recebeu uma etapa do Desafio dos Mares na Praia do Centro, reunindo atletas de águas abertas e reforçando a agenda esportiva e turística do município.",
+      "data_publicacao": "2026-07-31T17:00:15-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-recebe-desafio-dos-mares-neste-final-de-semana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio de Janeiro é o estado homenageado da 62ª edição do Festival do Folclore de Olímpia",
+      "descricao": "O Rio de Janeiro foi escolhido como estado homenageado da 62ª edição do Festival do Folclore de Olímpia, levando manifestações culturais fluminenses a uma vitrine nacional.",
+      "data_publicacao": "2026-07-30T14:57:09-03:00",
+      "url": "http://cultura.rj.gov.br/rio-de-janeiro-e-homenageado-em-festival-de-folclore-de-olimpia/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Governo do Estado e TJ firmam parceria para ampliar ações culturais no Rio de Janeiro",
+      "descricao": "O Governo do Estado e o Tribunal de Justiça firmaram protocolo de intenções para fortalecer projetos culturais e ampliar iniciativas do setor em diferentes regiões do Rio de Janeiro.",
+      "data_publicacao": "2026-07-28T15:49:15-03:00",
+      "url": "http://cultura.rj.gov.br/governo-do-estado-e-tj-firmam-parceria-para-ampliar-acoes-culturais-no-rio-de-janeiro/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "CNJ libera assinatura digital em cartório para transferir veículo",
+      "descricao": "O CNJ restabeleceu a possibilidade de uso de assinatura digital em cartório para transferência de veículos, permitindo a coleta de assinaturas na ATPV-e dentro da infraestrutura notarial.",
+      "data_publicacao": "2026-07-30T16:52:59-03:00",
+      "url": "https://conjur.com.br/2026-jul-30/cnj-libera-assinatura-digital-em-cartorio-para-transferencia-de-veiculos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ libera alienação fiduciária em contrato sem escritura pública",
+      "descricao": "Decisão destacada pela ConJur informa que o CNJ dispensou a escritura pública para formalizar cláusula de alienação fiduciária em certos contratos, mantendo a exigência de registro imobiliário para validade legal.",
+      "data_publicacao": "2026-07-27T12:46:11-03:00",
+      "url": "https://conjur.com.br/2026-jul-27/cnj-libera-alienacao-fiduciaria-em-contrato-sem-escritura-publica/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Registro de bebê de reprodução assistida exige laudo da clínica",
+      "descricao": "A Corregedoria Nacional de Justiça manteve a exigência de declaração da clínica especializada para o registro civil de crianças geradas por reprodução assistida, reforçando a segurança documental do ato.",
+      "data_publicacao": "2026-07-20T12:40:58-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-20/cnj-mantem-exigencia-de-declaracao-de-clinica-para-registro-de-bebe-gerado-por-reproducao-assistida/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Uso de serviços digitais de Registro de Imóveis cresce quase 20% no Rio no primeiro semestre de 2026",
+      "descricao": "Levantamento divulgado pelo Colégio Notarial do Brasil mostra avanço expressivo dos serviços digitais de Registro de Imóveis no Rio de Janeiro no primeiro semestre, indicando maior adesão às plataformas eletrônicas.",
+      "data_publicacao": "2026-07-31T15:40:17-03:00",
+      "url": "https://www.notariado.org.br/uso-de-servicos-digitais-de-registro-de-imoveis-cresce-quase-20-no-rio-no-primeiro-semestre-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Projeto permite coletar depoimento de testemunha em cartório",
+      "descricao": "O Colégio Notarial do Brasil repercutiu proposta que permite a coleta de depoimento de testemunhas em cartório em causas sobre direitos disponíveis, ampliando instrumentos extrajudiciais de formalização.",
+      "data_publicacao": "2026-07-27T16:44:38-03:00",
+      "url": "https://www.notariado.org.br/projeto-permite-coletar-depoimento-de-testemunha-em-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça reafirma aplicação da competência territorial do e-Notariado aos atos notariais híbridos",
+      "descricao": "A Corregedoria Nacional reafirmou que atos notariais híbridos realizados com apoio do e-Notariado seguem as regras de competência territorial, trazendo mais previsibilidade para a prática dos cartórios de notas.",
+      "data_publicacao": "2026-07-24T15:50:16-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-reafirma-aplicacao-da-competencia-territorial-do-e-notariado-aos-atos-notariais-hibridos/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

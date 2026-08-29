@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-24T10:00:52-03:00",
+  "noticias": [
+    {
+      "titulo": "Festival Gastronômico de Rio das Ostras divulga pratos da segunda edição",
+      "descricao": "A Prefeitura apresentou os pratos e a programação do 2º Festival Gastronômico de Rio das Ostras, que reunirá mais de 15 estabelecimentos, música, artesanato e atrações para toda a família entre 30 de julho e 2 de agosto, na Lagoa de Iriry.",
+      "data_publicacao": "2026-07-20T16:46:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/festival-gastronomico-de-rio-das-ostras-divulga-pratos-da-segunda-edicao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Lagoa de Iriry será palco do Rio das Ostras Run",
+      "descricao": "O Rio das Ostras Run 2026 acontecerá em 26 de julho na Lagoa de Iriry, com corrida de 7 km e caminhada de 3 km, incentivando esporte, saúde e integração entre atletas amadores e profissionais da região.",
+      "data_publicacao": "2026-07-09T12:10:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/lagoa-de-iriry-sera-palco-do-rio-das-ostras-run/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras fortalece economia local com nova Sala do Empreendedor",
+      "descricao": "O município inaugurou a Sala do Empreendedor no Centro de Cidadania para reunir serviços de abertura, regularização e apoio a MEIs, micro e pequenos empresários, com foco em desburocratização e desenvolvimento local.",
+      "data_publicacao": "2026-07-09T16:17:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-fortalece-economia-local-com-nova-sala-do-empreendedor/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Expo Macaé 2026 reúne cultura, inovação e oportunidades de negócios",
+      "descricao": "A Expo Macaé 2026 começa em 24 de julho com programação gratuita que reúne música, cultura, agronegócio, ciência, tecnologia, empreendedorismo e lazer, reforçando a relevância do evento para o interior do Estado do Rio de Janeiro.",
+      "data_publicacao": "2026-07-23T14:45:00-03:00",
+      "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/expo-macae-2026-reune-grandes-shows-tradicao-agropecuaria-inovacao-cultura-e-oportunidades-de-negocios",
+      "fonte": "Prefeitura de Macaé"
+    },
+    {
+      "titulo": "4ª Feira da Economia do Mar integra a programação da Expo Macaé 2026",
+      "descricao": "Macaé promoverá de 24 a 28 de julho a 4ª Feira da Economia do Mar, com sessão de negócios, conexões entre empresas da cadeia offshore e ações voltadas ao fortalecimento do ecossistema regional ligado ao mar.",
+      "data_publicacao": "2026-07-21T10:45:00-03:00",
+      "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/4-feira-da-economia-do-mar-sera-realizada-de-24-a-28-de-julho-durante-a-expo-macae-2026",
+      "fonte": "Prefeitura de Macaé"
+    },
+    {
+      "titulo": "Empresas de revenda de veículos devem pagar menos IRPJ e CSLL",
+      "descricao": "Decisão destacada pela ConJur reconheceu que revendedoras de veículos usados exercem atividade comercial, permitindo a aplicação de alíquotas menores de IRPJ e CSLL no regime do lucro presumido.",
+      "data_publicacao": "2026-07-24T07:31:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-24/empresas-de-revenda-de-veiculos-devem-pagar-menos-irpj-e-csll/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Plano de saúde deve indenizar empresa por contrato fraudulento",
+      "descricao": "A ConJur informou decisão que reconheceu a inexistência de relação jurídica entre um fundo de investimentos e uma operadora de saúde, além de determinar indenização por danos morais em razão de contratação fraudulenta.",
+      "data_publicacao": "2026-07-24T08:23:19-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-24/plano-de-saude-deve-indenizar-empresa-por-contrato-fraudulento/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Recurso adesivo não pode ser interposto na petição de contrarrazões, decide STJ",
+      "descricao": "A 3ª Turma do STJ definiu que o recurso adesivo deve ser apresentado em petição própria, reforçando a organização processual e a proteção ao direito de defesa nas ações judiciais.",
+      "data_publicacao": "2026-07-23T17:52:43-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-23/recurso-adesivo-nao-pode-ser-interposto-na-peticao-de-contrarrazoes-decide-stj/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Provimento nº 243/CNJ altera critérios de enquadramento das serventias e prazos de implementação",
+      "descricao": "O Colégio Notarial do Brasil repercutiu o Provimento nº 243 do CNJ, que modifica regras de enquadramento das serventias e ajusta os prazos para implementação das mudanças no serviço extrajudicial.",
+      "data_publicacao": "2026-07-23T18:08:23-03:00",
+      "url": "https://www.notariado.org.br/provimento-no-243-cnj-altera-o-provimento-n-213-para-modificar-os-criterios-de-enquadramento-das-serventias-e-os-prazos-de-implementacao-2/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Recorde de doações de imóveis repercute na imprensa nacional",
+      "descricao": "Levantamento do CNB/CF sobre o recorde de escrituras públicas de doação de imóveis em 2025 ganhou repercussão nacional ao destacar o aumento da antecipação patrimonial e seus efeitos sobre o mercado notarial.",
+      "data_publicacao": "2026-07-23T17:40:33-03:00",
+      "url": "https://www.notariado.org.br/recorde-de-doacoes-de-imoveis-repercute-na-imprensa-nacional/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Revista do Notariado Brasileiro lança 3ª edição com foco em justiça preventiva e segurança jurídica",
+      "descricao": "A nova edição da Revista do Notariado Brasileiro reúne análises sobre justiça preventiva, transformação digital, segurança jurídica e o papel do notariado na solução consensual de conflitos e na desjudicialização.",
+      "data_publicacao": "2026-07-23T11:40:59-03:00",
+      "url": "https://www.notariado.org.br/revista-do-notariado-brasileiro-lanca-sua-3a-edicao-com-foco-em-justica-preventiva-seguranca-juridica-e-protagonismo-internacional/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

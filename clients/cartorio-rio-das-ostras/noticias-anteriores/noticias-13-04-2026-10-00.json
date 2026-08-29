@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-04-13T10:00:15-03:00",
+  "noticias": [
+    {
+      "titulo": "Com lançamento do \"Rio das Ostras Digital\", Município moderniza gestão",
+      "descricao": "Rio das Ostras lançou a plataforma Rio das Ostras Digital para ampliar o acesso online a serviços públicos, com agendamentos, tributos, matrículas e outras rotinas em ambiente mais integrado e acessível para os moradores.",
+      "data_publicacao": "2026-04-10T14:55:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/com-lancamento-do-rio-das-ostras-digital-municipio-moderniza-gestao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Casa de Cultura Bento Costa Júnior recebe visita de alunos da Rede Municipal",
+      "descricao": "Alunos do 7º ano da rede municipal participaram de visita guiada à Casa de Cultura Bento Costa Júnior e ao Museu de Sítio Arqueológico Sambaqui da Tarioba, em atividade voltada à valorização da história local e do patrimônio cultural de Rio das Ostras.",
+      "data_publicacao": "2026-04-09T16:29:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/casa-de-cultura-bento-costa-junior-recebe-visita-de-alunos-da-rede-municipal/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Fundação de Cultura promove Curso de Costura Criativa & Moda Sustentável",
+      "descricao": "A Fundação Rio das Ostras de Cultura abriu curso gratuito de costura criativa e moda sustentável com foco em reaproveitamento têxtil, capacitação prática e geração de renda para os participantes.",
+      "data_publicacao": "2026-04-09T15:02:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/fundacao-de-cultura-promove-curso-de-costura-criativa-moda-sustentavel/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Governo do Estado inaugura primeira exposição temporária do novo MIS Copacabana",
+      "descricao": "O Governo do Estado do Rio de Janeiro inaugurou a exposição temporária que marca o início da abertura gradual do novo MIS Copacabana, com foco em arquitetura, memória e integração do equipamento à rotina cultural da capital.",
+      "data_publicacao": "2026-04-10T12:15:53-03:00",
+      "url": "https://cultura.rj.gov.br/mis-copacabana-exposicao-inauguracao/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Alunos da Faetec Cidade de Deus visitam sede da Light e realizam aula prática do curso de Segurança e Saúde no Trabalho",
+      "descricao": "Estudantes da Faetec participaram de visita técnica à Light para observar rotinas de segurança, gestão de riscos e procedimentos operacionais, aproximando a formação profissional da prática do setor elétrico no estado do Rio de Janeiro.",
+      "data_publicacao": "2026-04-10T13:11:00-03:00",
+      "url": "https://www.faetec.rj.gov.br/alunos-da-faetec-cidade-de-deus-visitam-sede-da-light-e-realizam-aula-pratica-do-curso-de-seguranca-e-saude-no-trabalho/",
+      "fonte": "FAETEC"
+    },
+    {
+      "titulo": "STJ debate se SPE com patrimônio de afetação pode pedir RJ para dívidas gerais",
+      "descricao": "A ConJur destacou julgamento em que o STJ discute se sociedades de propósito específico com patrimônio de afetação podem integrar recuperação judicial para reestruturar dívidas gerais, tema relevante para o mercado imobiliário e registral.",
+      "data_publicacao": "2026-04-12T09:41:24-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-12/stj-debate-se-spe-com-patrimonio-de-afetacao-pode-pedir-rj-para-dividas-gerais/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Juiz nega indenização contra vizinha por infiltração em casa",
+      "descricao": "A ConJur noticiou decisão que rejeitou pedido de indenização por infiltrações em imóvel após perícia concluir que os danos tinham origem estrutural e ligação com fatores climáticos, e não com a rede de esgoto da residência vizinha.",
+      "data_publicacao": "2026-04-11T17:59:12-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-11/juiz-nega-indenizacao-contra-vizinha-por-infiltracao-em-casa/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Print de sistema do Fisco serve para provar parcelamento e interromper prescrição",
+      "descricao": "Segundo a ConJur, o STJ reconheceu que telas e extratos de sistema eletrônico do Fisco podem funcionar como prova digital válida para demonstrar parcelamento tributário e interromper a prescrição da cobrança.",
+      "data_publicacao": "2026-04-11T15:50:50-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-11/print-de-sistema-do-fisco-serve-para-provar-parcelamento-e-interromper-prescricao/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Portaria nº 25 do CNJ determina inspeção para verificação do funcionamento de serventias extrajudiciais do Estado do Rio de Janeiro",
+      "descricao": "O Colégio Notarial do Brasil repercutiu a portaria do CNJ que determinou inspeção em setores do Tribunal de Justiça fluminense e nas serventias extrajudiciais do estado, com diligências previstas para maio.",
+      "data_publicacao": "2026-04-10T16:56:44-03:00",
+      "url": "https://www.notariado.org.br/portaria-no-25-do-cnj-determina-inspecao-para-verificacao-do-funcionamento-de-serventias-extrajudiciais-do-estado-do-rio-de-janeiro/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Campanha \"É rápido, é fácil, é no Cartório!\" destaca segurança e praticidade na autenticação de documentos e reconhecimento de assinaturas",
+      "descricao": "O Colégio Notarial do Brasil divulgou material informativo que orienta a população sobre autenticação de documentos e reconhecimento de firma, destacando validade jurídica, prevenção a fraudes e possibilidade de atendimento presencial e online.",
+      "data_publicacao": "2026-04-07T17:15:40-03:00",
+      "url": "https://www.notariado.org.br/campanha-e-rapido-e-facil-e-no-cartorio-destaca-seguranca-e-praticidade-na-autenticacao-de-documentos-e-reconhecimento-de-assinaturas/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Planejamento sucessório sem liquidez expõe famílias e empresas e seguro de vida ganha papel estratégico",
+      "descricao": "Em conteúdo reproduzido pelo Colégio Notarial do Brasil, a análise mostra como o seguro de vida pode reforçar o planejamento sucessório ao trazer liquidez, previsibilidade e suporte à continuidade patrimonial e empresarial.",
+      "data_publicacao": "2026-04-07T17:15:10-03:00",
+      "url": "https://www.notariado.org.br/planejamento-sucessorio-sem-liquidez-expoe-familias-e-empresas-e-seguro-de-vida-ganha-papel-estrategico-por-izabela-rucker-curi/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-08-04T10:01:01-03:00",
+  "noticias": [
+    {
+      "titulo": "Município reforça manutenção da sinalização viária",
+      "descricao": "A Prefeitura de Rio das Ostras iniciou nova etapa de manutenção da sinalização horizontal e vertical em diferentes regiões da cidade, com foco em organização do trânsito e melhoria da segurança viária.",
+      "data_publicacao": "2026-08-04T08:43:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-reforca-manutencao-da-sinalizacao-viaria-em-diferentes-regioes-da-cidade/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Projeto Bem-Estar Animal Sobre Rodas chega à Cidade Praiana nesta terça, 4",
+      "descricao": "O serviço itinerante da Coordenadoria de Saúde Animal atenderá moradores da Cidade Praiana em Rio das Ostras com ações voltadas ao cuidado e orientação sobre bem-estar animal.",
+      "data_publicacao": "2026-08-03T14:37:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/projeto-bem-estar-animal-sobre-rodas-chega-a-cidade-praiana-nesta-semana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Audiências do POP chegam ao Nova Esperança nesta quarta, 5",
+      "descricao": "A Prefeitura de Rio das Ostras e o Conselho Municipal de Planejamento e Orçamento Participativo promoverão nova audiência pública do POP 2026 no setor Nova Esperança para ouvir demandas da população.",
+      "data_publicacao": "2026-08-03T12:06:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/audiencias-do-pop-chegam-ao-nova-esperanca-nesta-quarta-feira-5/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Governo do Estado abre inscrições para edital Feiras Regionais de Artesanato",
+      "descricao": "O Governo do Rio de Janeiro abriu inscrições para edital que selecionará organização responsável pela produção de feiras regionais de artesanato em 44 municípios fluminenses entre 2026 e 2027.",
+      "data_publicacao": "2026-07-28T11:00:22-03:00",
+      "url": "http://cultura.rj.gov.br/governo-rj-edital-feiras-regionais-artesanato-rj/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Biblioteca Parque Estadual inaugura exposição em homenagem à cultura dos Bate-Bolas",
+      "descricao": "A Biblioteca Parque Estadual abriu mostra gratuita com fantasias, fotografias e registros audiovisuais que valorizam a tradição dos bate-bolas como patrimônio cultural do Rio de Janeiro.",
+      "data_publicacao": "2026-07-21T17:57:50-03:00",
+      "url": "http://cultura.rj.gov.br/biblioteca-parque-estadual-inaugura-exposicao-em-homenagem-a-cultura-dos-bate-bolas/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "CNJ libera assinatura digital em cartório para transferir veículo",
+      "descricao": "Decisão do CNJ voltou a permitir o uso de assinatura digital em cartório na ATPV-e, abrindo caminho para transferências de veículos com tramitação mais simples e totalmente digital em situações específicas.",
+      "data_publicacao": "2026-07-30T16:52:59-03:00",
+      "url": "https://conjur.com.br/2026-jul-30/cnj-libera-assinatura-digital-em-cartorio-para-transferencia-de-veiculos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ libera alienação fiduciária em contrato sem escritura pública",
+      "descricao": "O CNJ dispensou a escritura pública para formalização da cláusula de alienação fiduciária em determinados contratos imobiliários, mantendo a necessidade de registro para produção de efeitos legais.",
+      "data_publicacao": "2026-07-27T12:46:11-03:00",
+      "url": "https://conjur.com.br/2026-jul-27/cnj-libera-alienacao-fiduciaria-em-contrato-sem-escritura-publica/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Registro de bebê de reprodução assistida exige laudo da clínica",
+      "descricao": "A Corregedoria Nacional de Justiça manteve a exigência de declaração da clínica especializada para o registro civil de crianças geradas por reprodução assistida, preservando a segurança documental do ato.",
+      "data_publicacao": "2026-07-20T12:40:58-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-20/cnj-mantem-exigencia-de-declaracao-de-clinica-para-registro-de-bebe-gerado-por-reproducao-assistida/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Uso de serviços digitais de Registro de Imóveis cresce quase 20% no Rio no primeiro semestre de 2026",
+      "descricao": "Levantamento repercutido pelo Colégio Notarial do Brasil mostra avanço das solicitações eletrônicas de Registro de Imóveis no Rio, indicando maior adesão aos serviços digitais do setor.",
+      "data_publicacao": "2026-07-31T15:40:17-03:00",
+      "url": "https://www.notariado.org.br/uso-de-servicos-digitais-de-registro-de-imoveis-cresce-quase-20-no-rio-no-primeiro-semestre-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Projeto permite coletar depoimento de testemunha em cartório",
+      "descricao": "O Colégio Notarial do Brasil destacou projeto de lei que autoriza a coleta de depoimentos de testemunhas em cartório em causas sobre direitos disponíveis, ampliando alternativas extrajudiciais de formalização.",
+      "data_publicacao": "2026-07-27T16:44:38-03:00",
+      "url": "https://www.notariado.org.br/projeto-permite-coletar-depoimento-de-testemunha-em-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça reafirma aplicação da competência territorial do e-Notariado aos atos notariais híbridos",
+      "descricao": "A Corregedoria Nacional reafirmou que atos híbridos realizados com apoio do e-Notariado seguem as regras de competência territorial dos atos eletrônicos, dando mais previsibilidade à prática notarial.",
+      "data_publicacao": "2026-07-24T15:50:16-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-reafirma-aplicacao-da-competencia-territorial-do-e-notariado-aos-atos-notariais-hibridos/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

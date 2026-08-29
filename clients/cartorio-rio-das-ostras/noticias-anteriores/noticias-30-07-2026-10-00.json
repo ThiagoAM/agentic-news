@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-30T10:00:57-03:00",
+  "noticias": [
+    {
+      "titulo": "Fundação de Cultura promove roda de conversa no Teatro",
+      "descricao": "A Fundação Rio das Ostras de Cultura realiza uma roda de conversa no Teatro Municipal Joel Barcellos para orientar interessados no edital de facilitadores de processos criativos. O encontro foi organizado para esclarecer dúvidas e ajudar os participantes a fazerem a inscrição corretamente.",
+      "data_publicacao": "2026-07-29T16:31:25-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/roda-de-conversa-sobre-edital-para-facilitadores-acontece-nesta-quinta-dia-30/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Atleta de Rio das Ostras conquista vice-campeonato de Cross Country",
+      "descricao": "A atleta Alícia Gomes levou Rio das Ostras ao pódio do Campeonato Brasileiro de Cross Country Olímpico 2026 na categoria infanto-juvenil. O resultado destaca o desempenho do esporte local em uma competição nacional de alto nível técnico.",
+      "data_publicacao": "2026-07-29T15:38:20-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/atleta-de-rio-das-ostras-conquista-vice-campeonato-brasileiro-de-cross-country/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município investe em qualificação profissional",
+      "descricao": "A Prefeitura de Rio das Ostras, em parceria com o SENAI/Firjan, iniciou um programa gratuito de capacitação profissional para moradores da cidade. A ação prevê 400 vagas em cursos voltados ao mercado de trabalho, distribuídas entre 2026 e 2027.",
+      "data_publicacao": "2026-07-29T12:31:08-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-investe-em-qualificacao-profissional-em-parceria-com-o-senai-firjan/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Governo do Estado e TJ firmam parceria para ampliar ações culturais no Rio de Janeiro",
+      "descricao": "A Secretaria de Estado de Cultura e Economia Criativa e o Tribunal de Justiça firmaram um protocolo de intenções para desenvolver, apoiar e ampliar projetos culturais no Rio de Janeiro. A cooperação prevê ações conjuntas voltadas às artes e ao patrimônio cultural.",
+      "data_publicacao": "2026-07-28T15:49:15-03:00",
+      "url": "http://cultura.rj.gov.br/governo-do-estado-e-tj-firmam-parceria-para-ampliar-acoes-culturais-no-rio-de-janeiro/",
+      "fonte": "Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro"
+    },
+    {
+      "titulo": "Governo do Estado abre inscrições para edital Feiras Regionais de Artesanato",
+      "descricao": "O Governo do Estado abriu edital para selecionar uma organização responsável por produzir feiras regionais de artesanato em 44 municípios fluminenses. A iniciativa busca fortalecer a economia criativa com eventos previstos entre outubro de 2026 e janeiro de 2027.",
+      "data_publicacao": "2026-07-28T11:00:22-03:00",
+      "url": "http://cultura.rj.gov.br/governo-rj-edital-feiras-regionais-artesanato-rj/",
+      "fonte": "Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro"
+    },
+    {
+      "titulo": "CNJ libera alienação fiduciária em contrato sem escritura pública",
+      "descricao": "A ConJur destacou decisão do CNJ que afastou a exigência de escritura pública para determinada operação de alienação fiduciária. O entendimento mantém a necessidade de registro imobiliário e tem impacto prático na formalização de negócios com garantia real.",
+      "data_publicacao": "2026-07-27T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-jul-27/cnj-libera-alienacao-fiduciaria-em-contrato-sem-escritura-publica/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Registro de bebê de reprodução assistida exige laudo da clínica",
+      "descricao": "Segundo a ConJur, o CNJ manteve a exigência de declaração da clínica para o registro civil de bebê gerado por reprodução assistida. A decisão reforça os critérios documentais aplicáveis aos cartórios nesse tipo de procedimento.",
+      "data_publicacao": "2026-07-20T00:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-20/cnj-mantem-exigencia-de-declaracao-de-clinica-para-registro-de-bebe-gerado-por-reproducao-assistida/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Partilha com herdeiro menor reacende debate sobre limites da desjudicialização do inventário",
+      "descricao": "Artigo publicado pela ConJur analisa os limites da desjudicialização do inventário quando há herdeiro menor ou incapaz. O texto discute os reflexos da mudança para a regularização patrimonial e para a atuação dos cartórios em escrituras de inventário e partilha.",
+      "data_publicacao": "2026-07-11T00:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-11/partilha-com-herdeiro-menor-ou-incapaz-limites-da-desjudicializacao-do-inventario/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Projeto permite coletar depoimento de testemunha em cartório",
+      "descricao": "O Colégio Notarial do Brasil repercutiu projeto de lei que autoriza a coleta de depoimento de testemunha em cartório para processos sobre direitos disponíveis. A proposta amplia o uso de atas notariais como instrumento de prova em demandas judiciais e administrativas.",
+      "data_publicacao": "2026-07-27T16:44:38-03:00",
+      "url": "https://www.notariado.org.br/projeto-permite-coletar-depoimento-de-testemunha-em-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça reafirma aplicação da competência territorial do e-Notariado aos atos notariais híbridos",
+      "descricao": "A Corregedoria Nacional reafirmou que atos híbridos com assinatura a distância pelo e-Notariado seguem as mesmas regras de competência territorial dos atos eletrônicos. O entendimento reforça a segurança jurídica para escrituras e outros atos notariais com participação remota.",
+      "data_publicacao": "2026-07-24T15:50:16-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-reafirma-aplicacao-da-competencia-territorial-do-e-notariado-aos-atos-notariais-hibridos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Revista do Notariado Brasileiro lança sua 3ª edição com foco em Justiça preventiva, segurança jurídica e protagonismo internacional",
+      "descricao": "O CNB lançou a terceira edição da Revista do Notariado Brasileiro com reportagens e análises sobre justiça preventiva, inovação e cooperação internacional. A publicação reúne conteúdos voltados a profissionais do Direito e ao debate sobre o futuro da atividade notarial.",
+      "data_publicacao": "2026-07-23T11:40:59-03:00",
+      "url": "https://www.notariado.org.br/revista-do-notariado-brasileiro-lanca-sua-3a-edicao-com-foco-em-justica-preventiva-seguranca-juridica-e-protagonismo-internacional/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

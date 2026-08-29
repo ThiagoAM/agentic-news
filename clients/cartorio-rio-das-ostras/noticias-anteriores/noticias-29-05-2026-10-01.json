@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-29T10:01:37-03:00",
+  "noticias": [
+    {
+      "titulo": "Projeto Pró-Catadores avança para nova etapa",
+      "descricao": "A Prefeitura de Rio das Ostras anunciou o avanço do Projeto Pró-Catadores para uma nova etapa, com foco no fortalecimento da coleta seletiva, na inclusão produtiva e na melhoria da estrutura de trabalho dos catadores do município.",
+      "data_publicacao": "2026-05-29T09:57:34-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/projeto-pro-catadores-avanca-para-nova-etapa/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Associação Jubarte completa 22 anos",
+      "descricao": "A Associação Jubarte celebrou 22 anos de atuação em Rio das Ostras, destacando a valorização do artesanato local e a continuidade de iniciativas que fortalecem a economia criativa e a identidade cultural da cidade.",
+      "data_publicacao": "2026-05-28T14:47:05-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/jubarte-associacao-dos-artesaos-de-rio-das-ostras-completa-22-anos/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Modernização digital facilita serviços imobiliários",
+      "descricao": "Rio das Ostras divulgou medidas de modernização digital para facilitar serviços imobiliários, com processos mais ágeis e melhor acesso a informações, em movimento que beneficia cidadãos e atividades ligadas à documentação de imóveis.",
+      "data_publicacao": "2026-05-28T10:42:01-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/modernizacao-digital-facilita-servicos-imobiliarios/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Praça Mauá recebe unidades móveis de saúde e educação do Sesc e Senac RJ",
+      "descricao": "A Praça Mauá e o Píer Mauá recebem unidades móveis do Sesc RJ e do Senac RJ com serviços e atividades gratuitas de saúde, educação e cultura, ampliando o acesso da população a ações formativas e de bem-estar no Rio de Janeiro.",
+      "data_publicacao": "2026-05-06T17:18:00-03:00",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/05/06/praca-maua-recebera-unidades-moveis-de-saude-e-educacao-do-sesc-e-senac-rj.ghtml",
+      "fonte": "g1"
+    },
+    {
+      "titulo": "Rio2C 2026: maior encontro de criatividade da América Latina começa no Rio",
+      "descricao": "A edição 2026 do Rio2C começou na Cidade das Artes reunindo profissionais de audiovisual, música, tecnologia e inovação, reforçando o papel do Rio de Janeiro como polo de economia criativa e de conexões entre cultura e negócios.",
+      "data_publicacao": "2026-05-26T09:00:00-03:00",
+      "url": "https://diariodorio.com/rio2c-2026-maior-encontro-de-criatividade-da-america-latina-comeca-hoje-no-rio/",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Cartório aplica precedente do STJ e evita judicialização",
+      "descricao": "O ConJur destacou caso em que a aplicação de precedente do STJ no registro de imóveis permitiu resolver questão registral fora do Judiciário, reforçando a desjudicialização e a segurança jurídica em matéria imobiliária.",
+      "data_publicacao": "2026-05-20T15:17:09-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-20/cartorio-aplica-precedente-do-stj-e-evita-judicializacao/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Honorários de sucumbência no processo de inventário",
+      "descricao": "Artigo publicado pelo ConJur analisa como honorários de sucumbência podem ser aplicados em conflitos específicos dentro do inventário, tema relevante para a condução de disputas sucessórias e organização patrimonial.",
+      "data_publicacao": "2026-05-23T17:22:45-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-23/honorarios-de-sucumbencia-no-processo-de-inventario/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Venda de imóvel de espólio com herdeira incapaz exige avaliação judicial",
+      "descricao": "O ConJur noticiou decisão que exige avaliação judicial prévia para a venda de imóvel de espólio com herdeira incapaz, reforçando cautelas legais para proteger patrimônio e assegurar segurança jurídica em inventários.",
+      "data_publicacao": "2026-05-14T10:41:00-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-14/venda-de-imovel-de-espolio-com-herdeira-incapaz-exige-avaliacao-judicial/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Cartórios do Rio já somam quase 2,8 mil manifestações de doação de órgãos",
+      "descricao": "O Colégio Notarial do Brasil informou que os cartórios do Rio de Janeiro já registram quase 2,8 mil manifestações de doação de órgãos, evidenciando a adesão à plataforma digital e a ampliação do alcance desse serviço notarial.",
+      "data_publicacao": "2026-05-21T15:57:52-03:00",
+      "url": "https://www.notariado.org.br/cartorios-do-rio-ja-somam-quase-28-mil-manifestacoes-de-doacao-de-orgaos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Senado celebra dois anos da AEDO e destaca o papel do Notariado Brasileiro na doação de órgãos",
+      "descricao": "Sessão solene no Senado celebrou os dois anos da Autorização Eletrônica de Doação de Órgãos e destacou a contribuição do notariado para ampliar segurança jurídica e acesso digital nesse tipo de manifestação de vontade.",
+      "data_publicacao": "2026-05-19T16:09:34-03:00",
+      "url": "https://www.notariado.org.br/sessao-solene-no-senado-celebra-2-anos-da-aedo-e-destaca-papel-do-notariado-brasileiro-na-doacao-de-orgaos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "e-Notariado passa a exigir prova de vida em todas as assinaturas digitais a partir de 1º de junho",
+      "descricao": "O CNB informou que o e-Notariado passará a exigir prova de vida em todas as assinaturas digitais, acrescentando uma camada de verificação para reforçar a prevenção a fraudes e a segurança dos atos eletrônicos.",
+      "data_publicacao": "2026-05-11T18:31:51-03:00",
+      "url": "https://www.notariado.org.br/e-notariado-passa-a-exigir-prova-de-vida-em-todas-as-assinaturas-digitais-a-partir-de-1o-de-junho/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

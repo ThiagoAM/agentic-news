@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-21T14:22:54-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras lança novo Jornal Oficial com foco em modernização e acessibilidade",
+      "descricao": "A Prefeitura de Rio das Ostras colocou no ar uma versão reformulada do Jornal Oficial, com navegação mais ágil, visual mais limpo e foco em ampliar a transparência e o acesso aos atos públicos municipais.",
+      "data_publicacao": "2026-05-21T12:27:01-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-lanca-novo-jornal-oficial-com-foco-em-modernizacao-e-acessibilidade/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Últimos dias para inscrição na Semana do MEI",
+      "descricao": "Rio das Ostras segue com inscrições abertas para a Semana do MEI, com oficinas gratuitas entre 26 e 28 de maio voltadas a empreendedorismo, gestão e fortalecimento de pequenos negócios locais.",
+      "data_publicacao": "2026-05-21T10:06:28-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/ultimos-dias-para-inscricao-na-semana-do-mei/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Audiência Pública da Saúde será dia 28",
+      "descricao": "A Prefeitura de Rio das Ostras marcou para o dia 28 de maio uma audiência pública da Saúde para apresentar informações do setor e ampliar o acompanhamento da população sobre ações e resultados da rede municipal.",
+      "data_publicacao": "2026-05-20T14:53:16-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/saude-promove-audiencia-publica-dia-28/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Mais de 240 mil cariocas saíram do desemprego em cinco anos, aponta Prefeitura do Rio",
+      "descricao": "Levantamento com base na Pnad Contínua aponta que 241,5 mil pessoas deixaram o desemprego na capital fluminense em cinco anos, com redução também do contingente de trabalhadores em situação mais vulnerável.",
+      "data_publicacao": "2026-05-21T11:08:17-03:00",
+      "url": "https://temporealrj.com/desemprego-rio-queda-vulnerabilidade/",
+      "fonte": "Tempo Real"
+    },
+    {
+      "titulo": "Praça Zé do Caroço é revitalizada e vira área de lazer no Morro dos Macacos",
+      "descricao": "A revitalização da Praça Zé do Caroço transformou o espaço em nova área de convivência e lazer, com melhorias urbanas voltadas ao uso comunitário no Morro dos Macacos, na capital fluminense.",
+      "data_publicacao": "2026-05-16T19:43:34-03:00",
+      "url": "https://diariodorio.com/praca-ze-do-caroco-e-revitalizada-e-vira-area-de-lazer-no-morro-dos-macacos/",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Teimosinha na execução fiscal gera impacto desproporcional",
+      "descricao": "O ConJur destacou que o uso recorrente da ferramenta conhecida como teimosinha em execuções fiscais pode gerar bloqueios repetidos e um impacto desproporcional para empresas sem capacidade de reação imediata.",
+      "data_publicacao": "2026-05-16T09:47:29-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-16/teimosinha-na-execucao-fiscal-gera-impacto-desproporcional-a-empresas/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Mera possibilidade de inaptidão não exclui candidato de concurso",
+      "descricao": "Segundo o ConJur, o TJ-MG entendeu que a exclusão de um candidato foi genérica e não demonstrou limitação funcional atual, afastando a eliminação baseada apenas em hipótese futura de inaptidão.",
+      "data_publicacao": "2026-05-16T08:54:42-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-16/mera-possibilidade-de-inaptidao-futura-nao-exclui-candidato-de-concurso/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Renúncia a ação coletiva não anula dever de pagar honorários",
+      "descricao": "O ConJur informou que, para o TST, a renúncia ao valor buscado em ação coletiva é ato unilateral e não afasta o direito dos advogados ao recebimento de honorários sucumbenciais.",
+      "data_publicacao": "2026-05-16T07:52:44-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-16/renuncia-a-valor-de-acao-coletiva-nao-anula-dever-de-pagar-honorarios/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Cobrança de cotas condominiais pode prosseguir mesmo durante recuperação judicial, decide STJ",
+      "descricao": "O Colégio Notarial do Brasil repercutiu decisão do STJ segundo a qual débitos condominiais podem seguir em cobrança mesmo diante de recuperação judicial, por terem natureza extraconcursal.",
+      "data_publicacao": "2026-05-20T16:01:58-03:00",
+      "url": "https://www.notariado.org.br/cobranca-de-cotas-condominiais-pode-prosseguir-mesmo-durante-recuperacao-judicial-decide-stj/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Encerramento irregular da empresa, por si só, não autoriza desconsideração da personalidade jurídica, diz STJ",
+      "descricao": "O CNB destacou entendimento do STJ de que o encerramento irregular de empresa, isoladamente, não basta para desconsiderar a personalidade jurídica, exigindo prova efetiva de abuso ou desvio.",
+      "data_publicacao": "2026-05-20T16:01:35-03:00",
+      "url": "https://www.notariado.org.br/encerramento-irregular-da-empresa-por-si-so-nao-autoriza-desconsideracao-da-personalidade-juridica-diz-stj/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "PROVIMENTO N. 220, DE 22 DE ABRIL DE 2026",
+      "descricao": "O Colégio Notarial do Brasil publicou o Provimento nº 220 do CNJ, que dispõe sobre o procedimento administrativo para apuração de incapacidade permanente de delegatário de serviços notariais e de registro.",
+      "data_publicacao": "2026-04-23T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/provimento-n-220-de-22-de-abril-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

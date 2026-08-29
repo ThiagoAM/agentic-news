@@ -1,0 +1,34 @@
+{
+  "nome": "Cartório do 1º Ofício de Rio das Ostras",
+  "descricao": "Notícias locais de Rio das Ostras, do estado do Rio de Janeiro e do universo notarial e registral, exibidas no site do cartório.",
+  "idioma": "pt-BR",
+  "timezone": "America/Sao_Paulo",
+  "validacao": {
+    "minNoticias": 11,
+    "maxNoticias": 17,
+    "maxIdadeDias": 30
+  },
+  "busca": {
+    "prompt": "Busque as principais notícias recentes com prioridade máxima para notícias publicadas hoje sobre Rio das Ostras (RJ), o estado do Rio de Janeiro e cartórios; caso não haja notícias suficientes de hoje, busque notícias de ontem e, se ainda necessário, continue retrocedendo por data até atingir a quantidade mínima exigida. Traga no mínimo 11 e no máximo 17 notícias, garantindo pelo menos 3 notícias sobre Rio das Ostras, pelo menos 2 notícias sobre o estado do Rio de Janeiro, pelo menos 3 notícias jurídicas no Conjur e pelo menos 3 relacionadas ao Colégio Notarial do Brasil (CNB). Não inclua notícias sobre violência, acidentes, temas pesados, propagandas, assuntos polêmicos, politizados ou política, e também não inclua notícias de outros estados.",
+    "fontesSugeridas": [
+      { "nome": "Conjur", "url": "https://www.conjur.com.br/noticias/" },
+      { "nome": "Colégio Notarial do Brasil (CNB)", "url": "https://www.notariado.org.br/noticias/" }
+    ],
+    "exclusoes": [
+      "violência",
+      "acidentes",
+      "temas pesados",
+      "propagandas",
+      "assuntos polêmicos ou politizados",
+      "política",
+      "notícias de outros estados"
+    ]
+  },
+  "consumidores": [
+    {
+      "nome": "Site do cartório",
+      "url": "https://cartorioderiodasostras.com.br",
+      "repositorio": "https://github.com/ThiagoAM/1oficioriodasostras"
+    }
+  ]
+}

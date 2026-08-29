@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-05T10:01:43-03:00",
+  "noticias": [
+    {
+      "titulo": "Educação reforça importância da autodeclaração étnico-racial",
+      "descricao": "A Secretaria de Educação de Rio das Ostras destacou a autodeclaração étnico-racial como ferramenta para mapear com mais precisão a diversidade presente nas escolas e apoiar ações educacionais mais alinhadas à realidade da rede municipal.",
+      "data_publicacao": "2026-07-03T16:39:55-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/educacao-reforca-importancia-da-autodeclaracao-etnico-racial/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Educação promove Feira Eco-Ostras 2026 com foco em Mudanças Climáticas",
+      "descricao": "A Feira Eco-Ostras 2026 reúne trabalhos de estudantes da rede municipal e amplia o debate sobre mudanças climáticas, educação ambiental e produção de conhecimento dentro das escolas de Rio das Ostras.",
+      "data_publicacao": "2026-07-03T14:28:50-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/educacao-promove-feira-eco-ostras-2026-com-foco-em-mudancas-climaticas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cederj participa de Encontro Nacional da Universidade Aberta do Brasil",
+      "descricao": "O polo Cederj de Rio das Ostras participou do encontro nacional da UAB, reforçando a integração do município com iniciativas de ensino superior a distância e a troca de experiências sobre gestão e formação acadêmica.",
+      "data_publicacao": "2026-07-03T11:13:01-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/cederj-participa-de-encontro-nacional-da-universidade-aberta-do-brasil/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Programa de Cuidados Paliativos do Instituto Estadual do Cérebro servirá de modelo para o Ministério da Saúde replicar em outros estados",
+      "descricao": "O programa implantado no Instituto Estadual do Cérebro, no Rio de Janeiro, foi apresentado como referência técnica e deve contribuir com um grupo de trabalho nacional voltado à expansão de cuidados paliativos em outros estados.",
+      "data_publicacao": "2026-07-02T09:16:19-03:00",
+      "url": "https://www.rj.gov.br/saude/node/4089",
+      "fonte": "Secretaria de Estado de Saúde do Rio de Janeiro"
+    },
+    {
+      "titulo": "Novo ambulatório do Iecac amplia capacidade de atendimento para pacientes cardíacos no Estado",
+      "descricao": "O novo ambulatório do Instituto Estadual de Cardiologia Aloysio de Castro amplia a estrutura de acompanhamento pós-operatório e atendimento especializado, com capacidade para mais de mil consultas mensais a pacientes de diferentes regiões do estado.",
+      "data_publicacao": "2026-07-02T06:50:21-03:00",
+      "url": "https://www.rj.gov.br/saude/node/4085",
+      "fonte": "Secretaria de Estado de Saúde do Rio de Janeiro"
+    },
+    {
+      "titulo": "Acervo de execuções fiscais cai 40% em três anos com política do CNJ",
+      "descricao": "A ConJur destacou a redução do acervo de execuções fiscais nos últimos três anos, associada a medidas do CNJ voltadas à racionalização processual e ao aprimoramento da gestão do Judiciário.",
+      "data_publicacao": "2026-07-02T08:54:06-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-02/acervo-de-execucoes-fiscais-cai-40-em-tres-anos-com-politica-do-cnj/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Abdicar de herança em prol de beneficiário específico exige escritura pública",
+      "descricao": "Segundo decisão repercutida pela ConJur, a renúncia de herança em favor de pessoa determinada equivale a liberalidade com efeitos patrimoniais e, por isso, deve ser formalizada por escritura pública.",
+      "data_publicacao": "2026-06-20T08:23:58-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-20/abdicar-de-heranca-em-prol-de-beneficiario-especifico-exige-escritura-publica/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "CNJ mantém exigência para registro de criança gerada por reprodução assistida",
+      "descricao": "A ConJur noticiou decisão que preserva exigências documentais para o registro civil de criança gerada por reprodução assistida, mantendo parâmetros de segurança jurídica na formalização do ato.",
+      "data_publicacao": "2026-06-22T08:50:32-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-22/cnj-mantem-exigencia-para-registro-de-crianca-gerada-por-reproducao-assistida/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Semana da Qualidade mobiliza Cartórios de todo o País para participação no PQTA 2026",
+      "descricao": "O Colégio Notarial do Brasil divulgou a Semana da Qualidade PQTA 2026, iniciativa que busca ampliar o engajamento dos cartórios em práticas de melhoria contínua, gestão e qualificação dos serviços extrajudiciais.",
+      "data_publicacao": "2026-07-01T17:23:51-03:00",
+      "url": "https://www.notariado.org.br/semana-da-qualidade-mobiliza-cartorios-de-todo-o-pais-para-participacao-no-pqta-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça disponibiliza painel com relações gerais de vacâncias dos serviços extrajudiciais",
+      "descricao": "O CNB informou a disponibilização de um painel da Corregedoria Nacional de Justiça com as relações gerais de vacâncias dos serviços extrajudiciais, reforçando a transparência sobre serventias em todo o país.",
+      "data_publicacao": "2026-07-01T17:23:31-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-disponibiliza-painel-com-relacoes-gerais-de-vacancias-dos-servicos-extrajudiciais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Inventário extrajudicial e suspeita de sonegação: O que o STJ acaba de deixar claro",
+      "descricao": "O Colégio Notarial do Brasil repercutiu entendimento do STJ segundo o qual suspeitas de ocultação patrimonial devem ser tratadas por ação própria, preservando a segurança jurídica do inventário extrajudicial já encerrado.",
+      "data_publicacao": "2026-07-01T17:22:16-03:00",
+      "url": "https://www.notariado.org.br/inventario-extrajudicial-e-suspeita-de-sonegacao-o-que-o-stj-acaba-de-deixar-claro/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

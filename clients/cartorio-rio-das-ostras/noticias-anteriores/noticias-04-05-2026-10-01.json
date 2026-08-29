@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-04T10:01:54-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras alinha estratégias para novo Plano Municipal de Educação",
+      "descricao": "A Prefeitura de Rio das Ostras apresentou o plano de ação para elaborar o novo Plano Municipal de Educação 2026-2036, com participação de conselhos, representantes da rede e apoio técnico para orientar a construção do documento.",
+      "data_publicacao": "2026-04-30T14:43:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-alinha-estrategias-para-novo-plano-municipal-de-educacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Dia do Trabalhador terá Cavalgada em Rio das Ostras",
+      "descricao": "Rio das Ostras divulgou a programação da tradicional Cavalgada do Trabalhador, com concentração no Âncora, trajeto até Cantagalo e dois dias de atrações culturais para movimentar o feriado na cidade.",
+      "data_publicacao": "2026-04-29T15:32:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/cavalgada-do-trabalhador-movimento-o-feriado-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras promove a segunda edição do Bike Fest 2026",
+      "descricao": "O município anunciou a segunda edição do Bike Fest com percursos para atletas e iniciantes, programação cultural em Costazul e expectativa de reforço ao esporte, turismo e entretenimento local.",
+      "data_publicacao": "2026-04-28T16:06:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-promove-a-segunda-edicao-do-bike-fest-2026-neste-fim-de-semana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Festival LED abre inscrições para evento gratuito no Pier Mauá",
+      "descricao": "O Festival LED abriu inscrições para a edição de 2026 no Rio de Janeiro, com programação gratuita voltada a educação, ciência, tecnologia, saúde mental e projetos inovadores apresentados no Pier Mauá.",
+      "data_publicacao": "2026-04-30T15:36:54-03:00",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/04/30/festival-led-inscricoes-evento-gratuito.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "titulo": "Todo Mundo no Rio está garantido até 2028, diz prefeitura",
+      "descricao": "A Prefeitura do Rio informou a continuidade do projeto Todo Mundo no Rio até 2028, destacando o impacto econômico dos megashows em setores como hotelaria, gastronomia, transporte e comércio.",
+      "data_publicacao": "2026-05-03T09:11:44-03:00",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/todo-mundo-no-rio/noticia/2026/05/03/todo-mundo-no-rio-esta-garantido-ate-2028-diz-prefeitura.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "titulo": "Inventário extrajudicial dispensa a certidão negativa de débito",
+      "descricao": "O ConJur noticiou decisão do CNJ que afasta a exigência de certidão negativa de débito como condição para escritura pública de inventário e partilha extrajudicial, preservando a transparência sem bloquear o ato.",
+      "data_publicacao": "2026-04-30T07:52:23-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-30/inventario-extrajudicial-dispensa-a-certidao-negativa-de-debito/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Recibo de compra e venda é justo título para usucapião ordinária",
+      "descricao": "Segundo o ConJur, a 3ª Turma do STJ decidiu que o recibo de compra e venda de imóvel pode servir como justo título para usucapião ordinária quando houver elementos que demonstrem a intenção inequívoca de transferir a propriedade.",
+      "data_publicacao": "2026-04-29T13:51:15-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-29/recibo-de-compra-e-venda-e-justo-titulo-para-usucapiao-ordinaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Construtoras são condenadas por não lavrar escritura de imóvel quitado",
+      "descricao": "O ConJur informou decisão do TJ-MG que condenou construtoras e cooperativas por não entregar a escritura definitiva de imóvel quitado, com indenização por danos morais e restituição do ITBI ao comprador.",
+      "data_publicacao": "2026-04-18T17:59:29-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-18/construtoras-sao-condenadas-por-nao-lavrar-escritura-de-imovel-quitado/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ARTIGO - A assinatura eletrônica notarizada criada na reforma do Código Civil - Por: Ana Amelia Menna Barreto",
+      "descricao": "O Colégio Notarial do Brasil publicou artigo que debate a assinatura eletrônica notarizada prevista na reforma do Código Civil e seus possíveis efeitos sobre a prática dos atos notariais eletrônicos no país.",
+      "data_publicacao": "2026-04-29T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/artigo-a-assinatura-eletronica-notarizada-criada-na-reforma-do-codigo-civil-por-ana-amelia-menna-barreto/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "PROVIMENTO N. 220, DE 22 DE ABRIL DE 2026",
+      "descricao": "O Colégio Notarial do Brasil repercutiu o Provimento nº 220/2026, que trata do procedimento administrativo para apuração de incapacidade permanente de delegatários de serviços notariais e de registro.",
+      "data_publicacao": "2026-04-23T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/provimento-n-220-de-22-de-abril-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Quem não recebeu escritura de imóvel pode pedir indenização sem prazo, decide STJ",
+      "descricao": "O Colégio Notarial do Brasil destacou entendimento do STJ segundo o qual a pretensão de obter escritura definitiva de imóvel não se sujeita a prazo prescricional, mantendo relevância prática para a adjudicação compulsória e a regularização patrimonial.",
+      "data_publicacao": "2026-04-23T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/quem-nao-recebeu-escritura-de-imovel-pode-pedir-indenizacao-sem-prazo-decide-stj/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

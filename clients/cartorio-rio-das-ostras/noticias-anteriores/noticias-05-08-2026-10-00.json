@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-08-05T10:00:52-03:00",
+  "noticias": [
+    {
+      "titulo": "Procon de Rio das Ostras orienta consumidores para compras do Dia dos Pais",
+      "descricao": "O Procon de Rio das Ostras publicou um guia com dicas para compras mais seguras no Dia dos Pais, com foco em planejamento, prevenção a golpes e informação sobre direitos do consumidor.",
+      "data_publicacao": "2026-08-05T09:09:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/dia-dos-pais-confira-as-dicas-do-procon-de-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras fortalece setor agrícola com ações de capacitação",
+      "descricao": "A Prefeitura de Rio das Ostras intensificou iniciativas de capacitação técnica e planejamento para produtores rurais, com destaque para o desenvolvimento sustentável e para a estruturação do Circuito Rural de Cantagalo.",
+      "data_publicacao": "2026-08-05T09:06:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-de-rio-das-ostras-fortalece-setor-agricola-com-acoes-de-capacitacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura amplia a oferta de eletrocardiograma em Rio das Ostras",
+      "descricao": "A Unidade de Saúde da Família do Âncora passou a oferecer exames de eletrocardiograma e a nova sala deve ampliar o atendimento para cerca de 400 pacientes por mês, beneficiando também unidades vizinhas.",
+      "data_publicacao": "2026-08-04T12:40:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-amplia-a-oferta-de-eletrocardiograma/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Governo do Estado abre inscrições para edital Feiras Regionais de Artesanato",
+      "descricao": "O Governo do Rio de Janeiro abriu inscrições para selecionar a organização responsável pela produção das Feiras Regionais de Artesanato RJ em 44 municípios, com eventos previstos entre outubro de 2026 e janeiro de 2027.",
+      "data_publicacao": "2026-07-28T11:00:22-03:00",
+      "url": "https://cultura.rj.gov.br/governo-rj-edital-feiras-regionais-artesanato-rj/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "WASBE RIO 2026 transforma o Rio de Janeiro na capital da música para sopros e percussão",
+      "descricao": "A conferência internacional da WASBE levou ao Rio de Janeiro uma programação com concertos, workshops e encontros em espaços culturais do estado, reforçando o protagonismo fluminense na música de concerto.",
+      "data_publicacao": "2026-07-17T10:57:10-03:00",
+      "url": "https://cultura.rj.gov.br/wasbe-rio-2026-ocupa-equipamentos-do-governo-do-estado-do-rio-de-janeiro/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "CNJ libera assinatura digital em cartório para transferir veículo",
+      "descricao": "Decisão do CNJ voltou a permitir o uso de assinatura digital em cartório na ATPV-e, abrindo caminho para transferências de veículos com tramitação mais simples e totalmente digital em situações específicas.",
+      "data_publicacao": "2026-07-30T16:52:59-03:00",
+      "url": "https://conjur.com.br/2026-jul-30/cnj-libera-assinatura-digital-em-cartorio-para-transferencia-de-veiculos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ libera alienação fiduciária em contrato sem escritura pública",
+      "descricao": "O CNJ decidiu afastar a exigência de escritura pública para formalizar cláusula de alienação fiduciária em certos contratos imobiliários, mantendo o registro como etapa essencial para a produção de efeitos legais.",
+      "data_publicacao": "2026-07-27T12:46:11-03:00",
+      "url": "https://conjur.com.br/2026-jul-27/cnj-libera-alienacao-fiduciaria-em-contrato-sem-escritura-publica/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ mantém exigência de laudo da clínica para registro de bebê gerado por reprodução assistida",
+      "descricao": "A Corregedoria Nacional de Justiça manteve a exigência de declaração emitida por clínica especializada para o registro civil de crianças concebidas por reprodução assistida, destacando segurança documental e proteção da infância.",
+      "data_publicacao": "2026-07-20T12:40:58-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-20/cnj-mantem-exigencia-de-declaracao-de-clinica-para-registro-de-bebe-gerado-por-reproducao-assistida/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Uso de serviços digitais de Registro de Imóveis cresce quase 20% no Rio no primeiro semestre de 2026",
+      "descricao": "Levantamento repercutido pelo Colégio Notarial do Brasil mostra avanço das solicitações eletrônicas de Registro de Imóveis no Rio, com destaque para o crescimento da pesquisa prévia e da emissão de certidões digitais.",
+      "data_publicacao": "2026-07-31T15:40:17-03:00",
+      "url": "https://www.notariado.org.br/uso-de-servicos-digitais-de-registro-de-imoveis-cresce-quase-20-no-rio-no-primeiro-semestre-de-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Projeto permite coletar depoimento de testemunha em cartório",
+      "descricao": "O Colégio Notarial do Brasil destacou projeto de lei que autoriza a coleta de depoimentos de testemunhas em cartório, com gravação em áudio e vídeo e possível aproveitamento da ata como prova em processos.",
+      "data_publicacao": "2026-07-27T16:44:38-03:00",
+      "url": "https://www.notariado.org.br/projeto-permite-coletar-depoimento-de-testemunha-em-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Corregedoria Nacional reafirma competência territorial do e-Notariado em atos híbridos",
+      "descricao": "A Corregedoria Nacional de Justiça reafirmou que atos notariais híbridos realizados com apoio do e-Notariado seguem as mesmas regras de competência territorial aplicáveis aos atos eletrônicos.",
+      "data_publicacao": "2026-07-24T15:50:16-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-reafirma-aplicacao-da-competencia-territorial-do-e-notariado-aos-atos-notariais-hibridos/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

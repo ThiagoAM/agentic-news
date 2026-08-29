@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-19T10:00:54-03:00",
+  "noticias": [
+    {
+      "titulo": "Simplesmente Noivas reúne tendências do setor de casamentos em Rio das Ostras",
+      "descricao": "A 12ª edição do salão gratuito acontece nos dias 25 e 26 de julho na Pousada Latitude 22, com quase 70 expositores, desfiles e serviços voltados a casamentos e grandes celebrações na cidade.",
+      "data_publicacao": "2026-07-16T13:51:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/simplesmente-noivas-reune-tendencias-do-setor-de-casamentos-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Lagoa de Iriry será palco do Rio das Ostras Run 2026",
+      "descricao": "A prova marcada para 26 de julho terá corrida de 7 km e caminhada de 3 km, com foco em incentivar a prática esportiva, promover saúde e fortalecer a integração social no município.",
+      "data_publicacao": "2026-07-09T12:10:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/lagoa-de-iriry-sera-palco-do-rio-das-ostras-run/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Festival Gastronômico de Rio das Ostras prepara edição ampliada para 2026",
+      "descricao": "O evento na Lagoa de Iriry vai reunir cerca de 40 operações gastronômicas entre 30 de julho e 2 de agosto, com entrada gratuita e expectativa de impulsionar turismo, economia local e programação cultural.",
+      "data_publicacao": "2026-07-09T15:57:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/festival-gastronomico-de-rio-das-ostras-prepara-edicao-ampliada-para-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "JERJ tem etapas decisivas neste fim de semana",
+      "descricao": "Os Jogos Escolares do Rio de Janeiro realizam disputas estaduais de handebol, futsal e judô nos dias 18 e 19 de julho, definindo campeões e classificados para competições escolares nacionais.",
+      "data_publicacao": "2026-07-16T12:11:00-03:00",
+      "url": "https://www.rj.gov.br/esporte/jerj-tem-etapas-decisivas-fim-de-semana",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Você conhece o UTS? Saiba como funciona o torneio de tênis que acontece este mês no Rio",
+      "descricao": "O Maracanãzinho recebe entre 16 e 18 de julho a primeira etapa sul-americana do Ultimate Tennis Showdown, evento apoiado pela Lei Estadual de Incentivo ao Esporte e com grandes nomes do circuito.",
+      "data_publicacao": "2026-07-08T16:18:00-03:00",
+      "url": "https://www.rj.gov.br/esporte/conheca-torneio-de-tenis-uts-que-acontece-no-rio",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Partilha com herdeiro menor: limites da desjudicialização do inventário",
+      "descricao": "Artigo da ConJur analisa como a Resolução CNJ nº 571/2024 permite inventário por escritura pública em casos específicos com herdeiros vulneráveis, mantendo exigências de cautela, representação técnica e proteção patrimonial.",
+      "data_publicacao": "2026-07-11T00:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-11/partilha-com-herdeiro-menor-ou-incapaz-limites-da-desjudicializacao-do-inventario/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Partilha com divisão desigual de quinhões hereditários é válida",
+      "descricao": "O STJ admitiu partilha amigável com quinhões desiguais entre herdeiros maiores e capazes, desde que haja cessão de direitos e manifestação livre de vontade, sem exigir igualdade absoluta na divisão.",
+      "data_publicacao": "2026-07-07T00:00:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-07/e-possivel-partilha-amigavel-com-divisao-desigual-dos-quinhoes-hereditarios-decide-stj/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Abdicar de herança em prol de beneficiário específico exige escritura pública",
+      "descricao": "A ConJur repercutiu decisão que reforça que a chamada renúncia translativa de herança tem natureza de doação e precisa ser formalizada por escritura pública em cartório para produzir efeitos válidos.",
+      "data_publicacao": "2026-06-20T08:23:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-20/abdicar-de-heranca-em-prol-de-beneficiario-especifico-exige-escritura-publica/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça disponibiliza painel com relações gerais de vacâncias dos serviços extrajudiciais",
+      "descricao": "O CNB/RJ destacou o painel do CNJ que reúne e dá publicidade às listas de vacâncias das serventias extrajudiciais, facilitando o acompanhamento de relações provisórias e definitivas em todo o país.",
+      "data_publicacao": "2026-07-01T15:44:09-03:00",
+      "url": "https://cnbrj.org.br/corregedoria-nacional-de-justica-disponibiliza-painel-com-relacoes-gerais-de-vacancias-dos-servicos-extrajudiciais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Quarta Turma afasta usucapião familiar sobre parte de imóvel com área total superior a 250 m²",
+      "descricao": "O CNB/RJ repercutiu decisão unânime do STJ segundo a qual a usucapião familiar não pode recair sobre fração de imóvel urbano cuja área total ultrapasse 250 m², por se tratar de requisito objetivo da lei.",
+      "data_publicacao": "2026-07-01T15:38:00-03:00",
+      "url": "https://cnbrj.org.br/quarta-turma-afasta-usucapiao-familiar-sobre-parte-de-imovel-com-area-total-superior-a-250-m%C2%B2/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Semana da Qualidade mobiliza cartórios de todo o País para participação no PQTA 2026",
+      "descricao": "A mobilização nacional organizada pela ANOREG/BR com apoio das entidades estaduais busca ampliar a participação dos cartórios no Prêmio de Qualidade Total ANOREG e fortalecer a cultura de excelência nos serviços extrajudiciais.",
+      "data_publicacao": "2026-06-30T15:50:02-03:00",
+      "url": "https://cnbrj.org.br/semana-da-qualidade-mobiliza-cartorios-de-todo-o-pais-para-participacao-no-pqta-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

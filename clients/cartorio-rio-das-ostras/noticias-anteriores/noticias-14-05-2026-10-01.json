@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-14T10:01:38-03:00",
+  "noticias": [
+    {
+      "titulo": "Saúde qualifica profissionais para implante de contraceptivo",
+      "descricao": "Rio das Ostras iniciou uma capacitação de profissionais de saúde para implante de contraceptivo, reforçando as políticas públicas de atendimento e ampliando o cuidado preventivo no município.",
+      "data_publicacao": "2026-05-14T09:18:27-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/saude-qualifica-profissionais-para-implante-de-contraceptivo/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras abre inscrições gratuitas para a Semana do MEI",
+      "descricao": "A Prefeitura abriu inscrições gratuitas para a Semana do MEI, com programação voltada a orientação, capacitação e incentivo ao empreendedorismo local.",
+      "data_publicacao": "2026-05-14T08:52:45-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-abre-inscricoes-gratuitas-para-a-semana-do-mei/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras divulga novo edital para Programa Bolsa Atleta",
+      "descricao": "O município publicou novo edital do Bolsa Atleta com 64 vagas para apoio financeiro, buscando fortalecer o esporte de rendimento e apoiar atletas locais.",
+      "data_publicacao": "2026-05-13T16:12:21-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-divulga-novo-edital-para-programa-bolsa-atleta/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Maio Amarelo leva educação no trânsito a 120 alunos na Quinta da Boa Vista",
+      "descricao": "Uma ação educativa da campanha Maio Amarelo reuniu cerca de 120 alunos da rede municipal do Rio com atividades práticas e lúdicas sobre segurança viária e convivência no trânsito.",
+      "data_publicacao": "2026-05-13T18:34:28-03:00",
+      "url": "https://diariodorio.com/maio-amarelo-leva-educacao-no-transito-a-120-alunos-na-quinta-da-boa-vista",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Antigo anexo da Alerj vai virar centro cultural",
+      "descricao": "O Palácio 23 de Julho, no Centro do Rio, começou a ser preparado para receber espaços culturais e educacionais do TJRJ, com foco em revitalização urbana e ampliação do acesso público.",
+      "data_publicacao": "2026-05-11T14:28:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/05/amp/7248814-predio-historico-no-centro-palacio-23-de-julho-ganhara-espacos-destinados-a-cultura-e-educacao.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "TJ-MG autoriza Netflix a cobrar taxa por compartilhamento de senhas",
+      "descricao": "O ConJur destacou decisão que considerou válida a cobrança adicional da Netflix por compartilhamento de contas fora do mesmo núcleo doméstico, entendendo que a prática já estava prevista contratualmente.",
+      "data_publicacao": "2026-05-14T09:48:47-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-14/tj-mg-autoriza-netflix-a-cobrar-taxa-por-compartilhamento-de-senhas/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Dívida de condomínio não se submete à recuperação judicial, decide STJ",
+      "descricao": "Segundo notícia do ConJur, o STJ fixou entendimento de que dívida condominial é crédito extraconcursal e pode continuar sendo cobrada no juízo cível mesmo após pedido de recuperação judicial.",
+      "data_publicacao": "2026-05-14T08:54:55-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-14/divida-de-condominio-nao-se-submete-a-recuperacao-judicial-decide-stj/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Professor pode somar tempo de contribuição previdenciária em atividades diversas",
+      "descricao": "O ConJur noticiou decisão que admite somar períodos diversos de contribuição no cálculo previdenciário da aposentadoria de professor, ampliando a interpretação sobre o fator aplicado ao benefício.",
+      "data_publicacao": "2026-05-14T07:52:29-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-14/professor-pode-somar-tempo-de-contribuicao-em-atividades-diversas/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Cartórios do Brasil participam do 97º ENCOGE em Goiânia e destacam protagonismo da atividade extrajudicial",
+      "descricao": "O CNB informou a participação de cartórios e entidades do setor no 97º ENCOGE, com destaque para debates sobre digitalização, regularização fundiária e fortalecimento da atividade extrajudicial.",
+      "data_publicacao": "2026-05-13T15:41:39-03:00",
+      "url": "https://www.notariado.org.br/cartorios-do-brasil-participam-do-97o-encoge-em-goiania-e-destacam-protagonismo-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Novo Código de Normas da Corregedoria do Foro Extrajudicial paranaense é aprovado pelo TJPR",
+      "descricao": "Notícia do CNB relata a aprovação do novo Código de Normas do Foro Extrajudicial do Paraná, resultado de diálogo institucional entre corregedoria e entidades representativas do setor.",
+      "data_publicacao": "2026-05-13T15:41:23-03:00",
+      "url": "https://www.notariado.org.br/novo-codigo-de-normas-da-corregedoria-do-foro-extrajudicial-paranaense-e-aprovado-pelo-tjpr/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STJ No Seu Dia: podcast aborda homologação de atos estrangeiros e competência da Justiça brasileira em matéria sucessória",
+      "descricao": "O CNB repercutiu episódio do podcast do STJ sobre homologação de atos estrangeiros em sucessões, com foco nos limites da Justiça brasileira em inventário e partilha de bens no país.",
+      "data_publicacao": "2026-05-13T15:40:42-03:00",
+      "url": "https://www.notariado.org.br/stj-no-seu-dia-podcast-aborda-homologacao-de-atos-estrangeiros-e-competencia-da-justica-brasileira-em-materia-sucessoria/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-05-01T10:01:56-03:00",
+  "noticias": [
+    {
+      "titulo": "Município recebe nota máxima em Mostra Estadual de Saúde",
+      "descricao": "Rio das Ostras recebeu pontuação máxima na 6ª Mostra Estadual de Práticas de Saúde, com uma iniciativa do Programa Saúde na Escola que integrou equipes de atenção primária, escola e comunidade em ações de educação em saúde.",
+      "data_publicacao": "2026-04-28T15:11:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-recebe-nota-maxima-em-mostra-de-saude/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Ostrascycle é sucesso em Rio das Ostras",
+      "descricao": "A Prefeitura de Rio das Ostras destacou o saldo positivo do Ostrascycle 2026, que reuniu milhares de visitantes, fortaleceu a economia local e movimentou hotelaria, gastronomia, artesanato e comércio durante cinco dias de programação.",
+      "data_publicacao": "2026-04-20T17:06:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/ostrascycle-e-sucesso-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras conclui diagnóstico de plano de saneamento junto à população",
+      "descricao": "O município avançou na elaboração do Plano Municipal de Saneamento com reunião de consolidação do diagnóstico, reunindo poder público, técnicos e sociedade civil para discutir prioridades em água, esgoto, resíduos e drenagem.",
+      "data_publicacao": "2026-04-08T09:32:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-conclui-diagnostico-de-plano-de-saneamento-junto-a-populacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município é destaque em Encontro de Educação Digital",
+      "descricao": "Rio das Ostras participou de encontro nacional promovido pelo MEC sobre educação digital e inovação pedagógica, apresentando experiências da rede municipal e reforçando políticas públicas ligadas à cultura digital nas escolas.",
+      "data_publicacao": "2026-04-24T12:00:00-03:00",
+      "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/04/24/municipio-e-destaque-em-encontro-de-educacao-digital.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "titulo": "Nova Iguaçu inaugura primeiro Museu de Arqueologia e Etnologia do estado no Dia da Baixada",
+      "descricao": "Nova Iguaçu anunciou a abertura do primeiro Museu de Arqueologia e Etnologia do estado do Rio de Janeiro, ampliando a oferta cultural e valorizando o patrimônio histórico e educacional da Baixada Fluminense.",
+      "data_publicacao": "2026-04-29T18:06:00-03:00",
+      "url": "https://odia.ig.com.br/nova-iguacu/2026/04/7243439-nova-iguacu-inaugura-primeiro-museu-de-arqueologia-e-etnologia-do-estado-no-dia-da-baixada.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Festival LED abre inscrições para evento gratuito no Pier Mauá",
+      "descricao": "O Rio de Janeiro abriu inscrições para o Festival LED, evento gratuito voltado à educação que reunirá debates, palestras e apresentação de projetos inovadores, fortalecendo a agenda educacional e cultural da capital fluminense.",
+      "data_publicacao": "2026-04-30T15:36:00-03:00",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/04/30/festival-led-inscricoes-evento-gratuito.ghtml",
+      "fonte": "G1"
+    },
+    {
+      "titulo": "CNB/CF lança projeto “Seccionais em Ação” para fortalecer a integração institucional das seccionais estaduais",
+      "descricao": "O Colégio Notarial do Brasil lançou o projeto “Seccionais em Ação” para aproximar a entidade nacional das seccionais estaduais, alinhar prioridades e fortalecer ações conjuntas em defesa da atividade notarial.",
+      "data_publicacao": "2026-04-29T19:44:52-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-projeto-seccionais-em-acao-para-fortalecer-a-integracao-institucional-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Câmara aprova prazo de cinco anos para início de processo disciplinar contra profissional de cartório",
+      "descricao": "O CNB repercutiu a aprovação, na Câmara dos Deputados, de proposta que fixa prazo de cinco anos para o início de processos disciplinares contra notários e registradores, tema relevante para a previsibilidade do regime extrajudicial.",
+      "data_publicacao": "2026-04-29T16:31:45-03:00",
+      "url": "https://www.notariado.org.br/camara-aprova-prazo-de-cinco-anos-para-inicio-de-processo-disciplinar-contra-profissional-de-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ confirma não exigência de certidão negativa de débito para obter inventário em cartório",
+      "descricao": "Em notícia destacada pelo CNB, o CNJ reafirmou que a escritura pública de inventário e partilha extrajudicial não pode ser condicionada à apresentação de certidão negativa de débitos, preservando a simplicidade do procedimento em cartório.",
+      "data_publicacao": "2026-04-29T16:31:21-03:00",
+      "url": "https://www.notariado.org.br/cnj-confirma-nao-exigencia-de-certidao-negativa-de-debito-para-obter-inventario-em-cartorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Inventário extrajudicial dispensa a certidão negativa de débito",
+      "descricao": "O ConJur noticiou que a exigência de certidão negativa de débito para escritura pública de inventário e partilha extrajudicial foi afastada, reforçando a desburocratização e a segurança jurídica nos atos notariais.",
+      "data_publicacao": "2026-04-30T07:52:23-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-30/inventario-extrajudicial-dispensa-a-certidao-negativa-de-debito/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Recibo de compra e venda é justo título para usucapião ordinária",
+      "descricao": "Segundo o ConJur, decisão recente reconheceu que o recibo de compra e venda pode servir como justo título para usucapião ordinária, com impacto relevante para regularização imobiliária e segurança registral.",
+      "data_publicacao": "2026-04-29T13:51:15-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-29/recibo-de-compra-e-venda-e-justo-titulo-para-usucapiao-ordinaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Construtoras são condenadas por não lavrar escritura de imóvel quitado",
+      "descricao": "O ConJur informou que construtoras foram condenadas por não providenciar a escritura de imóvel já quitado, reforçando a importância da formalização adequada para garantir a transferência regular da propriedade.",
+      "data_publicacao": "2026-04-18T17:59:29-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-18/construtoras-sao-condenadas-por-nao-lavrar-escritura-de-imovel-quitado/",
+      "fonte": "ConJur"
+    }
+  ]
+}

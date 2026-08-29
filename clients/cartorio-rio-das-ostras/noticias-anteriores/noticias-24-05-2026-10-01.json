@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-24T10:01:45-03:00",
+  "noticias": [
+    {
+      "titulo": "Teatro e Biblioteca recebem visita de alunos macaenses",
+      "descricao": "O Teatro Municipal Joel Barcellos e a Biblioteca Pública Municipal Professora Íris Galvão receberam turmas da Educação Infantil de Macaé em uma atividade de integração cultural e incentivo à leitura com visita guiada pelos espaços.",
+      "data_publicacao": "2026-05-22T16:33:32-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/teatro-municipal-e-biblioteca-publica-recebem-a-visita-de-alunos-macaenses/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura realiza trabalho contínuo na Iluminação Pública",
+      "descricao": "A Prefeitura de Rio das Ostras informou que mantém ações diárias de manutenção e melhoria da iluminação pública em diversos bairros, com foco em atender demandas da população e reforçar a infraestrutura urbana.",
+      "data_publicacao": "2026-05-22T11:13:46-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-realiza-trabalho-continuo-de-manutencao-da-iluminacao-publica/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Projeto Bem-Estar Animal Sobre Rodas chega a Cantagalo na próxima semana",
+      "descricao": "O projeto itinerante de bem-estar animal vai atender a localidade de Cantagalo com castrações e orientações para tutores, ampliando o acesso a serviços veterinários e a ações de cuidado responsável no município.",
+      "data_publicacao": "2026-05-22T09:40:29-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/projeto-bem-estar-animal-sobre-rodas-chega-a-cantagalo-na-proxima-semana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Atividade econômica do Estado do Rio cresce 2,3% no primeiro trimestre do ano",
+      "descricao": "O Governo do Estado destacou que o indicador do Banco Central mostrou avanço de 2,3% da atividade econômica fluminense no primeiro trimestre, com desempenho acima da média do Sudeste e sinal positivo para a economia local.",
+      "data_publicacao": "2026-05-22T10:10:19-03:00",
+      "url": "https://www.rj.gov.br/noticias/atividade-economica-do-estado-do-rio-cresce-23-no-primeiro-trimestre-do-ano8474",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Professores da rede estadual terão formação inédita em Libras para fortalecer educação inclusiva",
+      "descricao": "A Fundação Cecierj vai oferecer curso gratuito de Libras com 600 vagas, incluindo reserva para docentes da rede estadual, em iniciativa voltada ao fortalecimento da educação inclusiva no Rio de Janeiro.",
+      "data_publicacao": "2026-05-21T10:33:59-03:00",
+      "url": "https://www.rj.gov.br/noticias/professores-da-rede-estadual-terao-formacao-inedita-em-libras-para-fortalecer-educacao-inclusiva2839",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Honorários sobre perícia de ofício devem ser divididos pelas partes",
+      "descricao": "O ConJur repercutiu decisão segundo a qual, em perícia determinada de ofício, os honorários periciais devem ser rateados entre as partes com base nas regras do CPC de 2015.",
+      "data_publicacao": "2026-05-24T08:54:23-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-24/honorarios-sobre-pericia-determinada-de-oficio-devem-ser-divididos-pelas-partes/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Análise do Tema 1.396 do STJ ultrapassa o Direito do Consumidor",
+      "descricao": "O ConJur destacou que o julgamento do Tema 1.396 pelo STJ, ao tratar da ausência de tentativa prévia de solução extrajudicial, pode produzir efeitos mais amplos sobre a litigiosidade e o acesso ao Judiciário.",
+      "data_publicacao": "2026-05-24T07:02:45-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-24/tema-1-396-e-a-crise-de-litigiosidade-stj-diante-de-uma-decisao-estrutural/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Negociação coletiva pode redefinir os limites da ADI 5.322",
+      "descricao": "O ConJur publicou análise sobre o papel da negociação coletiva na redefinição dos limites debatidos na ADI 5.322, com foco em previsibilidade e segurança nas relações entre empresas e trabalhadores.",
+      "data_publicacao": "2026-05-24T08:00:07-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-24/negociacao-coletiva-pode-redefinir-os-limites-da-adi-5-322/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Cartório aplica precedente do STJ e evita judicialização",
+      "descricao": "O Colégio Notarial do Brasil destacou caso em que um cartório utilizou precedente do STJ para resolver uma questão imobiliária na esfera extrajudicial, evitando a judicialização do conflito.",
+      "data_publicacao": "2026-05-21T16:02:56-03:00",
+      "url": "https://www.notariado.org.br/cartorio-aplica-precedente-do-stj-e-evita-judicializacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Fisco não pode cobrar ITBI antes de verificar atividade principal da empresa",
+      "descricao": "O CNB repercutiu entendimento de que a incidência de ITBI depende da verificação da atividade preponderante da empresa no período legal, sem cobrança antecipada do tributo pelo Fisco.",
+      "data_publicacao": "2026-05-21T16:00:25-03:00",
+      "url": "https://www.notariado.org.br/fisco-nao-pode-cobrar-itbi-antes-de-verificar-atividade-principal-da-empresa/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Pesquisas aplicadas ao Direito de Família serão apresentadas em webinário do CNJ desta quinta (21/5)",
+      "descricao": "O Colégio Notarial do Brasil divulgou webinário do CNJ voltado a pesquisas empíricas sobre Direito de Família, reunindo debates técnicos com temas relevantes para a atividade notarial e registral.",
+      "data_publicacao": "2026-05-21T15:58:20-03:00",
+      "url": "https://www.notariado.org.br/pesquisas-aplicadas-ao-direito-de-familia-serao-apresentadas-em-webinario-do-cnj-desta-quinta-21-5/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

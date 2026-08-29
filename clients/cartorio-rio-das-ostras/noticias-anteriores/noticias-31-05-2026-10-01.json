@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-05-31T10:01:53-03:00",
+  "noticias": [
+    {
+      "titulo": "Semana do MEI 2026 em Rio das Ostras destaca inteligência artificial e finanças",
+      "descricao": "A Semana do MEI 2026 começou em Rio das Ostras com oficinas sobre formação de preço, gestão financeira e uso prático de inteligência artificial. A programação busca fortalecer microempreendedores locais com capacitação aplicada ao dia a dia dos negócios.",
+      "data_publicacao": "2026-05-26T14:30:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/semana-do-mei-2026-em-rio-das-ostras-destaca-inteligencia-artificial-e-financas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Modernização digital facilita serviços imobiliários",
+      "descricao": "Rio das Ostras detalhou avanços de digitalização que reduziram atendimentos presenciais e agilizaram rotinas do setor imobiliário. A integração com cartórios automatiza a atualização cadastral após o registro da escritura e acelera procedimentos como IPTU e ITBI.",
+      "data_publicacao": "2026-05-28T10:42:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/modernizacao-digital-facilita-servicos-imobiliarios/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras lança novo Jornal Oficial com foco em modernização e acessibilidade",
+      "descricao": "A Prefeitura lançou um novo portal para o Jornal Oficial com navegação mais ágil, busca aprimorada e recursos de acessibilidade. A reformulação facilita a consulta de decretos, resoluções e edições históricas, reforçando a transparência dos atos públicos.",
+      "data_publicacao": "2026-05-21T12:27:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-lanca-novo-jornal-oficial-com-foco-em-modernizacao-e-acessibilidade/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras divulga novo edital para Programa Bolsa Atleta",
+      "descricao": "O município abriu novo edital do Programa Bolsa Atleta com 64 vagas para apoio financeiro a atletas de rendimento. A iniciativa prioriza mérito esportivo, potencial de desenvolvimento e representação institucional da cidade em competições.",
+      "data_publicacao": "2026-05-13T16:12:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-divulga-novo-edital-para-programa-bolsa-atleta/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio2C 2026 começa na Cidade das Artes; confira a programação",
+      "descricao": "O Rio2C 2026 começou na Cidade das Artes reunindo debates, workshops, rodadas de negócios e experiências sobre audiovisual, música, games, tecnologia e inovação. O encontro reforça o papel do Rio de Janeiro como polo da economia criativa.",
+      "data_publicacao": "2026-05-26T11:09:10-03:00",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/05/26/rio2c-2026-comeca-na-cidade-das-artes.ghtml",
+      "fonte": "g1"
+    },
+    {
+      "titulo": "Festival LED ocupa o Píer Mauá com programação gratuita voltada à educação e inovação",
+      "descricao": "O Festival LED levou ao Píer Mauá uma programação gratuita com palestras, oficinas e debates sobre educação, cultura e tecnologia. A iniciativa ampliou o acesso público a discussões sobre inovação pedagógica e formação no Rio de Janeiro.",
+      "data_publicacao": "2026-05-12T18:26:34-03:00",
+      "url": "https://diariodorio.com/festival-led-ocupa-o-pier-maua-com-programacao-gratuita-voltada-a-educacao-e-inovacao/",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Cartório aplica precedente do STJ e evita judicialização",
+      "descricao": "O ConJur destacou um caso em que a aplicação de precedente do STJ no registro de imóveis ajudou a resolver uma questão registral sem necessidade de ação judicial. O episódio reforça o papel dos cartórios na desjudicialização e na segurança jurídica imobiliária.",
+      "data_publicacao": "2026-05-20T15:17:09-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-20/cartorio-aplica-precedente-do-stj-e-evita-judicializacao/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Honorários de sucumbência no processo de inventário",
+      "descricao": "Artigo publicado pelo ConJur analisa a incidência de honorários de sucumbência em disputas específicas dentro do inventário. O tema é relevante para a organização patrimonial e para a condução jurídica de conflitos sucessórios.",
+      "data_publicacao": "2026-05-23T17:22:45-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-23/honorarios-de-sucumbencia-no-processo-de-inventario/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Venda de imóvel de espólio com herdeira incapaz exige avaliação judicial",
+      "descricao": "O ConJur noticiou decisão que exige avaliação judicial prévia para a venda de imóvel de espólio com herdeira incapaz. A medida destaca cautelas legais importantes para a proteção patrimonial e a segurança jurídica em inventários.",
+      "data_publicacao": "2026-05-14T10:41:09-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-14/venda-de-imovel-de-espolio-com-herdeira-incapaz-exige-avaliacao-judicial/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Cartórios do Rio já somam quase 2,8 mil manifestações de doação de órgãos",
+      "descricao": "O Colégio Notarial do Brasil informou que os cartórios do Rio de Janeiro já registram quase 2,8 mil manifestações digitais de doação de órgãos. O dado mostra a expansão do uso da AEDO e do atendimento notarial online no estado.",
+      "data_publicacao": "2026-05-21T15:57:52-03:00",
+      "url": "https://www.notariado.org.br/cartorios-do-rio-ja-somam-quase-28-mil-manifestacoes-de-doacao-de-orgaos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Sessão solene no Senado celebra 2 anos da AEDO e destaca papel do notariado brasileiro na doação de órgãos",
+      "descricao": "Uma sessão solene no Senado celebrou os dois anos da Autorização Eletrônica de Doação de Órgãos e ressaltou a contribuição dos cartórios de notas para ampliar segurança jurídica e acesso digital a esse tipo de manifestação de vontade.",
+      "data_publicacao": "2026-05-19T16:09:34-03:00",
+      "url": "https://www.notariado.org.br/sessao-solene-no-senado-celebra-2-anos-da-aedo-e-destaca-papel-do-notariado-brasileiro-na-doacao-de-orgaos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "e-Notariado passa a exigir prova de vida em todas as assinaturas digitais a partir de 1º de junho",
+      "descricao": "O CNB informou que o e-Notariado passará a exigir prova de vida em todas as assinaturas digitais, acrescentando uma camada biométrica de verificação. A mudança reforça a prevenção a fraudes e a segurança dos atos eletrônicos praticados em cartório.",
+      "data_publicacao": "2026-05-11T18:31:51-03:00",
+      "url": "https://www.notariado.org.br/e-notariado-passa-a-exigir-prova-de-vida-em-todas-as-assinaturas-digitais-a-partir-de-1o-de-junho/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

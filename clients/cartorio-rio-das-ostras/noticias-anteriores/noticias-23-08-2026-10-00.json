@@ -1,0 +1,103 @@
+{
+  "data-busca": "2026-08-23T10:00:34-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras acompanha avanços da indústria na Navalshore 2026",
+      "descricao": "Representantes de Rio das Ostras participaram da Navalshore 2026 para acompanhar tendências e novas demandas da indústria marítima e offshore.",
+      "data_publicacao": "2026-08-19T15:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-acompanha-novas-demandas-da-industria-naval-na-navalshore-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras participa do Seminário Agrega + Indústria",
+      "descricao": "O município participou de seminário dedicado ao fortalecimento do conteúdo local, à resiliência e ao desenvolvimento da indústria.",
+      "data_publicacao": "2026-08-04T15:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-participa-do-seminario-agrega-industria/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "CastraMóvel leva atendimento gratuito a cães e gatos em Rio das Ostras",
+      "descricao": "O projeto Bem-Estar Animal Sobre Rodas ofereceu atendimentos gratuitos para cães e gatos nos dias 18 e 19 de agosto.",
+      "data_publicacao": "2026-08-11T12:00:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/08/7291240-castramovel-levara-atendimento-gratuito-a-caes-e-gatos-em-rio-das-ostras.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Feira da Onda reúne novos talentos da arte em Rio das Ostras",
+      "descricao": "A Feira da Onda 2026 promoveu atividades artísticas gratuitas no Centro de Formação Artística e na Praça José Pereira Câmara.",
+      "data_publicacao": "2026-08-12T15:00:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/08/7289411-feira-da-onda-transforma-rio-das-ostras-em-palco-para-novos-talentos-da-arte.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Ações de saúde ampliam prevenção contra hanseníase e tuberculose em Rio das Ostras",
+      "descricao": "A rede municipal de saúde integrou as campanhas Agosto Roxo e de combate à tuberculose em atividades realizadas nas unidades durante o mês.",
+      "data_publicacao": "2026-08-15T12:00:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/08/7290306-agosto-roxo-e-combate-a-tuberculose-levam-acoes-as-unidades-de-saude.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Festival Rio Cello leva música a diferentes espaços do Rio de Janeiro",
+      "descricao": "O Festival Rio Cello apresentou uma programação musical em vários espaços da cidade do Rio de Janeiro ao longo de agosto.",
+      "data_publicacao": "2026-08-08T12:33:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/festival-rio-cello-leva-musica-a-varios-espacos-do-rio-de-janeiro",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Cristo Redentor prepara medidas para compensar impacto ambiental do turismo",
+      "descricao": "O complexo do Cristo Redentor prepara ações de compensação ambiental relacionadas à atividade turística no Rio de Janeiro.",
+      "data_publicacao": "2026-08-21T16:48:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/cristo-redentor-se-prepara-para-compensar-impacto-ambiental-do-turismo",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Exigência de escritura pública para alienação fiduciária fora do SFI",
+      "descricao": "Artigo analisa quando a alienação fiduciária fora do Sistema Financeiro Imobiliário exige escritura pública e destaca a necessidade de registro do contrato.",
+      "data_publicacao": "2026-08-07T10:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-07/exigencia-de-escritura-publica-para-alienacao-fiduciaria-fora-do-sfi/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ afasta exigência de certidão negativa em inventário extrajudicial",
+      "descricao": "Decisão do CNJ afastou a exigência de certidões negativas como condição para a realização de inventário extrajudicial em cartório.",
+      "data_publicacao": "2026-08-14T10:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-14/cnj-afasta-exigencia-de-certidao-negativa-no-inventario-extrajudicial/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ e Banco Central criam grupo para dar transparência à cessão de precatórios",
+      "descricao": "Grupo técnico vai propor a arquitetura de uma central nacional para integrar tribunais, serventias notariais e entidades registradoras.",
+      "data_publicacao": "2026-08-12T10:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-12/cnj-e-bc-criam-grupo-para-incrementar-transparencia-da-cessao-de-precatorios/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ e Banco Central lançam iniciativa para ampliar segurança nas transferências de precatórios",
+      "descricao": "A iniciativa busca integrar informações sobre titulares e transferências de créditos para reduzir fraudes, inconsistências e registros duplicados.",
+      "data_publicacao": "2026-08-11T10:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-11/cnj-e-bc-lancam-iniciativa-para-ampliar-seguranca-nas-transferencias-de-precatorios/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ dispensa pagamento prévio de ITCMD em inventário extrajudicial",
+      "descricao": "O CNJ decidiu que o recolhimento prévio do ITCMD não pode ser condição para a lavratura da escritura de inventário e partilha em cartório.",
+      "data_publicacao": "2026-08-20T10:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-dispensa-pagamento-previo-de-itcmd-em-inventario-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Nova política unifica normas de concursos estaduais para cartórios",
+      "descricao": "O Colégio Notarial do Brasil divulgou mudanças destinadas a uniformizar normas de concursos estaduais para ingresso na atividade cartorial.",
+      "data_publicacao": "2026-08-20T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/nova-politica-unifica-normas-de-concursos-estaduais-para-cartorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Notariado debate casos práticos e segurança jurídica no agronegócio",
+      "descricao": "Conteúdo do Colégio Notarial do Brasil apresenta aplicações extrajudiciais e aspectos de segurança jurídica ligados a negócios do agronegócio.",
+      "data_publicacao": "2026-08-20T14:00:00-03:00",
+      "url": "https://www.notariado.org.br/extrajudicial-no-agronegocio-casos-praticos-e-seguranca-juridica/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

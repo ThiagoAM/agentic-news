@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-04-03T10:00:19-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras Festival celebra 34 anos do município",
+      "descricao": "A Prefeitura de Rio das Ostras anunciou a programação do Rio das Ostras Festival, com shows entre 10 e 12 de abril e entrada gratuita, buscando fortalecer o turismo e a economia local na baixa temporada.",
+      "data_publicacao": "2026-03-20T09:24:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-festival-celebra-34-anos-do-municipio/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras é finalista do Prêmio Sebrae Prefeitura Empreendedora",
+      "descricao": "Projeto de Mentoria Artística para Artesanato com Identidade Cultural, da Fundação Rio das Ostras de Cultura, foi finalista do Prêmio Sebrae na categoria Turismo & Identidade Territorial, destacando o fortalecimento do artesanato local.",
+      "data_publicacao": "2026-03-25T13:11:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-e-finalista-do-premio-sebrae-prefeitura-empreendedora/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Fundação de Cultura lança chamada pública para agenda do Teatro Municipal",
+      "descricao": "A Fundação Rio das Ostras abriu chamada pública para ocupação do Teatro Municipal Joel Barcellos em 2026/2027, com agendamento online e seleção de projetos culturais.",
+      "data_publicacao": "2026-03-26T15:33:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/fundacao-de-cultura-lanca-chamada-publica-para-agendamento-do-teatro-municipal/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cantor de Cabo Frio se apresenta no Festival da Lula em Arraial do Cabo",
+      "descricao": "O jovem artista Luis Miguel foi anunciado como atração do Festival da Lula em Arraial do Cabo, com show marcado para o domingo e programação musical ao longo do feriado.",
+      "data_publicacao": "2026-04-02T16:05:34-03:00",
+      "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/04/02/cantor-de-cabo-frio-luis-miguel-se-apresenta-hoje-no-festival-da-lula-em-arraial-do-cabo.ghtml",
+      "fonte": "g1"
+    },
+    {
+      "titulo": "Ator criado em Búzios divide rotina entre cinema e projetos no teatro",
+      "descricao": "Reportagem do g1 conta a trajetória de Francisco Paz, criado em Búzios, que mantém atividades culturais na cidade e integra montagens teatrais no Rio de Janeiro durante abril.",
+      "data_publicacao": "2026-04-01T13:57:17-03:00",
+      "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/04/01/ator-criado-em-buzios-divide-rotina-entre-cinema-da-cidade-e-projetos-no-teatro.ghtml",
+      "fonte": "g1"
+    },
+    {
+      "titulo": "Devedor contumaz e o avanço de um Direito Tributário de exceção",
+      "descricao": "Artigo analisa a Portaria Conjunta RFB/PGFN nº 6/2026 e discute a consolidação de um modelo de fiscalização tributária por risco, com foco na figura do devedor contumaz.",
+      "data_publicacao": "2026-04-03T09:23:20-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-03/devedor-contumaz-e-o-avanco-de-um-direito-tributario-de-excecao/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Papel do cidadão na defesa do meio ambiente do trabalho",
+      "descricao": "Coluna destaca a proteção constitucional ao meio ambiente do trabalho e reforça a responsabilidade compartilhada entre poder público, empresas e sociedade para garantir condições dignas.",
+      "data_publicacao": "2026-04-03T08:00:07-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-03/papel-do-cidadao-na-defesa-do-meio-ambiente-do-trabalho/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Inteligência artificial não pode ser titular de direitos autorais",
+      "descricao": "Análise jurídica debate a autoria de obras geradas por IA e afirma que o ordenamento brasileiro mantém a titularidade vinculada à pessoa humana.",
+      "data_publicacao": "2026-04-03T06:34:39-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-03/inteligencia-artificial-nao-pode-ser-titular-de-direitos-autorais/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "CNB/CF seleciona quatro tabeliãs para representar o Brasil na UINL 2026",
+      "descricao": "O CNB/CF definiu as tabeliãs que representarão o notariado brasileiro na Universidade do Notariado Mundial 2026, em Roma, destacando o intercâmbio internacional da atividade.",
+      "data_publicacao": "2026-04-01T10:26:14-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-seleciona-quatro-tabelias-para-representar-o-brasil-na-universidade-do-notariado-mundial-2026-em-roma/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF lança Conta Notarial Remunerada e novo modelo de serviços",
+      "descricao": "O CNB/CF e o Banco Safra anunciaram novidades na Conta Notarial, incluindo módulo de rentabilidade e atualização da precificação para aprimorar a sustentabilidade do serviço.",
+      "data_publicacao": "2026-03-24T09:19:57-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-conta-notarial-remunerada-e-novo-modelo-de-prestacao-de-servicos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Provimento nº 219/2026 define regras para relação de cartórios vagos",
+      "descricao": "O CNJ publicou o Provimento nº 219/2026 com normas para formação, atualização e publicidade da lista de cartórios vagos, padronizando critérios e rotinas de envio de dados.",
+      "data_publicacao": "2026-03-23T22:55:19-03:00",
+      "url": "https://www.notariado.org.br/provimento-do-cnj-no-219-26-estabelece-regras-para-a-gestao-atualizacao-e-publicidade-da-relacao-de-cartorios-vagos/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

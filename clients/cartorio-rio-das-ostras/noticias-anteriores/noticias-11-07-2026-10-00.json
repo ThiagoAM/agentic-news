@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-11T10:00:53-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras fortalece economia local com nova Sala do Empreendedor",
+      "descricao": "A Prefeitura de Rio das Ostras inaugurou a Sala do Empreendedor no Centro de Cidadania para concentrar orientação, regularização e serviços que facilitem a abertura e o desenvolvimento de pequenos negócios no município.",
+      "data_publicacao": "2026-07-09T16:17:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-fortalece-economia-local-com-nova-sala-do-empreendedor/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Festival Gastronômico de Rio das Ostras prepara edição ampliada para 2026",
+      "descricao": "Rio das Ostras anunciou a segunda edição do Festival Gastronômico na Lagoa de Iriry, com programação entre 30 de julho e 2 de agosto para fortalecer turismo, cultura e negócios do setor de alimentação.",
+      "data_publicacao": "2026-07-09T15:57:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/festival-gastronomico-de-rio-das-ostras-prepara-edicao-ampliada-para-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Lagoa de Iriry será palco do Rio das Ostras Run",
+      "descricao": "A cidade divulgou a realização do Rio das Ostras Run 2026 na Lagoa de Iriry, com corrida e caminhada para incentivar a prática esportiva, a saúde e a integração social na região.",
+      "data_publicacao": "2026-07-09T12:10:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/lagoa-de-iriry-sera-palco-do-rio-das-ostras-run/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Mercedes Sosa: evento no Rio celebra legado da Voz da América Latina",
+      "descricao": "A capital fluminense recebe uma homenagem a Mercedes Sosa na Casa com a Música, na Lapa, com programação cultural aberta ao público e foco no intercâmbio entre artistas e migrantes latino-americanos.",
+      "data_publicacao": "2026-07-10T20:20:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/mercedes-sosa-evento-no-rio-celebra-legado-da-voz-da-america-latina",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Rio de Janeiro sedia encontro mundial de bandas sinfônicas em julho",
+      "descricao": "O Rio de Janeiro e Niterói vão receber a conferência da WASBE com dezenas de concertos e oficinas, ampliando a circulação cultural e a formação de músicos no estado.",
+      "data_publicacao": "2026-07-05T15:41:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/rio-de-janeiro-sedia-encontro-mundial-de-bandas-sinfonicas-em-julho",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "STF valida acumulação de atividades cartoriais de notas e de protesto",
+      "descricao": "A ConJur destacou decisão do STF que manteve a validade da acumulação de atribuições em serventia já existente, preservando a exigência de concurso público caso haja desmembramento futuro.",
+      "data_publicacao": "2026-07-09T20:56:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-09/stf-valida-acumulacao-de-atividades-cartoriais-de-notas-e-de-protesto/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Estado é responsável por erros decorrentes de dados desatualizados",
+      "descricao": "A ConJur repercutiu decisão que reconheceu a responsabilidade do Estado por falha administrativa em cadastro público, após a manutenção indevida de informação desatualizada em sistema oficial.",
+      "data_publicacao": "2026-07-09T08:23:56-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-09/estado-e-responsavel-por-erros-decorrentes-de-dados-desatualizados/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Previdência privada como ferramenta de planejamento sucessório",
+      "descricao": "A ConJur analisou o uso da previdência privada aberta no planejamento sucessório, com foco nos limites jurídicos e nos cuidados necessários para organização patrimonial das famílias.",
+      "data_publicacao": "2026-07-09T08:00:39-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-09/previdencia-privada-como-ferramenta-de-planejamento-sucessorio-ponderacoes-necessarias/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "É possível partilha amigável com divisão desigual dos quinhões hereditários, decide Terceira Turma",
+      "descricao": "O Colégio Notarial do Brasil destacou decisão do STJ que admite partilha amigável com quinhões desiguais entre herdeiros capazes, desde que haja consenso e cessão adequada de direitos.",
+      "data_publicacao": "2026-07-06T17:28:38-03:00",
+      "url": "https://www.notariado.org.br/e-possivel-partilha-amigavel-com-divisao-desigual-dos-quinhoes-hereditarios-decide-terceira-turma/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "É possível se separar sozinho? Entenda o novo tipo de divórcio previsto na reforma do Código Civil",
+      "descricao": "O Colégio Notarial do Brasil explicou os impactos da proposta de divórcio unilateral em cartório prevista na reforma do Código Civil e seus possíveis efeitos na desjudicialização.",
+      "data_publicacao": "2026-06-19T19:05:58-03:00",
+      "url": "https://www.notariado.org.br/e-possivel-se-separar-sozinho-entenda-o-novo-tipo-de-divorcio-previsto-na-reforma-do-codigo-civil/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Contratos de namoro disparam com busca por proteção patrimonial",
+      "descricao": "O Colégio Notarial do Brasil informou o avanço dos contratos de namoro como instrumento de segurança jurídica e proteção patrimonial entre casais que desejam organizar melhor suas relações.",
+      "data_publicacao": "2026-06-12T17:41:21-03:00",
+      "url": "https://www.notariado.org.br/contratos-de-namoro-disparam-com-busca-por-protecao-patrimonial/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

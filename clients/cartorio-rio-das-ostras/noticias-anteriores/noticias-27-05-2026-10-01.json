@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-05-27T10:01:34-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras abre 220 vagas para cursos gratuitos de informática",
+      "descricao": "A prefeitura abriu 220 vagas presenciais em cursos gratuitos de informática, com opções como Canva, ChatGPT, planilhas e serviços digitais, ampliando a qualificação profissional e o acesso da população a ferramentas de tecnologia.",
+      "data_publicacao": "2026-05-25T09:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-abre-220-vagas-para-cursos-gratuitos-de-informatica/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Semana do MEI 2026 em Rio das Ostras destaca inteligência artificial e finanças",
+      "descricao": "A Semana do MEI 2026 começou em Rio das Ostras com oficinas sobre precificação, finanças e uso prático de inteligência artificial, reunindo mais de 130 microempreendedores em ações de capacitação voltadas ao fortalecimento dos negócios locais.",
+      "data_publicacao": "2026-05-26T09:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/semana-do-mei-2026-em-rio-das-ostras-destaca-inteligencia-artificial-e-financas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Festival de Jazz & Blues é reconhecido como Patrimônio Cultural e Imaterial",
+      "descricao": "Rio das Ostras oficializou o Jazz & Blues Festival como Patrimônio Cultural e Imaterial do município, reforçando a relevância histórica, turística e econômica do evento para a cidade e para o calendário cultural local.",
+      "data_publicacao": "2026-05-25T09:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-reconhece-festival-de-jazz-blues-como-patrimonio-cultural-e-imaterial/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Atividade econômica do Estado do Rio cresce 2,3% no primeiro trimestre do ano",
+      "descricao": "O Governo do Estado destacou avanço de 2,3% da atividade econômica fluminense no primeiro trimestre, com desempenho acima da média do Sudeste e sinal positivo para a economia do Rio de Janeiro.",
+      "data_publicacao": "2026-05-22T10:10:19-03:00",
+      "url": "https://www.rj.gov.br/noticias/atividade-economica-do-estado-do-rio-cresce-23-no-primeiro-trimestre-do-ano8474",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Professores da rede estadual terão formação inédita em Libras para fortalecer educação inclusiva",
+      "descricao": "A Fundação Cecierj vai oferecer curso gratuito de Libras com 600 vagas, incluindo reserva para docentes da rede estadual, em iniciativa voltada ao fortalecimento da educação inclusiva no Rio de Janeiro.",
+      "data_publicacao": "2026-05-21T10:33:59-03:00",
+      "url": "https://www.rj.gov.br/noticias/professores-da-rede-estadual-terao-formacao-inedita-em-libras-para-fortalecer-educacao-inclusiva2839",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Cartório aplica precedente do STJ e evita judicialização",
+      "descricao": "O ConJur mostrou caso em que um registro de imóveis aplicou entendimento recente do STJ para cancelar alienação fiduciária e regularizar um imóvel sem ação judicial, destacando eficiência e segurança jurídica no âmbito extrajudicial.",
+      "data_publicacao": "2026-05-20T15:17:09-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-20/cartorio-aplica-precedente-do-stj-e-evita-judicializacao/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ autoriza quitação de honorários de sucumbência antes do pagamento ao credor",
+      "descricao": "A 3ª Turma do STJ admitiu, em situação excepcional, que honorários de sucumbência fossem levantados antes do pagamento do crédito principal, considerando a cobrança apartada e a longa inércia da credora original.",
+      "data_publicacao": "2026-05-25T15:52:00-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-25/stj-autoriza-quitacao-de-honorarios-de-sucumbencia-antes-do-pagamento-ao-credor/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Controvérsia sobre equidade e dribles no CPC transformam STJ em corte de honorários",
+      "descricao": "O ConJur analisou como disputas recorrentes sobre honorários de sucumbência e uso da equidade no CPC têm levado o STJ a julgar cada vez mais casos focados na remuneração da advocacia e na uniformização desses critérios.",
+      "data_publicacao": "2026-05-25T08:52:43-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-25/controversia-sobre-equidade-e-dribles-no-cpc-transformam-stj-em-corte-de-honorarios/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB/CF lança projeto “Seccionais em Ação” para fortalecer a integração institucional as Seccionais estaduais",
+      "descricao": "O Colégio Notarial do Brasil iniciou o projeto Seccionais em Ação para aproximar o conselho federal e as seccionais estaduais, fortalecendo coordenação institucional, articulação entre lideranças e integração da agenda do notariado em 2026.",
+      "data_publicacao": "2026-04-29T19:44:52-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-projeto-seccionais-em-acao-para-fortalecer-a-integracao-institucional-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "e-Notariado passa a exigir prova de vida em todas as assinaturas digitais a partir de 1º de junho",
+      "descricao": "O CNB informou que a plataforma e-Notariado passará a exigir prova de vida nas assinaturas digitais, acrescentando verificação biométrica para reforçar a prevenção a fraudes e a segurança jurídica dos atos eletrônicos.",
+      "data_publicacao": "2026-05-11T18:31:51-03:00",
+      "url": "https://www.notariado.org.br/e-notariado-passa-a-exigir-prova-de-vida-em-todas-as-assinaturas-digitais-a-partir-de-1o-de-junho/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Artigo analisa a assinatura eletrônica notarizada criada na reforma do Código Civil",
+      "descricao": "Texto publicado pelo CNB discute a inclusão da assinatura eletrônica notarizada no projeto de reforma do Código Civil e debate os efeitos dessa escolha sobre a validade e o uso de assinaturas digitais em atos notariais eletrônicos.",
+      "data_publicacao": "2026-04-29T16:32:41-03:00",
+      "url": "https://www.notariado.org.br/artigo-a-assinatura-eletronica-notarizada-criada-na-reforma-do-codigo-civil-por-ana-amelia-menna-barreto/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

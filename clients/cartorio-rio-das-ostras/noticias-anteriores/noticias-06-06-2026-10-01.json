@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-06-06T10:01:26-03:00",
+  "noticias": [
+    {
+      "titulo": "STJ suspende processos sobre aluguel de curta temporada para fixar tese vinculante",
+      "descricao": "O STJ decidiu suspender em todo o país os processos sobre aluguel de curta temporada em condomínios residenciais para julgar o tema em rito repetitivo. A definição deve consolidar o entendimento sobre quando esse tipo de locação pode ser permitido nas convenções condominiais.",
+      "data_publicacao": "2026-06-06T09:45:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-06/manchete-stj-suspende-processos-sobre-aluguel-de-curta-temporada-para-fixar-tese-vinculante/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Locação de espaço para coworking não atrai incidência de ISS",
+      "descricao": "A Justiça afastou a cobrança de ISS sobre a atividade de coworking ao entender que ela se caracteriza como locação de espaço físico, e não como prestação de serviço. A decisão reforça a distinção entre obrigação de dar e obrigação de fazer no campo tributário.",
+      "data_publicacao": "2026-06-06T07:45:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-06/cobranca-de-iss-sobre-atividade-de-coworking-e-indevida/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Consumidor lesado por empresa não tem de apresentar prova de fato negativo",
+      "descricao": "O ConJur destacou decisão que afastou a exigência de prova impossível ao consumidor em ação de reparação por danos materiais. O entendimento reconhece que cabe à empresa concessionária apresentar registros e elementos técnicos quando possui melhores condições de comprovar os fatos.",
+      "data_publicacao": "2026-06-05T19:45:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-05/consumidor-lesado-prova-fato-negativo/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB/CF disponibiliza materiais para orientar cidadãos sobre a prova de vida no e-Notariado",
+      "descricao": "O Colégio Notarial do Brasil lançou materiais explicativos para ajudar cartórios e usuários a entender a nova prova de vida facial do e-Notariado. A iniciativa busca reforçar a segurança dos atos eletrônicos e facilitar a comunicação com o público sobre o novo procedimento.",
+      "data_publicacao": "2026-06-05T16:18:06-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-disponibiliza-materiais-para-orientar-cidadaos-sobre-a-prova-de-vida-no-e-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "XXVII Congresso Notarial Brasileiro será realizado nos dias 3 e 4 de dezembro, em Recife (PE)",
+      "descricao": "O CNB/CF confirmou a realização do XXVII Congresso Notarial Brasileiro em dezembro, reunindo tabeliães, especialistas e lideranças do setor. O encontro deve debater inovação, tecnologia, segurança jurídica e a evolução dos serviços notariais no país.",
+      "data_publicacao": "2026-06-03T16:54:42-03:00",
+      "url": "https://www.notariado.org.br/xxvii-congresso-notarial-brasileiro-sera-realizado-nos-dias-3-e-4-de-dezembro-em-recife-pe/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "X Jornada de Direito Civil destaca contribuição do evento para a reforma do Código Civil",
+      "descricao": "Juristas ouvidos em notícia repercutida pelo CNB ressaltaram que a X Jornada de Direito Civil funciona como espaço qualificado de debate e pode influenciar a atualização do Código Civil. A expectativa é que os enunciados e discussões do encontro fortaleçam o aperfeiçoamento da legislação civil.",
+      "data_publicacao": "2026-06-02T16:05:25-03:00",
+      "url": "https://www.notariado.org.br/x-jornada-de-direito-civil-juristas-rosa-nery-e-flavio-tartuce-destacam-contribuicao-do-evento-para-a-reforma-do-codigo-civil/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Rio das Ostras celebra a reabertura do Píer do Emissário",
+      "descricao": "A Prefeitura de Rio das Ostras entregou a revitalização do Píer do Emissário, em Costazul, com novos guarda-corpos, iluminação, pintura e melhorias de mobilidade. A reabertura devolve à população um dos pontos mais simbólicos da orla com mais segurança, acessibilidade e conforto.",
+      "data_publicacao": "2026-06-04T14:45:18-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-celebra-a-reabertura-do-pier-do-emissario/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Casa de Cultura recebe exposição “Florestas”",
+      "descricao": "A Casa de Cultura Bento Costa Júnior abriu a exposição “Florestas”, do artista plástico Ehli Barbös, com obras criadas a partir de elementos naturais. A mostra convida o público a refletir sobre natureza, transformação e reaproveitamento de materiais orgânicos.",
+      "data_publicacao": "2026-06-03T14:48:46-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/casa-de-cultura-bento-costa-junior-recebe-exposicao-florestas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município recebe “Festival da Gente”",
+      "descricao": "Rio das Ostras receberá o projeto Festival da Gente com programação gratuita de dança, música, gastronomia e oficinas. A proposta destaca artistas locais, amplia o acesso à cultura e movimenta a economia criativa do município.",
+      "data_publicacao": "2026-06-03T10:56:03-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-recebe-o-projeto-festival-da-gente/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cultura movimenta Macaé com programação na serra e concerto especial no Centro",
+      "descricao": "Macaé divulgou uma agenda cultural gratuita com música, literatura, gastronomia, oficinas e artesanato em diferentes pontos do município. A programação valoriza artistas locais, amplia o acesso à cultura e ajuda a movimentar a economia criativa da região.",
+      "data_publicacao": "2026-06-03T16:37:00-03:00",
+      "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/cultura-movimenta-macae-com-programacao-na-serra-e-concerto-especial-no-centro",
+      "fonte": "Prefeitura de Macaé"
+    },
+    {
+      "titulo": "Educação que acolhe: CEMEAES comemora 27 anos com evento especial",
+      "descricao": "O CEMEAES de Macaé anunciou uma programação voltada à educação inclusiva para celebrar seus 27 anos de atuação. A iniciativa reúne estudantes, famílias e profissionais para dar visibilidade às práticas pedagógicas e aos recursos de acessibilidade desenvolvidos pela rede municipal.",
+      "data_publicacao": "2026-06-03T11:32:00-03:00",
+      "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/educacao-que-acolhe-cemeaes-comemora-27-anos-com-evento-especial",
+      "fonte": "Prefeitura de Macaé"
+    }
+  ]
+}

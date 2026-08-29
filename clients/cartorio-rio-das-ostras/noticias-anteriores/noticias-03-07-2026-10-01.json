@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-03T10:01:44-03:00",
+  "noticias": [
+    {
+      "titulo": "Procon celebra 14 anos de Defesa dos Direitos do Consumidor",
+      "descricao": "O Procon de Rio das Ostras celebrou 14 anos de atuação destacando o atendimento ao consumidor, a mediação de conflitos e a orientação sobre direitos nas relações de consumo no município.",
+      "data_publicacao": "2026-07-03T09:43:13-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/procon-celebra-14-anos-de-defesa-dos-direitos-do-consumidor/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras promove Feiras de Ciências na Rede Municipal",
+      "descricao": "As feiras de ciências da rede municipal reforçam a educação ambiental e valorizam projetos estudantis, funcionando também como vitrine para iniciativas ligadas ao Eco-Ostras e à divulgação científica local.",
+      "data_publicacao": "2026-07-02T15:25:26-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-promove-feiras-de-ciencias-na-rede-municipal/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Julho Amarelo conscientiza sobre Hepatites e oferece testes rápidos",
+      "descricao": "A campanha Julho Amarelo em Rio das Ostras mobiliza unidades de saúde e ações no Centro com foco em prevenção, orientação e oferta de testes rápidos para ampliar o diagnóstico precoce das hepatites virais.",
+      "data_publicacao": "2026-07-02T08:40:01-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/julho-amarelo-conscientiza-sobre-hepatites/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Programa de Cuidados Paliativos do Instituto Estadual do Cérebro servirá de modelo para o Ministério da Saúde replicar em outros estados",
+      "descricao": "O programa de cuidados paliativos do Instituto Estadual do Cérebro, no Rio de Janeiro, foi apresentado como referência técnica e poderá servir de modelo para expansão dessa linha de atenção em outros estados.",
+      "data_publicacao": "2026-07-02T09:16:19-03:00",
+      "url": "https://www.rj.gov.br/saude/node/4089",
+      "fonte": "Secretaria de Estado de Saúde do Rio de Janeiro"
+    },
+    {
+      "titulo": "Novo ambulatório do Iecac amplia capacidade de atendimento para pacientes cardíacos no Estado",
+      "descricao": "O novo ambulatório do Instituto Estadual de Cardiologia Aloysio de Castro amplia a estrutura de acompanhamento pós-operatório e atendimento cardiovascular, fortalecendo a assistência especializada no estado do Rio de Janeiro.",
+      "data_publicacao": "2026-07-02T06:50:21-03:00",
+      "url": "https://www.rj.gov.br/saude/node/4085",
+      "fonte": "Secretaria de Estado de Saúde do Rio de Janeiro"
+    },
+    {
+      "titulo": "Limite de 250 m² para usucapião familiar abrange todo o imóvel, decide STJ",
+      "descricao": "A ConJur destacou decisão do STJ segundo a qual a usucapião familiar não se aplica quando o imóvel urbano possui área total superior a 250 m², mesmo que o pedido envolva apenas parte do bem.",
+      "data_publicacao": "2026-07-01T13:46:21-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-01/limite-de-250-m%c2%b2-para-usucapiao-familiar-abrange-todo-o-imovel-decide-stj/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Abdicar de herança em prol de beneficiário específico exige escritura pública",
+      "descricao": "Segundo decisão noticiada pela ConJur, a renúncia translativa de herança equivale a uma doação e, por isso, precisa ser formalizada por escritura pública, com impacto direto na prática sucessória e cartorária.",
+      "data_publicacao": "2026-06-20T08:23:58-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-20/abdicar-de-heranca-em-prol-de-beneficiario-especifico-exige-escritura-publica/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Ação cível para exclusão de herdeiro independe do processo penal",
+      "descricao": "A ConJur repercutiu entendimento de que o pedido de indignidade e exclusão de herdeiro pode ser buscado na esfera cível independentemente do desfecho do processo penal, reafirmando a autonomia entre as esferas jurídicas.",
+      "data_publicacao": "2026-06-25T21:45:51-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-25/exclusao-de-heranca-em-processo-criminal-nao-impede-pedido-de-indignidade-na-esfera-civel/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Semana da Qualidade mobiliza Cartórios de todo o País para participação no PQTA 2026",
+      "descricao": "O Colégio Notarial do Brasil divulgou a Semana da Qualidade PQTA 2026, iniciativa nacional voltada ao engajamento dos cartórios em práticas de melhoria contínua, gestão e qualificação dos serviços extrajudiciais.",
+      "data_publicacao": "2026-07-01T17:23:51-03:00",
+      "url": "https://www.notariado.org.br/semana-da-qualidade-mobiliza-cartorios-de-todo-o-pais-para-participacao-no-pqta-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça disponibiliza painel com relações gerais de vacâncias dos serviços extrajudiciais",
+      "descricao": "O CNB informou que a Corregedoria Nacional de Justiça passou a disponibilizar um painel com as relações gerais de vacâncias dos serviços extrajudiciais, ampliando a transparência sobre serventias encaminhadas pelos tribunais.",
+      "data_publicacao": "2026-07-01T17:23:31-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-disponibiliza-painel-com-relacoes-gerais-de-vacancias-dos-servicos-extrajudiciais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Inventário extrajudicial e suspeita de sonegação: O que o STJ acaba de deixar claro",
+      "descricao": "O CNB destacou entendimento do STJ de que suspeitas de ocultação patrimonial não se resolvem dentro do inventário extrajudicial já encerrado, devendo seguir pela ação de sonegados sem deslegitimar a via extrajudicial.",
+      "data_publicacao": "2026-07-01T17:22:16-03:00",
+      "url": "https://www.notariado.org.br/inventario-extrajudicial-e-suspeita-de-sonegacao-o-que-o-stj-acaba-de-deixar-claro/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

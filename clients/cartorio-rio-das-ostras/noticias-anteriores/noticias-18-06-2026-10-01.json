@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-06-18T10:01:24-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras avança na construção do Plano de Ação 2026 para inclusão socioprodutiva",
+      "descricao": "A Prefeitura de Rio das Ostras, em parceria com o Sebrae-RJ, finalizou o alinhamento do Plano de Ação 2026 do eixo de inclusão socioprodutiva. A iniciativa busca ampliar qualificação, empreendedorismo e geração de renda para famílias atendidas por programas sociais do município.",
+      "data_publicacao": "2026-06-08T15:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-na-construcao-do-plano-de-acao-2026-para-inclusao-socioprodutiva/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras executa manutenção da malha viária em diversos pontos",
+      "descricao": "A Prefeitura informou a continuidade do pacote de manutenção viária com aplicação e substituição de asfalto em vias estratégicas do município. Os trabalhos também incluem sinalização em áreas de grande fluxo e buscam melhorar a mobilidade urbana e o acesso a zonas de negócios.",
+      "data_publicacao": "2026-06-10T16:46:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-executa-manutencao-da-malha-viaria-em-diversos-pontos/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras contrata e convoca novos profissionais para a Educação",
+      "descricao": "A administração municipal divulgou novas contratações temporárias e uma nova convocação de classificados para a rede de Educação, Esporte e Lazer. As medidas reforçam o quadro de profissionais em funções administrativas, pedagógicas e de apoio escolar.",
+      "data_publicacao": "2026-06-09T16:23:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-contrata-e-convoca-novos-profissionais-para-a-educacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras investe em qualificação profissional com curso em parceria com o SENAI/Firjan",
+      "descricao": "Rio das Ostras iniciou, em parceria com o SENAI/Firjan, um curso gratuito de Auxiliar de Controle de Qualidade voltado a jovens e adultos. A ação integra um programa maior de capacitação profissional, com 400 vagas gratuitas previstas para atender demandas da indústria e dos serviços.",
+      "data_publicacao": "2026-06-02T11:55:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-investe-na-qualificacao-profissional-por-meio-de-curso-em-parceria-com-o-senai-firjan/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Governo do RJ lança edital Infracultura com R$ 9,5 milhões para restauração de equipamentos culturais",
+      "descricao": "O Governo do Estado abriu o edital Infracultura para selecionar 20 propostas de reforma, restauração e revitalização de teatros e bens culturais tombados. A medida amplia o investimento em infraestrutura cultural e fortalece a preservação do patrimônio fluminense.",
+      "data_publicacao": "2026-06-08T16:12:48-03:00",
+      "url": "https://cultura.rj.gov.br/edital-infracultura-rj/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "SececRJ fortalece políticas públicas voltadas às bibliotecas do estado",
+      "descricao": "A Secretaria de Cultura e Economia Criativa do Rio de Janeiro firmou instrumentos de cooperação com o Ministério da Cultura e a Fundação Biblioteca Nacional. As parcerias buscam modernizar, qualificar e integrar as bibliotecas públicas fluminenses às políticas nacionais do setor.",
+      "data_publicacao": "2026-06-03T13:12:04-03:00",
+      "url": "https://cultura.rj.gov.br/secec-rj-firma-parcerias-ministerio-cultura-biblioteca-nacional-para-bibliotecas/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Anúncio de empreendimento antes do registro leva a condenação penal",
+      "descricao": "O ConJur destacou decisão que condenou a divulgação de unidades imobiliárias antes do registro da incorporação. O entendimento reforça que a exigência registral protege consumidores, preserva a concorrência e fortalece a segurança jurídica no mercado imobiliário.",
+      "data_publicacao": "2026-06-10T15:39:30-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-10/anunciar-empreendimento-imobiliario-antes-de-registro-fere-dinamica-concorrencial-e-leva-a-condenacao/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Imunidade de ITBI na integralização de capital independe de atividade, decide TJ-RS",
+      "descricao": "Segundo o ConJur, o TJ-RS reconheceu que a imunidade do ITBI na integralização de capital social não depende da atividade preponderante da empresa adquirente. A decisão traz impacto relevante para escrituras e registros de operações imobiliárias societárias.",
+      "data_publicacao": "2026-06-07T08:51:29-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-07/imunidade-de-itbi-na-integralizacao-de-capital-independe-de-atividade/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Cartório aplica precedente do STJ e evita judicialização",
+      "descricao": "Reportagem do ConJur mostrou um caso em que o registro de imóveis solucionou diretamente uma controvérsia sobre alienação fiduciária com base em precedente do STJ. O episódio destaca a desjudicialização e o uso da jurisprudência para dar mais eficiência e previsibilidade ao serviço registral.",
+      "data_publicacao": "2026-05-20T15:17:09-03:00",
+      "url": "https://www.conjur.com.br/2026-mai-20/cartorio-aplica-precedente-do-stj-e-evita-judicializacao/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Live reúne notários e registradores para apresentar nova etapa da integração entre e-Notariado e RI Digital",
+      "descricao": "O Colégio Notarial do Brasil e o ONR apresentaram avanços da integração entre o e-Notariado e o RI Digital em uma transmissão com notários e registradores. A iniciativa destaca padronização, agilidade e segurança jurídica no fluxo eletrônico dos atos imobiliários.",
+      "data_publicacao": "2026-06-17T15:20:28-03:00",
+      "url": "https://www.notariado.org.br/live-reune-notarios-e-registradores-para-apresentar-nova-etapa-da-integracao-entre-e-notariado-e-ri-digital/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Plano de Gestão da COGEX prioriza cidadania e melhoria dos serviços cartorários",
+      "descricao": "O CNB repercutiu a instituição do Plano de Gestão 2026-2028 da Corregedoria Geral do Foro Extrajudicial do Maranhão. O documento prevê ações de modernização, capacitação e cooperação para aprimorar os serviços cartorários e ampliar a promoção da cidadania.",
+      "data_publicacao": "2026-06-17T18:01:52-03:00",
+      "url": "https://www.notariado.org.br/plano-de-gestao-da-cogex-prioriza-cidadania-e-melhoria-dos-servicos-cartorarios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Provimento nº 228/2026 regulamenta extratos eletrônicos para atos com repercussão imobiliária",
+      "descricao": "O Colégio Notarial do Brasil destacou o Provimento nº 228/2026 do CNJ, que disciplina o uso de extratos eletrônicos no Registro de Imóveis. A norma amplia a integração entre notas e registro, com impacto direto na rotina dos tabelionatos e no processamento eletrônico de títulos.",
+      "data_publicacao": "2026-06-17T14:30:30-03:00",
+      "url": "https://www.notariado.org.br/provimento-no-228-2026-regulamenta-extratos-eletronicos-para-atos-com-repercussao-imobiliaria-e-impacta-rotina-dos-tabelionatos-de-notas/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

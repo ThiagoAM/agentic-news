@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-15T10:01:20-03:00",
+  "noticias": [
+    {
+      "titulo": "Prefeitura reúne Conselho de Saúde para debater melhorias em toda Rede",
+      "descricao": "A Prefeitura de Rio das Ostras reuniu representantes do Conselho Municipal de Saúde para alinhar demandas da comunidade e discutir medidas para melhorar atendimentos, infraestrutura e integração entre gestão e população.",
+      "data_publicacao": "2026-07-15T08:39:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-reune-conselho-de-saude-para-debater-melhorias-em-toda-rede-de-saude/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Saúde estende vacinação de influenza a público em geral a partir desta quarta, 15",
+      "descricao": "A Secretaria Municipal de Saúde ampliou a vacinação contra a gripe para toda a população a partir de 6 meses, mantendo a campanha nas unidades da rede com orientação sobre documentos e horários de atendimento.",
+      "data_publicacao": "2026-07-14T16:31:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/saude-estende-vacinacao-de-influenza-a-publico-em-geral-a-partir-desta-quarta-15/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Feira Reviva Centro fortalece revitalização de Rio das Ostras",
+      "descricao": "A Feira Reviva Centro vai reunir atrações culturais, gastronomia e ações de estímulo ao comércio local entre 17 e 19 de julho, como parte da estratégia municipal de valorização da região central da cidade.",
+      "data_publicacao": "2026-07-14T10:48:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/feira-reviva-centro-fortalece-revitalizacao-de-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Exposição O Tempo das Plantas propõe troca cultural e desaceleração",
+      "descricao": "A mostra inaugurada no Jardim Botânico do Rio de Janeiro reúne arte, ciência e memória para refletir sobre circulação de espécies, saberes e relações entre natureza e cultura.",
+      "data_publicacao": "2026-07-11T17:27:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/exposicao-o-tempo-das-plantas-propoe-troca-cultural-e-desaceleracao",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Programação gratuita celebra os 117 anos do Theatro Municipal",
+      "descricao": "O Theatro Municipal do Rio preparou um dia de atrações gratuitas com concertos, dança, visita guiada, palestra e sessão especial da ópera Salvator Rosa para marcar o aniversário da instituição.",
+      "data_publicacao": "2026-07-13T13:49:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/07/7276814-programacao-gratuita-celebra-os-117-anos-do-theatro-municipal.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Tribunais derrubam pareceres das juntas médicas dos planos de saúde em 93% dos casos",
+      "descricao": "Levantamento repercutido pela ConJur mostra alta rejeição judicial a pareceres usados por operadoras para negar tratamentos, reforçando a proteção ao direito dos pacientes.",
+      "data_publicacao": "2026-07-14T08:54:46-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-14/tribunais-derrubam-pareceres-das-juntas-medicas-em-93-dos-casos/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Renúncia ao trabalho durante afastamento psicológico é inválida",
+      "descricao": "A ConJur destacou entendimento de que a renúncia à reintegração assinada durante afastamento por doença psicológica não produz efeitos válidos, preservando a proteção do trabalhador em situação de vulnerabilidade.",
+      "data_publicacao": "2026-07-14T08:23:34-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-14/renuncia-ao-trabalho-durante-afastamento-psicologico-e-invalida/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Avaliação com valor inferior ao cadastral impede imissão na posse",
+      "descricao": "Decisão repercutida pela ConJur concluiu que depósito baseado em avaliação unilateral abaixo do valor cadastral do imóvel não basta para autorizar a imissão provisória na posse.",
+      "data_publicacao": "2026-07-14T07:52:16-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-14/avaliacao-unilateral-que-fixa-valor-inferior-ao-cadastral-impede-imissao-na-posse/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Nova plataforma que simplifica acesso a documentos cartorários já recebeu 470 mil pedidos",
+      "descricao": "O Colégio Notarial do Brasil destacou o avanço do Meu Registro, plataforma nacional que integra serviços de registros públicos e amplia o acesso digital a documentos de diferentes especialidades cartorárias.",
+      "data_publicacao": "2026-07-13T17:51:48-03:00",
+      "url": "https://www.notariado.org.br/nova-plataforma-que-simplifica-acesso-a-documentos-cartorarios-ja-recebeu-470-mil-pedidos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Acumulação de atividades cartoriais é validada",
+      "descricao": "O CNB repercutiu decisão do STF que validou a acumulação de atividades cartoriais em situação preexistente, entendendo que a reorganização administrativa analisada não violou a Constituição.",
+      "data_publicacao": "2026-07-13T17:50:58-03:00",
+      "url": "https://www.notariado.org.br/acumulacao-de-atividades-cartoriais-e-validada/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Conciliação Itinerante facilita acordos e amplia acesso à Justiça em Imperatriz",
+      "descricao": "A iniciativa destacada pelo CNB levou atendimentos e conciliações à população durante a Expoimp, com foco em acordos familiares, renegociação de dívidas e aproximação entre Justiça e cidadãos.",
+      "data_publicacao": "2026-07-10T14:33:58-03:00",
+      "url": "https://www.notariado.org.br/conciliacao-itinerante-facilita-acordos-e-amplia-acesso-a-justica-em-imperatriz/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

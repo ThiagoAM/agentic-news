@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-07-18T10:00:58-03:00",
+  "noticias": [
+    {
+      "titulo": "Simplesmente Noivas reúne tendências do setor de casamentos em Rio das Ostras",
+      "descricao": "A 12ª edição do salão gratuito será realizada nos dias 25 e 26 de julho, com quase 70 expositores e foco em tendências, serviços e oportunidades de negócios para casamentos e grandes celebrações na cidade.",
+      "data_publicacao": "2026-07-16T13:51:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/simplesmente-noivas-reune-tendencias-do-setor-de-casamentos-em-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Lagoa de Iriry será palco do Rio das Ostras Run 2026",
+      "descricao": "A prova marcada para 26 de julho terá corrida de 7 km e caminhada de 3 km, com proposta de incentivar a prática esportiva, promover saúde e fortalecer a integração social no município.",
+      "data_publicacao": "2026-07-09T12:10:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/lagoa-de-iriry-sera-palco-do-rio-das-ostras-run/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Festival Gastronômico de Rio das Ostras prepara edição ampliada para 2026",
+      "descricao": "O evento vai reunir dezenas de operações gastronômicas entre 30 de julho e 2 de agosto na Lagoa de Iriry, com entrada gratuita e expectativa de impulsionar turismo, economia local e programação cultural para moradores e visitantes.",
+      "data_publicacao": "2026-07-09T15:57:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/festival-gastronomico-de-rio-das-ostras-prepara-edicao-ampliada-para-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "JERJ tem etapas decisivas neste fim de semana",
+      "descricao": "Os Jogos Escolares do Rio de Janeiro realizam disputas estaduais de handebol, futsal e judô nos dias 18 e 19 de julho, definindo campeões e classificados para competições escolares nacionais.",
+      "data_publicacao": "2026-07-16T12:11:00-03:00",
+      "url": "https://www.rj.gov.br/esporte/jerj-tem-etapas-decisivas-fim-de-semana",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Brasil conquista ouro inédito no mundial de Lifesaving",
+      "descricao": "Atletas apoiadas pelo Bolsa Atleta RJ conquistaram resultados históricos na Orange Cup, na Holanda, reforçando o crescimento da modalidade e a presença fluminense em competições internacionais.",
+      "data_publicacao": "2026-06-30T13:06:00-03:00",
+      "url": "https://www.rj.gov.br/esporte/brasil-conquista-ouro-inedito-competicao-lifesaving-orange-cup",
+      "fonte": "Governo do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Partilha com herdeiro menor: limites da desjudicialização do inventário",
+      "descricao": "Artigo publicado pela ConJur analisa como a Resolução CNJ nº 571/2024 permite inventário por escritura pública em situações específicas com herdeiros vulneráveis, mantendo exigências de cautela, atuação técnica e proteção patrimonial.",
+      "data_publicacao": "2026-07-11T13:24:45-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-11/partilha-com-herdeiro-menor-ou-incapaz-limites-da-desjudicializacao-do-inventario/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "STF valida acumulação de atividades cartoriais de notas e de protesto",
+      "descricao": "O Supremo manteve a validade de lei paulista que concentra em uma serventia funções de notas e protesto, entendendo que houve reorganização administrativa sem afastar a exigência de concurso para eventual futura delegação autônoma.",
+      "data_publicacao": "2026-07-09T20:56:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jul-09/stf-valida-acumulacao-de-atividades-cartoriais-de-notas-e-de-protesto/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Abdicar de herança em prol de beneficiário específico exige escritura pública",
+      "descricao": "A ConJur repercutiu decisão que reforça que a renúncia translativa de herança tem natureza de doação e precisa ser formalizada por escritura pública em cartório para produzir efeitos válidos.",
+      "data_publicacao": "2026-06-20T08:23:00-03:00",
+      "url": "https://www.conjur.com.br/2026-jun-20/abdicar-de-heranca-em-prol-de-beneficiario-especifico-exige-escritura-publica/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça disponibiliza painel com relações gerais de vacâncias dos serviços extrajudiciais",
+      "descricao": "O CNB/RJ destacou o novo painel do CNJ que consolida e dá transparência às listas de vacâncias das serventias extrajudiciais, facilitando o acompanhamento de relações provisórias e definitivas em todo o país.",
+      "data_publicacao": "2026-07-01T00:00:00-03:00",
+      "url": "https://cnbrj.org.br/corregedoria-nacional-de-justica-disponibiliza-painel-com-relacoes-gerais-de-vacancias-dos-servicos-extrajudiciais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Inventário extrajudicial e suspeita de sonegação: o que o STJ acaba de deixar claro",
+      "descricao": "O CNB/RJ repercutiu entendimento de que suspeitas de ocultação patrimonial exigem ação própria e não devem ser resolvidas no inventário, preservando a lógica de celeridade e consenso da via extrajudicial.",
+      "data_publicacao": "2026-07-01T00:00:00-03:00",
+      "url": "https://cnbrj.org.br/inventario-extrajudicial-e-suspeita-de-sonegacao-o-que-o-stj-acaba-de-deixar-claro/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Atualização da NR-1 reforça gestão de pessoas e saúde mental nos cartórios",
+      "descricao": "A atualização da norma trabalhista amplia a atenção aos riscos psicossociais e reforça a necessidade de gestão mais estruturada, prevenção contínua e ambientes saudáveis nas serventias extrajudiciais.",
+      "data_publicacao": "2026-06-25T00:00:00-03:00",
+      "url": "https://cnbrj.org.br/atualizacao-da-nr-1-reforca-gestao-de-pessoas-e-saude-mental-nos-cartorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

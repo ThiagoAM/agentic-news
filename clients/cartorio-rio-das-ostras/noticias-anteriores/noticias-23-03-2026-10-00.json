@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-03-23T10:00:00-03:00",
+  "noticias": [
+    {
+      "titulo": "Saúde mobiliza comunidade no combate à tuberculose",
+      "descricao": "A Prefeitura de Rio das Ostras promove ações de conscientização e orientação sobre prevenção e tratamento da tuberculose em unidades de saúde, com atividades educativas e distribuição de material informativo durante a semana do Dia Mundial da Tuberculose.",
+      "data_publicacao": "2026-03-23T09:51:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/saude-mobiliza-profissionais-e-comunidade-no-combate-a-tuberculose/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Banco de Empregos oferece 610 vagas",
+      "descricao": "O Banco de Empregos de Rio das Ostras abriu 610 oportunidades em diferentes funções, com inscrições gratuitas presenciais no Centro de Cidadania e atendimento ao público em horário regular.",
+      "data_publicacao": "2026-03-23T09:33:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-610-vagas-2/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Saúde promove treinamento de lideranças",
+      "descricao": "A Secretaria de Saúde de Rio das Ostras realizou capacitação para gerentes e coordenadores da Atenção Primária, com foco no alinhamento de gestão e na melhoria do atendimento à população.",
+      "data_publicacao": "2026-03-23T09:13:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/saude-promove-treinamento-de-liderancas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Nova Unidade vai ampliar acesso dos moradores a exames de imagem",
+      "descricao": "Rio das Ostras participou da inauguração do Rio Imagem Lagos, unidade estadual que ofertará exames de alta tecnologia e deve reduzir filas de espera na rede pública de saúde da região.",
+      "data_publicacao": "2026-03-21T15:03:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/mais-uma-parceria-importante-entre-rio-das-ostras-e-o-governo-do-estado-para-melhorar-a-qualidade-dos-servicos-de-saude/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Detran RJ vai oferecer atendimento prioritário para idosos e pessoas com deficiência",
+      "descricao": "Postos de identificação civil abrirão em todo o estado para emissão da nova CIN com prioridade para idosos e PCDs, mediante agendamento prévio no site ou teleatendimento do Detran RJ.",
+      "data_publicacao": "2026-03-18T00:00:00-03:00",
+      "url": "https://www.detran.rj.gov.br/noticias/detran-rj-vai-oferecer-atendimento-prioritario-para-idosos-e-pessoas-com-deficiencia-neste-sabado-21-3.html",
+      "fonte": "Detran RJ"
+    },
+    {
+      "titulo": "Detran RJ promove ação educativa de trânsito em Cordeiro",
+      "descricao": "A operação de educação para o trânsito orientou condutores em Cordeiro sobre uso de equipamentos de segurança e revisão de veículos, com distribuição de materiais informativos e antenas de proteção para motociclistas.",
+      "data_publicacao": "2026-03-17T00:00:00-03:00",
+      "url": "https://www.detran.rj.gov.br/noticias/detran-rj-promove-acao-educativa-de-transito-em-cordeiro-na-regiao-serrana.html",
+      "fonte": "Detran RJ"
+    },
+    {
+      "titulo": "Detran RJ inicia em Maricá as ações do programa Trânsito Responsável",
+      "descricao": "O programa Trânsito Responsável começou em Maricá com atividades educativas para estudantes do Ensino Médio e universitários, usando conteúdos multimídia e dinâmicas para conscientização sobre segurança viária.",
+      "data_publicacao": "2026-03-12T00:00:00-03:00",
+      "url": "https://www.detran.rj.gov.br/noticias/detran-rj-inicia-em-marica-as-acoes-do-programa-transito-responsavel.html",
+      "fonte": "Detran RJ"
+    },
+    {
+      "titulo": "Governo do Estado divulga calendário de pagamento do IPVA 2026",
+      "descricao": "A Sefaz-RJ publicou o calendário do IPVA 2026, com opções de cota única com desconto ou parcelamento, além de orientações para emissão do DARJ e formas de pagamento.",
+      "data_publicacao": "2025-12-01T00:00:00-03:00",
+      "url": "https://portal.fazenda.rj.gov.br/noticias/governo-do-estado-divulga-calendario-de-pagamento-do-ipva-2026/",
+      "fonte": "Secretaria de Estado de Fazenda do Rio de Janeiro"
+    },
+    {
+      "titulo": "ANOREG/BR lança cartilha para promover atendimento sem discriminação racial nos cartórios",
+      "descricao": "A ANOREG/BR lançou uma cartilha com orientações e boas práticas para fortalecer o atendimento inclusivo e sem discriminação racial em serventias extrajudiciais.",
+      "data_publicacao": "2026-03-21T13:27:48-03:00",
+      "url": "https://www.anoreg.org.br/site/anoreg-br-lanca-cartilha-para-promover-atendimento-sem-discriminacao-racial-nos-cartorios/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "Conciliação, mediação e arbitragem ganham destaque em novo infográfico da ANOREG/BR",
+      "descricao": "Um novo infográfico da ANOREG/BR explica quando usar conciliação, mediação e arbitragem, destacando benefícios como celeridade, redução de custos e segurança jurídica.",
+      "data_publicacao": "2026-03-20T17:33:07-03:00",
+      "url": "https://www.anoreg.org.br/site/conciliacao-mediacao-e-arbitragem-ganham-destaque-em-novo-infografico-da-anoreg-br/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "Inscrições para o 3º Exame Nacional dos Cartórios terminam no dia 23",
+      "descricao": "A ANOREG/BR lembra que as inscrições para o 3º Enac encerram-se no dia 23, com prova marcada para junho e regras detalhadas no edital da FGV.",
+      "data_publicacao": "2026-03-20T15:59:26-03:00",
+      "url": "https://www.anoreg.org.br/site/inscricoes-para-o-3o-exame-nacional-dos-cartorios-terminam-no-dia-23/",
+      "fonte": "ANOREG/BR"
+    }
+  ]
+}

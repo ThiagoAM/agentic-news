@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-04-05T10:00:22-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras conquista selo nacional e vira referência em alfabetização no país",
+      "descricao": "Município recebeu o Selo Nacional do Compromisso com a Alfabetização na categoria ouro, destacando o trabalho das escolas e o desempenho dos estudantes nos primeiros anos de aprendizagem.",
+      "data_publicacao": "2026-04-01T18:57:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/04/7230597-rio-das-ostras-conquista-selo-nacional-e-vira-referencia-em-alfabetizacao-no-pais.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Cultura em construção: Rio das Ostras inicia plano para definir próximos 10 anos do setor",
+      "descricao": "A cidade começou a organizar o novo Plano Municipal de Cultura com participação popular, reuniões e consultas para definir metas e prioridades do setor para a próxima década.",
+      "data_publicacao": "2026-03-31T11:48:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/03/7229739-cultura-em-construcao-rio-das-ostras-inicia-plano-para-definir-proximos-10-anos-do-setor.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Emoção toma conta de Rio das Ostras com espetáculo da Paixão de Cristo na Concha Acústica",
+      "descricao": "Encenação gratuita “A Última Ceia” reúne artistas locais, mistura linguagens e oferece acessibilidade com Libras e audiodescrição na Concha Acústica, no Centro.",
+      "data_publicacao": "2026-04-03T17:47:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/04/7231443-emocao-toma-conta-de-rio-das-ostras-com-espetaculo-da-paixao-de-cristo-na-concha-acustica.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Festival Italia Nostra transforma o Aterro do Flamengo em um pedacinho da Itália",
+      "descricao": "Evento gratuito no Parque Carmen Miranda reúne gastronomia, música e tradições italianas, com dezenas de expositores e programação para toda a família.",
+      "data_publicacao": "2026-03-22T00:00:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/03/7224383-festival-italia-nostra-transforma-o-aterro-do-flamengo-em-um-pedacinho-da-italia.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Tribunal de Justiça do Rio recebe evento em homenagem ao poeta Carlos Drummond de Andrade",
+      "descricao": "O Centro Cultural do Poder Judiciário promove sarau, leituras e apresentações musicais em tributo ao poeta, com entrada gratuita no Centro do Rio.",
+      "data_publicacao": "2026-03-14T10:38:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/03/7221810-tribunal-de-justica-do-rio-recebe-evento-em-homenagem-ao-poeta-carlos-drummond-de-andrade.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Patrimônio digital: novidades para empresas na reforma do Código Civil",
+      "descricao": "Artigo analisa como a reforma do Código Civil pode tratar ativos digitais e continuidade de negócios, com foco em proteção de contas e domínios corporativos.",
+      "data_publicacao": "2026-04-05T09:28:15-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-05/patrimonio-digital-novidades-para-empresas-na-reforma-do-codigo-civil/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Inteligência artificial e automação decisória nos processos administrativos",
+      "descricao": "Texto debate limites e boas práticas para uso de IA em decisões administrativas, destacando transparência, controle e segurança jurídica.",
+      "data_publicacao": "2026-04-05T08:00:39-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-05/inteligencia-artificial-e-automacao-decisoria-nos-processos-administrativos/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Afastamento automático dos direitos sucessórios dos cônjuges após a separação de fato",
+      "descricao": "Análise jurídica discute efeitos sucessórios da separação de fato e critérios para afastar herança entre cônjuges em determinadas situações.",
+      "data_publicacao": "2026-04-05T08:00:27-03:00",
+      "url": "https://www.conjur.com.br/2026-abr-05/afastamento-automatico-dos-direitos-sucessorios-dos-conjuges-apos-a-separacao-de-fato/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "CNB/CF lança Conta Notarial Remunerada e novo modelo de prestação de serviços",
+      "descricao": "CNB/CF e Banco Safra anunciaram módulo de rentabilidade para a Conta Notarial e mudanças no modelo de precificação, com foco em eficiência e sustentabilidade.",
+      "data_publicacao": "2026-03-25T09:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-conta-notarial-remunerada-e-novo-modelo-de-prestacao-de-servicos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Provimento do CNJ nº 219/26 estabelece regras para a gestão e publicidade da relação de cartórios vagos",
+      "descricao": "Norma do CNJ define lista única e critérios para atualização das vacâncias, padronizando dados e reforçando transparência na gestão das serventias.",
+      "data_publicacao": "2026-03-27T09:00:00-03:00",
+      "url": "https://www.notariado.org.br/provimento-do-cnj-no-219-26-estabelece-regras-para-a-gestao-atualizacao-e-publicidade-da-relacao-de-cartorios-vagos/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ aperfeiçoa regras sobre publicidade e indexação de escrituras de autocuratela",
+      "descricao": "Provimento atualiza normas do CNJ para melhorar a consulta e indexação de autocuratela na CENSEC, preservando sigilo e publicidade conforme o tipo de escritura.",
+      "data_publicacao": "2026-03-20T09:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-aperfeicoa-regras-sobre-publicidade-e-indexacao-de-escrituras-de-autocuratela/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}
