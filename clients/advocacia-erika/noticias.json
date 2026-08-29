@@ -1,0 +1,110 @@
+{
+  "data-busca": "2026-08-29T12:52:37-03:00",
+  "noticias": [
+    {
+      "titulo": "Empresas devem pagar R$ 150 mil a corretor por intermediação de imóvel",
+      "descricao": "Decisão judicial no Rio Grande do Sul condenou duas empresas ao pagamento solidário de comissão de corretagem em negócio de permuta imobiliária. O entendimento foi de que a remuneração se torna devida quando o resultado útil da intermediação é alcançado com a assinatura do contrato, ainda que a escritura pública não tenha sido lavrada. O caso evidencia a importância de definir com clareza, no contrato de corretagem, o momento em que nasce o direito à comissão.",
+      "data_publicacao": "2026-08-29T08:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/463162/empresas-devem-pagar-r-150-mil-a-corretor-por-intermediacao-de-imovel",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Consulta a herdeiros é condição para venda de imóvel de espólio",
+      "descricao": "Decisão judicial reconheceu a invalidade de compra e venda de imóvel pertencente a espólio realizada sem a anuência de todos os herdeiros e sem autorização judicial. Enquanto a partilha não é concluída, nenhum sucessor isolado detém a propriedade exclusiva do bem. O caso reforça os cuidados documentais exigidos em transações que envolvem imóveis ainda em inventário.",
+      "data_publicacao": "2026-08-28T08:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/consulta-a-herdeiros-e-condicao-para-venda-de-imovel-de-espolio",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Construtoras miram motoristas e entregadores de aplicativos",
+      "descricao": "A Caixa Econômica Federal passou a aceitar rendimentos obtidos em plataformas digitais como comprovação de renda para financiamento habitacional. A mudança amplia o público potencial de compradores em segmentos de habitação popular e tem levado incorporadoras a estruturar produtos voltados a esse perfil. A reportagem também trata da concentração do déficit habitacional entre famílias de baixa renda.",
+      "data_publicacao": "2026-08-28T08:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/construtoras-miram-motoristas-e-entregadores-de-aplicativos",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Registro de Imóveis em destaque no 8º Congresso Ibradim",
+      "descricao": "O 8º Congresso do Ibradim reuniu profissionais de direito imobiliário em Salvador, com painéis técnicos conduzidos por registradores de diferentes estados. Entre os temas debatidos estiveram a concentração de atos na matrícula, os procedimentos extrajudiciais de usucapião e de adjudicação compulsória e os efeitos do Provimento CNJ nº 195. O evento também abordou aquisição de imóveis rurais e procedimentos de loteamento.",
+      "data_publicacao": "2026-08-28T18:15:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/registro-de-imoveis-em-destaque-no-8-congresso-ibradim",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Usado para identificar e cadastrar imóveis, app auxilia Reurb",
+      "descricao": "A Prefeitura de Palmas (TO) adotou o aplicativo ReurbSelagem para identificar e cadastrar imóveis em processos de regularização fundiária urbana. A ferramenta gera um código único por imóvel e vincula fotografias e dados dos ocupantes, reduzindo duplicidades e facilitando o tratamento de áreas sem endereçamento oficial. A solução busca dar mais agilidade às etapas técnicas da Reurb.",
+      "data_publicacao": "2026-08-27T08:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/usado-para-identificar-e-cadastrar-imoveis-app-auxilia-reurb",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Raio-X dos Cartórios 2026 coletará dados até o dia 31",
+      "descricao": "A Anoreg/BR conduz levantamento nacional sobre a estrutura e o funcionamento das serventias extrajudiciais, com prazo de envio de respostas até 31 de agosto. Nesta edição, o questionário incorporou perguntas sobre transformação digital, uso de inteligência artificial e indicadores de governança. Os dados devem subsidiar diagnósticos sobre a atividade notarial e registral no país.",
+      "data_publicacao": "2026-08-27T08:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/raio-x-dos-cartorios-2026-coletara-dados-ate-o-dia-31",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Cartórios podem registrar penhora de imóveis em tempo real",
+      "descricao": "O CNJ colocou em operação o Constrijud, plataforma que transmite ordens judiciais de penhora, arresto e sequestro diretamente aos cartórios de registro de imóveis. A comunicação eletrônica substitui trâmites por e-mail e canais informais, encurtando o intervalo entre a decisão judicial e a averbação na matrícula. A padronização nacional tende a dar mais previsibilidade a quem pesquisa a situação de um imóvel antes de contratar.",
+      "data_publicacao": "2026-08-24T08:00:00-03:00",
+      "url": "https://www.otempo.com.br/economia/2026/8/24/cartorios-podem-registrar-penhora-de-imoveis-em-tempo-real-veja-detalhes-da-novidade",
+      "fonte": "O Tempo"
+    },
+    {
+      "titulo": "Inventário extrajudicial não exigirá mais pagamento prévio de imposto sobre transmissão",
+      "descricao": "O plenário do CNJ aprovou a revogação do dispositivo da Resolução 35/2007 que condicionava a lavratura da escritura de inventário ao recolhimento prévio do ITCMD. A alteração atendeu a pedido do Colégio Notarial do Brasil e preserva a obrigação de declarar o imposto e comunicar o fisco estadual. Outros dois pedidos apresentados na mesma consulta não foram acolhidos.",
+      "data_publicacao": "2026-08-21T08:00:00-03:00",
+      "url": "https://portaldori.com.br/2026/08/21/inventario-extrajudicial-nao-exigira-mais-pagamento-previo-de-imposto-sobre-transmissao/",
+      "fonte": "Portal do RI"
+    },
+    {
+      "titulo": "Acordo entre CNJ e Incra vai integrar dados territoriais e auxiliar na mediação de conflitos de terra",
+      "descricao": "CNJ e Incra assinaram acordo de cooperação técnica para compartilhamento de informações territoriais, que passarão a integrar o sistema de análises georreferenciadas do Judiciário. O ajuste também instalou câmara de apoio técnico à Comissão Nacional de Soluções Fundiárias. A iniciativa busca qualificar a instrução de processos que envolvem posse e propriedade de terras.",
+      "data_publicacao": "2026-08-18T08:00:00-03:00",
+      "url": "https://www.anoregpr.org.br/acordo-entre-cnj-e-incra-vai-integrar-dados-territoriais-e-auxiliar-na-mediacao-de-conflitos-de-terra/",
+      "fonte": "Anoreg/PR"
+    },
+    {
+      "titulo": "Pesquisa Nacional de Bens acelera consulta patrimonial",
+      "descricao": "O Operador Nacional do Registro de Imóveis disponibilizou plataforma que permite localizar, em âmbito nacional, imóveis vinculados a um CPF ou CNPJ, ampliando serviço antes restrito a alguns estados. A consulta depende da digitalização dos acervos pelas serventias e interessa a due diligence imobiliária, planejamento patrimonial e execuções judiciais. Cartórios de menor porte passam a ser remunerados pelas pesquisas feitas em seus acervos.",
+      "data_publicacao": "2026-08-17T08:00:00-03:00",
+      "url": "https://ribmg.org.br/pesquisa-nacional-de-bens-acelera-consulta-patrimonial/",
+      "fonte": "RIB-MG"
+    },
+    {
+      "titulo": "RIB lança cartilha sobre regularização fundiária urbana",
+      "descricao": "O Registro de Imóveis do Brasil publicou a cartilha \"Reurb na Prática\", com orientações técnicas e modelos de documentos para processos de regularização fundiária urbana. O material foi produzido pelas seções do Paraná e de Minas Gerais e é dirigido a gestores municipais, registradores, advogados e demais profissionais do setor. A publicação está disponível para download gratuito.",
+      "data_publicacao": "2026-08-14T08:00:00-03:00",
+      "url": "https://www.anoregpr.org.br/rib-lanca-cartilha-sobre-regularizacao-fundiaria-urbana/",
+      "fonte": "Anoreg/PR"
+    },
+    {
+      "titulo": "Registro de Imóveis firma Acordo de Cooperação Técnica sobre Transações Imobiliárias Digitais com players do Mercado Imobiliário",
+      "descricao": "O Operador Nacional do Registro de Imóveis e o Registro de Imóveis do Brasil assinaram acordo de cooperação técnica com instituições financeiras para desenvolver soluções digitais aplicadas a transações imobiliárias. O objetivo é integrar em fluxos eletrônicos as etapas de contratação, financiamento e registro. A iniciativa se insere no processo de digitalização do sistema registral brasileiro.",
+      "data_publicacao": "2026-08-14T08:00:00-03:00",
+      "url": "https://portaldori.com.br/2026/08/14/registro-de-imoveis-firma-acordo-de-cooperacao-tecnica-sobre-transacoes-imobiliarias-digitais-com-players-do-mercado-imobiliario/",
+      "fonte": "Portal do RI"
+    },
+    {
+      "titulo": "Planejamento sucessório ganha espaço com mudanças no ITCMD e leva famílias a revisarem estratégias",
+      "descricao": "A Lei Complementar nº 227 tornou obrigatória a progressividade do ITCMD e alterou critérios de base de cálculo e de tributação de bens situados no exterior. As mudanças reduziram parte da vantagem fiscal historicamente associada às holdings familiares e ampliaram a atenção sobre a estruturação de doações e sucessões. O texto aponta a revisão de estruturas patrimoniais já constituídas como ponto de atenção do período de transição.",
+      "data_publicacao": "2026-08-13T08:00:00-03:00",
+      "url": "https://debatejuridico.com.br/planejamento-sucessorio-ganha-espaco-com-mudancas-no-itcmd-e-leva-familias-a-revisarem-estrategias-patrimoniais/",
+      "fonte": "Debate Jurídico"
+    },
+    {
+      "titulo": "Locação por temporada: o que o STJ já decidiu e o que falta analisar?",
+      "descricao": "A matéria retoma o julgamento da 2ª Seção do STJ que condicionou a locação de curta duração em condomínios residenciais à aprovação qualificada dos condôminos. Também detalha o que ainda será definido no Tema 1.443, afetado ao rito dos recursos repetitivos. A discussão envolve os limites entre o direito de uso da propriedade e a autonomia da convenção condominial.",
+      "data_publicacao": "2026-08-11T08:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/461557/locacao-por-temporada-o-que-o-stj-ja-decidiu-e-o-que-falta-analisar",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "A contratação de alienação fiduciária de bens imóveis por instrumento particular",
+      "descricao": "O texto analisa o Provimento CN-CNJ nº 246/2026, que ajustou o Código Nacional de Normas do Foro Extrajudicial em matéria de alienação fiduciária de imóveis. A norma confirma a possibilidade de contratação por instrumento particular com efeitos de escritura pública, independentemente de as partes integrarem o SFI ou o SFH. A alteração afasta restrições que haviam sido introduzidas por provimentos editados em 2024.",
+      "data_publicacao": "2026-08-05T08:00:00-03:00",
+      "url": "https://www.migalhas.com.br/coluna/migalhas-edilicias/461592/a-contratacao-de-alienacao-fiduciaria-de-bens-imoveis-por-instrumento",
+      "fonte": "Migalhas"
+    }
+  ]
+}
