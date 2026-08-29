@@ -11,6 +11,7 @@ on:
     branches: [main]
     paths:
       - "clients/advocacia-erika/noticias.json"
+  workflow_dispatch: # disparo manual para testar o token/dispatch
 
 jobs:
   dispatch-site-advocacia-erika:
