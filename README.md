@@ -104,4 +104,4 @@ node scripts/archive-news.js <slug>                 # arquiva a versao atual e p
 
 ## Historico
 
-Este repositorio substitui o [noticias-cartorio-rio-das-ostras](https://github.com/ThiagoAM/noticias-cartorio-rio-das-ostras), que manteve o mesmo fluxo para um unico cliente. O historico daquele repo foi importado para `clients/cartorio-rio-das-ostras/noticias-anteriores/`.
+Este repositorio substitui o antigo `noticias-cartorio-rio-das-ostras` (deletado em 29/08/2026), que manteve o mesmo fluxo para um unico cliente. O historico daquele repo foi importado para `clients/cartorio-rio-das-ostras/noticias-anteriores/`.
