@@ -2,11 +2,15 @@
 "use strict";
 
 // Lista os clientes em clients/ e informa quais precisam de atualizacao hoje.
-// Uso: node scripts/list-clients.js [--json]
+// Antes de listar, confere se o clone local nao esta atras de origin/main —
+// um clone desatualizado faria clientes pendentes parecerem atualizados.
+// Uso: node scripts/list-clients.js [--json] [--no-fetch]
 
 const fs = require("fs");
+const { execFileSync } = require("child_process");
 
 const {
+  ROOT_DIR,
   CURRENT_FILE,
   isNonEmptyString,
   validateIsoTimestamp,
@@ -16,6 +20,52 @@ const {
   loadClientConfig,
   getDatePortionInTimezone,
 } = require("./lib/clients");
+
+function runGit(args, timeoutMs) {
+  return execFileSync("git", args, {
+    cwd: ROOT_DIR,
+    encoding: "utf8",
+    stdio: ["ignore", "pipe", "pipe"],
+    timeout: timeoutMs,
+  }).trim();
+}
+
+// Retorna { status: "ok" | "behind" | "unknown", detalhe }.
+function checkGitFreshness() {
+  try {
+    runGit(["rev-parse", "--is-inside-work-tree"], 5000);
+  } catch (_error) {
+    return { status: "unknown", detalhe: "diretorio fora de um repositorio git" };
+  }
+
+  try {
+    runGit(["fetch", "--quiet", "origin", "main"], 60000);
+  } catch (_error) {
+    return {
+      status: "unknown",
+      detalhe: "nao foi possivel consultar origin/main (sem rede ou sem acesso ao remoto)",
+    };
+  }
+
+  try {
+    const local = runGit(["rev-parse", "HEAD"], 5000);
+    const remote = runGit(["rev-parse", "origin/main"], 5000);
+
+    if (local === remote) {
+      return { status: "ok", detalhe: "clone em dia com origin/main" };
+    }
+
+    const mergeBase = runGit(["merge-base", "HEAD", "origin/main"], 5000);
+
+    if (mergeBase === local) {
+      return { status: "behind", detalhe: "o clone local esta atras de origin/main" };
+    }
+
+    return { status: "ok", detalhe: "clone com commits locais ainda nao enviados" };
+  } catch (_error) {
+    return { status: "unknown", detalhe: "nao foi possivel comparar HEAD com origin/main" };
+  }
+}
 
 function buildClientStatus(slug, now) {
   const config = loadClientConfig(slug);
@@ -72,12 +122,34 @@ function buildClientStatus(slug, now) {
 
 function main() {
   const asJson = process.argv.includes("--json");
+  const skipFetch = process.argv.includes("--no-fetch");
+  const freshness = skipFetch
+    ? { status: "unknown", detalhe: "verificacao de origin/main pulada (--no-fetch)" }
+    : checkGitFreshness();
+
+  if (freshness.status === "behind") {
+    const aviso =
+      "ATENCAO: o clone local esta atras de origin/main. Execute 'git pull origin main' e rode este script novamente — o status abaixo NAO e confiavel.";
+
+    if (asJson) {
+      console.log(JSON.stringify({ erro: aviso, git: freshness }, null, 2));
+    } else {
+      console.error(aviso);
+    }
+
+    process.exit(1);
+  }
+
+  if (freshness.status === "unknown" && !asJson) {
+    console.warn(`Aviso: ${freshness.detalhe}; o status abaixo assume que o clone esta em dia.`);
+  }
+
   const now = new Date();
   const slugs = listClientSlugs();
 
   if (slugs.length === 0) {
     if (asJson) {
-      console.log(JSON.stringify({ clientes: [], precisamAtualizar: [] }, null, 2));
+      console.log(JSON.stringify({ clientes: [], precisamAtualizar: [], git: freshness }, null, 2));
       return;
     }
 
@@ -89,7 +161,9 @@ function main() {
   const pending = statuses.filter((status) => status.precisaAtualizar).map((s) => s.slug);
 
   if (asJson) {
-    console.log(JSON.stringify({ clientes: statuses, precisamAtualizar: pending }, null, 2));
+    console.log(
+      JSON.stringify({ clientes: statuses, precisamAtualizar: pending, git: freshness }, null, 2)
+    );
     return;
   }
 

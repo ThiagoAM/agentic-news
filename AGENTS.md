@@ -26,7 +26,7 @@ Use a saída desse comando como referência obrigatória da data/hora atual. Ao 
 node scripts/list-clients.js
 ```
 
-O script mostra cada cliente e informa quais ainda não foram atualizados hoje (há também `--json` para saída estruturada). Processe **todos os clientes pendentes**, um de cada vez, seguindo os passos 4 a 8 para cada um.
+O script mostra cada cliente e informa quais ainda não foram atualizados hoje (há também `--json` para saída estruturada). Ele também confere se o clone local está em dia com `origin/main`: se estiver atrás, o script **aborta com erro** — execute `git pull origin main` e rode-o de novo antes de confiar em qualquer status. Processe **todos os clientes pendentes**, um de cada vez, seguindo os passos 4 a 8 para cada um.
 
 Se todos já estiverem atualizados hoje, não há nada a fazer.
 
