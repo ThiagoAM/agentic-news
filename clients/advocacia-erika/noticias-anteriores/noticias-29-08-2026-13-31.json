@@ -1,5 +1,5 @@
 {
-  "data-busca": "2026-08-30T19:48:58-03:00",
+  "data-busca": "2026-08-29T13:31:15-03:00",
   "noticias": [
     {
       "titulo": "Orientação do CNJ sobre o ITCMD resolve apenas parte da questão",
@@ -77,20 +77,6 @@
       "data_publicacao": "2026-08-10T09:00:00-03:00",
       "url": "https://valorinveste.globo.com/produtos/renda-fixa/cri-e-cra/noticia/2026/08/10/mercado-imobiliario-sob-pressao-e-prova-de-fogo-para-cris.ghtml",
       "fonte": "Valor Investe"
-    },
-    {
-      "titulo": "Pessoa física e patrimônio imobiliário na reforma tributária",
-      "descricao": "Análise aborda os impactos da reforma tributária sobre operações imobiliárias realizadas por pessoas físicas. O texto destaca a identificação cadastral do imóvel e os dados necessários para a documentação fiscal de operações sujeitas ao novo sistema.",
-      "data_publicacao": "2026-08-09T09:00:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/462065/pessoa-fisica-e-patrimonio-imobiliario-na-reforma-tributaria",
-      "fonte": "Migalhas"
-    },
-    {
-      "titulo": "Escritura pública nos contratos: entendimento do STJ",
-      "descricao": "Artigo examina a exigência de escritura pública e as exceções reconhecidas pelo Superior Tribunal de Justiça em negócios imobiliários e sucessórios. A análise relaciona a forma do negócio aos efeitos de validade e prova previstos na legislação civil.",
-      "data_publicacao": "2026-08-09T09:00:00-03:00",
-      "url": "https://www.migalhas.com.br/coluna/migalhas-contratuais/462072/escritura-publica-nos-contratos-entendimento-do-stj",
-      "fonte": "Migalhas"
     }
   ]
 }
