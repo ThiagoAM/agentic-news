@@ -1,103 +1,19 @@
 {
-  "data-busca": "2026-08-29T10:00:36-03:00",
+  "data-busca": "2026-08-30T19:48:58-03:00",
   "noticias": [
-    {
-      "titulo": "Ações de manutenção viária e drenagem seguem intensificadas em Rio das Ostras",
-      "descricao": "Serviços de patrolamento, recuperação de vias, operação tapa-buracos, limpeza e drenagem estão sendo realizados em diferentes pontos de Rio das Ostras.",
-      "data_publicacao": "2026-08-28T09:00:00-03:00",
-      "url": "https://tvprefeito.com/acoes-de-manutencao-viaria-e-drenagem-seguem-intensificadas-em-rio-das-ostras/",
-      "fonte": "TV Prefeito"
-    },
-    {
-      "titulo": "Rio das Ostras sedia evento que aproxima fornecedores locais de empresas de óleo e gás",
-      "descricao": "O município recebeu a segunda edição do Café com Energia, encontro voltado ao fortalecimento da economia regional e à aproximação de fornecedores locais com empresas do setor.",
-      "data_publicacao": "2026-08-28T10:00:00-03:00",
-      "url": "https://www.rotasrj.com/2026/08/28/rio-das-ostras-sedia-evento-que-aproxima-fornecedores-locais-de-empresas-do-setor-de-oleo-e-gas/",
-      "fonte": "Rotas RJ"
-    },
-    {
-      "titulo": "Obras do Centro Integrado do Sesc Senac entram em reta final em Rio das Ostras",
-      "descricao": "A apresentação do cronograma final mostrou que as obras da unidade integrada do Sesc Senac em Rio das Ostras avançaram para a etapa de conclusão.",
-      "data_publicacao": "2026-08-21T16:25:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/obras-da-unidade-sesc-senac-entra-em-reta-final/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Banco de Empregos oferece 477 vagas em Rio das Ostras",
-      "descricao": "O Banco de Empregos de Rio das Ostras abriu 477 oportunidades, com atendimento ao público para inscrições presenciais no Centro de Cidadania.",
-      "data_publicacao": "2026-08-03T08:58:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-477-vagas/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Adolescentes terão registro de padrasto como pai socioafetivo",
-      "descricao": "Decisão reconhece a filiação socioafetiva de adolescentes por vínculo construído com o padrasto, mantendo também o vínculo com o pai biológico e prevendo averbação no registro civil.",
-      "data_publicacao": "2026-08-28T09:00:00-03:00",
-      "url": "https://conjur.com.br/2026-ago-28/justica-admite-o-reconhecimento-de-filiacao-construida-por-vinculo-afetivo/",
-      "fonte": "Consultor Jurídico"
-    },
-    {
-      "titulo": "Transmissão de servidão minerária gera debate sobre incidência de ITBI",
-      "descricao": "Análise jurídica discute a incidência de ITBI na transmissão de servidão minerária e os limites da competência municipal sobre o tributo.",
-      "data_publicacao": "2026-08-06T09:00:00-03:00",
-      "url": "https://conjur.com.br/2026-ago-06/servidao-mineraria-e-a-nao-incidencia-do-itbi-tipicidade-tributaria-natureza-administrativa-e-limites-da-competencia-municipal/",
-      "fonte": "Consultor Jurídico"
-    },
-    {
-      "titulo": "Tema 1.448 do STJ orienta fixação e modulação de astreintes",
-      "descricao": "Artigo examina os critérios para fixação e modulação do valor das multas coercitivas a partir do entendimento do Superior Tribunal de Justiça.",
-      "data_publicacao": "2026-08-05T19:24:00-03:00",
-      "url": "https://conjur.com.br/2026-ago-05/tema-1-448-do-stj-astreintes-e-possiveis-criterios-para-fixacao-e-modulacao-do-valor-alcancado-pela-multa/",
-      "fonte": "Consultor Jurídico"
-    },
-    {
-      "titulo": "CNJ dispensa pagamento prévio de ITCMD em inventário extrajudicial",
-      "descricao": "O CNJ decidiu que o recolhimento antecipado do ITCMD não pode ser condição para a lavratura de escritura de inventário e partilha em cartório.",
-      "data_publicacao": "2026-08-20T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnj-dispensa-pagamento-previo-de-itcmd-em-inventario-extrajudicial/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Provimento nº 249/26 qualifica a Corregedoria Nacional de Justiça como ICT Pública",
-      "descricao": "O provimento incorpora pesquisa aplicada, desenvolvimento tecnológico e inovação à missão institucional da Corregedoria Nacional de Justiça.",
-      "data_publicacao": "2026-08-17T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/provimento-no-249-26-qualifica-a-corregedoria-nacional-de-justica-como-instituicao-cientifica-tecnologica-e-de-inovacao-ict-publica/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Portaria designa comissão do Exame Nacional dos Cartórios",
-      "descricao": "A Corregedoria Nacional de Justiça designou os integrantes da comissão responsável pelo Exame Nacional dos Cartórios, o ENAC.",
-      "data_publicacao": "2026-08-12T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/portaria-no-76-de-12-de-agosto-de-2026/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Corregedoria suspende temporariamente provimento que instituiu o VNS",
-      "descricao": "A eficácia do provimento que criou o Validador Nacional de Selos de Fiscalização dos Atos Notariais e Registrais foi suspensa por 60 dias.",
-      "data_publicacao": "2026-08-13T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-suspende-temporariamente-provimento-cn-cnj-n-247-2026/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Extrajudicial no agronegócio é tema de conteúdo do Colégio Notarial",
-      "descricao": "Conteúdo apresenta casos práticos e aspectos de segurança jurídica relacionados ao uso de soluções extrajudiciais no agronegócio.",
-      "data_publicacao": "2026-08-20T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/extrajudicial-no-agronegocio-casos-praticos-e-seguranca-juridica/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Seminário de Saúde Mental integra equipes e qualifica profissionais em Rio das Ostras",
-      "descricao": "O II Seminário Interno do Departamento de Saúde Mental reuniu profissionais para aprimorar fluxos de trabalho e o atendimento da Rede de Atenção Psicossocial.",
-      "data_publicacao": "2026-08-19T16:08:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/seminario-de-saude-mental-integra-equipes-e-qualifica-profissionais/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Rio das Ostras realiza Fórum Municipal do Artesanato",
-      "descricao": "O encontro reuniu artesãos do município para um dia de capacitação, diálogo, escuta e construção coletiva sobre o artesanato local.",
-      "data_publicacao": "2026-08-05T12:42:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-realiza-forum-municipal-do-artesanato/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    }
+    {"titulo":"Rio das Ostras e Casimiro unem forças contra alagamentos","descricao":"Rio das Ostras e Casimiro de Abreu anunciaram a união de equipes e esforços para enfrentar alagamentos em áreas próximas ao Canal de Medeiros. A iniciativa busca integrar ações municipais de prevenção e resposta a esse problema local.","data_publicacao":"2026-08-26T14:23:00-03:00","url":"https://odia.ig.com.br/rio-das-ostras/2026/08/7295424-rio-das-ostras-e-casimiro-unem-forcas-contra-alagamentos.html","fonte":"O Dia"},
+    {"titulo":"Rio das Ostras acompanha avanços da indústria na Navalshore 2026","descricao":"O município participou da Navalshore 2026, feira e conferência voltada à indústria marítima e offshore. A agenda acompanhou novas demandas do setor e oportunidades de desenvolvimento econômico regional.","data_publicacao":"2026-08-20T09:02:00-03:00","url":"https://www.riodasostras.rj.gov.br/rio-das-ostras-acompanha-novas-demandas-da-industria-naval-na-navalshore-2026/","fonte":"Prefeitura de Rio das Ostras"},
+    {"titulo":"Obras do Centro Integrado do Sesc Senac entram em reta final em Rio das Ostras","descricao":"As obras da unidade integrada do Sesc Senac em Rio das Ostras avançaram para a etapa de conclusão. O cronograma final foi apresentado com foco na entrega do equipamento de serviços e formação.","data_publicacao":"2026-08-21T16:25:00-03:00","url":"https://www.riodasostras.rj.gov.br/obras-da-unidade-sesc-senac-entra-em-reta-final/","fonte":"Prefeitura de Rio das Ostras"},
+    {"titulo":"Banco de Empregos oferece 477 vagas em Rio das Ostras","descricao":"O Banco de Empregos de Rio das Ostras abriu 477 oportunidades. As inscrições são realizadas presencialmente no Centro de Cidadania, durante o horário de atendimento ao público.","data_publicacao":"2026-08-03T08:58:00-03:00","url":"https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-477-vagas/","fonte":"Prefeitura de Rio das Ostras"},
+    {"titulo":"Adolescentes terão registro de padrasto como pai socioafetivo","descricao":"Decisão reconhece a filiação socioafetiva de adolescentes por vínculo construído com o padrasto, mantendo também o vínculo com o pai biológico. O entendimento prevê a averbação da filiação no registro civil.","data_publicacao":"2026-08-28T09:00:00-03:00","url":"https://conjur.com.br/2026-ago-28/justica-admite-o-reconhecimento-de-filiacao-construida-por-vinculo-afetivo/","fonte":"Consultor Jurídico"},
+    {"titulo":"Transmissão de servidão minerária gera debate sobre incidência de ITBI","descricao":"Análise jurídica discute a incidência de ITBI na transmissão de servidão minerária e os limites da competência municipal sobre o tributo. O texto examina a natureza do direito transmitido e a tipicidade tributária.","data_publicacao":"2026-08-06T09:00:00-03:00","url":"https://conjur.com.br/2026-ago-06/servidao-mineraria-e-a-nao-incidencia-do-itbi-tipicidade-tributaria-natureza-administrativa-e-limites-da-competencia-municipal/","fonte":"Consultor Jurídico"},
+    {"titulo":"Tema 1.448 do STJ orienta fixação e modulação de astreintes","descricao":"Artigo examina os critérios para fixação e modulação do valor das multas coercitivas a partir do entendimento do Superior Tribunal de Justiça. A análise reúne parâmetros jurídicos para a aplicação das astreintes.","data_publicacao":"2026-08-05T19:24:00-03:00","url":"https://conjur.com.br/2026-ago-05/tema-1-448-do-stj-astreintes-e-possiveis-criterios-para-fixacao-e-modulacao-do-valor-alcancado-pela-multa/","fonte":"Consultor Jurídico"},
+    {"titulo":"CNJ dispensa pagamento prévio de ITCMD em inventário extrajudicial","descricao":"O CNJ decidiu que o recolhimento antecipado do ITCMD não pode ser condição para a lavratura de escritura de inventário e partilha em cartório. A obrigação tributária permanece e deve ser comunicada ao Fisco.","data_publicacao":"2026-08-20T12:00:00-03:00","url":"https://www.notariado.org.br/cnj-dispensa-pagamento-previo-de-itcmd-em-inventario-extrajudicial/","fonte":"Colégio Notarial do Brasil"},
+    {"titulo":"Provimento nº 249/26 qualifica a Corregedoria Nacional como ICT Pública","descricao":"O provimento incorpora pesquisa aplicada, desenvolvimento tecnológico e inovação à missão institucional da Corregedoria Nacional de Justiça. A medida também inclui ciência de dados entre as capacidades voltadas ao aperfeiçoamento da atividade judiciária.","data_publicacao":"2026-08-17T12:00:00-03:00","url":"https://www.notariado.org.br/provimento-no-249-26-qualifica-a-corregedoria-nacional-de-justica-como-instituicao-cientifica-tecnologica-e-de-inovacao-ict-publica/","fonte":"Colégio Notarial do Brasil"},
+    {"titulo":"Portaria designa comissão do Exame Nacional dos Cartórios","descricao":"A Corregedoria Nacional de Justiça designou os integrantes da comissão responsável pelo Exame Nacional dos Cartórios, o ENAC. O ato organiza a condução institucional do exame voltado às serventias extrajudiciais.","data_publicacao":"2026-08-12T12:00:00-03:00","url":"https://www.notariado.org.br/portaria-no-76-de-12-de-agosto-de-2026/","fonte":"Colégio Notarial do Brasil"},
+    {"titulo":"Corregedoria suspende temporariamente provimento que instituiu o VNS","descricao":"A eficácia do provimento que criou o Validador Nacional de Selos de Fiscalização dos Atos Notariais e Registrais foi suspensa por 60 dias. O prazo será usado para compatibilizar cronogramas e avaliar os sistemas estaduais.","data_publicacao":"2026-08-13T12:00:00-03:00","url":"https://www.notariado.org.br/corregedoria-nacional-de-justica-suspende-temporariamente-provimento-cn-cnj-n-247-2026/","fonte":"Colégio Notarial do Brasil"},
+    {"titulo":"Extrajudicial no agronegócio é tema de conteúdo do Colégio Notarial","descricao":"Conteúdo apresenta casos práticos e aspectos de segurança jurídica relacionados ao uso de soluções extrajudiciais no agronegócio. A abordagem trata da atuação notarial em operações patrimoniais do setor.","data_publicacao":"2026-08-20T12:00:00-03:00","url":"https://www.notariado.org.br/extrajudicial-no-agronegocio-casos-praticos-e-seguranca-juridica/","fonte":"Colégio Notarial do Brasil"},
+    {"titulo":"Rio das Ostras realiza Fórum Municipal do Artesanato","descricao":"O Fórum Municipal do Artesanato reuniu artesãos de Rio das Ostras para capacitação, diálogo e construção coletiva. O encontro tratou de iniciativas de valorização e organização do artesanato local.","data_publicacao":"2026-08-05T12:42:00-03:00","url":"https://www.riodasostras.rj.gov.br/rio-das-ostras-realiza-forum-municipal-do-artesanato/","fonte":"Prefeitura de Rio das Ostras"},
+    {"titulo":"Rio de Janeiro terá primeira Lei de Responsabilidade Fiscal estadual","descricao":"O Estado do Rio de Janeiro prepara uma proposta de Lei de Responsabilidade Fiscal própria. A medida pretende estabelecer regras estaduais para planejamento e controle das contas públicas.","data_publicacao":"2026-08-25T09:00:00-03:00","url":"https://extra.globo.com/economia/servidor-publico/noticia/2026/08/rio-de-janeiro-tera-primeira-lei-de-responsabilidade-fiscal-estadual.ghtml","fonte":"Extra"}
   ]
 }
