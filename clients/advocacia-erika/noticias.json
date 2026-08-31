@@ -1,96 +1,16 @@
 {
-  "data-busca": "2026-08-30T19:48:58-03:00",
+  "data-busca": "2026-08-31T10:01:09-03:00",
   "noticias": [
-    {
-      "titulo": "Orientação do CNJ sobre o ITCMD resolve apenas parte da questão",
-      "descricao": "A orientação do Conselho Nacional de Justiça admite a lavratura de inventário extrajudicial sem o pagamento prévio do ITCMD, mantendo a obrigação tributária e a comunicação ao Fisco. A análise destaca que os efeitos no Registro de Imóveis ainda devem ser examinados à luz da legislação estadual.",
-      "data_publicacao": "2026-08-26T09:00:00-03:00",
-      "url": "https://conjur.com.br/2026-ago-26/orientacao-do-cnj-sobre-o-itcmd-resolve-apenas-parte-da-questao/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "CNJ restaurou força do instrumento particular na alienação fiduciária",
-      "descricao": "Decisão do CNJ afastou restrições administrativas à formalização de alienação fiduciária de imóveis por instrumento particular com efeitos de escritura pública. O entendimento retoma a interpretação ampla do artigo 38 da Lei nº 9.514/1997 e pode reduzir etapas formais em operações fora do SFH e do SFI.",
-      "data_publicacao": "2026-08-05T09:00:00-03:00",
-      "url": "https://conjur.com.br/2026-ago-05/cnj-restaurou-forca-do-instrumento-particular-na-alienacao-fiduciaria/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "O direito de construir, volumes e aproveitamento urbanístico",
-      "descricao": "Artigo examina a distinção entre o direito de propriedade e o direito de construir, que permanece sujeito à função social e às normas urbanísticas. Estatuto da Cidade, planos diretores e regras de uso do solo são apontados como referências para a análise do aproveitamento dos imóveis.",
-      "data_publicacao": "2026-08-19T09:00:00-03:00",
-      "url": "https://conjur.com.br/2026-ago-19/o-direito-de-construir-volumes-e-aproveitamento-urbanistico/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Venda de imóvel de espólio sem consultar todos os herdeiros é inválida",
-      "descricao": "Decisão judicial declarou nulo compromisso de compra e venda de imóvel pertencente a espólio porque parte dos herdeiros negociou a área sem autorização judicial e sem a participação de todos os sucessores. O caso reforça a necessidade de verificar a situação sucessória e a representação adequada antes da contratação imobiliária.",
-      "data_publicacao": "2026-08-26T09:00:00-03:00",
-      "url": "https://conjur.com.br/2026-ago-26/venda-de-imovel-de-espolio-sem-consultar-todos-os-herdeiros-e-invalida/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "CNJ dispensa pagamento prévio de ITCMD em inventário extrajudicial",
-      "descricao": "O plenário do CNJ decidiu que o recolhimento antecipado do ITCMD não pode ser condição para a lavratura de escrituras de inventário e partilha em cartório. A escritura deverá registrar a ciência das partes sobre a obrigação tributária, e o ato será comunicado à Fazenda estadual.",
-      "data_publicacao": "2026-08-19T09:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnj-dispensa-pagamento-previo-de-itcmd-em-inventario-extrajudicial/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Nova política unifica normas de concursos estaduais para cartórios",
-      "descricao": "O CNJ aprovou uma nova política nacional para concursos de outorga de delegações de notas e de registro, substituindo a Resolução CNJ nº 81/2009. O texto prevê bancas especializadas e maior supervisão da Corregedoria Nacional de Justiça durante as etapas dos certames.",
-      "data_publicacao": "2026-08-20T09:00:00-03:00",
-      "url": "https://www.notariado.org.br/nova-politica-unifica-normas-de-concursos-estaduais-para-cartorios/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Corregedoria Nacional suspende temporariamente o Provimento CN-CNJ nº 247/2026",
-      "descricao": "A Corregedoria Nacional de Justiça suspendeu por 60 dias a eficácia do provimento que instituiu o Validador Nacional de Selos de Fiscalização dos Atos Notariais e Registrais. A decisão considera a necessidade de compatibilizar cronogramas de implantação e obter diagnóstico dos sistemas estaduais antes da integração nacional.",
-      "data_publicacao": "2026-08-14T09:00:00-03:00",
-      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-suspende-temporariamente-provimento-cn-cnj-n-247-2026/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Provimento nº 249/26 qualifica a Corregedoria Nacional como ICT Pública",
-      "descricao": "O Provimento nº 249/2026 qualifica a Corregedoria Nacional de Justiça como Instituição Científica, Tecnológica e de Inovação Pública. A medida incorpora pesquisa aplicada, desenvolvimento tecnológico, ciência de dados e inovação entre as capacidades institucionais voltadas ao aperfeiçoamento da atividade judiciária.",
-      "data_publicacao": "2026-08-17T09:00:00-03:00",
-      "url": "https://www.notariado.org.br/provimento-no-249-26-qualifica-a-corregedoria-nacional-de-justica-como-instituicao-cientifica-tecnologica-e-de-inovacao-ict-publica/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "CNJ e Banco Central reforçam mecanismos de proteção na transferência de precatórios",
-      "descricao": "Portaria conjunta criou grupo executivo para desenvolver as bases de um sistema nacional de registro, rastreabilidade e controle da cessão de créditos de precatórios. A proposta prevê integração de informações de tribunais, cartórios e entidades autorizadas ao longo da negociação até o pagamento.",
-      "data_publicacao": "2026-08-13T09:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnj-e-banco-central-reforcam-mecanismos-de-protecao-na-transferencia-de-precatorios/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Reurb de São José inicia levantamento topográfico no Loteamento José Nitro",
-      "descricao": "A Secretaria de Regularização Fundiária de São José iniciou o levantamento topográfico de núcleo urbano no bairro Serraria. A atividade integra as etapas técnicas de um procedimento de Regularização Fundiária Urbana e deverá subsidiar a continuidade da análise do loteamento.",
-      "data_publicacao": "2026-08-27T09:00:00-03:00",
-      "url": "https://saojose.sc.gov.br/reurb-de-sao-jose-inicia-levantamento-topografico-no-loteamento-jose-nitro-em-serraria/105868/",
-      "fonte": "Prefeitura de São José (SC)"
-    },
-    {
-      "titulo": "Mercado imobiliário sob pressão é prova de fogo para CRIs",
-      "descricao": "Levantamento sobre o mercado imobiliário aponta aumento dos pedidos de recuperação judicial entre incorporadoras e efeitos sobre os Certificados de Recebíveis Imobiliários. O cenário é apresentado como fator de atenção para a análise de risco e para a estruturação de operações com recebíveis do setor.",
-      "data_publicacao": "2026-08-10T09:00:00-03:00",
-      "url": "https://valorinveste.globo.com/produtos/renda-fixa/cri-e-cra/noticia/2026/08/10/mercado-imobiliario-sob-pressao-e-prova-de-fogo-para-cris.ghtml",
-      "fonte": "Valor Investe"
-    },
-    {
-      "titulo": "Pessoa física e patrimônio imobiliário na reforma tributária",
-      "descricao": "Análise aborda os impactos da reforma tributária sobre operações imobiliárias realizadas por pessoas físicas. O texto destaca a identificação cadastral do imóvel e os dados necessários para a documentação fiscal de operações sujeitas ao novo sistema.",
-      "data_publicacao": "2026-08-09T09:00:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/462065/pessoa-fisica-e-patrimonio-imobiliario-na-reforma-tributaria",
-      "fonte": "Migalhas"
-    },
-    {
-      "titulo": "Escritura pública nos contratos: entendimento do STJ",
-      "descricao": "Artigo examina a exigência de escritura pública e as exceções reconhecidas pelo Superior Tribunal de Justiça em negócios imobiliários e sucessórios. A análise relaciona a forma do negócio aos efeitos de validade e prova previstos na legislação civil.",
-      "data_publicacao": "2026-08-09T09:00:00-03:00",
-      "url": "https://www.migalhas.com.br/coluna/migalhas-contratuais/462072/escritura-publica-nos-contratos-entendimento-do-stj",
-      "fonte": "Migalhas"
-    }
+    {"titulo":"Venda de imóvel de espólio sem todos os herdeiros é inválida","descricao":"Decisão da Justiça de Santa Catarina considerou nulo compromisso de compra e venda firmado apenas com parte dos herdeiros de imóvel pertencente a espólio. O caso reforça a necessidade de verificar a legitimidade de todos os envolvidos na transmissão patrimonial.","data_publicacao":"2026-08-26T12:00:00-03:00","url":"https://conjur.com.br/2026-ago-26/venda-de-imovel-de-espolio-sem-consultar-todos-os-herdeiros-e-invalida/","fonte":"Conjur"},
+    {"titulo":"Inventário extrajudicial não exigirá mais antecipação de ITCMD","descricao":"O CNJ decidiu que o pagamento antecipado do ITCMD não será condição para a lavratura de escritura de inventário e partilha extrajudicial. A medida preserva a necessidade de informação fiscal e de comunicação ao Fisco.","data_publicacao":"2026-08-22T15:52:00-03:00","url":"https://conjur.com.br/2026-ago-22/inventario-extrajudicial-nao-exigira-mais-antecipacao-de-imposto-sobre-transmissao/","fonte":"Conjur"},
+    {"titulo":"Orientação do CNJ sobre o ITCMD resolve apenas parte da questão","descricao":"Artigo analisa os efeitos da orientação do CNJ que afastou o recolhimento prévio do ITCMD em inventários extrajudiciais. O texto destaca que permanecem obrigações de informação e comunicação tributária relacionadas ao ato notarial.","data_publicacao":"2026-08-26T12:00:00-03:00","url":"https://conjur.com.br/2026-ago-26/orientacao-do-cnj-sobre-o-itcmd-resolve-apenas-parte-da-questao/","fonte":"Conjur"},
+    {"titulo":"Bloqueio de matrícula de imóvel já não impede todo ato registral","descricao":"Análise aborda mudanças atribuídas ao Provimento CNJ nº 224/2026 sobre os efeitos do bloqueio de matrícula. A norma relativiza o alcance da restrição e exige avaliação do ato registral pretendido em cada situação.","data_publicacao":"2026-08-13T12:00:00-03:00","url":"https://conjur.com.br/2026-ago-13/bloqueio-de-matricula-apos-o-provimento-cnj-224-o-bloqueio-ja-nao-impede-todo-ato-registral/","fonte":"Conjur"},
+    {"titulo":"O funcionamento do direito de construir no cotidiano das cidades","descricao":"Artigo examina a aplicação urbanística do direito de construir e de seus volumes em cidades planejadas. A discussão relaciona instrumentos de planejamento urbano à utilização e à regulação jurídica do espaço imobiliário.","data_publicacao":"2026-08-19T12:00:00-03:00","url":"https://conjur.com.br/2026-ago-19/o-direito-de-construir-volumes-e-aproveitamento-urbanistico/","fonte":"Conjur"},
+    {"titulo":"Compra e venda pelo espólio: inventariante na escritura definitiva","descricao":"Coluna notarial aborda a participação do inventariante na formalização da escritura definitiva de compra e venda pelo espólio. O procedimento é apresentado como forma de dar continuidade a obrigações assumidas em vida e distinguir as incidências tributárias pertinentes.","data_publicacao":"2026-08-24T12:00:00-03:00","url":"https://www.migalhas.com.br/coluna/migalhas-notariais-e-registrais/461867/compra-e-venda-pelo-espolio-inventariante-na-escritura-definitiva","fonte":"Migalhas"},
+    {"titulo":"STJ afasta de herança imóveis transferidos em acordo de alimentos","descricao":"O STJ decidiu que imóveis transferidos a filhos em acordo celebrado em ação de alimentos não devem ser levados à colação no inventário do pai. O entendimento trata da natureza da transferência realizada antes da abertura da sucessão.","data_publicacao":"2026-08-17T12:00:00-03:00","url":"https://www.migalhas.com.br/quentes/462642/stj-afasta-de-heranca-imoveis-transferidos-a-filhos-em-acordo-de-alimentos","fonte":"Migalhas"},
+    {"titulo":"Sucessão do cônjuge e a reforma do Código Civil","descricao":"Análise discute a posição do cônjuge sobrevivente na sucessão legítima diante das propostas de reforma do Código Civil. O texto também contextualiza dados recentes sobre pactos antenupciais e organização patrimonial.","data_publicacao":"2026-08-16T12:00:00-03:00","url":"https://conjur.com.br/2026-ago-16/ainda-sobre-a-sucessao-do-conjuge-a-reforma-do-codigo-civil-e-as-criticas-nas-redes-sociais/","fonte":"Conjur"},
+    {"titulo":"Divórcio do sócio e os efeitos patrimoniais sobre as quotas","descricao":"Artigo examina os efeitos patrimoniais do divórcio de um sócio à luz de precedente do STJ. A análise diferencia a titularidade econômica das quotas da participação na atividade societária.","data_publicacao":"2026-08-17T12:00:00-03:00","url":"https://conjur.com.br/2026-ago-17/o-divorcio-do-socio-a-crise-societaria-que-quase-ninguem-enxerga/","fonte":"Conjur"},
+    {"titulo":"CNJ dispensa pagamento prévio de ITCMD em inventário extrajudicial","descricao":"O Colégio Notarial do Brasil informa decisão unânime do CNJ que retirou o pagamento prévio do ITCMD como condição para escrituras de inventário e partilha. A alteração modifica a aplicação de trecho da Resolução CNJ nº 35/2007.","data_publicacao":"2026-08-19T12:00:00-03:00","url":"https://www.notariado.org.br/cnj-dispensa-pagamento-previo-de-itcmd-em-inventario-extrajudicial/","fonte":"Colégio Notarial do Brasil"},
+    {"titulo":"A reforma do Código Civil vai deixar as viúvas sem nada?","descricao":"Artigo analisa propostas de reforma do Código Civil relacionadas à proteção do cônjuge sobrevivente e ao Direito das Sucessões. O texto discute possíveis reorganizações da ordem hereditária e seus efeitos no planejamento patrimonial.","data_publicacao":"2026-08-10T12:00:00-03:00","url":"https://conjur.com.br/2026-ago-10/a-reforma-do-codigo-civil-vai-deixar-as-viuvas-sem-nada/","fonte":"Conjur"}
   ]
 }
