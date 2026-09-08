@@ -1,89 +1,17 @@
 {
-  "data-busca": "2026-09-07T10:01:07-03:00",
+  "data-busca": "2026-09-08T10:00:59-03:00",
   "noticias": [
-    {
-      "titulo": "Rio das Ostras intensifica ações de recapeamento e manutenção viária",
-      "descricao": "A Secretaria de Serviços Públicos mobilizou equipes para recapeamento, patrolamento e nivelamento em diferentes localidades. As ações buscam melhorar as condições de circulação nas vias municipais.",
-      "data_publicacao": "2026-09-06T08:00:00-03:00",
-      "url": "https://tvprefeito.com/rio-das-ostras-intensifica-acoes-de-recapeamento-e-manutencao-viaria/",
-      "fonte": "TV Prefeito"
-    },
-    {
-      "titulo": "Rio das Ostras reaproveita guarda-corpos e cria novos bicicletários",
-      "descricao": "O município instalou novos bicicletários a partir do reaproveitamento de guarda-corpos. A iniciativa amplia a estrutura para ciclistas e incentiva alternativas de mobilidade urbana.",
-      "data_publicacao": "2026-09-02T08:00:00-03:00",
-      "url": "https://tvprefeito.com/rio-das-ostras-reaproveita-guarda-corpos-e-cria-novos-bicicletarios/",
-      "fonte": "TV Prefeito"
-    },
-    {
-      "titulo": "Rio+Saneamento reforça atendimento à população de Rio das Ostras",
-      "descricao": "A concessionária anunciou ações itinerantes de atendimento em bairros de Rio das Ostras durante setembro. A programação também prevê participação em mutirão do Procon para renegociação de dívidas.",
-      "data_publicacao": "2026-09-01T08:00:00-03:00",
-      "url": "https://tvprefeito.com/riosaneamento-reforca-atendimento-a-populacao-de-rio-das-ostras-com-acoes-itinerantes-e-presenca-no-feirao-do-procon-em-setembro/",
-      "fonte": "TV Prefeito"
-    },
-    {
-      "titulo": "Rio das Ostras recebe Travessia e Aquathlon da Independência",
-      "descricao": "A Praia do Centro recebeu provas aquáticas e combinadas durante o feriado da Independência. O evento integrou a agenda esportiva e turística do município.",
-      "data_publicacao": "2026-09-02T08:00:00-03:00",
-      "url": "https://abihrj.com.br/noticias-prefeituras/travessia-aquathlon-independencia-rio-das-ostras-2026",
-      "fonte": "ABIH-RJ"
-    },
-    {
-      "titulo": "Iguaba Grande recebe capacitação do TCE-RJ",
-      "descricao": "O programa ECG Presente levou capacitação da Escola de Contas e Gestão do TCE-RJ a Iguaba Grande. A atividade tratou de aperfeiçoamento da administração pública municipal.",
-      "data_publicacao": "2026-09-04T10:32:00-03:00",
-      "url": "https://iguaba.rj.gov.br/iguaba-grande-recebe-capacitacao-do-tce-rj-por-meio-do-programa-ecg-presente/",
-      "fonte": "Prefeitura de Iguaba Grande"
-    },
-    {
-      "titulo": "Recuperação de imóveis históricos avança no Centro do Rio",
-      "descricao": "Publicação oficial apresenta medidas relacionadas à recuperação de imóveis históricos no Centro do Rio de Janeiro. O conteúdo envolve gestão urbana e preservação do patrimônio construído.",
-      "data_publicacao": "2026-08-20T08:00:00-03:00",
-      "url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/14911",
-      "fonte": "Diário Oficial do Município do Rio de Janeiro"
-    },
-    {
-      "titulo": "Vendedor deve informar restrições para uso e locação de imóvel",
-      "descricao": "Decisão analisou a responsabilidade do vendedor por informar limitações de uso e locação do imóvel. O entendimento relaciona o dever de informação às regras aplicáveis às incorporações imobiliárias.",
-      "data_publicacao": "2026-09-07T09:40:00-03:00",
-      "url": "https://conjur.com.br/2026-set-07/vendedor-deve-informar-restricoes-para-uso-e-locacao-de-imovel/",
-      "fonte": "Consultor Jurídico"
-    },
-    {
-      "titulo": "Por que a morte do comprador não encerra o direito ao imóvel",
-      "descricao": "O STJ reconheceu que o compromisso de compra e venda de imóvel pode ser transmitido aos sucessores do comprador. A decisão tratou da transmissibilidade causa mortis mesmo quando o compromisso ainda não estava registrado.",
-      "data_publicacao": "2026-09-04T08:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-04/stj-diz-por-que-a-morte-do-comprador-nao-encerra-o-direito-ao-imovel/",
-      "fonte": "Consultor Jurídico"
-    },
-    {
-      "titulo": "A reforma do Código Civil vai deixar as viúvas sem nada?",
-      "descricao": "O texto analisa possíveis mudanças no Direito de Família e das Sucessões discutidas na reforma do Código Civil. O foco está na proteção patrimonial do cônjuge e do companheiro e nos efeitos sobre a sucessão legítima.",
-      "data_publicacao": "2026-08-10T08:00:00-03:00",
-      "url": "https://conjur.com.br/2026-ago-10/a-reforma-do-codigo-civil-vai-deixar-as-viuvas-sem-nada/",
-      "fonte": "Consultor Jurídico"
-    },
-    {
-      "titulo": "CNJ publica Resolução nº 695/26 e altera regra sobre ITCMD em escrituras públicas",
-      "descricao": "O CNJ publicou resolução que altera regra relacionada ao recolhimento do ITCMD em escrituras públicas. A mudança repercute nos procedimentos notariais e na documentação de atos patrimoniais.",
-      "data_publicacao": "2026-08-27T08:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnj-publica-resolucao-no-695-26-sobre-e-altera-artigo-sobre-recolhimento-de-itcmd-em-escrituras-publicas/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "CNJ dispensa pagamento prévio de ITCMD em inventário extrajudicial",
-      "descricao": "Decisão do CNJ estabeleceu que o pagamento prévio do ITCMD não pode ser exigido como condição para a lavratura da escritura de inventário e partilha. O entendimento afeta a tramitação de inventários realizados em cartório.",
-      "data_publicacao": "2026-08-20T08:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnj-dispensa-pagamento-previo-de-itcmd-em-inventario-extrajudicial/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Nova política unifica normas de concursos estaduais para cartórios",
-      "descricao": "O Colégio Notarial do Brasil divulgou informação sobre uma política de harmonização das normas de concursos estaduais para cartórios. A iniciativa trata de procedimentos e critérios relacionados ao ingresso na atividade extrajudicial.",
-      "data_publicacao": "2026-08-20T08:00:00-03:00",
-      "url": "https://www.notariado.org.br/nova-politica-unifica-normas-de-concursos-estaduais-para-cartorios/",
-      "fonte": "Colégio Notarial do Brasil"
-    }
+    {"titulo":"Rio das Ostras intensifica ações de recapeamento e manutenção viária","descricao":"Equipes municipais ampliaram os serviços de manutenção e recapeamento de vias em Rio das Ostras. A ação busca melhorar as condições de circulação e a conservação da infraestrutura urbana.","data_publicacao":"2026-09-06T12:00:00-03:00","url":"https://tvprefeito.com/rio-das-ostras-intensifica-acoes-de-recapeamento-e-manutencao-viaria/","fonte":"TV Prefeito"},
+    {"titulo":"Conselho de Turismo aprova proposta de fundo para o setor","descricao":"O Conselho Municipal de Turismo de Rio das Ostras aprovou a minuta de criação do Fundo Municipal de Turismo. A proposta pretende apoiar ações e projetos de fortalecimento da atividade turística local.","data_publicacao":"2026-09-03T12:00:00-03:00","url":"https://abihrj.com.br/destinos/rio-ostras-comtur-proposta-fundo-turismo-setembro-2026","fonte":"ABIH-RJ"},
+    {"titulo":"Rio das Ostras terá atendimento itinerante de água","descricao":"A Rio+Saneamento programou atendimento itinerante em diferentes bairros de Rio das Ostras ao longo de setembro. A iniciativa aproxima dos moradores os serviços de orientação e atendimento da concessionária.","data_publicacao":"2026-09-01T12:00:00-03:00","url":"https://odia.ig.com.br/rio-das-ostras/2026/09/7297392-rio-das-ostras-tera-atendimento-de-agua-mais-perto-dos-moradores.html","fonte":"O Dia"},
+    {"titulo":"Cehab entrega 52 títulos de propriedade a moradores","descricao":"A Companhia Estadual de Habitação do Rio de Janeiro entregou 52 títulos de propriedade a famílias de conjuntos habitacionais. A medida amplia a formalização da titularidade dos imóveis no estado.","data_publicacao":"2026-09-01T12:00:00-03:00","url":"https://tvprefeito.com/cehab-entrega-52-titulos-de-propriedade-a-moradores-de-conjuntos-habitacionais/","fonte":"TV Prefeito"},
+    {"titulo":"Complexo do Alemão terá urbanização e 192 moradias","descricao":"Projeto apresentado no Rio prevê redes de água e esgoto, pavimentação, regularização fundiária e construção de 192 unidades habitacionais. O investimento anunciado para as obras é de R$ 210 milhões.","data_publicacao":"2026-09-06T12:00:00-03:00","url":"https://ejornais.com.br/index.php/2026/09/07/complexo-do-alemao-vai-receber-r-210-milhoes-em-obras-de-infraestrutura-prefeitura-do-rio-de-janeiro/","fonte":"eJornais"},
+    {"titulo":"Moradores de Padre Miguel recebem títulos de propriedade","descricao":"Cerca de 2 mil moradores de um conjunto habitacional da Zona Oeste do Rio receberam títulos de propriedade. A entrega representa uma etapa de regularização documental de imóveis residenciais.","data_publicacao":"2026-08-15T12:00:00-03:00","url":"https://diariodorio.com/cerca-de-2-mil-moradores-de-padre-miguel-recebem-titulos-de-propriedade","fonte":"Diário do Rio"},
+    {"titulo":"Por que a morte do comprador não encerra o direito ao imóvel","descricao":"O STJ examinou a transmissão da posição contratual do comprador falecido e a adjudicação compulsória. A decisão tem impacto sobre sucessões relacionadas a compromissos de compra e venda de imóveis.","data_publicacao":"2026-09-04T12:00:00-03:00","url":"https://conjur.com.br/2026-set-04/stj-diz-por-que-a-morte-do-comprador-nao-encerra-o-direito-ao-imovel/","fonte":"Consultor Jurídico"},
+    {"titulo":"O país precisa adotar um modelo de seguro imobiliário?","descricao":"O artigo compara mecanismos de proteção de transações imobiliárias e destaca o papel da matrícula e dos registros públicos no Brasil. O debate trata de segurança jurídica sem propor alteração imediata do modelo nacional.","data_publicacao":"2026-08-23T12:00:00-03:00","url":"https://conjur.com.br/2026-ago-23/o-pais-precisa-adotar-um-modelo-de-seguro-imobiliario/","fonte":"Consultor Jurídico"},
+    {"titulo":"Orientação do CNJ sobre o ITCMD resolve apenas parte da questão","descricao":"O CNJ afastou o pagamento prévio do ITCMD como condição para a escritura de inventário extrajudicial. A orientação mantém a comunicação fiscal e altera procedimentos observados nos cartórios.","data_publicacao":"2026-08-26T12:00:00-03:00","url":"https://conjur.com.br/2026-ago-26/orientacao-do-cnj-sobre-o-itcmd-resolve-apenas-parte-da-questao/","fonte":"Consultor Jurídico"},
+    {"titulo":"CNJ dispensa pagamento prévio de ITCMD em inventário extrajudicial","descricao":"O Colégio Notarial informou a decisão que impede a exigência de recolhimento antecipado do ITCMD para lavrar a escritura de inventário. O imposto continua devido conforme a legislação aplicável.","data_publicacao":"2026-08-20T12:00:00-03:00","url":"https://www.notariado.org.br/cnj-dispensa-pagamento-previo-de-itcmd-em-inventario-extrajudicial/","fonte":"Colégio Notarial do Brasil"},
+    {"titulo":"CNJ publica resolução sobre ITCMD em escrituras públicas","descricao":"A Resolução CNJ nº 695/2026 atualiza regra sobre o recolhimento do ITCMD em escrituras públicas. O ato orienta a atividade notarial e a comunicação das informações às autoridades fiscais.","data_publicacao":"2026-08-27T12:00:00-03:00","url":"https://www.notariado.org.br/cnj-publica-resolucao-no-695-26-sobre-e-altera-artigo-sobre-recolhimento-de-itcmd-em-escrituras-publicas/","fonte":"Colégio Notarial do Brasil"},
+    {"titulo":"Extrajudicial no agronegócio: casos práticos e segurança jurídica","descricao":"O CNB apresentou aplicações da atividade extrajudicial em operações do agronegócio. O conteúdo destaca a formalização de negócios e a prevenção de disputas por meio de atos notariais.","data_publicacao":"2026-08-20T12:00:00-03:00","url":"https://www.notariado.org.br/extrajudicial-no-agronegocio-casos-praticos-e-seguranca-juridica/","fonte":"Colégio Notarial do Brasil"}
   ]
 }
