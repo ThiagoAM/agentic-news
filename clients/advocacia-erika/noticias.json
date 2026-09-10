@@ -1,16 +1,96 @@
 {
-  "data-busca": "2026-09-09T10:01:08-03:00",
+  "data-busca": "2026-09-10T00:56:39-03:00",
   "noticias": [
-    {"titulo":"Separação obrigatória de bens impede inclusão como herdeira necessária","descricao":"Decisão do TJ-MS reafirmou que a separação obrigatória de bens pode afastar a concorrência sucessória do companheiro com os descendentes. A exceção depende da comprovação de esforço comum na aquisição do patrimônio.","data_publicacao":"2026-09-09T08:23:00-03:00","url":"https://conjur.com.br/2026-set-09/separacao-obrigatoria-de-bens-impede-inclusao-como-herdeira-necessaria/","fonte":"Consultor Jurídico"},
-    {"titulo":"CNJ dispensa pagamento prévio de ITCMD em inventário extrajudicial","descricao":"O CNJ decidiu que o pagamento antecipado do ITCMD não será exigido para a lavratura de escrituras de inventário e partilha extrajudicial. A medida altera a dinâmica do procedimento e mantém a responsabilidade tributária prevista em lei.","data_publicacao":"2026-08-19T10:00:00-03:00","url":"https://www.notariado.org.br/cnj-dispensa-pagamento-previo-de-itcmd-em-inventario-extrajudicial/","fonte":"Colégio Notarial do Brasil"},
-    {"titulo":"Morte do comprador não encerra direito ao imóvel","descricao":"O STJ reconheceu a transmissibilidade causa mortis do compromisso de compra e venda de imóvel, mesmo sem registro. O entendimento também tratou da indenização relacionada à impossibilidade de adjudicação compulsória.","data_publicacao":"2026-09-04T09:00:00-03:00","url":"https://conjur.com.br/2026-set-04/stj-diz-por-que-a-morte-do-comprador-nao-encerra-o-direito-ao-imovel/","fonte":"Consultor Jurídico"},
-    {"titulo":"CNJ amplia liberdade de forma na constituição de alienação fiduciária","descricao":"A Corregedoria Nacional de Justiça afastou restrições à formalização, por instrumento particular, de alienação fiduciária de imóveis em certas operações. A decisão alcança credores que não integram o SFH ou o SFI.","data_publicacao":"2026-09-03T15:34:00-03:00","url":"https://www.migalhas.com.br/depeso/463805/cnj-amplia-liberdade-de-forma-na-constituicao-de-alienacao-fiduciaria","fonte":"Migalhas"},
-    {"titulo":"STF retoma julgamento sobre ITBI no capital social de imobiliárias","descricao":"O Plenário do STF retomou a análise da imunidade de ITBI na transferência de imóveis para integralização de capital social. O caso examina os limites da regra quando a empresa atua com compra, venda ou locação de imóveis.","data_publicacao":"2026-09-02T10:00:00-03:00","url":"https://conjur.com.br/2026-set-02/stf-reinicia-julgamento-de-imunidade-de-itbi-para-capital-social-de-imobiliarias/","fonte":"Consultor Jurídico"},
-    {"titulo":"Compra e venda pelo espólio exige atuação do inventariante na escritura","descricao":"Artigo analisa a representação do espólio pelo inventariante para receber escritura definitiva de imóvel adquirido pelo falecido. A operação pode envolver ITBI na aquisição e ITCD na transmissão aos sucessores.","data_publicacao":"2026-08-26T10:00:00-03:00","url":"https://www.migalhas.com.br/coluna/migalhas-notariais-e-registrais/461867/compra-e-venda-pelo-espolio-inventariante-na-escritura-definitiva","fonte":"Migalhas"},
-    {"titulo":"Sucessão do cônjuge é debatida na reforma do Código Civil","descricao":"Análise examina possíveis mudanças na posição sucessória do cônjuge e do companheiro no projeto de reforma do Código Civil. O texto diferencia a condição de herdeiro legítimo, a concorrência sucessória e a herança necessária.","data_publicacao":"2026-08-16T10:00:00-03:00","url":"https://conjur.com.br/2026-ago-16/ainda-sobre-a-sucessao-do-conjuge-a-reforma-do-codigo-civil-e-as-criticas-nas-redes-sociais/","fonte":"Consultor Jurídico"},
-    {"titulo":"Solução alternativa para a sucessão do cônjuge é analisada","descricao":"Artigo discute alternativas para a sucessão do cônjuge no contexto da proposta de reforma do Código Civil. A análise compara regras brasileiras e referências do direito português.","data_publicacao":"2026-09-06T10:00:00-03:00","url":"https://conjur.com.br/2026-set-06/uma-solucao-alternativa-para-a-sucessao-do-conjuge-no-projeto-de-reforma-do-codigo-civil/","fonte":"Consultor Jurídico"},
-    {"titulo":"Novos caminhos para testamentos e inventário extrajudicial entram em debate","descricao":"Especialistas analisaram mudanças em testamentos, sucessões, inventário extrajudicial e herança digital. O debate ajuda a contextualizar os efeitos práticos das transformações recentes no direito sucessório.","data_publicacao":"2026-08-26T10:00:00-03:00","url":"https://www.migalhas.com.br/autor/flavio-tartuce","fonte":"Migalhas"},
-    {"titulo":"Austeridade fiscal limita financiamento habitacional e direito à moradia","descricao":"Artigo avalia como a redução da provisão pública afeta o financiamento da habitação de interesse social. A discussão relaciona crédito imobiliário, capacidade de endividamento e acesso à moradia.","data_publicacao":"2026-09-08T10:00:00-03:00","url":"https://conjur.com.br/2026-set-08/austeridade-fiscal-e-financiamento-habitacional-no-brasil/","fonte":"Consultor Jurídico"},
-    {"titulo":"Migalhas debate temas atuais do Direito Imobiliário","descricao":"Evento programado para setembro reúne discussões sobre temas contemporâneos do Direito Imobiliário. A programação aborda questões relevantes para contratos, propriedade e negócios imobiliários.","data_publicacao":"2026-09-08T07:41:00-03:00","url":"https://eventos.migalhas.com.br/evento/260/direito_imobiliario","fonte":"Migalhas"}
+    {
+      "titulo": "Separação obrigatória de bens impede inclusão como herdeira necessária",
+      "descricao": "Decisão do Tribunal de Justiça de Mato Grosso do Sul aplicou o regime de separação obrigatória vigente no início da união estável e afastou a concorrência sucessória da companheira com os descendentes. O entendimento ressalva a possibilidade de comunicação de patrimônio adquirido com esforço comum comprovado.",
+      "data_publicacao": "2026-09-09T08:23:51-03:00",
+      "url": "https://conjur.com.br/2026-set-09/separacao-obrigatoria-de-bens-impede-inclusao-como-herdeira-necessaria/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Austeridade limita financiamento habitacional e direito à moradia",
+      "descricao": "Artigo analisa como a austeridade fiscal pode reduzir o espaço orçamentário para financiamento habitacional, urbanização e regularização fundiária. A reflexão relaciona restrições ao crédito e ao investimento público com a efetivação do direito constitucional à moradia.",
+      "data_publicacao": "2026-09-08T20:21:33-03:00",
+      "url": "https://conjur.com.br/2026-set-08/austeridade-fiscal-e-financiamento-habitacional-no-brasil/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Solução alternativa para sucessão do cônjuge no projeto de reforma do Código Civil",
+      "descricao": "Artigo discute alternativas para equilibrar a proteção do cônjuge sobrevivente e a autonomia privada nas propostas de modernização do Direito das Sucessões. O texto examina possíveis ajustes ao regime de concorrência sucessória e à condição de herdeiro necessário, sem tratar a reforma como aprovada.",
+      "data_publicacao": "2026-09-06T08:00:59-03:00",
+      "url": "https://conjur.com.br/2026-set-06/uma-solucao-alternativa-para-a-sucessao-do-conjuge-no-projeto-de-reforma-do-codigo-civil/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Por que a morte do comprador não encerra o direito ao imóvel",
+      "descricao": "Análise baseada no princípio da saisine explica que o direito do comprador que quitou o imóvel e não recebeu a escritura pode ser transmitido aos herdeiros. O texto relaciona esse entendimento à jurisprudência do STJ sobre compromisso de compra e venda e adjudicação compulsória.",
+      "data_publicacao": "2026-09-04T21:22:33-03:00",
+      "url": "https://conjur.com.br/2026-set-04/stj-diz-por-que-a-morte-do-comprador-nao-encerra-o-direito-ao-imovel/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Regime escalonado de bens: valoração da autonomia da vontade",
+      "descricao": "Artigo examina a autonomia dos nubentes para organizar o regime patrimonial e a necessidade de compatibilizar pactos com normas de ordem pública. A abordagem destaca a função do registro e da clareza dos acordos para reduzir incertezas nas relações familiares.",
+      "data_publicacao": "2026-09-03T16:41:04-03:00",
+      "url": "https://www.notariado.org.br/regime-escalonado-de-bens-valoracao-da-autonomia-da-vontade/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STF reinicia julgamento de imunidade de ITBI para capital social de imobiliárias",
+      "descricao": "O Plenário do STF reiniciou a análise sobre a incidência do ITBI na transferência de imóveis para integralização do capital social de empresas imobiliárias. O julgamento foi deslocado para o Plenário físico após pedido de destaque, portanto a controvérsia permanece sem tese definitiva no momento da publicação.",
+      "data_publicacao": "2026-09-02T22:15:24-03:00",
+      "url": "https://conjur.com.br/2026-set-02/stf-reinicia-julgamento-de-imunidade-de-itbi-para-capital-social-de-imobiliarias/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "STJ - Informativo de Jurisprudência n. 899 - 1º de setembro de 2026",
+      "descricao": "O STJ registrou que a transferência por herança de cotas de fundo de investimento pelo valor histórico declarado não gera, por si só, incidência de Imposto de Renda. A tributação pode ocorrer sobre ganho de capital quando a transferência é feita a valor de mercado acima do valor declarado.",
+      "data_publicacao": "2026-09-01T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270023",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Herdeiro pode usucapir imóvel da família? STJ reforça os limites",
+      "descricao": "Artigo examina julgamento do STJ sobre usucapião extraordinária de imóvel integrante de acervo hereditário. O entendimento destaca que a permanência prolongada no imóvel, sem demonstração de posse com intenção de dono perante os demais herdeiros, não basta para adquirir a propriedade.",
+      "data_publicacao": "2026-08-26T08:00:51-03:00",
+      "url": "https://www.migalhas.com.br/depeso/463176/herdeiro-pode-usucapir-imovel-da-familia-stj-reforca-os-limites?s=&s=FB",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "A lei 6.858/1980 e o pagamento direto aos sucessores do falecido, independentemente de alvará judicial",
+      "descricao": "Artigo propõe ampliar a desjudicialização do Direito das Sucessões a partir das regras da Lei 6.858/1980 sobre pagamentos a dependentes e sucessores. O texto relaciona a proposta às possibilidades atuais de inventário extrajudicial, nomeação de inventariante e alienação de bens do espólio.",
+      "data_publicacao": "2026-08-24T07:11:55-03:00",
+      "url": "https://www.migalhas.com.br/coluna/migalhas-notariais-e-registrais/462895/lei-6-858-1980-pagamento-direto-aos-sucessores-e-desjudicializacao?s=&s=TW",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "CNJ dispensa pagamento prévio de ITCMD em inventário extrajudicial",
+      "descricao": "O CNJ decidiu que o recolhimento antecipado do ITCMD não pode ser condição para lavrar a escritura de inventário e partilha extrajudicial. A obrigação tributária permanece, com declaração na escritura e comunicação à Fazenda estadual, e o tabelião continua solicitando certidões para fins informativos.",
+      "data_publicacao": "2026-08-20T08:02:00-03:00",
+      "url": "https://www.migalhas.com.br/amp/quentes/462787/cnj-dispensa-pagamento-previo-de-itcmd-em-inventario-extrajudicial",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Do juiz ao tabelião: uma rota alternativa para destravar inventários extrajudiciais sem liquidez",
+      "descricao": "O texto explica como a Resolução CNJ 571/2024 permite autorizar, por escritura pública, a alienação de bens do espólio para custear despesas do inventário extrajudicial. A medida exige discriminação das despesas, vinculação do preço e observância dos requisitos previstos na norma.",
+      "data_publicacao": "2026-08-17T07:30:14-03:00",
+      "url": "https://www.migalhas.com.br/amp/depeso/462418/do-juiz-ao-tabeliao-uma-rota-alternativa-para-destravar-inventarios",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Provimento do CNJ amplia segurança jurídica para contratos de alienação fiduciária sobre imóveis",
+      "descricao": "O Provimento CNJ 246/2026 admite escritura pública ou instrumento particular com efeitos de escritura pública para atos de alienação fiduciária imobiliária, inclusive fora do SFH e do SFI. Os cartórios não podem recusar o título apenas porque as partes não integram esses sistemas, sem afastar a qualificação registral prevista em lei.",
+      "data_publicacao": "2026-08-14T15:53:26-03:00",
+      "url": "https://www.notariado.org.br/provimento-do-cnj-amplia-seguranca-juridica-para-contratos-de-alienacao-fiduciaria-sobre-imoveis/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Imóvel rural entra no inventário extrajudicial?",
+      "descricao": "Artigo confirma a possibilidade de incluir imóvel rural em inventário extrajudicial, desde que sejam atendidos requisitos documentais, registrais, ambientais e tributários. A análise destaca a integração entre advogado, tabelionato e registro de imóveis para reduzir problemas na sucessão patrimonial rural.",
+      "data_publicacao": "2026-08-13T09:30:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/448562/imovel-rural-entra-no-inventario-extrajudicial",
+      "fonte": "Migalhas"
+    }
   ]
 }
