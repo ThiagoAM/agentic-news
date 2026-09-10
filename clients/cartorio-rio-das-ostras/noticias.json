@@ -1,19 +1,103 @@
 {
-  "data-busca": "2026-09-09T10:01:08-03:00",
+  "data-busca": "2026-09-10T00:56:39-03:00",
   "noticias": [
-    {"titulo":"Rio das Ostras intensifica ações de recapeamento e manutenção viária","descricao":"Equipes municipais estão realizando recapeamento, patrolamento e nivelamento em diferentes localidades de Rio das Ostras. A iniciativa busca melhorar as condições de circulação nas vias públicas.","data_publicacao":"2026-09-06T10:00:00-03:00","url":"https://tvprefeito.com/rio-das-ostras-intensifica-acoes-de-recapeamento-e-manutencao-viaria/","fonte":"TV Prefeito"},
-    {"titulo":"Rio das Ostras terá atendimento de água mais perto dos moradores","descricao":"A Rio+Saneamento levará atendimento itinerante a diferentes bairros de Rio das Ostras ao longo de setembro. A ação pretende aproximar os serviços da concessionária da população.","data_publicacao":"2026-09-02T10:00:00-03:00","url":"https://odia.ig.com.br/rio-das-ostras/2026/09/7297392-rio-das-ostras-tera-atendimento-de-agua-mais-perto-dos-moradores.html","fonte":"O Dia"},
-    {"titulo":"Rio das Ostras reaproveita estruturas e cria novos bicicletários","descricao":"Guarda-corpos retirados do antigo Emissário Submarino estão sendo adaptados para a fabricação de bicicletários. A medida amplia a estrutura para ciclistas e reaproveita materiais existentes no município.","data_publicacao":"2026-09-02T10:00:00-03:00","url":"https://tvprefeito.com/rio-das-ostras-reaproveita-guarda-corpos-e-cria-novos-bicicletarios/","fonte":"TV Prefeito"},
-    {"titulo":"Rio das Ostras aprova proposta de fundo municipal de turismo","descricao":"O Conselho Municipal de Turismo aprovou a minuta de criação do Fundo Municipal de Turismo. A proposta estabelece uma estrutura para apoiar o planejamento e o desenvolvimento do setor na cidade.","data_publicacao":"2026-09-03T10:00:00-03:00","url":"https://abihrj.com.br/destinos/rio-ostras-comtur-proposta-fundo-turismo-setembro-2026","fonte":"ABIH-RJ"},
-    {"titulo":"Rio das Ostras abre 465 oportunidades no Banco de Empregos","descricao":"O Banco de Empregos de Rio das Ostras divulgou 465 oportunidades para trabalhadores. As vagas integram os serviços municipais de intermediação de mão de obra.","data_publicacao":"2026-09-08T10:46:00-03:00","url":"https://odia.ig.com.br/rio-das-ostras/2026/09/7299825-rio-das-ostras-abre-465-chances-para-quem-busca-emprego.html","fonte":"O Dia"},
-    {"titulo":"Aluguéis residenciais no Rio de Janeiro acumulam alta no semestre","descricao":"Dados do Índice FipeZAP apontam alta acumulada de 8,27% nos aluguéis residenciais do Rio de Janeiro no primeiro semestre de 2026. O movimento é discutido em proposta sobre o mercado locatício estadual.","data_publicacao":"2026-08-11T10:00:00-03:00","url":"http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&url=L3NjcHJvMjMyNy5uc2YvMThjMWRkNjhmOTZiZTNlNzgzMjU2NmVjMDAxOGQ4MzMvMjFhNTMxNDk1OWViMjk0MTAzMjU4ZTUwMDA1YTFhYmE%2FT3BlbkRvY3VtZW50","fonte":"ALERJ"},
-    {"titulo":"Recuperação de imóveis históricos avança no Centro do Rio","descricao":"A Prefeitura do Rio publicou medidas relacionadas à recuperação e à gestão de imóveis históricos no Centro. A iniciativa envolve políticas municipais de habitação e preservação urbana.","data_publicacao":"2026-08-20T10:00:00-03:00","url":"https://doweb.rio.rj.gov.br/portal/edicoes/download/14911","fonte":"Diário Oficial do Município do Rio"},
-    {"titulo":"CNJ dispensa pagamento prévio de ITCMD em inventário extrajudicial","descricao":"O CNJ decidiu que o ITCMD não precisa ser pago antes da lavratura de escrituras de inventário e partilha extrajudicial. A decisão atende a pedido do Colégio Notarial do Brasil e altera procedimento dos tabelionatos.","data_publicacao":"2026-08-19T10:00:00-03:00","url":"https://www.notariado.org.br/cnj-dispensa-pagamento-previo-de-itcmd-em-inventario-extrajudicial/","fonte":"Colégio Notarial do Brasil"},
-    {"titulo":"CNJ publica Resolução nº 695/2026 sobre ITCMD em escrituras públicas","descricao":"O Colégio Notarial do Brasil divulgou orientações sobre a Resolução CNJ nº 695/2026. A norma altera dispositivo relacionado ao recolhimento de ITCMD em escrituras públicas.","data_publicacao":"2026-08-27T10:00:00-03:00","url":"https://www.notariado.org.br/cnj-publica-resolucao-no-695-26-sobre-e-altera-artigo-sobre-recolhimento-de-itcmd-em-escrituras-publicas/","fonte":"Colégio Notarial do Brasil"},
-    {"titulo":"CNB/CF abre inscrições para Congresso Notarial Brasileiro","descricao":"O CNB/CF abriu inscrições para a 27ª edição do Congresso Notarial Brasileiro, marcada para dezembro, em Recife. O encontro reunirá discussões e atividades voltadas ao notariado brasileiro.","data_publicacao":"2026-09-08T10:00:00-03:00","url":"https://anoregrs.org.br/2026/09/08/cnb-cf-abre-inscricoes-para-o-xxvii-congresso-notarial-brasileiro-que-sera-realizado-em-recife/","fonte":"Anoreg/RS"},
-    {"titulo":"STJ reconhece transmissão causa mortis de compromisso imobiliário","descricao":"O STJ decidiu que o compromisso de compra e venda de imóvel é transmissível aos sucessores, mesmo sem registro. O entendimento também aborda a adjudicação compulsória e seus efeitos patrimoniais.","data_publicacao":"2026-09-04T09:00:00-03:00","url":"https://conjur.com.br/2026-set-04/stj-diz-por-que-a-morte-do-comprador-nao-encerra-o-direito-ao-imovel/","fonte":"Consultor Jurídico"},
-    {"titulo":"Separação obrigatória de bens repercute na sucessão do companheiro","descricao":"Decisão analisada pelo Consultor Jurídico tratou da concorrência sucessória do companheiro sobrevivente com os descendentes. O caso ressalta a relevância do regime de bens e da prova de esforço comum.","data_publicacao":"2026-09-09T08:23:00-03:00","url":"https://conjur.com.br/2026-set-09/separacao-obrigatoria-de-bens-impede-inclusao-como-herdeira-necessaria/","fonte":"Consultor Jurídico"},
-    {"titulo":"CNJ amplia liberdade de forma na alienação fiduciária de imóveis","descricao":"Decisão da Corregedoria Nacional de Justiça afastou restrições à utilização de instrumento particular em determinadas alienações fiduciárias. A medida tem impacto sobre a formalização de operações imobiliárias.","data_publicacao":"2026-09-03T15:34:00-03:00","url":"https://www.migalhas.com.br/depeso/463805/cnj-amplia-liberdade-de-forma-na-constituicao-de-alienacao-fiduciaria","fonte":"Migalhas"},
-    {"titulo":"STJ analisa limites temporais da ação rescisória","descricao":"Análise jurídica aborda a regra do prazo de dois anos para o ajuizamento da ação rescisória e os efeitos de precedentes qualificados. O tema contribui para a compreensão da segurança jurídica nas decisões judiciais.","data_publicacao":"2026-09-04T10:00:00-03:00","url":"https://conjur.com.br/2026-set-04/o-stj-e-os-limites-temporais-da-acao-rescisoria/","fonte":"Consultor Jurídico"}
+    {
+      "titulo": "Obras emergenciais da Boca da Barra são iniciadas",
+      "descricao": "A Prefeitura de Rio das Ostras iniciou obras emergenciais na Boca da Barra para conter os impactos da erosão causada pelo avanço do mar. A intervenção começou na Avenida Linda, na Beira Rio, e a área foi interditada durante os serviços.",
+      "data_publicacao": "2026-09-09T12:22:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-obras-emergenciais-na-boca-da-barra/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras avalia sistema de macrodrenagem",
+      "descricao": "A equipe de Engenharia do município avaliou o diagnóstico do sistema de macrodrenagem e os pontos de deságue das bacias hidrográficas. O levantamento servirá para definir prioridades de projetos, manutenção e ações conjuntas de infraestrutura.",
+      "data_publicacao": "2026-09-08T12:11:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-avalia-sistema-de-macrodrenagem-das-bacias-hidrograficas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Produtores de Rio das Ostras concluem colheita do feijão",
+      "descricao": "Produtores de Cantagalo e Rocha Leão concluíram a colheita e o beneficiamento do feijão com apoio técnico e de maquinário da Prefeitura. A próxima etapa é o preparo do solo para o plantio do milho na zona rural do município.",
+      "data_publicacao": "2026-09-08T16:45:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/produtores-de-rio-das-ostras-concluem-colheita-do-feijao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Austeridade limita financiamento habitacional e direito à moradia",
+      "descricao": "Artigo discute os efeitos da austeridade fiscal sobre o financiamento habitacional, a urbanização e a regularização fundiária. A análise relaciona o espaço orçamentário para políticas públicas com a concretização do direito à moradia.",
+      "data_publicacao": "2026-09-08T20:21:33-03:00",
+      "url": "https://conjur.com.br/2026-set-08/austeridade-fiscal-e-financiamento-habitacional-no-brasil/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Solução alternativa para sucessão do cônjuge no projeto de reforma do Código Civil",
+      "descricao": "Artigo apresenta alternativas para equilibrar a proteção do cônjuge sobrevivente e a autonomia privada nas propostas de reforma do Direito das Sucessões. O texto aborda concorrência sucessória e herdeiros necessários como temas ainda em discussão.",
+      "data_publicacao": "2026-09-06T08:00:59-03:00",
+      "url": "https://conjur.com.br/2026-set-06/uma-solucao-alternativa-para-a-sucessao-do-conjuge-no-projeto-de-reforma-do-codigo-civil/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Por que a morte do comprador não encerra o direito ao imóvel",
+      "descricao": "Análise explica que o direito do comprador de imóvel pode ser transmitido aos herdeiros quando a escritura definitiva ainda não foi outorgada. O texto relaciona o princípio da saisine à jurisprudência do STJ sobre compromisso de compra e venda e adjudicação compulsória.",
+      "data_publicacao": "2026-09-04T21:22:33-03:00",
+      "url": "https://conjur.com.br/2026-set-04/stj-diz-por-que-a-morte-do-comprador-nao-encerra-o-direito-ao-imovel/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Regime escalonado de bens: valoração da autonomia da vontade",
+      "descricao": "Artigo aborda a autonomia dos nubentes na organização do regime patrimonial e os limites impostos por normas de ordem pública. A discussão destaca a importância de pactos claros e de seu registro para a segurança jurídica das relações familiares.",
+      "data_publicacao": "2026-09-03T16:41:04-03:00",
+      "url": "https://www.notariado.org.br/regime-escalonado-de-bens-valoracao-da-autonomia-da-vontade/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STJ livra donos de cartórios de contribuir com o salário-educação",
+      "descricao": "O STJ decidiu que a contribuição do salário-educação não é exigível da pessoa física que exerce serviço notarial ou registral, por não se enquadrar na definição legal de contribuinte. A decisão fixa uma tese tributária específica para notários e oficiais de registro.",
+      "data_publicacao": "2026-08-21T16:49:36-03:00",
+      "url": "https://conjur.com.br/2026-ago-21/stj-livra-donos-de-cartorio-de-contribuir-ao-salario-educacao",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Inventário extrajudicial não exigirá mais recolhimento antecipado de ITCMD",
+      "descricao": "O CNJ afastou o recolhimento prévio do ITCMD como condição para lavrar a escritura pública de inventário e partilha, após requerimento do CNB/CF. A obrigação permanece e deve ser declarada no ato, com comunicação à Fazenda estadual e observância das regras de registro.",
+      "data_publicacao": "2026-08-19T12:00:33-03:00",
+      "url": "https://www.cnj.jus.br/inventario-extrajudicial-nao-exigira-mais-pagamento-previo-de-imposto-sobre-transmissao/",
+      "fonte": "Conselho Nacional de Justiça"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça suspende temporariamente Provimento CN-CNJ n. 247/2026",
+      "descricao": "A Corregedoria Nacional de Justiça suspendeu por 60 dias a eficácia do Provimento 247/2026, que criou o Validador Nacional de Selos de Fiscalização dos Atos Notariais e Registrais. A decisão também abriu fase de participação institucional ampliada para colher manifestações sobre a infraestrutura e o modelo de custeio.",
+      "data_publicacao": "2026-08-17T15:14:00-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-suspende-temporariamente-provimento-cn-cnj-n-247-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Constri-Jud atinge 100% dos Tribunais e unifica penhoras de imóveis no país",
+      "descricao": "A expansão nacional do Constri-Jud permitiu tramitar ordens de penhora, arresto e sequestro de imóveis por uma plataforma digital única. O sistema envia a ordem diretamente ao e-Protocolo do registro de imóveis correspondente, reduzindo retrabalho e falhas formais.",
+      "data_publicacao": "2026-08-14T15:51:18-03:00",
+      "url": "https://www.notariado.org.br/constri-jud-atinge-100-dos-tribunais-e-unifica-penhoras-de-imoveis-no-pais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Provimento do CNJ amplia segurança jurídica para contratos de alienação fiduciária sobre imóveis",
+      "descricao": "O Provimento CNJ 246/2026 permite formalizar atos de alienação fiduciária imobiliária por escritura pública ou instrumento particular com efeitos de escritura pública, inclusive fora do SFH e do SFI. A qualificação registral continua necessária e não pode haver recusa apenas pela ausência de vínculo das partes com esses sistemas.",
+      "data_publicacao": "2026-08-14T15:53:26-03:00",
+      "url": "https://www.notariado.org.br/provimento-do-cnj-amplia-seguranca-juridica-para-contratos-de-alienacao-fiduciaria-sobre-imoveis/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Prefeitura entrega títulos de propriedade a 44 famílias da Granja Spinelli",
+      "descricao": "A Prefeitura de Nova Friburgo anunciou a entrega de títulos definitivos para 44 imóveis da Granja Spinelli após um processo de regularização fundiária. A iniciativa contou com a Secretaria de Habitação, o ITERJ e a Defensoria Pública, ampliando a segurança jurídica dos moradores.",
+      "data_publicacao": "2026-08-13T00:00:00-03:00",
+      "url": "https://pmnf.rj.gov.br/noticia/view/5424/prefeitura-entrega-titulos-de-propriedade-a-44-familias-da-granja-spinelli",
+      "fonte": "Prefeitura de Nova Friburgo"
+    },
+    {
+      "titulo": "Macuco avança para a construção de 20 novas unidades habitacionais",
+      "descricao": "Macuco formalizou Termo de Compromisso com a CEHAB-RJ e a Caixa Econômica Federal para viabilizar 20 unidades habitacionais. A próxima etapa prevista é a abertura do procedimento licitatório para contratar a execução das moradias.",
+      "data_publicacao": "2026-08-12T00:00:00-03:00",
+      "url": "https://prefeituramacuco.rj.gov.br/novo/macuco-avanca-para-a-construcao-de-20-novas-unidades-habitacionais/",
+      "fonte": "Prefeitura Municipal de Macuco"
+    }
   ]
 }
