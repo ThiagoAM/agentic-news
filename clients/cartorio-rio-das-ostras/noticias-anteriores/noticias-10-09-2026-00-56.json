@@ -1,0 +1,103 @@
+{
+  "data-busca": "2026-09-10T00:56:39-03:00",
+  "noticias": [
+    {
+      "titulo": "Obras emergenciais da Boca da Barra são iniciadas",
+      "descricao": "A Prefeitura de Rio das Ostras iniciou obras emergenciais na Boca da Barra para conter os impactos da erosão causada pelo avanço do mar. A intervenção começou na Avenida Linda, na Beira Rio, e a área foi interditada durante os serviços.",
+      "data_publicacao": "2026-09-09T12:22:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-obras-emergenciais-na-boca-da-barra/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras avalia sistema de macrodrenagem",
+      "descricao": "A equipe de Engenharia do município avaliou o diagnóstico do sistema de macrodrenagem e os pontos de deságue das bacias hidrográficas. O levantamento servirá para definir prioridades de projetos, manutenção e ações conjuntas de infraestrutura.",
+      "data_publicacao": "2026-09-08T12:11:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-avalia-sistema-de-macrodrenagem-das-bacias-hidrograficas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Produtores de Rio das Ostras concluem colheita do feijão",
+      "descricao": "Produtores de Cantagalo e Rocha Leão concluíram a colheita e o beneficiamento do feijão com apoio técnico e de maquinário da Prefeitura. A próxima etapa é o preparo do solo para o plantio do milho na zona rural do município.",
+      "data_publicacao": "2026-09-08T16:45:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/produtores-de-rio-das-ostras-concluem-colheita-do-feijao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Austeridade limita financiamento habitacional e direito à moradia",
+      "descricao": "Artigo discute os efeitos da austeridade fiscal sobre o financiamento habitacional, a urbanização e a regularização fundiária. A análise relaciona o espaço orçamentário para políticas públicas com a concretização do direito à moradia.",
+      "data_publicacao": "2026-09-08T20:21:33-03:00",
+      "url": "https://conjur.com.br/2026-set-08/austeridade-fiscal-e-financiamento-habitacional-no-brasil/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Solução alternativa para sucessão do cônjuge no projeto de reforma do Código Civil",
+      "descricao": "Artigo apresenta alternativas para equilibrar a proteção do cônjuge sobrevivente e a autonomia privada nas propostas de reforma do Direito das Sucessões. O texto aborda concorrência sucessória e herdeiros necessários como temas ainda em discussão.",
+      "data_publicacao": "2026-09-06T08:00:59-03:00",
+      "url": "https://conjur.com.br/2026-set-06/uma-solucao-alternativa-para-a-sucessao-do-conjuge-no-projeto-de-reforma-do-codigo-civil/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Por que a morte do comprador não encerra o direito ao imóvel",
+      "descricao": "Análise explica que o direito do comprador de imóvel pode ser transmitido aos herdeiros quando a escritura definitiva ainda não foi outorgada. O texto relaciona o princípio da saisine à jurisprudência do STJ sobre compromisso de compra e venda e adjudicação compulsória.",
+      "data_publicacao": "2026-09-04T21:22:33-03:00",
+      "url": "https://conjur.com.br/2026-set-04/stj-diz-por-que-a-morte-do-comprador-nao-encerra-o-direito-ao-imovel/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Regime escalonado de bens: valoração da autonomia da vontade",
+      "descricao": "Artigo aborda a autonomia dos nubentes na organização do regime patrimonial e os limites impostos por normas de ordem pública. A discussão destaca a importância de pactos claros e de seu registro para a segurança jurídica das relações familiares.",
+      "data_publicacao": "2026-09-03T16:41:04-03:00",
+      "url": "https://www.notariado.org.br/regime-escalonado-de-bens-valoracao-da-autonomia-da-vontade/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STJ livra donos de cartórios de contribuir com o salário-educação",
+      "descricao": "O STJ decidiu que a contribuição do salário-educação não é exigível da pessoa física que exerce serviço notarial ou registral, por não se enquadrar na definição legal de contribuinte. A decisão fixa uma tese tributária específica para notários e oficiais de registro.",
+      "data_publicacao": "2026-08-21T16:49:36-03:00",
+      "url": "https://conjur.com.br/2026-ago-21/stj-livra-donos-de-cartorio-de-contribuir-ao-salario-educacao",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Inventário extrajudicial não exigirá mais recolhimento antecipado de ITCMD",
+      "descricao": "O CNJ afastou o recolhimento prévio do ITCMD como condição para lavrar a escritura pública de inventário e partilha, após requerimento do CNB/CF. A obrigação permanece e deve ser declarada no ato, com comunicação à Fazenda estadual e observância das regras de registro.",
+      "data_publicacao": "2026-08-19T12:00:33-03:00",
+      "url": "https://www.cnj.jus.br/inventario-extrajudicial-nao-exigira-mais-pagamento-previo-de-imposto-sobre-transmissao/",
+      "fonte": "Conselho Nacional de Justiça"
+    },
+    {
+      "titulo": "Corregedoria Nacional de Justiça suspende temporariamente Provimento CN-CNJ n. 247/2026",
+      "descricao": "A Corregedoria Nacional de Justiça suspendeu por 60 dias a eficácia do Provimento 247/2026, que criou o Validador Nacional de Selos de Fiscalização dos Atos Notariais e Registrais. A decisão também abriu fase de participação institucional ampliada para colher manifestações sobre a infraestrutura e o modelo de custeio.",
+      "data_publicacao": "2026-08-17T15:14:00-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-suspende-temporariamente-provimento-cn-cnj-n-247-2026/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Constri-Jud atinge 100% dos Tribunais e unifica penhoras de imóveis no país",
+      "descricao": "A expansão nacional do Constri-Jud permitiu tramitar ordens de penhora, arresto e sequestro de imóveis por uma plataforma digital única. O sistema envia a ordem diretamente ao e-Protocolo do registro de imóveis correspondente, reduzindo retrabalho e falhas formais.",
+      "data_publicacao": "2026-08-14T15:51:18-03:00",
+      "url": "https://www.notariado.org.br/constri-jud-atinge-100-dos-tribunais-e-unifica-penhoras-de-imoveis-no-pais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Provimento do CNJ amplia segurança jurídica para contratos de alienação fiduciária sobre imóveis",
+      "descricao": "O Provimento CNJ 246/2026 permite formalizar atos de alienação fiduciária imobiliária por escritura pública ou instrumento particular com efeitos de escritura pública, inclusive fora do SFH e do SFI. A qualificação registral continua necessária e não pode haver recusa apenas pela ausência de vínculo das partes com esses sistemas.",
+      "data_publicacao": "2026-08-14T15:53:26-03:00",
+      "url": "https://www.notariado.org.br/provimento-do-cnj-amplia-seguranca-juridica-para-contratos-de-alienacao-fiduciaria-sobre-imoveis/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Prefeitura entrega títulos de propriedade a 44 famílias da Granja Spinelli",
+      "descricao": "A Prefeitura de Nova Friburgo anunciou a entrega de títulos definitivos para 44 imóveis da Granja Spinelli após um processo de regularização fundiária. A iniciativa contou com a Secretaria de Habitação, o ITERJ e a Defensoria Pública, ampliando a segurança jurídica dos moradores.",
+      "data_publicacao": "2026-08-13T00:00:00-03:00",
+      "url": "https://pmnf.rj.gov.br/noticia/view/5424/prefeitura-entrega-titulos-de-propriedade-a-44-familias-da-granja-spinelli",
+      "fonte": "Prefeitura de Nova Friburgo"
+    },
+    {
+      "titulo": "Macuco avança para a construção de 20 novas unidades habitacionais",
+      "descricao": "Macuco formalizou Termo de Compromisso com a CEHAB-RJ e a Caixa Econômica Federal para viabilizar 20 unidades habitacionais. A próxima etapa prevista é a abertura do procedimento licitatório para contratar a execução das moradias.",
+      "data_publicacao": "2026-08-12T00:00:00-03:00",
+      "url": "https://prefeituramacuco.rj.gov.br/novo/macuco-avanca-para-a-construcao-de-20-novas-unidades-habitacionais/",
+      "fonte": "Prefeitura Municipal de Macuco"
+    }
+  ]
+}

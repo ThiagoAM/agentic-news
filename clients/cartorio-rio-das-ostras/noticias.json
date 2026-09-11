@@ -1,103 +1,96 @@
 {
-  "data-busca": "2026-09-10T00:56:39-03:00",
+  "data-busca": "2026-09-11T10:05:51-03:00",
   "noticias": [
     {
-      "titulo": "Obras emergenciais da Boca da Barra são iniciadas",
-      "descricao": "A Prefeitura de Rio das Ostras iniciou obras emergenciais na Boca da Barra para conter os impactos da erosão causada pelo avanço do mar. A intervenção começou na Avenida Linda, na Beira Rio, e a área foi interditada durante os serviços.",
+      "titulo": "Rio das Ostras inicia obras emergenciais na Boca da Barra",
+      "descricao": "A Prefeitura de Rio das Ostras iniciou intervenções emergenciais na Boca da Barra para conter os efeitos da erosão provocada pelo avanço do mar. Os serviços começaram na Avenida Linda, na Beira Rio, e a via foi interditada durante a execução, com novas intervenções previstas para a Praia da Boca da Barra.",
       "data_publicacao": "2026-09-09T12:22:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-obras-emergenciais-na-boca-da-barra/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Rio das Ostras avalia sistema de macrodrenagem",
-      "descricao": "A equipe de Engenharia do município avaliou o diagnóstico do sistema de macrodrenagem e os pontos de deságue das bacias hidrográficas. O levantamento servirá para definir prioridades de projetos, manutenção e ações conjuntas de infraestrutura.",
-      "data_publicacao": "2026-09-08T12:11:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/municipio-avalia-sistema-de-macrodrenagem-das-bacias-hidrograficas/",
+      "titulo": "ConJur analisa efeitos da separação obrigatória na sucessão",
+      "descricao": "Decisão do Tribunal de Justiça de Mato Grosso do Sul afastou a concorrência sucessória da companheira submetida ao regime de separação obrigatória, considerando a legislação vigente no início da união. O entendimento ressalva a necessidade de demonstrar esforço comum para eventual comunicação patrimonial, conforme a jurisprudência citada no artigo.",
+      "data_publicacao": "2026-09-09T08:23:00-03:00",
+      "url": "https://conjur.com.br/2026-set-09/separacao-obrigatoria-de-bens-impede-inclusao-como-herdeira-necessaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Banco de Empregos de Rio das Ostras oferece 465 vagas",
+      "descricao": "O Banco de Empregos de Rio das Ostras divulgou 465 oportunidades em diferentes funções e perfis profissionais. As inscrições são gratuitas e presenciais no Centro de Cidadania, das 10h às 17h, mediante apresentação de documentos pessoais, comprovante de residência e currículo.",
+      "data_publicacao": "2026-09-08T08:59:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-de-rio-das-ostras-oferece-465-vagas/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Produtores de Rio das Ostras concluem colheita do feijão",
-      "descricao": "Produtores de Cantagalo e Rocha Leão concluíram a colheita e o beneficiamento do feijão com apoio técnico e de maquinário da Prefeitura. A próxima etapa é o preparo do solo para o plantio do milho na zona rural do município.",
-      "data_publicacao": "2026-09-08T16:45:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/produtores-de-rio-das-ostras-concluem-colheita-do-feijao/",
+      "titulo": "Rio das Ostras intensifica recapeamento e manutenção viária",
+      "descricao": "A Secretaria de Serviços Públicos de Rio das Ostras ampliou ações de recapeamento, patrolamento e nivelamento em diferentes localidades. A programação inclui vias de Nova Cidade, Cidade Praiana, Cidade Beira-Mar, Âncora e trechos da Rodovia Amaral Peixoto, com foco em circulação e mobilidade.",
+      "data_publicacao": "2026-09-04T12:01:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-intensifica-acoes-de-tapa-buracos-e-manutencao-viaria/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Austeridade limita financiamento habitacional e direito à moradia",
-      "descricao": "Artigo discute os efeitos da austeridade fiscal sobre o financiamento habitacional, a urbanização e a regularização fundiária. A análise relaciona o espaço orçamentário para políticas públicas com a concretização do direito à moradia.",
-      "data_publicacao": "2026-09-08T20:21:33-03:00",
-      "url": "https://conjur.com.br/2026-set-08/austeridade-fiscal-e-financiamento-habitacional-no-brasil/",
-      "fonte": "Consultor Jurídico"
+      "titulo": "Vassouras divulga orientações sobre regularização fundiária urbana",
+      "descricao": "A Prefeitura de Vassouras apresentou o procedimento de REURB para incorporar núcleos urbanos informais ao ordenamento territorial e titular seus ocupantes. A modalidade social prevê registro gratuito para famílias dentro do critério de renda, enquanto o processo exige documentos como contrato de compra e venda, identificação e comprovante de residência.",
+      "data_publicacao": "2026-09-04T00:00:00-03:00",
+      "url": "https://www.vassouras.rj.gov.br/reurb/",
+      "fonte": "Prefeitura de Vassouras"
     },
     {
-      "titulo": "Solução alternativa para sucessão do cônjuge no projeto de reforma do Código Civil",
-      "descricao": "Artigo apresenta alternativas para equilibrar a proteção do cônjuge sobrevivente e a autonomia privada nas propostas de reforma do Direito das Sucessões. O texto aborda concorrência sucessória e herdeiros necessários como temas ainda em discussão.",
-      "data_publicacao": "2026-09-06T08:00:59-03:00",
-      "url": "https://conjur.com.br/2026-set-06/uma-solucao-alternativa-para-a-sucessao-do-conjuge-no-projeto-de-reforma-do-codigo-civil/",
-      "fonte": "Consultor Jurídico"
-    },
-    {
-      "titulo": "Por que a morte do comprador não encerra o direito ao imóvel",
-      "descricao": "Análise explica que o direito do comprador de imóvel pode ser transmitido aos herdeiros quando a escritura definitiva ainda não foi outorgada. O texto relaciona o princípio da saisine à jurisprudência do STJ sobre compromisso de compra e venda e adjudicação compulsória.",
-      "data_publicacao": "2026-09-04T21:22:33-03:00",
+      "titulo": "ConJur aborda a transmissão do direito ao imóvel após a morte do comprador",
+      "descricao": "Artigo sobre jurisprudência do STJ explica que o direito do comprador que quitou o imóvel, mas não recebeu a escritura, pode ser transmitido aos herdeiros pelo princípio da saisine. O texto também destaca a legitimidade do espólio e os limites relacionados a terceiros de boa-fé e ao registro do compromisso.",
+      "data_publicacao": "2026-09-04T21:22:00-03:00",
       "url": "https://conjur.com.br/2026-set-04/stj-diz-por-que-a-morte-do-comprador-nao-encerra-o-direito-ao-imovel/",
-      "fonte": "Consultor Jurídico"
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Regime escalonado de bens: valoração da autonomia da vontade",
-      "descricao": "Artigo aborda a autonomia dos nubentes na organização do regime patrimonial e os limites impostos por normas de ordem pública. A discussão destaca a importância de pactos claros e de seu registro para a segurança jurídica das relações familiares.",
-      "data_publicacao": "2026-09-03T16:41:04-03:00",
-      "url": "https://www.notariado.org.br/regime-escalonado-de-bens-valoracao-da-autonomia-da-vontade/",
+      "titulo": "Rio das Ostras recebe Travessia e Aquathlon da Independência",
+      "descricao": "A Praia do Centro recebeu a Travessia e o Aquathlon da Independência nos dias 6 e 7 de setembro, com apoio do projeto Escola do Mar e da Prefeitura. A programação reuniu provas de natação, corrida, aquathlon e biathlon incentivo em categorias voltadas a diferentes níveis de preparo.",
+      "data_publicacao": "2026-09-01T16:23:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-sera-palco-da-travessia-e-aquathlon-da-independencia/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Maricá inicia etapas de regularização fundiária em Zacarias",
+      "descricao": "Reunião entre moradores de Zacarias, pescadores, Prefeitura de Maricá e representantes do MARAEY tratou de infraestrutura, documentação e requalificação urbana. A partir de setembro, equipes técnicas devem atualizar cadastros, realizar levantamentos para a regularização e desenvolver o plano de requalificação com acompanhamento da comunidade.",
+      "data_publicacao": "2026-09-01T00:00:00-03:00",
+      "url": "https://www.marica.rj.gov.br/noticia/marica-reune-comunidade-de-zacarias-para-discutir-melhorias-e-oportunidades-no-bairro/",
+      "fonte": "Prefeitura de Maricá"
+    },
+    {
+      "titulo": "ConJur discute proteção da pequena propriedade rural em alienação fiduciária",
+      "descricao": "Artigo examina a proteção constitucional da pequena propriedade rural familiar e sua aplicação diante da alienação fiduciária. A análise reúne entendimentos do STF e do STJ e ressalta que o reconhecimento depende da comprovação do enquadramento do imóvel e da exploração pela família.",
+      "data_publicacao": "2026-08-30T07:02:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-30/impenhorabilidade-da-pequena-propriedade-rural-e-a-alienacao-fiduciaria-o-atual-estagio-da-materia/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Rio das Ostras e Casimiro avançam em estudos para o Canal de Medeiros",
+      "descricao": "As prefeituras de Rio das Ostras e Casimiro de Abreu vistoriaram o Canal de Medeiros com participação do Inea para subsidiar estudos de desassoreamento e desobstrução. A intervenção ainda depende de análise e autorizações ambientais, e busca melhorar o escoamento das águas com planejamento conjunto.",
+      "data_publicacao": "2026-08-29T09:18:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-e-casimiro-de-abreu-avancam-em-estudos-para-desassoreamento-do-canal-de-medeiros/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Projeto propõe estudo de impacto para mudanças na estrutura dos cartórios",
+      "descricao": "O Projeto de Lei nº 3.229/2026 propõe estudo de impacto socioeconômico antes de mudanças na organização, na competência territorial ou na separação de serviços cartorários. A proposta tramita na Câmara dos Deputados e prevê análise pela Comissão de Constituição e Justiça e de Cidadania.",
+      "data_publicacao": "2026-08-21T19:32:00-03:00",
+      "url": "https://www.notariado.org.br/projeto-exige-estudo-de-impacto-socioeconomico-para-mudanca-em-cartorios/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "STJ livra donos de cartórios de contribuir com o salário-educação",
-      "descricao": "O STJ decidiu que a contribuição do salário-educação não é exigível da pessoa física que exerce serviço notarial ou registral, por não se enquadrar na definição legal de contribuinte. A decisão fixa uma tese tributária específica para notários e oficiais de registro.",
-      "data_publicacao": "2026-08-21T16:49:36-03:00",
-      "url": "https://conjur.com.br/2026-ago-21/stj-livra-donos-de-cartorio-de-contribuir-ao-salario-educacao",
-      "fonte": "Consultor Jurídico"
-    },
-    {
-      "titulo": "Inventário extrajudicial não exigirá mais recolhimento antecipado de ITCMD",
-      "descricao": "O CNJ afastou o recolhimento prévio do ITCMD como condição para lavrar a escritura pública de inventário e partilha, após requerimento do CNB/CF. A obrigação permanece e deve ser declarada no ato, com comunicação à Fazenda estadual e observância das regras de registro.",
-      "data_publicacao": "2026-08-19T12:00:33-03:00",
-      "url": "https://www.cnj.jus.br/inventario-extrajudicial-nao-exigira-mais-pagamento-previo-de-imposto-sobre-transmissao/",
-      "fonte": "Conselho Nacional de Justiça"
-    },
-    {
-      "titulo": "Corregedoria Nacional de Justiça suspende temporariamente Provimento CN-CNJ n. 247/2026",
-      "descricao": "A Corregedoria Nacional de Justiça suspendeu por 60 dias a eficácia do Provimento 247/2026, que criou o Validador Nacional de Selos de Fiscalização dos Atos Notariais e Registrais. A decisão também abriu fase de participação institucional ampliada para colher manifestações sobre a infraestrutura e o modelo de custeio.",
-      "data_publicacao": "2026-08-17T15:14:00-03:00",
-      "url": "https://www.notariado.org.br/corregedoria-nacional-de-justica-suspende-temporariamente-provimento-cn-cnj-n-247-2026/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Constri-Jud atinge 100% dos Tribunais e unifica penhoras de imóveis no país",
-      "descricao": "A expansão nacional do Constri-Jud permitiu tramitar ordens de penhora, arresto e sequestro de imóveis por uma plataforma digital única. O sistema envia a ordem diretamente ao e-Protocolo do registro de imóveis correspondente, reduzindo retrabalho e falhas formais.",
-      "data_publicacao": "2026-08-14T15:51:18-03:00",
-      "url": "https://www.notariado.org.br/constri-jud-atinge-100-dos-tribunais-e-unifica-penhoras-de-imoveis-no-pais/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Provimento do CNJ amplia segurança jurídica para contratos de alienação fiduciária sobre imóveis",
-      "descricao": "O Provimento CNJ 246/2026 permite formalizar atos de alienação fiduciária imobiliária por escritura pública ou instrumento particular com efeitos de escritura pública, inclusive fora do SFH e do SFI. A qualificação registral continua necessária e não pode haver recusa apenas pela ausência de vínculo das partes com esses sistemas.",
-      "data_publicacao": "2026-08-14T15:53:26-03:00",
+      "titulo": "Provimento do CNJ uniformiza contratos com alienação fiduciária de imóveis",
+      "descricao": "O Provimento CNJ nº 246/2026 admite escritura pública ou instrumento particular com efeitos de escritura pública para atos de alienação fiduciária imobiliária, observadas as exceções previstas em lei. Os cartórios não podem recusar o título apenas porque as partes não integram o SFH ou o SFI, sem afastar a qualificação registral.",
+      "data_publicacao": "2026-08-14T00:00:00-03:00",
       "url": "https://www.notariado.org.br/provimento-do-cnj-amplia-seguranca-juridica-para-contratos-de-alienacao-fiduciaria-sobre-imoveis/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Prefeitura entrega títulos de propriedade a 44 famílias da Granja Spinelli",
-      "descricao": "A Prefeitura de Nova Friburgo anunciou a entrega de títulos definitivos para 44 imóveis da Granja Spinelli após um processo de regularização fundiária. A iniciativa contou com a Secretaria de Habitação, o ITERJ e a Defensoria Pública, ampliando a segurança jurídica dos moradores.",
-      "data_publicacao": "2026-08-13T00:00:00-03:00",
-      "url": "https://pmnf.rj.gov.br/noticia/view/5424/prefeitura-entrega-titulos-de-propriedade-a-44-familias-da-granja-spinelli",
-      "fonte": "Prefeitura de Nova Friburgo"
-    },
-    {
-      "titulo": "Macuco avança para a construção de 20 novas unidades habitacionais",
-      "descricao": "Macuco formalizou Termo de Compromisso com a CEHAB-RJ e a Caixa Econômica Federal para viabilizar 20 unidades habitacionais. A próxima etapa prevista é a abertura do procedimento licitatório para contratar a execução das moradias.",
-      "data_publicacao": "2026-08-12T00:00:00-03:00",
-      "url": "https://prefeituramacuco.rj.gov.br/novo/macuco-avanca-para-a-construcao-de-20-novas-unidades-habitacionais/",
-      "fonte": "Prefeitura Municipal de Macuco"
+      "titulo": "Constrição judicial de imóveis passa a ser integrada pelo Constri-Jud",
+      "descricao": "O Constri-Jud alcançou os tribunais do país como plataforma digital para envio de ordens de penhora, arresto e sequestro aos registros de imóveis. Integrado ao Serp-Jud e regulamentado pelo Provimento CNJ nº 224/2026, o sistema busca padronizar a comunicação e reduzir falhas formais no fluxo judicial.",
+      "data_publicacao": "2026-08-14T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/constri-jud-atinge-100-dos-tribunais-e-unifica-penhoras-de-imoveis-no-pais/",
+      "fonte": "Colégio Notarial do Brasil"
     }
   ]
 }
