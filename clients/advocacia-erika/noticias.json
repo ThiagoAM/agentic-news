@@ -1,96 +1,82 @@
 {
-  "data-busca": "2026-09-10T00:56:39-03:00",
+  "data-busca": "2026-09-11T10:02:25-03:00",
   "noticias": [
     {
-      "titulo": "Separação obrigatória de bens impede inclusão como herdeira necessária",
-      "descricao": "Decisão do Tribunal de Justiça de Mato Grosso do Sul aplicou o regime de separação obrigatória vigente no início da união estável e afastou a concorrência sucessória da companheira com os descendentes. O entendimento ressalva a possibilidade de comunicação de patrimônio adquirido com esforço comum comprovado.",
-      "data_publicacao": "2026-09-09T08:23:51-03:00",
-      "url": "https://conjur.com.br/2026-set-09/separacao-obrigatoria-de-bens-impede-inclusao-como-herdeira-necessaria/",
-      "fonte": "Consultor Jurídico"
+      "titulo": "FGTS amplia subsídio habitacional e prazo de amortização",
+      "descricao": "O Conselho Curador do FGTS aprovou suplementação de R$ 500 milhões para os subsídios habitacionais do Minha Casa, Minha Vida nas faixas 1 e 2. A decisão também ampliou de 20 para 30 anos o prazo máximo de amortização de operações com recursos do fundo em programas habitacionais e de infraestrutura.",
+      "data_publicacao": "2026-09-10T14:25:00-03:00",
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/setembro/conselho-suplementa-r-500-milhoes-no-orcamento-do-fgts-para-subsidio-habitacional",
+      "fonte": "Ministério do Trabalho e Emprego"
     },
     {
-      "titulo": "Austeridade limita financiamento habitacional e direito à moradia",
-      "descricao": "Artigo analisa como a austeridade fiscal pode reduzir o espaço orçamentário para financiamento habitacional, urbanização e regularização fundiária. A reflexão relaciona restrições ao crédito e ao investimento público com a efetivação do direito constitucional à moradia.",
-      "data_publicacao": "2026-09-08T20:21:33-03:00",
-      "url": "https://conjur.com.br/2026-set-08/austeridade-fiscal-e-financiamento-habitacional-no-brasil/",
-      "fonte": "Consultor Jurídico"
+      "titulo": "IVAR registra alta de 0,29% nos aluguéis residenciais em agosto",
+      "descricao": "O Índice de Variação de Aluguéis Residenciais subiu 0,29% em agosto de 2026, enquanto a variação acumulada em 12 meses passou de 5,08% para 5,09%. O resultado nacional combinou altas em Belo Horizonte, São Paulo e Rio de Janeiro com queda em Porto Alegre, indicando comportamentos distintos entre os mercados locais.",
+      "data_publicacao": "2026-09-08T00:00:00-03:00",
+      "url": "https://portal.fgv.br/noticias/ivar-agosto-2026",
+      "fonte": "FGV IBRE"
     },
     {
-      "titulo": "Solução alternativa para sucessão do cônjuge no projeto de reforma do Código Civil",
-      "descricao": "Artigo discute alternativas para equilibrar a proteção do cônjuge sobrevivente e a autonomia privada nas propostas de modernização do Direito das Sucessões. O texto examina possíveis ajustes ao regime de concorrência sucessória e à condição de herdeiro necessário, sem tratar a reforma como aprovada.",
-      "data_publicacao": "2026-09-06T08:00:59-03:00",
-      "url": "https://conjur.com.br/2026-set-06/uma-solucao-alternativa-para-a-sucessao-do-conjuge-no-projeto-de-reforma-do-codigo-civil/",
-      "fonte": "Consultor Jurídico"
+      "titulo": "STF inicia julgamento sobre imunidade de ITBI para empresas imobiliárias",
+      "descricao": "O Supremo Tribunal Federal iniciou a análise do Tema 1.348, que discute o alcance da imunidade de ITBI na integralização de imóveis ao capital social de empresas com atividade imobiliária preponderante. A sessão foi suspensa após relatório e sustentações orais, sem tese ou resultado definitivo até a publicação consultada.",
+      "data_publicacao": "2026-09-03T00:00:00-03:00",
+      "url": "https://almalaw.com.br/publicacoes/stf-retoma-julgamento-sobre-a-imunidade-do-itbi-na-integralizacao-de-capital-por-empresas-imobiliarias/",
+      "fonte": "Alma Law"
     },
     {
-      "titulo": "Por que a morte do comprador não encerra o direito ao imóvel",
-      "descricao": "Análise baseada no princípio da saisine explica que o direito do comprador que quitou o imóvel e não recebeu a escritura pode ser transmitido aos herdeiros. O texto relaciona esse entendimento à jurisprudência do STJ sobre compromisso de compra e venda e adjudicação compulsória.",
-      "data_publicacao": "2026-09-04T21:22:33-03:00",
-      "url": "https://conjur.com.br/2026-set-04/stj-diz-por-que-a-morte-do-comprador-nao-encerra-o-direito-ao-imovel/",
-      "fonte": "Consultor Jurídico"
+      "titulo": "Reforma tributária influencia estratégias de sucessão patrimonial",
+      "descricao": "Análise publicada no início de setembro descreve aumento da procura por doações de imóveis e holdings familiares diante das mudanças tributárias previstas. O texto ressalta que a holding exige planejamento, substância econômica e documentação compatível com a situação de cada família, não constituindo garantia automática de economia fiscal.",
+      "data_publicacao": "2026-09-01T12:53:00-03:00",
+      "url": "https://diariodejustica.com.br/reforma-tributaria-acelera-a-corrida-pela-sucessao-em-vida-e-desloca-familias-da-doacao-para-a-holding/",
+      "fonte": "Diário de Justiça"
     },
     {
-      "titulo": "Regime escalonado de bens: valoração da autonomia da vontade",
-      "descricao": "Artigo examina a autonomia dos nubentes para organizar o regime patrimonial e a necessidade de compatibilizar pactos com normas de ordem pública. A abordagem destaca a função do registro e da clareza dos acordos para reduzir incertezas nas relações familiares.",
-      "data_publicacao": "2026-09-03T16:41:04-03:00",
-      "url": "https://www.notariado.org.br/regime-escalonado-de-bens-valoracao-da-autonomia-da-vontade/",
+      "titulo": "CNJ abre inscrições para a quarta edição do Exame Nacional dos Cartórios",
+      "descricao": "O Conselho Nacional de Justiça divulgou a abertura das inscrições para a quarta edição do Exame Nacional dos Cartórios. A habilitação no exame é requisito para a inscrição em concursos de provimento e remoção de delegações de notas e registro, conforme as regras nacionais atualizadas.",
+      "data_publicacao": "2026-08-31T00:00:00-03:00",
+      "url": "https://www.cnj.jus.br/4o-exame-nacional-dos-cartorios-abre-inscricoes-nesta-segunda-feira-31-8/",
+      "fonte": "Conselho Nacional de Justiça"
+    },
+    {
+      "titulo": "Resolução do CNJ dispensa recolhimento prévio do ITCMD no inventário extrajudicial",
+      "descricao": "A Resolução CNJ nº 695/2026 alterou a regra nacional para permitir a lavratura da escritura pública de inventário e partilha sem comprovação do pagamento antecipado do ITCMD. A escritura deve registrar a ciência das partes sobre a obrigação tributária, e o tabelião deve comunicar o ato ao Fisco quando o imposto não tiver sido recolhido previamente.",
+      "data_publicacao": "2026-08-26T00:00:00-03:00",
+      "url": "https://atos.cnj.jus.br/atos/detalhar/7010",
+      "fonte": "Conselho Nacional de Justiça"
+    },
+    {
+      "titulo": "Vendas de imóveis novos crescem no primeiro semestre, aponta CBIC",
+      "descricao": "Levantamento da CBIC e do Sesi registrou alta de 5,4% nas vendas de imóveis residenciais novos no primeiro semestre de 2026, na comparação anual. O Minha Casa, Minha Vida ganhou participação no mercado, enquanto o crédito para aquisição por pessoas físicas e o financiamento à construção também avançaram.",
+      "data_publicacao": "2026-08-24T12:19:00-03:00",
+      "url": "https://exame.com/mercado-imobiliario/mcmv-impulsiona-venda-de-imoveis-novos-em-5-no-1%E2%81%B0-semestre/",
+      "fonte": "Exame"
+    },
+    {
+      "titulo": "Projeto de lei propõe estudo de impacto para mudanças em cartórios",
+      "descricao": "O Projeto de Lei nº 3.229/2026 propõe estudo de impacto socioeconômico antes de alterações na organização, na competência territorial ou na separação de serviços cartorários. A proposta tramita na Câmara dos Deputados e prevê análise conclusiva pela Comissão de Constituição e Justiça e de Cidadania.",
+      "data_publicacao": "2026-08-21T19:32:00-03:00",
+      "url": "https://www.notariado.org.br/projeto-exige-estudo-de-impacto-socioeconomico-para-mudanca-em-cartorios/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "STF reinicia julgamento de imunidade de ITBI para capital social de imobiliárias",
-      "descricao": "O Plenário do STF reiniciou a análise sobre a incidência do ITBI na transferência de imóveis para integralização do capital social de empresas imobiliárias. O julgamento foi deslocado para o Plenário físico após pedido de destaque, portanto a controvérsia permanece sem tese definitiva no momento da publicação.",
-      "data_publicacao": "2026-09-02T22:15:24-03:00",
-      "url": "https://conjur.com.br/2026-set-02/stf-reinicia-julgamento-de-imunidade-de-itbi-para-capital-social-de-imobiliarias/",
-      "fonte": "Consultor Jurídico"
-    },
-    {
-      "titulo": "STJ - Informativo de Jurisprudência n. 899 - 1º de setembro de 2026",
-      "descricao": "O STJ registrou que a transferência por herança de cotas de fundo de investimento pelo valor histórico declarado não gera, por si só, incidência de Imposto de Renda. A tributação pode ocorrer sobre ganho de capital quando a transferência é feita a valor de mercado acima do valor declarado.",
-      "data_publicacao": "2026-09-01T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270023",
-      "fonte": "Superior Tribunal de Justiça"
-    },
-    {
-      "titulo": "Herdeiro pode usucapir imóvel da família? STJ reforça os limites",
-      "descricao": "Artigo examina julgamento do STJ sobre usucapião extraordinária de imóvel integrante de acervo hereditário. O entendimento destaca que a permanência prolongada no imóvel, sem demonstração de posse com intenção de dono perante os demais herdeiros, não basta para adquirir a propriedade.",
-      "data_publicacao": "2026-08-26T08:00:51-03:00",
-      "url": "https://www.migalhas.com.br/depeso/463176/herdeiro-pode-usucapir-imovel-da-familia-stj-reforca-os-limites?s=&s=FB",
-      "fonte": "Migalhas"
-    },
-    {
-      "titulo": "A lei 6.858/1980 e o pagamento direto aos sucessores do falecido, independentemente de alvará judicial",
-      "descricao": "Artigo propõe ampliar a desjudicialização do Direito das Sucessões a partir das regras da Lei 6.858/1980 sobre pagamentos a dependentes e sucessores. O texto relaciona a proposta às possibilidades atuais de inventário extrajudicial, nomeação de inventariante e alienação de bens do espólio.",
-      "data_publicacao": "2026-08-24T07:11:55-03:00",
-      "url": "https://www.migalhas.com.br/coluna/migalhas-notariais-e-registrais/462895/lei-6-858-1980-pagamento-direto-aos-sucessores-e-desjudicializacao?s=&s=TW",
-      "fonte": "Migalhas"
-    },
-    {
-      "titulo": "CNJ dispensa pagamento prévio de ITCMD em inventário extrajudicial",
-      "descricao": "O CNJ decidiu que o recolhimento antecipado do ITCMD não pode ser condição para lavrar a escritura de inventário e partilha extrajudicial. A obrigação tributária permanece, com declaração na escritura e comunicação à Fazenda estadual, e o tabelião continua solicitando certidões para fins informativos.",
-      "data_publicacao": "2026-08-20T08:02:00-03:00",
-      "url": "https://www.migalhas.com.br/amp/quentes/462787/cnj-dispensa-pagamento-previo-de-itcmd-em-inventario-extrajudicial",
-      "fonte": "Migalhas"
-    },
-    {
-      "titulo": "Do juiz ao tabelião: uma rota alternativa para destravar inventários extrajudiciais sem liquidez",
-      "descricao": "O texto explica como a Resolução CNJ 571/2024 permite autorizar, por escritura pública, a alienação de bens do espólio para custear despesas do inventário extrajudicial. A medida exige discriminação das despesas, vinculação do preço e observância dos requisitos previstos na norma.",
-      "data_publicacao": "2026-08-17T07:30:14-03:00",
-      "url": "https://www.migalhas.com.br/amp/depeso/462418/do-juiz-ao-tabeliao-uma-rota-alternativa-para-destravar-inventarios",
-      "fonte": "Migalhas"
-    },
-    {
-      "titulo": "Provimento do CNJ amplia segurança jurídica para contratos de alienação fiduciária sobre imóveis",
-      "descricao": "O Provimento CNJ 246/2026 admite escritura pública ou instrumento particular com efeitos de escritura pública para atos de alienação fiduciária imobiliária, inclusive fora do SFH e do SFI. Os cartórios não podem recusar o título apenas porque as partes não integram esses sistemas, sem afastar a qualificação registral prevista em lei.",
-      "data_publicacao": "2026-08-14T15:53:26-03:00",
+      "titulo": "Provimento do CNJ uniformiza contratos com alienação fiduciária de imóveis",
+      "descricao": "O Provimento CNJ nº 246/2026 confirmou que atos relacionados à alienação fiduciária de imóveis podem ser formalizados por escritura pública ou instrumento particular com efeitos de escritura pública, observadas as exceções legais. A norma também impede a recusa do título apenas porque as partes não integram o SFH ou o SFI, sem afastar a qualificação registral.",
+      "data_publicacao": "2026-08-14T00:00:00-03:00",
       "url": "https://www.notariado.org.br/provimento-do-cnj-amplia-seguranca-juridica-para-contratos-de-alienacao-fiduciaria-sobre-imoveis/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Imóvel rural entra no inventário extrajudicial?",
-      "descricao": "Artigo confirma a possibilidade de incluir imóvel rural em inventário extrajudicial, desde que sejam atendidos requisitos documentais, registrais, ambientais e tributários. A análise destaca a integração entre advogado, tabelionato e registro de imóveis para reduzir problemas na sucessão patrimonial rural.",
-      "data_publicacao": "2026-08-13T09:30:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/448562/imovel-rural-entra-no-inventario-extrajudicial",
-      "fonte": "Migalhas"
+      "titulo": "Constrição judicial de imóveis passa a ser integrada pelo Constri-Jud",
+      "descricao": "O Constri-Jud alcançou os tribunais do país como plataforma digital para o envio de ordens de penhora, arresto e sequestro aos registros de imóveis. Integrado ao Serp-Jud e regulamentado pelo Provimento CNJ nº 224/2026, o fluxo busca padronizar a recepção das ordens e reduzir falhas formais na comunicação judicial.",
+      "data_publicacao": "2026-08-14T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/constri-jud-atinge-100-dos-tribunais-e-unifica-penhoras-de-imoveis-no-pais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STJ analisa tributação de fundos transmitidos por sucessão causa mortis",
+      "descricao": "No Informativo de Jurisprudência nº 899, o Superior Tribunal de Justiça registrou entendimento de que a transferência de cotas de fundos de investimento por herança, pelo valor histórico declarado pelo falecido, não configura ganho de capital tributável pelo Imposto de Renda. A incidência pode ocorrer quando a transferência é feita a valor de mercado e há diferença positiva em relação ao custo de aquisição.",
+      "data_publicacao": "2026-09-01T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270023",
+      "fonte": "Superior Tribunal de Justiça"
     }
   ]
 }
