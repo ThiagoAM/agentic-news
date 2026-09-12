@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-09-11T10:02:25-03:00",
+  "noticias": [
+    {
+      "titulo": "FGTS amplia subsídio habitacional e prazo de amortização",
+      "descricao": "O Conselho Curador do FGTS aprovou suplementação de R$ 500 milhões para os subsídios habitacionais do Minha Casa, Minha Vida nas faixas 1 e 2. A decisão também ampliou de 20 para 30 anos o prazo máximo de amortização de operações com recursos do fundo em programas habitacionais e de infraestrutura.",
+      "data_publicacao": "2026-09-10T14:25:00-03:00",
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/setembro/conselho-suplementa-r-500-milhoes-no-orcamento-do-fgts-para-subsidio-habitacional",
+      "fonte": "Ministério do Trabalho e Emprego"
+    },
+    {
+      "titulo": "IVAR registra alta de 0,29% nos aluguéis residenciais em agosto",
+      "descricao": "O Índice de Variação de Aluguéis Residenciais subiu 0,29% em agosto de 2026, enquanto a variação acumulada em 12 meses passou de 5,08% para 5,09%. O resultado nacional combinou altas em Belo Horizonte, São Paulo e Rio de Janeiro com queda em Porto Alegre, indicando comportamentos distintos entre os mercados locais.",
+      "data_publicacao": "2026-09-08T00:00:00-03:00",
+      "url": "https://portal.fgv.br/noticias/ivar-agosto-2026",
+      "fonte": "FGV IBRE"
+    },
+    {
+      "titulo": "STF inicia julgamento sobre imunidade de ITBI para empresas imobiliárias",
+      "descricao": "O Supremo Tribunal Federal iniciou a análise do Tema 1.348, que discute o alcance da imunidade de ITBI na integralização de imóveis ao capital social de empresas com atividade imobiliária preponderante. A sessão foi suspensa após relatório e sustentações orais, sem tese ou resultado definitivo até a publicação consultada.",
+      "data_publicacao": "2026-09-03T00:00:00-03:00",
+      "url": "https://almalaw.com.br/publicacoes/stf-retoma-julgamento-sobre-a-imunidade-do-itbi-na-integralizacao-de-capital-por-empresas-imobiliarias/",
+      "fonte": "Alma Law"
+    },
+    {
+      "titulo": "Reforma tributária influencia estratégias de sucessão patrimonial",
+      "descricao": "Análise publicada no início de setembro descreve aumento da procura por doações de imóveis e holdings familiares diante das mudanças tributárias previstas. O texto ressalta que a holding exige planejamento, substância econômica e documentação compatível com a situação de cada família, não constituindo garantia automática de economia fiscal.",
+      "data_publicacao": "2026-09-01T12:53:00-03:00",
+      "url": "https://diariodejustica.com.br/reforma-tributaria-acelera-a-corrida-pela-sucessao-em-vida-e-desloca-familias-da-doacao-para-a-holding/",
+      "fonte": "Diário de Justiça"
+    },
+    {
+      "titulo": "CNJ abre inscrições para a quarta edição do Exame Nacional dos Cartórios",
+      "descricao": "O Conselho Nacional de Justiça divulgou a abertura das inscrições para a quarta edição do Exame Nacional dos Cartórios. A habilitação no exame é requisito para a inscrição em concursos de provimento e remoção de delegações de notas e registro, conforme as regras nacionais atualizadas.",
+      "data_publicacao": "2026-08-31T00:00:00-03:00",
+      "url": "https://www.cnj.jus.br/4o-exame-nacional-dos-cartorios-abre-inscricoes-nesta-segunda-feira-31-8/",
+      "fonte": "Conselho Nacional de Justiça"
+    },
+    {
+      "titulo": "Resolução do CNJ dispensa recolhimento prévio do ITCMD no inventário extrajudicial",
+      "descricao": "A Resolução CNJ nº 695/2026 alterou a regra nacional para permitir a lavratura da escritura pública de inventário e partilha sem comprovação do pagamento antecipado do ITCMD. A escritura deve registrar a ciência das partes sobre a obrigação tributária, e o tabelião deve comunicar o ato ao Fisco quando o imposto não tiver sido recolhido previamente.",
+      "data_publicacao": "2026-08-26T00:00:00-03:00",
+      "url": "https://atos.cnj.jus.br/atos/detalhar/7010",
+      "fonte": "Conselho Nacional de Justiça"
+    },
+    {
+      "titulo": "Vendas de imóveis novos crescem no primeiro semestre, aponta CBIC",
+      "descricao": "Levantamento da CBIC e do Sesi registrou alta de 5,4% nas vendas de imóveis residenciais novos no primeiro semestre de 2026, na comparação anual. O Minha Casa, Minha Vida ganhou participação no mercado, enquanto o crédito para aquisição por pessoas físicas e o financiamento à construção também avançaram.",
+      "data_publicacao": "2026-08-24T12:19:00-03:00",
+      "url": "https://exame.com/mercado-imobiliario/mcmv-impulsiona-venda-de-imoveis-novos-em-5-no-1%E2%81%B0-semestre/",
+      "fonte": "Exame"
+    },
+    {
+      "titulo": "Projeto de lei propõe estudo de impacto para mudanças em cartórios",
+      "descricao": "O Projeto de Lei nº 3.229/2026 propõe estudo de impacto socioeconômico antes de alterações na organização, na competência territorial ou na separação de serviços cartorários. A proposta tramita na Câmara dos Deputados e prevê análise conclusiva pela Comissão de Constituição e Justiça e de Cidadania.",
+      "data_publicacao": "2026-08-21T19:32:00-03:00",
+      "url": "https://www.notariado.org.br/projeto-exige-estudo-de-impacto-socioeconomico-para-mudanca-em-cartorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Provimento do CNJ uniformiza contratos com alienação fiduciária de imóveis",
+      "descricao": "O Provimento CNJ nº 246/2026 confirmou que atos relacionados à alienação fiduciária de imóveis podem ser formalizados por escritura pública ou instrumento particular com efeitos de escritura pública, observadas as exceções legais. A norma também impede a recusa do título apenas porque as partes não integram o SFH ou o SFI, sem afastar a qualificação registral.",
+      "data_publicacao": "2026-08-14T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/provimento-do-cnj-amplia-seguranca-juridica-para-contratos-de-alienacao-fiduciaria-sobre-imoveis/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Constrição judicial de imóveis passa a ser integrada pelo Constri-Jud",
+      "descricao": "O Constri-Jud alcançou os tribunais do país como plataforma digital para o envio de ordens de penhora, arresto e sequestro aos registros de imóveis. Integrado ao Serp-Jud e regulamentado pelo Provimento CNJ nº 224/2026, o fluxo busca padronizar a recepção das ordens e reduzir falhas formais na comunicação judicial.",
+      "data_publicacao": "2026-08-14T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/constri-jud-atinge-100-dos-tribunais-e-unifica-penhoras-de-imoveis-no-pais/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STJ analisa tributação de fundos transmitidos por sucessão causa mortis",
+      "descricao": "No Informativo de Jurisprudência nº 899, o Superior Tribunal de Justiça registrou entendimento de que a transferência de cotas de fundos de investimento por herança, pelo valor histórico declarado pelo falecido, não configura ganho de capital tributável pelo Imposto de Renda. A incidência pode ocorrer quando a transferência é feita a valor de mercado e há diferença positiva em relação ao custo de aquisição.",
+      "data_publicacao": "2026-09-01T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270023",
+      "fonte": "Superior Tribunal de Justiça"
+    }
+  ]
+}
