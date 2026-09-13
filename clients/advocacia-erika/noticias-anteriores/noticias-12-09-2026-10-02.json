@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-09-12T10:02:28-03:00",
+  "noticias": [
+    {
+      "titulo": "Conselho suplementa R$ 500 milhões no orçamento do FGTS para subsídio habitacional",
+      "descricao": "O Conselho Curador do FGTS aprovou suplementação de R$ 500 milhões para os subsídios habitacionais do Minha Casa, Minha Vida nas faixas 1 e 2. A decisão também elevou de 20 para 30 anos o prazo máximo de amortização de operações com recursos do fundo em programas habitacionais e de infraestrutura.",
+      "data_publicacao": "2026-09-10T14:25:00-03:00",
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/setembro/conselho-suplementa-r-500-milhoes-no-orcamento-do-fgts-para-subsidio-habitacional",
+      "fonte": "Ministério do Trabalho e Emprego"
+    },
+    {
+      "titulo": "IVAR: índice de aluguéis sobe 0,29% em agosto",
+      "descricao": "Dados do FGV IBRE mostram alta de 0,29% no IVAR de agosto de 2026, com variação acumulada em 12 meses de 5,09%. No Rio de Janeiro, os aluguéis residenciais subiram 0,24% no mês e acumulam oito meses consecutivos de alta.",
+      "data_publicacao": "2026-09-08T00:00:00-03:00",
+      "url": "https://portal.fgv.br/noticias/ivar-agosto-2026",
+      "fonte": "FGV IBRE"
+    },
+    {
+      "titulo": "Imóveis irregulares: um problema, várias possibilidades",
+      "descricao": "Artigo do CNB descreve situações como falta de escritura ou registro, contratos de gaveta, construções sem averbação e pendências sucessórias. O texto apresenta usucapião, REURB, adjudicação compulsória e retificação registral como instrumentos que podem ser avaliados conforme a origem da irregularidade.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "ITCMD e certidões fiscais no registro dos inventários extrajudiciais",
+      "descricao": "Análise publicada pelo CNB diferencia a lavratura da escritura de inventário e o posterior registro imobiliário. O texto explica que a Resolução CNJ nº 695 dispensa a comprovação prévia do ITCMD para lavrar a escritura, sem afastar a comunicação ao Fisco nem os deveres próprios da qualificação registral.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/itcmd-e-certidoes-fiscais-no-registro-dos-inventarios-extrajudiciais-os-limites-da-dispensa-do-cnj/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Cartilha orienta mediação e conciliação em serventias",
+      "descricao": "O Registro de Imóveis do Brasil — Seção Paraná apresentou cartilha elaborada com apoio do TJPR, da Corregedoria-Geral da Justiça do Paraná e da Anoreg/PR. A publicação reúne fundamentos legais, técnicas, procedimentos e modelos para apoiar a mediação e a conciliação em serventias extrajudiciais.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cartilha-orienta-mediacao-e-conciliacao-em-serventias/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Corregedoria Extrajudicial apresenta boas práticas em encontro nacional",
+      "descricao": "Encontro promovido pelo CNJ reuniu corregedorias para compartilhar práticas de fiscalização, modernização e aprimoramento dos serviços notariais e registrais. Entre as iniciativas apresentadas estão fiscalização orientada por dados, política arquivística e ações de cidadania nas serventias.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-extrajudicial-apresenta-boas-praticas-em-encontro-nacional-promovido-pelo-cnj/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF defende segurança jurídica em audiência sobre precatórios",
+      "descricao": "O CNB/CF participou de audiência pública do CNJ sobre a regulamentação dos precatórios e os impactos da Emenda Constitucional 136/2025. Representantes do notariado defenderam a escritura pública e a orientação imparcial como instrumentos de proteção de credores vulneráveis na cessão de créditos.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-defende-a-seguranca-juridica-e-a-protecao-de-vulneraveis-em-audiencia-publica-sobre-precatorios-no-cnj/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ abre inscrições para a quarta edição do Exame Nacional dos Cartórios",
+      "descricao": "O Conselho Nacional de Justiça divulgou a abertura das inscrições para a quarta edição do Exame Nacional dos Cartórios. A habilitação no exame é requisito para a inscrição em concursos de provimento e remoção de delegações de notas e registro, conforme as regras nacionais.",
+      "data_publicacao": "2026-08-31T00:00:00-03:00",
+      "url": "https://www.cnj.jus.br/4o-exame-nacional-dos-cartorios-abre-inscricoes-nesta-segunda-feira-31-8/",
+      "fonte": "Conselho Nacional de Justiça"
+    },
+    {
+      "titulo": "Separação obrigatória de bens impede inclusão como herdeira necessária",
+      "descricao": "Decisão do Tribunal de Justiça de Mato Grosso do Sul afastou a concorrência sucessória da companheira submetida ao regime de separação obrigatória, considerando a legislação vigente no início da união. O entendimento ressalva a necessidade de demonstrar esforço comum para eventual comunicação patrimonial.",
+      "data_publicacao": "2026-09-09T08:23:00-03:00",
+      "url": "https://conjur.com.br/2026-set-09/separacao-obrigatoria-de-bens-impede-inclusao-como-herdeira-necessaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Morte do comprador não encerra direito ao imóvel",
+      "descricao": "Artigo do ConJur explica que o direito do comprador que quitou o imóvel, mas não recebeu a escritura, é transmitido aos herdeiros pelo princípio da saisine. O texto também aborda a legitimidade do espólio, os limites relacionados a terceiros de boa-fé e a possibilidade de conversão em perdas e danos quando a adjudicação se torna inviável.",
+      "data_publicacao": "2026-09-04T21:22:00-03:00",
+      "url": "https://conjur.com.br/2026-set-04/stj-diz-por-que-a-morte-do-comprador-nao-encerra-o-direito-ao-imovel/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Proteção da pequena propriedade rural alcança alienação fiduciária",
+      "descricao": "Análise do ConJur reúne entendimentos do STF e do STJ sobre a proteção constitucional da pequena propriedade rural explorada pela família. O texto ressalta que a aplicação da garantia depende da comprovação do enquadramento do imóvel e de sua exploração familiar, inclusive diante de alienação fiduciária.",
+      "data_publicacao": "2026-08-30T07:02:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-30/impenhorabilidade-da-pequena-propriedade-rural-e-a-alienacao-fiduciaria-o-atual-estagio-da-materia/",
+      "fonte": "ConJur"
+    }
+  ]
+}
