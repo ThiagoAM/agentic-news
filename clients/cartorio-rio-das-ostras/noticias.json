@@ -1,80 +1,87 @@
 {
-  "data-busca": "2026-09-12T10:02:28-03:00",
+  "data-busca": "2026-09-13T10:03:39-03:00",
   "noticias": [
     {
-      "titulo": "Rio das Ostras é destaque em evento internacional sobre educação inclusiva",
-      "descricao": "Representantes da rede municipal apresentaram experiências de educação inclusiva em seminário e congresso internacionais realizados entre 8 e 11 de setembro. A participação divulgou práticas pedagógicas voltadas à inclusão, à aprendizagem, à participação e à autonomia dos estudantes.",
+      "titulo": "Rio das Ostras é destaque em evento internacional",
+      "descricao": "Rio das Ostras participou do VI Seminário Internacional CAFTe e do I Congresso Internacional de Avaliação na Perspectiva da Educação Inclusiva, realizados de 8 a 11 de setembro. Representantes da rede municipal apresentaram dois trabalhos sobre práticas pedagógicas inclusivas e autonomia de estudantes com deficiência.",
       "data_publicacao": "2026-09-11T15:23:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-e-destaque-em-evento-internacional-sobre-educacao-inclusiva/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Prefeitura reforça manutenção de vias e inicia reparos emergenciais",
-      "descricao": "A Prefeitura de Rio das Ostras intensificou a recuperação e o nivelamento de vias, incluindo reparos emergenciais na Boca da Barra. As equipes também atuam em trechos das rodovias Amaral Peixoto e Serramar e em ruas de diferentes localidades do município.",
+      "titulo": "Prefeitura reforça manutenção de vias",
+      "descricao": "A Prefeitura intensificou a recuperação de vias e mobilizou uma escavadeira para reparos emergenciais na Boca da Barra. As equipes também realizam patrolamento, nivelamento e manutenção em diferentes localidades, incluindo trechos das rodovias Amaral Peixoto e Serramar.",
       "data_publicacao": "2026-09-11T13:59:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/prefeitura-reforca-manutencao-de-vias-e-inicia-reparos-emergenciais-em-boca-da-barra/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Masterclass reúne empreendedores da Cultura em Rio das Ostras",
-      "descricao": "A Fundação Rio das Ostras de Cultura realizou masterclass gratuita sobre fontes e usos de recursos públicos para projetos culturais. A atividade abordou planejamento, execução e prestação de contas, com orientações sobre editais e mecanismos de incentivo.",
+      "titulo": "Masterclass reúne empreendedores da Cultura",
+      "descricao": "A Fundação Rio das Ostras de Cultura promoveu, em 10 de setembro, a masterclass “Projetos Culturais: fontes e usos dos recursos públicos”. A atividade orientou empreendedores sobre fontes públicas de financiamento, elaboração de projetos e prestação de contas.",
       "data_publicacao": "2026-09-11T12:01:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/masterclass-de-projetos-culturais-reune-empreendedores-na-fundacao-de-cultura/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "CNHs com renovação automática têm validade prorrogada pelo Contran",
-      "descricao": "O Detran-RJ informou que CNHs vencidas entre 5 de junho e 8 de dezembro de 2026 poderão continuar válidas até 9 de dezembro, quando abrangidas pelas regras de renovação automática. A prorrogação também alcança ACCs no mesmo período e não exige procedimento específico para registro da extensão.",
-      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "titulo": "CNHs com direito à renovação automática têm validade prorrogada pelo Contran",
+      "descricao": "O Detran-RJ informou que CNHs vencidas entre 5 de junho e 8 de dezembro de 2026, quando abrangidas pelas regras de renovação automática, poderão ser usadas até 9 de dezembro. A prorrogação também alcança ACCs no mesmo período e não exige procedimento específico para seu registro.",
+      "data_publicacao": "2026-09-10T19:22:48-03:00",
       "url": "https://www.detran.rj.gov.br/noticias/cnhs-com-direito-a-renovacao-automatica-tem-validade-prorrogada-pelo-contran.html",
       "fonte": "Detran-RJ"
     },
     {
       "titulo": "Detran-RJ abre inscrições para curso de transporte coletivo",
-      "descricao": "A Escola Pública de Trânsito abriu 25 vagas para curso de aperfeiçoamento e atualização de motoristas profissionais de transporte remunerado de passageiros. As inscrições ocorrem de 10 a 24 de setembro, e as aulas estão previstas para 28 de setembro a 9 de outubro.",
-      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "descricao": "A Escola Pública de Trânsito abriu inscrições para o Curso de Transporte Coletivo de Passageiros, voltado à qualificação e atualização de motoristas profissionais. O cadastro fica disponível de 10 a 24 de setembro, com 25 vagas e confirmação necessária no dia seguinte.",
+      "data_publicacao": "2026-09-10T13:14:03-03:00",
       "url": "https://www.detran.rj.gov.br/noticias/detran-rj-e-escola-publica-de-transito-abrem-inscricoes-para-curso-de-transporte-coletivo-de-passageiros.html",
       "fonte": "Detran-RJ"
     },
     {
       "titulo": "Imóveis irregulares: um problema, várias possibilidades",
-      "descricao": "Artigo do CNB descreve situações como falta de escritura ou registro, contratos de gaveta, construções sem averbação e pendências sucessórias. O texto apresenta usucapião, REURB, adjudicação compulsória e retificação registral como instrumentos que podem ser avaliados conforme a origem da irregularidade.",
-      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "descricao": "Artigo reúne causas frequentes de irregularidade imobiliária, como falta de registro, contratos de gaveta, divergências construtivas e questões sucessórias. O texto apresenta caminhos que podem ser avaliados conforme o caso, entre eles usucapião, Reurb, adjudicação compulsória e retificação registral.",
+      "data_publicacao": "2026-09-10T16:23:11-03:00",
       "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
       "titulo": "ITCMD e certidões fiscais no registro dos inventários extrajudiciais",
-      "descricao": "Análise publicada pelo CNB diferencia a lavratura da escritura de inventário e o posterior registro imobiliário. O texto explica que a Resolução CNJ nº 695 dispensa a comprovação prévia do ITCMD para lavrar a escritura, sem afastar a comunicação ao Fisco nem os deveres próprios da qualificação registral.",
-      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "descricao": "Artigo analisa os limites da dispensa de certidões fiscais e do pagamento prévio de ITCMD na lavratura de inventários extrajudiciais. A discussão diferencia o momento da escritura da exigibilidade tributária e ressalta que o imposto continua devido.",
+      "data_publicacao": "2026-09-10T16:22:38-03:00",
       "url": "https://www.notariado.org.br/itcmd-e-certidoes-fiscais-no-registro-dos-inventarios-extrajudiciais-os-limites-da-dispensa-do-cnj/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "CNB/CF defende segurança jurídica em audiência sobre precatórios",
-      "descricao": "O CNB/CF participou de audiência pública do CNJ sobre a regulamentação dos precatórios e os impactos da Emenda Constitucional 136/2025. Representantes do notariado defenderam a escritura pública e a orientação imparcial como instrumentos de proteção de credores vulneráveis na cessão de créditos.",
-      "data_publicacao": "2026-09-10T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnb-cf-defende-a-seguranca-juridica-e-a-protecao-de-vulneraveis-em-audiencia-publica-sobre-precatorios-no-cnj/",
+      "titulo": "Corregedoria Extrajudicial apresenta boas práticas em encontro nacional",
+      "descricao": "Representantes de corregedorias participaram, em Brasília, de encontro promovido pelo CNJ com painéis sobre fiscalização, modernização e aperfeiçoamento dos serviços notariais e registrais. A agenda apresentou práticas de atuação preventiva e orientativa, com uso de dados e iniciativas de cidadania.",
+      "data_publicacao": "2026-09-10T16:21:08-03:00",
+      "url": "https://www.notariado.org.br/corregedoria-extrajudicial-apresenta-boas-praticas-em-encontro-nacional-promovido-pelo-cnj/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
+      "titulo": "CNB/CF defende segurança jurídica e proteção de vulneráveis em audiência sobre precatórios",
+      "descricao": "O CNB/CF participou de audiência pública do CNJ sobre normas e gestão de precatórios, com atenção à cessão de créditos. Representantes defenderam a escritura pública e a orientação notarial como instrumentos de transparência e proteção de credores vulneráveis.",
+      "data_publicacao": "2026-09-11T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/11/cnb-cf-defende-a-seguranca-juridica-e-a-protecao-de-vulneraveis-em-audiencia-publica-sobre-precatorios-no-cnj/",
+      "fonte": "CNB/SP (CNB/CF)"
+    },
+    {
       "titulo": "Separação obrigatória de bens impede inclusão como herdeiro necessário",
-      "descricao": "Decisão do Tribunal de Justiça de Mato Grosso do Sul afastou a concorrência sucessória da companheira submetida ao regime de separação obrigatória, considerando a legislação vigente no início da união. O entendimento ressalva a necessidade de demonstrar esforço comum para eventual comunicação patrimonial.",
-      "data_publicacao": "2026-09-09T08:23:00-03:00",
+      "descricao": "O TJ-MS acolheu, por maioria, embargos de declaração com efeitos infringentes para reconhecer a separação obrigatória de bens no caso analisado. A decisão afastou a inclusão do cônjuge como herdeiro necessário, conforme o entendimento descrito pela ConJur.",
+      "data_publicacao": "2026-09-09T08:23:51-03:00",
       "url": "https://conjur.com.br/2026-set-09/separacao-obrigatoria-de-bens-impede-inclusao-como-herdeira-necessaria/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Morte do comprador não encerra direito ao imóvel",
-      "descricao": "Artigo do ConJur explica que o direito do comprador que quitou o imóvel, mas não recebeu a escritura, é transmitido aos herdeiros pelo princípio da saisine. O texto também aborda a legitimidade do espólio, os limites relacionados a terceiros de boa-fé e a possibilidade de conversão em perdas e danos quando a adjudicação se torna inviável.",
-      "data_publicacao": "2026-09-04T21:22:00-03:00",
+      "titulo": "STJ diz por que a morte do comprador não encerra o direito ao imóvel",
+      "descricao": "O STJ reconheceu que o compromisso de compra e venda de imóvel pode ser transmitido causa mortis mesmo sem registro. A decisão trata da continuidade dos direitos do comprador falecido no inventário.",
+      "data_publicacao": "2026-09-04T21:22:33-03:00",
       "url": "https://conjur.com.br/2026-set-04/stj-diz-por-que-a-morte-do-comprador-nao-encerra-o-direito-ao-imovel/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Proteção da pequena propriedade rural alcança alienação fiduciária",
-      "descricao": "Análise do ConJur reúne entendimentos do STF e do STJ sobre a proteção constitucional da pequena propriedade rural explorada pela família. O texto ressalta que a aplicação da garantia depende da comprovação do enquadramento do imóvel e de sua exploração familiar, inclusive diante de alienação fiduciária.",
-      "data_publicacao": "2026-08-30T07:02:00-03:00",
+      "titulo": "Alienação fiduciária e impenhorabilidade da pequena propriedade rural",
+      "descricao": "A matéria examina a proteção da pequena propriedade rural diante da alienação fiduciária. O texto destaca que a Constituição remeteu à lei a definição de pequena propriedade rural, mas não houve norma específica para fins de impenhorabilidade.",
+      "data_publicacao": "2026-08-30T07:02:08-03:00",
       "url": "https://conjur.com.br/2026-ago-30/impenhorabilidade-da-pequena-propriedade-rural-e-a-alienacao-fiduciaria-o-atual-estagio-da-materia/",
       "fonte": "ConJur"
     }
