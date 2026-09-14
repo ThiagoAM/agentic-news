@@ -1,89 +1,89 @@
 {
-  "data-busca": "2026-09-13T10:03:39-03:00",
+  "data-busca": "2026-09-14T10:02:32-03:00",
   "noticias": [
     {
-      "titulo": "Conselho suplementa R$ 500 milhões no orçamento do FGTS para subsídio habitacional",
-      "descricao": "O Conselho Curador do FGTS aprovou uma suplementação de R$ 500 milhões para o orçamento de subsídios habitacionais de 2026. A decisão também ampliou de 20 para 30 anos o prazo máximo de amortização de algumas operações financiadas com recursos do fundo.",
-      "data_publicacao": "2026-09-10T14:25:00-03:00",
-      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/setembro/conselho-suplementa-r-500-milhoes-no-orcamento-do-fgts-para-subsidio-habitacional",
-      "fonte": "Ministério do Trabalho e Emprego"
+      "titulo": "Mais de 70 famílias recebem títulos de regularização fundiária no Tocantins",
+      "descricao": "Cristalândia e Gurupi iniciaram a rota de entrega de títulos de regularização fundiária de setembro, beneficiando mais de 70 famílias. A ação reúne prefeituras, Poder Judiciário, Tocantins Parcerias e Cartórios de Registro de Imóveis para formalizar a propriedade dos imóveis.",
+      "data_publicacao": "2026-09-11T12:46:00-03:00",
+      "url": "https://corregedoria.tjto.jus.br/comunicacao/noticias/reurb-mais-de-70-familias-de-cristalandia-e-gurupi-recebem-titulos-de-regularizacao-fundiaria-na-abertura-da-rota-de-setembro",
+      "fonte": "Corregedoria-Geral da Justiça do Tocantins"
     },
     {
-      "titulo": "IVAR: índice de aluguéis sobe 0,29% em agosto",
-      "descricao": "O IVAR registrou alta mensal de 0,29% em agosto de 2026, enquanto a variação acumulada em 12 meses ficou em 5,09%. No Rio de Janeiro, os aluguéis subiram 0,24% no mês e a taxa acumulada em 12 meses recuou levemente para 6,37%.",
-      "data_publicacao": "2026-09-08T00:00:00-03:00",
-      "url": "https://portal.fgv.br/noticias/ivar-agosto-2026",
-      "fonte": "FGV IBRE"
+      "titulo": "Viçosa do Ceará promove reunião sobre regularização fundiária",
+      "descricao": "A Prefeitura de Viçosa do Ceará realizou uma reunião para tratar de ações de regularização fundiária junto à comunidade. O encontro buscou ampliar a orientação sobre organização territorial, segurança jurídica e garantia de direitos para as famílias participantes.",
+      "data_publicacao": "2026-09-09T00:00:00-03:00",
+      "url": "https://www.vicosa.ce.gov.br/informa/5001/reuni-o-de-regulariza-o-fundi-ria",
+      "fonte": "Prefeitura de Viçosa do Ceará"
     },
     {
-      "titulo": "Certificação profissional para corretores busca fortalecer mercado imobiliário do Rio de Janeiro",
-      "descricao": "A FGV Projetos e o CRECI-RJ lançaram um programa de certificação profissional voltado a corretores de imóveis do estado. A iniciativa prevê reconhecimento de competências e educação continuada, com regulamento, inscrição e prova divulgados pelas instituições.",
-      "data_publicacao": "2026-09-01T00:00:00-03:00",
-      "url": "https://portal.fgv.br/noticias/lancamento-de-certificacao-profissional-para-corretores-visa-fortalecer-mercado",
-      "fonte": "FGV"
+      "titulo": "Financiamento imobiliário pelo SBPE cresce 12% no primeiro semestre",
+      "descricao": "As concessões de financiamento imobiliário pelo Sistema Brasileiro de Poupança e Empréstimo alcançaram R$ 67,2 bilhões entre janeiro e junho de 2026. O resultado representa crescimento de 12% na comparação com o mesmo período de 2025, segundo levantamento da CBIC e da Brain Inteligência Estratégica.",
+      "data_publicacao": "2026-08-26T00:00:00-03:00",
+      "url": "https://cbic.org.br/financiamento-imobiliario-pelo-sbpe-cresce-12-no-primeiro-semestre-de-2026/",
+      "fonte": "CBIC"
     },
     {
-      "titulo": "Imóveis irregulares: um problema, várias possibilidades",
-      "descricao": "Artigo reúne causas frequentes de irregularidade imobiliária, como falta de registro, contratos de gaveta, divergências construtivas e questões sucessórias. O texto apresenta caminhos que podem ser avaliados conforme o caso, entre eles usucapião, Reurb, adjudicação compulsória e retificação registral.",
-      "data_publicacao": "2026-09-10T16:23:11-03:00",
-      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
+      "titulo": "Abecip eleva previsão de crescimento do crédito imobiliário em 2026",
+      "descricao": "A Abecip elevou de 16% para 25% a estimativa de expansão do crédito imobiliário brasileiro em 2026, o que corresponde a aproximadamente R$ 411 bilhões em concessões. A entidade também revisou a projeção de crescimento do SBPE e apontou juros como fator de atenção para os próximos meses.",
+      "data_publicacao": "2026-08-26T17:08:00-03:00",
+      "url": "https://economia.uol.com.br/noticias/reuters/2026/08/26/abecip-eleva-previsao-de-alta-do-credito-imobiliario-em-2026.htm",
+      "fonte": "Reuters/UOL Economia"
+    },
+    {
+      "titulo": "Abecip avalia necessidade de recalibrar o novo modelo de crédito imobiliário",
+      "descricao": "A Abecip avaliou que o novo modelo de funding do crédito imobiliário, com maior participação de LCI, LIG e mercado de capitais, tornou o sistema mais diversificado. A entidade também destacou que essa composição deixou o custo do crédito mais sensível às oscilações dos juros e pode exigir ajustes antes da implementação definitiva.",
+      "data_publicacao": "2026-08-19T00:00:00-03:00",
+      "url": "https://www.abecip.org.br/imprensa/noticias/abecip-novo-modelo-do-credito-imobiliario-pede-recalibragem-antes-de-janeiro-infomoney",
+      "fonte": "Abecip"
+    },
+    {
+      "titulo": "STJ afasta contribuição ao salário-educação para titulares de cartórios",
+      "descricao": "A maioria da Primeira Turma do STJ concluiu que a contribuição ao salário-educação não é exigível da pessoa física que exerce atividade notarial ou registral. O entendimento considera que a serventia é exercida por delegação do poder público e não transforma o titular em empresa para essa finalidade tributária.",
+      "data_publicacao": "2026-08-24T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/stj-livra-donos-de-cartorios-de-contribuir-com-o-salario-educacao/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "ITCMD e certidões fiscais no registro dos inventários extrajudiciais",
-      "descricao": "Artigo analisa os limites da dispensa de certidões fiscais e do pagamento prévio de ITCMD na lavratura de inventários extrajudiciais. A discussão diferencia o momento da escritura da exigibilidade tributária e ressalta que o imposto continua devido.",
-      "data_publicacao": "2026-09-10T16:22:38-03:00",
-      "url": "https://www.notariado.org.br/itcmd-e-certidoes-fiscais-no-registro-dos-inventarios-extrajudiciais-os-limites-da-dispensa-do-cnj/",
+      "titulo": "Inventário extrajudicial deixa de exigir recolhimento antecipado do ITCMD",
+      "descricao": "O CNJ alterou a resolução que disciplina inventários e partilhas extrajudiciais para retirar a exigência de recolhimento antecipado do ITCMD antes da escritura pública. Outros pedidos de alteração sobre testamentos revogados e atos envolvendo filhos menores ou incapazes não foram acolhidos.",
+      "data_publicacao": "2026-08-24T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/inventario-extrajudicial-nao-exige-mais-recolhimento-antecipado-de-itcmd/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Cartilha orienta mediação e conciliação em serventias",
-      "descricao": "O Registro de Imóveis do Brasil — Seção Paraná publicou cartilha com fundamentos legais, técnicas, procedimentos e modelos para mediação e conciliação em serventias extrajudiciais. A proposta é apoiar a oferta padronizada de soluções consensuais e ampliar a segurança desses atendimentos.",
-      "data_publicacao": "2026-09-10T16:22:00-03:00",
-      "url": "https://www.notariado.org.br/cartilha-orienta-mediacao-e-conciliacao-em-serventias/",
+      "titulo": "CNJ aprova política nacional para concursos de cartórios",
+      "descricao": "O CNJ aprovou novas regras gerais para concursos públicos de provas e títulos destinados à outorga de delegações de notas e registro. A política prevê bancas especializadas, cadeia de custódia, criptografia, registros auditáveis e supervisão da Corregedoria Nacional.",
+      "data_publicacao": "2026-08-20T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/nova-politica-unifica-normas-de-concursos-estaduais-para-cartorios/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Corregedoria Extrajudicial apresenta boas práticas em encontro nacional",
-      "descricao": "Representantes de corregedorias participaram, em Brasília, de encontro promovido pelo CNJ com painéis sobre fiscalização, modernização e aperfeiçoamento dos serviços notariais e registrais. A agenda apresentou práticas de atuação preventiva e orientativa, com uso de dados e iniciativas de cidadania.",
-      "data_publicacao": "2026-09-10T16:21:08-03:00",
-      "url": "https://www.notariado.org.br/corregedoria-extrajudicial-apresenta-boas-praticas-em-encontro-nacional-promovido-pelo-cnj/",
+      "titulo": "Projeto prevê estudo de impacto antes de mudanças na organização dos cartórios",
+      "descricao": "O Projeto de Lei 3229/26 propõe exigir estudo de impacto socioeconômico para separação de serviços, desmembramento ou alteração da área de atuação de serventias. A proposta altera a Lei dos Cartórios e tramita de forma conclusiva na Comissão de Constituição e Justiça e de Cidadania.",
+      "data_publicacao": "2026-08-24T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/projeto-exige-estudo-de-impacto-socioeconomico-para-mudanca-em-cartorios/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "CNB/CF defende segurança jurídica e proteção de vulneráveis em audiência sobre precatórios",
-      "descricao": "O CNB/CF participou de audiência pública do CNJ sobre normas e gestão de precatórios, com atenção à cessão de créditos. Representantes defenderam a escritura pública e a orientação notarial como instrumentos de transparência e proteção de credores vulneráveis.",
-      "data_publicacao": "2026-09-11T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/09/11/cnb-cf-defende-a-seguranca-juridica-e-a-protecao-de-vulneraveis-em-audiencia-publica-sobre-precatorios-no-cnj/",
-      "fonte": "CNB/SP (CNB/CF)"
+      "titulo": "STJ limita redirecionamento de execução fiscal contra sucessores",
+      "descricao": "O STJ decidiu que a execução fiscal só pode ser redirecionada ao espólio ou aos sucessores quando o devedor tiver sido citado antes de morrer. A tese foi fixada em recursos especiais e delimita a formação da relação processual para a cobrança após o falecimento.",
+      "data_publicacao": "2026-08-21T14:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-21/execucao-fiscal-so-alcanca-sucessores-se-devedor-foi-citado-antes-de-morrer",
+      "fonte": "Consultor Jurídico"
     },
     {
-      "titulo": "4º Exame Nacional dos Cartórios abre inscrições",
-      "descricao": "O CNJ abriu as inscrições para o 4º Exame Nacional dos Cartórios, realizado em parceria com a FGV. O prazo vai até 29 de setembro, e a habilitação é requisito para a inscrição preliminar em concursos de outorga de delegações.",
-      "data_publicacao": "2026-08-31T13:01:19-03:00",
-      "url": "https://www.cnj.jus.br/4o-exame-nacional-dos-cartorios-abre-inscricoes-nesta-segunda-feira-31-8/",
-      "fonte": "Conselho Nacional de Justiça"
+      "titulo": "STJ regulamenta exigência de resumos em recursos",
+      "descricao": "O STJ publicou norma para exigir que recursos tragam, logo no início, um resumo objetivo dos fatos, pedidos e decisões questionadas. A medida prevê a possibilidade de correção de vícios antes do prosseguimento e busca facilitar a análise dos processos.",
+      "data_publicacao": "2026-08-20T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-20/stj-regulamenta-exigencia-de-resumos-em-recursos-e-preve-sancoes/",
+      "fonte": "Consultor Jurídico"
     },
     {
-      "titulo": "Separação obrigatória de bens impede inclusão como herdeira necessária",
-      "descricao": "O TJ-MS acolheu, por maioria, embargos de declaração com efeitos infringentes para reconhecer a separação obrigatória de bens no caso analisado. A decisão afastou a inclusão da cônjuge como herdeira necessária, conforme o entendimento descrito pela ConJur.",
-      "data_publicacao": "2026-09-09T08:23:51-03:00",
-      "url": "https://conjur.com.br/2026-set-09/separacao-obrigatoria-de-bens-impede-inclusao-como-herdeira-necessaria/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "STJ diz por que a morte do comprador não encerra o direito ao imóvel",
-      "descricao": "O STJ reconheceu que o compromisso de compra e venda de imóvel pode ser transmitido causa mortis mesmo sem registro. A decisão trata da continuidade dos direitos do comprador falecido no inventário.",
-      "data_publicacao": "2026-09-04T21:22:33-03:00",
-      "url": "https://conjur.com.br/2026-set-04/stj-diz-por-que-a-morte-do-comprador-nao-encerra-o-direito-ao-imovel/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Alienação fiduciária e impenhorabilidade da pequena propriedade rural",
-      "descricao": "A matéria examina a proteção da pequena propriedade rural diante da alienação fiduciária. O texto destaca que a Constituição remeteu à lei a definição de pequena propriedade rural, mas não houve norma específica para fins de impenhorabilidade.",
-      "data_publicacao": "2026-08-30T07:02:08-03:00",
-      "url": "https://conjur.com.br/2026-ago-30/impenhorabilidade-da-pequena-propriedade-rural-e-a-alienacao-fiduciaria-o-atual-estagio-da-materia/",
-      "fonte": "ConJur"
+      "titulo": "STJ definirá critério para valor da causa em ações sobre fases de concursos",
+      "descricao": "O STJ decidiu julgar sob o rito dos recursos repetitivos o critério para definir o valor da causa em ações que questionam apenas uma fase de concurso público. A decisão suspende processos com a mesma controvérsia até a fixação de uma orientação uniforme.",
+      "data_publicacao": "2026-08-16T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-16/stj-definira-criterio-para-valor-da-causa-em-acoes-sobre-fases-de-concursos-publicos/",
+      "fonte": "Consultor Jurídico"
     }
   ]
 }
