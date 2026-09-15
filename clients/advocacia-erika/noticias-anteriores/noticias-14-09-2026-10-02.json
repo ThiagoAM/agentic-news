@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-09-14T10:02:32-03:00",
+  "noticias": [
+    {
+      "titulo": "Mais de 70 famílias recebem títulos de regularização fundiária no Tocantins",
+      "descricao": "Cristalândia e Gurupi iniciaram a rota de entrega de títulos de regularização fundiária de setembro, beneficiando mais de 70 famílias. A ação reúne prefeituras, Poder Judiciário, Tocantins Parcerias e Cartórios de Registro de Imóveis para formalizar a propriedade dos imóveis.",
+      "data_publicacao": "2026-09-11T12:46:00-03:00",
+      "url": "https://corregedoria.tjto.jus.br/comunicacao/noticias/reurb-mais-de-70-familias-de-cristalandia-e-gurupi-recebem-titulos-de-regularizacao-fundiaria-na-abertura-da-rota-de-setembro",
+      "fonte": "Corregedoria-Geral da Justiça do Tocantins"
+    },
+    {
+      "titulo": "Viçosa do Ceará promove reunião sobre regularização fundiária",
+      "descricao": "A Prefeitura de Viçosa do Ceará realizou uma reunião para tratar de ações de regularização fundiária junto à comunidade. O encontro buscou ampliar a orientação sobre organização territorial, segurança jurídica e garantia de direitos para as famílias participantes.",
+      "data_publicacao": "2026-09-09T00:00:00-03:00",
+      "url": "https://www.vicosa.ce.gov.br/informa/5001/reuni-o-de-regulariza-o-fundi-ria",
+      "fonte": "Prefeitura de Viçosa do Ceará"
+    },
+    {
+      "titulo": "Financiamento imobiliário pelo SBPE cresce 12% no primeiro semestre",
+      "descricao": "As concessões de financiamento imobiliário pelo Sistema Brasileiro de Poupança e Empréstimo alcançaram R$ 67,2 bilhões entre janeiro e junho de 2026. O resultado representa crescimento de 12% na comparação com o mesmo período de 2025, segundo levantamento da CBIC e da Brain Inteligência Estratégica.",
+      "data_publicacao": "2026-08-26T00:00:00-03:00",
+      "url": "https://cbic.org.br/financiamento-imobiliario-pelo-sbpe-cresce-12-no-primeiro-semestre-de-2026/",
+      "fonte": "CBIC"
+    },
+    {
+      "titulo": "Abecip eleva previsão de crescimento do crédito imobiliário em 2026",
+      "descricao": "A Abecip elevou de 16% para 25% a estimativa de expansão do crédito imobiliário brasileiro em 2026, o que corresponde a aproximadamente R$ 411 bilhões em concessões. A entidade também revisou a projeção de crescimento do SBPE e apontou juros como fator de atenção para os próximos meses.",
+      "data_publicacao": "2026-08-26T17:08:00-03:00",
+      "url": "https://economia.uol.com.br/noticias/reuters/2026/08/26/abecip-eleva-previsao-de-alta-do-credito-imobiliario-em-2026.htm",
+      "fonte": "Reuters/UOL Economia"
+    },
+    {
+      "titulo": "Abecip avalia necessidade de recalibrar o novo modelo de crédito imobiliário",
+      "descricao": "A Abecip avaliou que o novo modelo de funding do crédito imobiliário, com maior participação de LCI, LIG e mercado de capitais, tornou o sistema mais diversificado. A entidade também destacou que essa composição deixou o custo do crédito mais sensível às oscilações dos juros e pode exigir ajustes antes da implementação definitiva.",
+      "data_publicacao": "2026-08-19T00:00:00-03:00",
+      "url": "https://www.abecip.org.br/imprensa/noticias/abecip-novo-modelo-do-credito-imobiliario-pede-recalibragem-antes-de-janeiro-infomoney",
+      "fonte": "Abecip"
+    },
+    {
+      "titulo": "STJ afasta contribuição ao salário-educação para titulares de cartórios",
+      "descricao": "A maioria da Primeira Turma do STJ concluiu que a contribuição ao salário-educação não é exigível da pessoa física que exerce atividade notarial ou registral. O entendimento considera que a serventia é exercida por delegação do poder público e não transforma o titular em empresa para essa finalidade tributária.",
+      "data_publicacao": "2026-08-24T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/stj-livra-donos-de-cartorios-de-contribuir-com-o-salario-educacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Inventário extrajudicial deixa de exigir recolhimento antecipado do ITCMD",
+      "descricao": "O CNJ alterou a resolução que disciplina inventários e partilhas extrajudiciais para retirar a exigência de recolhimento antecipado do ITCMD antes da escritura pública. Outros pedidos de alteração sobre testamentos revogados e atos envolvendo filhos menores ou incapazes não foram acolhidos.",
+      "data_publicacao": "2026-08-24T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/inventario-extrajudicial-nao-exige-mais-recolhimento-antecipado-de-itcmd/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ aprova política nacional para concursos de cartórios",
+      "descricao": "O CNJ aprovou novas regras gerais para concursos públicos de provas e títulos destinados à outorga de delegações de notas e registro. A política prevê bancas especializadas, cadeia de custódia, criptografia, registros auditáveis e supervisão da Corregedoria Nacional.",
+      "data_publicacao": "2026-08-20T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/nova-politica-unifica-normas-de-concursos-estaduais-para-cartorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Projeto prevê estudo de impacto antes de mudanças na organização dos cartórios",
+      "descricao": "O Projeto de Lei 3229/26 propõe exigir estudo de impacto socioeconômico para separação de serviços, desmembramento ou alteração da área de atuação de serventias. A proposta altera a Lei dos Cartórios e tramita de forma conclusiva na Comissão de Constituição e Justiça e de Cidadania.",
+      "data_publicacao": "2026-08-24T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/projeto-exige-estudo-de-impacto-socioeconomico-para-mudanca-em-cartorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STJ limita redirecionamento de execução fiscal contra sucessores",
+      "descricao": "O STJ decidiu que a execução fiscal só pode ser redirecionada ao espólio ou aos sucessores quando o devedor tiver sido citado antes de morrer. A tese foi fixada em recursos especiais e delimita a formação da relação processual para a cobrança após o falecimento.",
+      "data_publicacao": "2026-08-21T14:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-21/execucao-fiscal-so-alcanca-sucessores-se-devedor-foi-citado-antes-de-morrer",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "STJ regulamenta exigência de resumos em recursos",
+      "descricao": "O STJ publicou norma para exigir que recursos tragam, logo no início, um resumo objetivo dos fatos, pedidos e decisões questionadas. A medida prevê a possibilidade de correção de vícios antes do prosseguimento e busca facilitar a análise dos processos.",
+      "data_publicacao": "2026-08-20T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-20/stj-regulamenta-exigencia-de-resumos-em-recursos-e-preve-sancoes/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "STJ definirá critério para valor da causa em ações sobre fases de concursos",
+      "descricao": "O STJ decidiu julgar sob o rito dos recursos repetitivos o critério para definir o valor da causa em ações que questionam apenas uma fase de concurso público. A decisão suspende processos com a mesma controvérsia até a fixação de uma orientação uniforme.",
+      "data_publicacao": "2026-08-16T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-16/stj-definira-criterio-para-valor-da-causa-em-acoes-sobre-fases-de-concursos-publicos/",
+      "fonte": "Consultor Jurídico"
+    }
+  ]
+}
