@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-09-14T10:02:32-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras é destaque em evento internacional de educação inclusiva",
+      "descricao": "Representantes da rede municipal de Rio das Ostras participaram do VI Seminário Internacional CAFTe e do I Congresso Internacional de Avaliação na Perspectiva da Educação Inclusiva. A delegação apresentou experiências desenvolvidas nas escolas municipais entre os dias 8 e 11 de setembro.",
+      "data_publicacao": "2026-09-11T15:23:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-e-destaque-em-evento-internacional-sobre-educacao-inclusiva/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras lança cursos para professores e gestores escolares",
+      "descricao": "A Secretaria Municipal de Educação abriu inscrições para formações voltadas a profissionais da rede municipal. A programação inclui curso sobre práticas de equidade na Educação Básica e orientação técnica para o preenchimento do questionário do PDDE Alimento.",
+      "data_publicacao": "2026-09-09T16:23:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-de-rio-das-ostras-lanca-novos-cursos-para-professores-e-gestores-escolares/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras avalia sistema de macrodrenagem",
+      "descricao": "A equipe de Engenharia do município realizou reunião técnica para avaliar o diagnóstico do sistema de macrodrenagem e os pontos de deságue das bacias hidrográficas. As informações serão usadas para definir prioridades de projetos, manutenção e ações integradas de infraestrutura.",
+      "data_publicacao": "2026-09-08T12:11:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-avalia-sistema-de-macrodrenagem-das-bacias-hidrograficas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "4º Exame Nacional dos Cartórios abre inscrições",
+      "descricao": "O 4º Exame Nacional dos Cartórios abriu inscrições até 29 de setembro, com prova objetiva prevista para 22 de novembro. A habilitação é requisito para concursos de outorga de delegações de notas e registro promovidos pelos tribunais, inclusive o Tribunal de Justiça do Rio de Janeiro.",
+      "data_publicacao": "2026-09-01T00:00:00-03:00",
+      "url": "https://www.anoregrj.com.br/4o-exame-nacional-dos-cartorios-abre-inscricoes-nesta-segunda-feira-31-8/",
+      "fonte": "Anoreg/RJ"
+    },
+    {
+      "titulo": "Cartórios de protesto do RJ participarão de mutirão de negociação de dívidas",
+      "descricao": "Os cartórios de protesto do estado participarão do 4º Mutirão Estadual de Negociação de Dívidas e Orientação Financeira, realizado em duas etapas durante setembro. O atendimento permitirá consultar e cancelar protestos, além de apoiar a formalização de acordos com credores participantes.",
+      "data_publicacao": "2026-08-31T00:00:00-03:00",
+      "url": "https://www.anoregrj.com.br/cartorios-de-protesto-do-rio-de-janeiro-participarao-do-4o-mutirao-estadual-de-negociacao-de-dividas/",
+      "fonte": "Anoreg/RJ"
+    },
+    {
+      "titulo": "STJ afasta contribuição ao salário-educação para titulares de cartórios",
+      "descricao": "A maioria da Primeira Turma do STJ concluiu que a contribuição ao salário-educação não é exigível da pessoa física que exerce atividade notarial ou registral. O entendimento considera que a serventia é exercida por delegação do poder público e não transforma o titular em empresa para essa finalidade tributária.",
+      "data_publicacao": "2026-08-24T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/stj-livra-donos-de-cartorios-de-contribuir-com-o-salario-educacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Inventário extrajudicial deixa de exigir recolhimento antecipado do ITCMD",
+      "descricao": "O CNJ alterou a resolução que disciplina inventários e partilhas extrajudiciais para retirar a exigência de recolhimento antecipado do ITCMD antes da escritura pública. Outros pedidos de alteração sobre testamentos revogados e atos envolvendo filhos menores ou incapazes não foram acolhidos.",
+      "data_publicacao": "2026-08-24T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/inventario-extrajudicial-nao-exige-mais-recolhimento-antecipado-de-itcmd/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ aprova política nacional para concursos de cartórios",
+      "descricao": "O CNJ aprovou novas regras gerais para concursos públicos de provas e títulos destinados à outorga de delegações de notas e registro. A política prevê bancas especializadas, cadeia de custódia, criptografia, registros auditáveis e supervisão da Corregedoria Nacional.",
+      "data_publicacao": "2026-08-20T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/nova-politica-unifica-normas-de-concursos-estaduais-para-cartorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Projeto prevê estudo de impacto antes de mudanças na organização dos cartórios",
+      "descricao": "O Projeto de Lei 3229/26 propõe exigir estudo de impacto socioeconômico para separação de serviços, desmembramento ou alteração da área de atuação de serventias. A proposta altera a Lei dos Cartórios e tramita de forma conclusiva na Comissão de Constituição e Justiça e de Cidadania.",
+      "data_publicacao": "2026-08-24T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/projeto-exige-estudo-de-impacto-socioeconomico-para-mudanca-em-cartorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STJ limita redirecionamento de execução fiscal contra sucessores",
+      "descricao": "O STJ decidiu que a execução fiscal só pode ser redirecionada ao espólio ou aos sucessores quando o devedor tiver sido citado antes de morrer. A tese foi fixada em recursos especiais e delimita a formação da relação processual para a cobrança após o falecimento.",
+      "data_publicacao": "2026-08-21T14:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-21/execucao-fiscal-so-alcanca-sucessores-se-devedor-foi-citado-antes-de-morrer",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "STJ regulamenta exigência de resumos em recursos",
+      "descricao": "O STJ publicou norma para exigir que recursos tragam, logo no início, um resumo objetivo dos fatos, pedidos e decisões questionadas. A medida prevê a possibilidade de correção de vícios antes do prosseguimento e busca facilitar a análise dos processos.",
+      "data_publicacao": "2026-08-20T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-20/stj-regulamenta-exigencia-de-resumos-em-recursos-e-preve-sancoes/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "STJ definirá critério para valor da causa em ações sobre fases de concursos",
+      "descricao": "O STJ decidiu julgar sob o rito dos recursos repetitivos o critério para definir o valor da causa em ações que questionam apenas uma fase de concurso público. A decisão suspende processos com a mesma controvérsia até a fixação de uma orientação uniforme.",
+      "data_publicacao": "2026-08-16T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-16/stj-definira-criterio-para-valor-da-causa-em-acoes-sobre-fases-de-concursos-publicos/",
+      "fonte": "Consultor Jurídico"
+    }
+  ]
+}
