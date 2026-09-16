@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-09-15T10:02:53-03:00",
+  "noticias": [
+    {
+      "titulo": "CastraMóvel estará em Rocha Leão nesta terça e quarta-feira, 15 e 16",
+      "descricao": "A unidade móvel do Bem-Estar Animal atende gratuitamente na Praça de Rocha Leão nos dias 15 e 16 de setembro, com orientações veterinárias e castrações para cães e gatos. Os procedimentos cirúrgicos exigem agendamento prévio pelo Colab e dependem da disponibilidade de vagas.",
+      "data_publicacao": "2026-09-14T10:53:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/castramovel-estara-em-rocha-leao-nesta-terca-e-quarta-feira-15-e-16/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Campeonato Riostrense de Futebol Veterano movimenta o Estádio Mariléa",
+      "descricao": "O torneio começou em 13 de setembro com vitórias do Mar do Norte e do Operário. A próxima rodada está marcada para 20 de setembro, com jogos nos estádios CBF e Mariléa e entrada gratuita.",
+      "data_publicacao": "2026-09-14T10:09:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/campeonato-riostrense-de-futebol-veterano-movimenta-o-estadio-marilea/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Procon realiza ação de fiscalização no Shopping Plaza",
+      "descricao": "O Procon de Rio das Ostras fiscalizou o Shopping Plaza após uma interrupção prolongada no fornecimento de energia em 12 de setembro, que afetou estabelecimentos e consumidores. O órgão informou que a energia foi restabelecida por volta das 15h40 e autuou a Enel pela falha na prestação do serviço.",
+      "data_publicacao": "2026-09-14T08:13:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/procon-realiza-acao-de-fiscalizacao-no-shopping-plaza/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura moderniza Sistema de Licitações",
+      "descricao": "A Prefeitura implantou o novo Sistema Licitare para publicar, consultar e acompanhar licitações e contratos municipais. A plataforma substitui a versão anterior e preserva os dados já publicados, com o objetivo de facilitar o acesso às informações e o controle social.",
+      "data_publicacao": "2026-09-09T13:59:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/modernizacao-e-transparencia-no-sistema-de-licitacoes/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Centro do Rio supera Zona Sul em rentabilidade de imóveis residenciais",
+      "descricao": "Em julho, a rentabilidade residencial anunciada na Região Central chegou a 0,653%, acima da Zona Sul (0,644%) e da Barra e adjacências (0,616%), segundo dados do Secovi Rio. O indicador compara preços anunciados de venda e aluguel e deve ser interpretado junto a outros fatores do mercado.",
+      "data_publicacao": "2026-09-10T17:52:00-03:00",
+      "url": "https://diariodorio.com/economia/mercado-imobiliario/2026/09/10/centro-do-rio-supera-zona-sul-em-rentabilidade-de-imoveis-residenciais.html",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Barra, Copacabana e Recreio lideram vendas de imóveis no Rio no primeiro semestre",
+      "descricao": "A cidade do Rio registrou 23.755 transferências de imóveis entre janeiro e junho de 2026, 2,2% acima do mesmo período de 2025, segundo levantamento baseado nos registros de ITBI da Prefeitura. Barra, Copacabana e Recreio lideraram em volume, com 1.816, 1.737 e 1.421 negócios, respectivamente.",
+      "data_publicacao": "2026-09-08T00:00:00-03:00",
+      "url": "https://ademi.org.br/barra-copacabana-e-recreio-lideram-vendas-de-imoveis-no-rio-no",
+      "fonte": "Diário do Rio (via ADEMI-RJ)"
+    },
+    {
+      "titulo": "Jornada Notarial 2026 terá foco em segurança jurídica nas transações imobiliárias",
+      "descricao": "O CNB/CF realizará a mobilização nacional em 7 de novembro, com orientação ao público sobre compra, venda e outras operações envolvendo imóveis. A edição prevê um simulador didático da Conta Notarial, e as inscrições para cartórios e seccionais ficam abertas até 30 de outubro.",
+      "data_publicacao": "2026-09-11T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-abre-inscricoes-com-foco-na-seguranca-juridica-das-transacoes-imobiliarias/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Serventias iniciam arrecadação de brinquedos e livros para campanha nacional",
+      "descricao": "A RARES-NR iniciou campanha para que serventias extrajudiciais funcionem como pontos de coleta de brinquedos e livros para bibliotecas, creches, escolas, ONGs e outras instituições. As doações podem ser feitas em serventias participantes até 9 de outubro.",
+      "data_publicacao": "2026-09-03T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/serventias-iniciam-arrecadacao-de-brinquedos-e-livros/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Artigo discute regime escalonado de bens em pactos antenupciais",
+      "descricao": "Em artigo publicado pelo CNB, Flavine Meghy Metne Mendes examina a proposta do PL 4/2025 que permitiria prever mudanças automáticas futuras no regime de bens em pacto antenupcial ou contrato de convivência. O texto trata dos limites entre autonomia privada e segurança jurídica no registro desses ajustes.",
+      "data_publicacao": "2026-09-03T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/regime-escalonado-de-bens-valoracao-da-autonomia-da-vontade/",
+      "fonte": "Colégio Notarial do Brasil (artigo)"
+    },
+    {
+      "titulo": "Dino pede destaque e STF reiniciará julgamento sobre tributação da Selic",
+      "descricao": "O ministro Flávio Dino pediu que o STF retire do plenário virtual a ação sobre a incidência de IRPJ e CSLL na parcela da Selic associada ao levantamento de depósitos judiciais. Com o destaque, o julgamento será reiniciado no plenário físico, sem nova data anunciada; até então, o relator Nunes Marques havia votado pela improcedência.",
+      "data_publicacao": "2026-09-09T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-09/dino-pede-destaque-e-stf-reiniciara-julgamento-sobre-tributacao-da-selic/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "Artigo apresenta primeiros comentários à LC 236/2026 sobre processo administrativo fiscal",
+      "descricao": "A análise aborda regras nacionais do processo administrativo fiscal introduzidas pela LC 236/2026, incluindo prazos recursais, embargos de declaração, nulidades e aplicação de precedentes. O texto discute como essas normas gerais podem afetar os processos tributários dos diferentes entes federativos.",
+      "data_publicacao": "2026-09-09T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-09/temos-um-processo-administrativo-fiscal-nacional-primeiros-comentarios-a-lc-236-2026/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "Artigo defende revisão de vetos da LC 236 sobre certidões fiscais",
+      "descricao": "O texto examina o veto presidencial a mudanças do artigo 205 do CTN que previam prazo máximo de cinco dias úteis para emissão de certidões de regularidade fiscal e validade uniforme de 180 dias. A análise sustenta que os problemas apontados no veto poderiam ser tratados de forma específica, preservando regras de previsibilidade para contribuintes.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-10/lc-236-veto-dos-paragrafos-do-artigo-205-do-ctn-precisa-ser-revisto/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    }
+  ]
+}
