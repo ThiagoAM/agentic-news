@@ -1,89 +1,89 @@
 {
-  "data-busca": "2026-09-15T10:02:53-03:00",
+  "data-busca": "2026-09-16T10:02:44-03:00",
   "noticias": [
     {
       "titulo": "Bancos mantêm cerca de R$ 10 bi em imóveis retomados",
-      "descricao": "Levantamento Mapa Resale estima que, dos R$ 11 bilhões em ativos para venda dos cinco maiores bancos em junho, cerca de R$ 10 bilhões eram imóveis retomados, somando 27.004 unidades informadas por quatro instituições. A Caixa concentrava a maior parte do estoque; a pesquisa ressalva que os números são estimativas e não medem diretamente a inadimplência dos financiamentos.",
+      "descricao": "Levantamento do Registro de Imóveis do Brasil mostra que cerca de R$ 10 bilhões dos ativos mantidos pelos cinco maiores bancos para venda correspondiam a imóveis retomados. A Caixa Econômica Federal lidera o conjunto, que passará a ser acompanhado trimestralmente.",
       "data_publicacao": "2026-09-14T00:00:00-03:00",
       "url": "https://www.registrodeimoveis.org.br/bancos-mantem-cerca-de-r-10-bi-em-imoveis-retomados",
-      "fonte": "Registro de Imóveis do Brasil (com informações do Portas)"
+      "fonte": "Registro de Imóveis do Brasil"
     },
     {
       "titulo": "Justiça limita multa por distrato na compra de imóvel",
-      "descricao": "A 1ª Vara Cível de Caldas Novas considerou abusiva a cláusula que previa multa de 10% sobre todo o valor atualizado de um contrato de lote cujo comprador pediu o cancelamento. A decisão limitou a retenção às quantias efetivamente pagas e determinou correção da restituição pelo IPCA, além de afastar cobranças sem comprovação no caso concreto.",
+      "descricao": "A 1ª Vara Cível de Caldas Novas considerou abusiva a cobrança de multa de 10% sobre o valor atualizado de todo um contrato de compra de lote. A decisão afastou cobranças adicionais pretendidas pelo vendedor no caso analisado.",
       "data_publicacao": "2026-09-14T00:00:00-03:00",
       "url": "https://www.registrodeimoveis.org.br/justica-limita-multa-por-distrato-na-compra-de-imovel",
-      "fonte": "Registro de Imóveis do Brasil (com informações da Rota Jurídica)"
-    },
-    {
-      "titulo": "Série mostra como digitalização tem apoiado mercado imobiliário",
-      "descricao": "A série Registros que Conectam, do Operador Nacional do Sistema de Registro Eletrônico de Imóveis, apresentou um episódio sobre a adoção de soluções do RI Digital pela incorporadora Cury. Gestores da área jurídica relatam mudanças no acompanhamento de registros, financiamentos e documentos, com integração de fluxos de trabalho.",
-      "data_publicacao": "2026-09-11T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/serie-mostra-como-digitalizacao-tem-apoiado-mercado-imobiliario",
-      "fonte": "Registro de Imóveis do Brasil (com informações do ONR)"
-    },
-    {
-      "titulo": "R$ 500 milhões reforçam Minha Casa, Minha Vida",
-      "descricao": "O Conselho Curador do FGTS aprovou aporte adicional de R$ 500 milhões para o orçamento de subsídios do Minha Casa, Minha Vida em 2026, que passa a totalizar R$ 13 bilhões. Até julho, mais de 200 mil famílias haviam recebido descontos para comprar imóveis, e a projeção anual apresentada foi de 376 mil beneficiadas.",
-      "data_publicacao": "2026-09-11T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/r-500-milhoes-reforcam-minha-casa-minha-vida",
-      "fonte": "Registro de Imóveis do Brasil (com informações do Portas)"
-    },
-    {
-      "titulo": "MCMV ultrapassa metade de lançamentos e vendas de imóveis novos",
-      "descricao": "No segundo trimestre de 2026, o Minha Casa, Minha Vida respondeu por 58% dos lançamentos e 51% das vendas de imóveis residenciais novos no país, segundo os indicadores citados na matéria. O programa somou 62.129 unidades lançadas no período; no semestre, as vendas totais de imóveis novos cresceram 5,4% sobre igual período de 2025.",
-      "data_publicacao": "2026-09-10T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/mcmv-ultrapassa-metade-de-lancamentos-e-vendas-de-imoveis-novos",
-      "fonte": "Registro de Imóveis do Brasil (com informações do Portas)"
-    },
-    {
-      "titulo": "FNDI reforça regra que disciplinou registro em áreas de marinha",
-      "descricao": "O Fórum Nacional de Desenvolvimento Imobiliário avaliou que o Provimento 49/2025 da Corregedoria de Santa Catarina detalha procedimentos registrais e notariais para imóveis em terrenos de marinha. Entre os pontos descritos estão a verificação de regularidade perante a SPU e a possibilidade de usucapião extrajudicial em áreas ainda não demarcadas, observados os requisitos legais; o colegiado defende que o tema receba disciplina nacional.",
-      "data_publicacao": "2026-09-09T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/fndi-reforca-regra-que-disciplinou-registro-em-area-de-marinha",
       "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Imóveis compactos já representam 35% dos lançamentos no Rio",
+      "descricao": "Dados consolidados pelo Sinduscon-Rio e pela Brain Inteligência Estratégica indicam que os imóveis compactos responderam por 35% dos lançamentos no Rio de Janeiro nos sete primeiros meses de 2026. O levantamento também aponta recuperação do Minha Casa, Minha Vida e aumento da participação do segmento de luxo.",
+      "data_publicacao": "2026-09-14T00:00:00-03:00",
+      "url": "https://ademi.org.br/imovel-compacto-e-a-estrela-do-mercado-em-2026-e-ja-representa-35-dos",
+      "fonte": "ADEMI-RJ"
+    },
+    {
+      "titulo": "Jornada Notarial 2026 abre inscrições com foco na segurança jurídica das transações imobiliárias",
+      "descricao": "A edição de 2026 da Jornada Notarial será realizada em 7 de novembro e terá como tema a segurança jurídica nas transações imobiliárias. A programação incluirá o Simulador da Conta Notarial e ações de orientação promovidas por cartórios e seccionais.",
+      "data_publicacao": "2026-09-11T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-abre-inscricoes-com-foco-na-seguranca-juridica-das-transacoes-imobiliarias/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Imóveis irregulares: um problema com várias possibilidades de solução",
+      "descricao": "Artigo do Colégio Notarial do Brasil descreve a irregularidade imobiliária como um problema estrutural que alcança diferentes regiões e perfis de proprietários. O texto reúne caminhos como usucapião, Reurb, adjudicação compulsória, retificação registral, inventário e regularização edilícia.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "ITCMD e certidões fiscais no registro dos inventários extrajudiciais",
+      "descricao": "Artigo analisa os limites da Resolução CNJ nº 695/2026, que dispensou o recolhimento prévio do ITCMD como condição para lavrar escrituras de inventário e partilha extrajudicial. A abordagem diferencia a lavratura notarial da qualificação registral e sustenta que a exigência tributária no registro de imóveis tem fundamentos próprios.",
+      "data_publicacao": "2026-09-09T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/itcmd-e-certidoes-fiscais-no-registro-dos-inventarios-extrajudiciais-os-limites-da-dispensa-do-cnj/",
+      "fonte": "Colégio Notarial do Brasil"
     },
     {
       "titulo": "Cartilha orienta mediação e conciliação em serventias",
-      "descricao": "O Registro de Imóveis do Brasil - Seção Paraná, o Tribunal de Justiça do Paraná e entidades parceiras publicaram uma cartilha para orientar a mediação e a conciliação em serventias extrajudiciais. O material reúne fundamentos jurídicos, técnicas para condução de sessões e modelos de documentos para apoiar a oferta padronizada desses procedimentos.",
-      "data_publicacao": "2026-09-09T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/cartilha-orienta-mediacao-e-conciliacao-em-serventias",
-      "fonte": "Registro de Imóveis do Brasil - Seção Paraná"
+      "descricao": "Publicação elaborada pelo RIB-PR, TJPR, Corregedoria-Geral da Justiça do Paraná e Anoreg/PR reúne fundamentos, técnicas, procedimentos e modelos para mediação e conciliação em serventias extrajudiciais. O material busca padronizar a prestação do serviço e ampliar a resolução consensual de conflitos.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cartilha-orienta-mediacao-e-conciliacao-em-serventias/",
+      "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "CNJ acelera execuções e localização de patrimônio de devedores",
-      "descricao": "O Provimento 255/2026 da Corregedoria Nacional de Justiça instituiu a Política Nacional de Execução Efetiva, com diretrizes para pesquisa patrimonial, cooperação entre tribunais e gestão de execuções. A norma prevê núcleos especializados e uma plataforma nacional para alienações judiciais, além de permitir ferramentas de análise de dados e inteligência artificial como apoio às equipes.",
-      "data_publicacao": "2026-09-09T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/cnj-acelera-execucoes-e-localizacao-de-patrimonio-de-devedores",
-      "fonte": "Registro de Imóveis do Brasil (com informações do Migalhas)"
-    },
-    {
-      "titulo": "TRF-1 mantém liminar sobre Resolução Cofeci 1.551/2025",
-      "descricao": "O Tribunal Regional Federal da 1ª Região manteve decisões que suspenderam efeitos da Resolução Cofeci 1.551/2025, após rejeitar pedido do Conselho Federal de Corretores de Imóveis. A norma criava regras para plataformas e agentes de transações imobiliárias digitais, e a disputa envolve os limites da competência regulamentar do conselho frente às regras civis e registrais.",
-      "data_publicacao": "2026-09-08T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/trf-1-mantem-liminar-sobre-resolucao-cofeci-1551-2025",
-      "fonte": "Registro de Imóveis do Brasil (com informações do ONR)"
-    },
-    {
-      "titulo": "Venda de imóvel é mantida se união estável não for publicizada",
-      "descricao": "O Tribunal de Justiça do Paraná manteve a validade da venda de um imóvel rural disputado após o fim de uma união estável, considerando que a relação não constava na matrícula e que não ficou comprovada a má-fé dos compradores. A decisão levou em conta a concentração de informações na matrícula e as certidões negativas obtidas antes da aquisição.",
-      "data_publicacao": "2026-09-08T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/venda-de-imovel-e-mantida-se-uniao-estavel-nao-for-publicizada",
-      "fonte": "Registro de Imóveis do Brasil (com informações do ConJur)"
-    },
-    {
-      "titulo": "Pesquisa mostra menor interesse em imóveis como investimento",
-      "descricao": "Uma pesquisa da Loft e da Offerwise em seis capitais aponta que, entre as pessoas que pretendem comprar imóvel, 22% pretendem investir, ante 30% na edição anterior, enquanto a parcela que quer comprar para morar subiu de 70% para 78%. O levantamento ouviu 1.400 pessoas entre 21 e 30 de julho e também identificou diferenças regionais na intenção de compra para locação.",
-      "data_publicacao": "2026-09-04T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/pesquisa-mostra-menor-interesse-em-imoveis-como-investimento",
-      "fonte": "Registro de Imóveis do Brasil (com informações da Exame)"
-    },
-    {
-      "titulo": "Dados e serviços fundiários se tornam mais acessíveis",
-      "descricao": "A Plataforma de Governança Territorial, desenvolvida pelo Serpro para o Incra, passou a reunir serviços de titulação, regularização e consulta a informações fundiárias. Famílias assentadas podem fazer solicitações online, enquanto o Cadastro Territorial Rural e o Geoportal permitem consultar dados de imóveis e parcelas georreferenciadas.",
-      "data_publicacao": "2026-09-01T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/dados-e-servicos-fundiarios-se-tornam-mais-acessiveis",
+      "titulo": "Digitalização apoia agilidade e eficiência no mercado imobiliário",
+      "descricao": "A série Registros que Conectam apresenta experiências de empresas que passaram a utilizar soluções digitais desenvolvidas pelo Operador Nacional do Sistema de Registro Eletrônico de Imóveis. O conteúdo relaciona a digitalização à simplificação de rotinas e ao ganho de eficiência no mercado imobiliário.",
+      "data_publicacao": "2026-09-11T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/serie-mostra-como-digitalizacao-tem-apoiado-mercado-imobiliario",
       "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Mais R$ 500 milhões reforçam o Minha Casa, Minha Vida",
+      "descricao": "O Conselho Curador do FGTS aprovou aporte adicional de R$ 500 milhões para descontos destinados às famílias das Faixas 1 e 2 do Minha Casa, Minha Vida. Com a decisão, o orçamento anual do programa para 2026 chegou a R$ 13 bilhões.",
+      "data_publicacao": "2026-09-11T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/r-500-milhoes-reforcam-minha-casa-minha-vida",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Centro do Rio supera Zona Sul em rentabilidade de imóveis residenciais",
+      "descricao": "Levantamento do Secovi Rio apontou rentabilidade residencial de 0,653% para a Região Central em julho, acima dos índices da Zona Sul e da Barra. O indicador relaciona o preço anunciado de venda ao valor anunciado para locação e deve ser analisado junto a outros fatores do mercado.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://ademi.org.br/centro-do-rio-supera-zona-sul-em-rentabilidade-de-imoveis",
+      "fonte": "ADEMI-RJ"
+    },
+    {
+      "titulo": "Rio recebeu mais de 13 mil novos imóveis no primeiro semestre",
+      "descricao": "Balanço da Brain Inteligência Estratégica para a Ademi-RJ registrou 13.272 unidades lançadas e 12.883 vendidas no mercado imobiliário carioca no primeiro semestre. O Minha Casa, Minha Vida liderou os lançamentos, seguido pelos imóveis de médio padrão e compactos.",
+      "data_publicacao": "2026-09-03T17:52:00-03:00",
+      "url": "https://odia.ig.com.br/colunas/panorama-imobiliario/2026/09/7298396-rio-recebeu-mais-de-13-mil-novos-imoveis-no-primeiro-semestre.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "STF reinicia julgamento de imunidade de ITBI para capital social de imobiliárias",
+      "descricao": "O Plenário do Supremo Tribunal Federal retomou a análise do alcance da imunidade de ITBI na transferência de imóveis para integralização do capital social de empresas com atividade imobiliária. O julgamento do Tema 1.348 foi reiniciado após pedido de destaque e permanece relevante para reorganizações societárias e planejamento patrimonial.",
+      "data_publicacao": "2026-09-02T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-02/stf-reinicia-julgamento-de-imunidade-de-itbi-para-capital-social-de-imobiliarias/",
+      "fonte": "ConJur"
     }
   ]
 }
