@@ -1,89 +1,96 @@
 {
-  "data-busca": "2026-09-16T10:02:44-03:00",
+  "data-busca": "2026-09-17T10:01:53-03:00",
   "noticias": [
     {
-      "titulo": "Bancos mantêm cerca de R$ 10 bi em imóveis retomados",
-      "descricao": "Levantamento do Registro de Imóveis do Brasil mostra que cerca de R$ 10 bilhões dos ativos mantidos pelos cinco maiores bancos para venda correspondiam a imóveis retomados. A Caixa Econômica Federal lidera o conjunto, que passará a ser acompanhado trimestralmente.",
-      "data_publicacao": "2026-09-14T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/bancos-mantem-cerca-de-r-10-bi-em-imoveis-retomados",
-      "fonte": "Registro de Imóveis do Brasil"
+      "titulo": "STF tem cinco votos pela imunidade de ITBI para capital social de imobiliárias",
+      "descricao": "O Plenário do Supremo Tribunal Federal alcançou cinco votos para reconhecer que a imunidade do ITBI na integralização do capital social também pode alcançar empresas cuja atividade preponderante seja imobiliária. O julgamento do Tema 1.348 foi suspenso após pedido de vista, e a tese ainda está em formação.",
+      "data_publicacao": "2026-09-16T19:42:00-03:00",
+      "url": "https://conjur.com.br/2026-set-16/stf-tem-cinco-votos-pela-imunidade-de-itbi-para-capital-social-de-imobiliarias/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Justiça limita multa por distrato na compra de imóvel",
-      "descricao": "A 1ª Vara Cível de Caldas Novas considerou abusiva a cobrança de multa de 10% sobre o valor atualizado de todo um contrato de compra de lote. A decisão afastou cobranças adicionais pretendidas pelo vendedor no caso analisado.",
-      "data_publicacao": "2026-09-14T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/justica-limita-multa-por-distrato-na-compra-de-imovel",
-      "fonte": "Registro de Imóveis do Brasil"
-    },
-    {
-      "titulo": "Imóveis compactos já representam 35% dos lançamentos no Rio",
-      "descricao": "Dados consolidados pelo Sinduscon-Rio e pela Brain Inteligência Estratégica indicam que os imóveis compactos responderam por 35% dos lançamentos no Rio de Janeiro nos sete primeiros meses de 2026. O levantamento também aponta recuperação do Minha Casa, Minha Vida e aumento da participação do segmento de luxo.",
-      "data_publicacao": "2026-09-14T00:00:00-03:00",
-      "url": "https://ademi.org.br/imovel-compacto-e-a-estrela-do-mercado-em-2026-e-ja-representa-35-dos",
-      "fonte": "ADEMI-RJ"
-    },
-    {
-      "titulo": "Jornada Notarial 2026 abre inscrições com foco na segurança jurídica das transações imobiliárias",
-      "descricao": "A edição de 2026 da Jornada Notarial será realizada em 7 de novembro e terá como tema a segurança jurídica nas transações imobiliárias. A programação incluirá o Simulador da Conta Notarial e ações de orientação promovidas por cartórios e seccionais.",
-      "data_publicacao": "2026-09-11T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/jornada-notarial-2026-abre-inscricoes-com-foco-na-seguranca-juridica-das-transacoes-imobiliarias/",
+      "titulo": "Alienação de bens pelo espólio e cessão de direitos hereditários: O que muda com o art. 11-A da resolução 571/24 do CNJ",
+      "descricao": "Artigo do Colégio Notarial do Brasil examina a possibilidade de o inventariante alienar bens do espólio por escritura pública para custear despesas do inventário, observadas as garantias e condições da norma. O texto também diferencia essa operação da cessão de direitos hereditários e destaca os reflexos tributários e documentais de cada instituto.",
+      "data_publicacao": "2026-09-16T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Imóveis irregulares: um problema com várias possibilidades de solução",
-      "descricao": "Artigo do Colégio Notarial do Brasil descreve a irregularidade imobiliária como um problema estrutural que alcança diferentes regiões e perfis de proprietários. O texto reúne caminhos como usucapião, Reurb, adjudicação compulsória, retificação registral, inventário e regularização edilícia.",
-      "data_publicacao": "2026-09-10T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
+      "titulo": "A abertura extrajudicial do testamento público como pressuposto do inventário por escritura: Proposta de ata notarial de concordância testamentária",
+      "descricao": "O artigo propõe uma ata notarial de concordância testamentária para permitir, em hipóteses consensuais, a abertura extrajudicial de testamentos públicos antes do inventário por escritura. A proposta diferencia o testamento público das modalidades que exigem maior controle de autenticidade e dialoga com a reforma em discussão no Senado.",
+      "data_publicacao": "2026-09-16T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "ITCMD e certidões fiscais no registro dos inventários extrajudiciais",
-      "descricao": "Artigo analisa os limites da Resolução CNJ nº 695/2026, que dispensou o recolhimento prévio do ITCMD como condição para lavrar escrituras de inventário e partilha extrajudicial. A abordagem diferencia a lavratura notarial da qualificação registral e sustenta que a exigência tributária no registro de imóveis tem fundamentos próprios.",
-      "data_publicacao": "2026-09-09T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/itcmd-e-certidoes-fiscais-no-registro-dos-inventarios-extrajudiciais-os-limites-da-dispensa-do-cnj/",
+      "titulo": "IBS e CBS nos cartórios: o risco de a reforma tributária encarecer a segurança jurídica",
+      "descricao": "O Colégio Notarial do Brasil analisa como a incidência do IBS e da CBS pode afetar os emolumentos e elevar o custo da formalização de atos notariais e registrais. O texto alerta que o aumento dos custos pode estimular a postergação de registros e a manutenção de negócios imobiliários sem a publicidade adequada.",
+      "data_publicacao": "2026-09-16T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/ibs-e-cbs-nos-cartorios-o-risco-de-a-reforma-tributaria-encarecer-a-seguranca-juridica/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Cartilha orienta mediação e conciliação em serventias",
-      "descricao": "Publicação elaborada pelo RIB-PR, TJPR, Corregedoria-Geral da Justiça do Paraná e Anoreg/PR reúne fundamentos, técnicas, procedimentos e modelos para mediação e conciliação em serventias extrajudiciais. O material busca padronizar a prestação do serviço e ampliar a resolução consensual de conflitos.",
-      "data_publicacao": "2026-09-10T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cartilha-orienta-mediacao-e-conciliacao-em-serventias/",
-      "fonte": "Colégio Notarial do Brasil"
+      "titulo": "Sociedade empresária limitada unipessoal. Integralização de capital social. Cônjuge coproprietário não sócio – anuência. Escritura pública – necessidade.",
+      "descricao": "O IRIB divulgou decisão do TJPR segundo a qual a transferência de imóvel comum do casal para uma sociedade limitada unipessoal exige escritura pública quando o cônjuge coproprietário não integra o quadro societário. O entendimento diferencia a anuência do cônjuge da transferência do direito real que lhe pertence.",
+      "data_publicacao": "2026-09-16T12:00:00-03:00",
+      "url": "https://www.irib.org.br/sociedade-empresaria-limitada-unipessoal-integralizacao-de-capital-social-conjuge-coproprietario-nao-socio-regime-de-comunhao-parcial-de-bens-anuencia-escritura-publica-necessi/",
+      "fonte": "IRIB"
     },
     {
-      "titulo": "Digitalização apoia agilidade e eficiência no mercado imobiliário",
-      "descricao": "A série Registros que Conectam apresenta experiências de empresas que passaram a utilizar soluções digitais desenvolvidas pelo Operador Nacional do Sistema de Registro Eletrônico de Imóveis. O conteúdo relaciona a digitalização à simplificação de rotinas e ao ganho de eficiência no mercado imobiliário.",
-      "data_publicacao": "2026-09-11T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/serie-mostra-como-digitalizacao-tem-apoiado-mercado-imobiliario",
-      "fonte": "Registro de Imóveis do Brasil"
+      "titulo": "Webinar: “As principais inovações em sede de inventário extrajudicial pós alterações na Resolução 35 do CNJ”",
+      "descricao": "O IRIB anunciou webinar sobre as mudanças no inventário extrajudicial após as alterações da Resolução 35 do CNJ. A programação inclui temas como herdeiros emancipados, testamento, sobrepartilha, retificação de inventário judicial pelo extrajudicial e colação de bens.",
+      "data_publicacao": "2026-09-16T12:00:00-03:00",
+      "url": "https://www.irib.org.br/webinar-as-principais-inovacoes-em-sede-de-inventario-extrajudicial-pos-alteracoes-na-resolucao-35-do-cnj/",
+      "fonte": "IRIB"
     },
     {
-      "titulo": "Mais R$ 500 milhões reforçam o Minha Casa, Minha Vida",
-      "descricao": "O Conselho Curador do FGTS aprovou aporte adicional de R$ 500 milhões para descontos destinados às famílias das Faixas 1 e 2 do Minha Casa, Minha Vida. Com a decisão, o orçamento anual do programa para 2026 chegou a R$ 13 bilhões.",
-      "data_publicacao": "2026-09-11T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/r-500-milhoes-reforcam-minha-casa-minha-vida",
-      "fonte": "Registro de Imóveis do Brasil"
+      "titulo": "Raio-X dos Cartórios 2026: prazo para participação se encerrará no dia 18 de setembro",
+      "descricao": "O levantamento nacional Raio-X dos Cartórios 2026, promovido pela ANOREG/BR, recebeu divulgação do IRIB com prazo de participação até 18 de setembro. A iniciativa pretende reunir dados para formar um panorama atualizado da atividade extrajudicial brasileira.",
+      "data_publicacao": "2026-09-16T12:00:00-03:00",
+      "url": "https://www.irib.org.br/raio-x-dos-cartorios-2026-prazo-para-participacao-se-encerrara-no-dia-18-de-setembro/",
+      "fonte": "IRIB"
     },
     {
-      "titulo": "Centro do Rio supera Zona Sul em rentabilidade de imóveis residenciais",
-      "descricao": "Levantamento do Secovi Rio apontou rentabilidade residencial de 0,653% para a Região Central em julho, acima dos índices da Zona Sul e da Barra. O indicador relaciona o preço anunciado de venda ao valor anunciado para locação e deve ser analisado junto a outros fatores do mercado.",
-      "data_publicacao": "2026-09-10T00:00:00-03:00",
-      "url": "https://ademi.org.br/centro-do-rio-supera-zona-sul-em-rentabilidade-de-imoveis",
-      "fonte": "ADEMI-RJ"
+      "titulo": "Provimento CN-CNJ n. 227/2026 é questionado no STF",
+      "descricao": "A ANOREG/BR ajuizou no Supremo Tribunal Federal a ADI 8015 contra dispositivos do Provimento CN-CNJ 227/2026, que tratam da demonstração de solvência trabalhista por delegatários de serventias extrajudiciais. A entidade sustenta que as exigências patrimoniais e disciplinares não teriam previsão legal suficiente; a ação foi distribuída ao ministro Flávio Dino.",
+      "data_publicacao": "2026-09-16T12:00:00-03:00",
+      "url": "https://www.irib.org.br/provimento-cn-cnj-n-227-2026-e-questionado-no-stf/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Atos normativos da CGJCE atualizam Código de Normas",
+      "descricao": "A Corregedoria-Geral da Justiça do Ceará editou atos que reforçam requisitos de qualificação das partes, identificação dos negócios e detalhamento dos valores cobrados em atos notariais e registrais. As medidas também preveem revisão de atos ligados a dação em pagamento, novação, cessão de crédito e confissão de dívida.",
+      "data_publicacao": "2026-09-14T12:00:00-03:00",
+      "url": "https://www.irib.org.br/atos-normativos-da-cgjce-atualizam-codigo-de-normas/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "TJAC: COGER proíbe Cartórios de exigir CND para prática de atos",
+      "descricao": "O Provimento COGER nº 12/2026, do Tribunal de Justiça do Acre, estabelece que a ausência de certidões fiscais não pode impedir a lavratura de escrituras, registros imobiliários ou outros atos extrajudiciais. A dispensa deve ser expressa e informada, sem afastar as obrigações fiscais e os alertas sobre riscos jurídicos da transação.",
+      "data_publicacao": "2026-09-14T12:00:00-03:00",
+      "url": "https://www.irib.org.br/tjac-coger-proibe-cartorios-de-exigir-cnd-para-pratica-de-atos/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Circuito Nacional de Direito Sucessório debate mudanças no Código Civil e novos desafios da advocacia",
+      "descricao": "A OAB informou que a etapa do Circuito Nacional de Direito Sucessório debateu mudanças previstas no Direito das Sucessões, avanços da via extrajudicial e impactos da tecnologia sobre patrimônio e herança. O encontro também tratou de inventários judiciais e extrajudiciais, herança digital, herança genética e sucessão empresarial.",
+      "data_publicacao": "2026-09-16T12:10:00-03:00",
+      "url": "https://www.oab.org.br/noticia/64597/circuito-nacional-de-direito-sucessorio-debate-mudancas-no-codigo-civil-e-novos-desafios-da-advocacia",
+      "fonte": "OAB"
+    },
+    {
+      "titulo": "Inventário extrajudicial não exigirá mais pagamento prévio de ITCMD",
+      "descricao": "Resolução do Conselho Nacional de Justiça, após requerimento do Colégio Notarial do Brasil, retirou a exigência de pagamento antecipado do ITCMD para a conclusão do inventário extrajudicial. A mudança pode facilitar a formalização da partilha por famílias que possuem patrimônio, mas não têm liquidez imediata para recolher o tributo.",
+      "data_publicacao": "2026-09-08T10:22:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/inventario-extrajudicial-nao-exigira-imposto-de-transmissao-previo",
+      "fonte": "Agência Brasil"
     },
     {
       "titulo": "Rio recebeu mais de 13 mil novos imóveis no primeiro semestre",
-      "descricao": "Balanço da Brain Inteligência Estratégica para a Ademi-RJ registrou 13.272 unidades lançadas e 12.883 vendidas no mercado imobiliário carioca no primeiro semestre. O Minha Casa, Minha Vida liderou os lançamentos, seguido pelos imóveis de médio padrão e compactos.",
+      "descricao": "Levantamento da Brain Inteligência Estratégica para a Ademi-RJ apontou 13.272 unidades lançadas no Rio de Janeiro no primeiro semestre, com alta de 2,26% em 12 meses. As vendas chegaram a 12.883 unidades, e o Minha Casa, Minha Vida respondeu por 49,9% dos lançamentos no período.",
       "data_publicacao": "2026-09-03T17:52:00-03:00",
-      "url": "https://odia.ig.com.br/colunas/panorama-imobiliario/2026/09/7298396-rio-recebeu-mais-de-13-mil-novos-imoveis-no-primeiro-semestre.html",
+      "url": "https://odia.ig.com.br/colunas/panorama-imobiliario/2026/09/amp/7298396-rio-recebeu-mais-de-13-mil-novos-imoveis-no-primeiro-semestre.html",
       "fonte": "O Dia"
-    },
-    {
-      "titulo": "STF reinicia julgamento de imunidade de ITBI para capital social de imobiliárias",
-      "descricao": "O Plenário do Supremo Tribunal Federal retomou a análise do alcance da imunidade de ITBI na transferência de imóveis para integralização do capital social de empresas com atividade imobiliária. O julgamento do Tema 1.348 foi reiniciado após pedido de destaque e permanece relevante para reorganizações societárias e planejamento patrimonial.",
-      "data_publicacao": "2026-09-02T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-02/stf-reinicia-julgamento-de-imunidade-de-itbi-para-capital-social-de-imobiliarias/",
-      "fonte": "ConJur"
     }
   ]
 }
