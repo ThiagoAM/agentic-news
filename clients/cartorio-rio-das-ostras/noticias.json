@@ -1,82 +1,89 @@
 {
-  "data-busca": "2026-09-17T10:01:53-03:00",
+  "data-busca": "2026-09-18T10:01:05-03:00",
   "noticias": [
     {
-      "titulo": "Rio das Ostras é destaque em evento internacional",
-      "descricao": "O Município foi representado em seminário e congresso internacionais sobre educação inclusiva realizados entre 8 e 11 de setembro. A participação apresentou experiências da rede municipal e destacou práticas voltadas à inclusão, à aprendizagem, à participação e à autonomia dos estudantes.",
-      "data_publicacao": "2026-09-14T12:00:00-03:00",
-      "url": "https://riodasostras.com.br/noticias/index.php?noticia=14522",
-      "fonte": "Portal Rio das Ostras"
+      "titulo": "Rio das Ostras avança na construção do Plano Municipal de Coleta Seletiva",
+      "descricao": "A Prefeitura de Rio das Ostras encerrou a primeira fase de um projeto para estruturar a coleta seletiva no município. A reunião apresentou diagnósticos, aspectos legais e uma proposta de implantação gradual do sistema.",
+      "data_publicacao": "2026-09-16T17:12:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-na-construcao-do-plano-municipal-de-coleta-seletiva/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Prefeitura desenvolve tecnologia para controle da dengue e outras doenças",
-      "descricao": "A Vigilância Ambiental de Rio das Ostras passou a utilizar tablets e sistemas próprios para registrar visitas de campo, monitorar focos de mosquitos e organizar o censo animal. As ferramentas permitem trabalho offline, transmissão posterior dos dados e acompanhamento mais preciso das ações de saúde pública.",
-      "data_publicacao": "2026-09-13T12:00:00-03:00",
-      "url": "https://riodasostras.com.br/noticias/index.php?noticia=14521",
-      "fonte": "Portal Rio das Ostras"
+      "titulo": "Lagoa do Iriry recebe a 12ª Corrida Rústica Solidária",
+      "descricao": "Rio das Ostras sediará em 20 de setembro a 12ª edição da Corrida Rústica Solidária, com corrida, caminhada e prova infantil. A largada está prevista para as 7h na Lagoa do Iriry, em evento organizado por instituição local.",
+      "data_publicacao": "2026-09-17T12:18:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/lagoa-do-iriry-recebe-12a-corrida-rustica-solidaria/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Município inicia consultoria para modernização do licenciamento",
-      "descricao": "A Prefeitura de Rio das Ostras iniciou, em parceria com o Sebrae, uma consultoria para modernizar o sistema municipal de licenciamento e implantar novas modalidades ambientais. O trabalho pretende simplificar processos, atualizar a legislação e ampliar a segurança jurídica para empresas e atividades de baixo impacto.",
-      "data_publicacao": "2026-09-12T12:00:00-03:00",
-      "url": "https://riodasostras.com.br/noticias/index.php?noticia=14520",
-      "fonte": "Portal Rio das Ostras"
+      "titulo": "Rio das Ostras prepara programação para a Semana Nacional de Trânsito",
+      "descricao": "A Prefeitura divulgou atividades educativas em escolas e pontos de grande circulação entre 18 e 25 de setembro. A programação busca conscientizar a população e estimular práticas de trânsito mais seguras.",
+      "data_publicacao": "2026-09-15T10:07:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-tem-programacao-especial-para-semana-nacional-de-transito/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Governo do Rio transfere R$ 119 milhões à União dentro do Propag",
-      "descricao": "O governo do Estado do Rio de Janeiro transferiu R$ 119 milhões à União como terceira parcela da dívida no Programa de Pleno Pagamento de Dívidas dos Estados. Segundo o Executivo estadual, a adesão ao programa reduz as parcelas e pode gerar economia superior a R$ 6 bilhões em 2026.",
-      "data_publicacao": "2026-09-15T13:50:00-03:00",
-      "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/09/15/governo-do-rio-transfere-r-119-milhoes-a-uniao-dentro-do-propag.htm",
-      "fonte": "UOL/Estadão"
+      "titulo": "Município inicia consultoria para modernizar licenciamento ambiental",
+      "descricao": "Rio das Ostras iniciou uma consultoria em parceria com o Sebrae para modernizar o sistema municipal de licenciamento ambiental. O trabalho inclui análise da legislação, identificação de atividades estratégicas e elaboração dos instrumentos necessários para as novas modalidades.",
+      "data_publicacao": "2026-09-09T15:23:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-consultoria-para-modernizar-sistema-de-licenciamento-ambiental/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "MPF promove debate sobre adaptação climática e prevenção de desastres no Rio de Janeiro",
-      "descricao": "Seminário realizado na Procuradoria da República no Rio de Janeiro reuniu especialistas e instituições para discutir adaptação climática e prevenção de eventos extremos no estado. O encontro tratou da construção de territórios mais resilientes e de estratégias de enfrentamento de impactos ambientais.",
-      "data_publicacao": "2026-09-15T16:11:00-03:00",
-      "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/mpf-promove-debate-sobre-adaptacao-climatica-e-prevencao-de-desastres-no-rio-de-janeiro",
-      "fonte": "Ministério Público Federal"
+      "titulo": "Debate no Rio destaca ações preventivas de adaptação climática",
+      "descricao": "Evento do Ministério Público Federal discutiu políticas de adaptação climática, monitoramento e proteção de populações vulneráveis no estado do Rio de Janeiro. Os participantes destacaram a integração entre alertas, planejamento urbano, licenciamento ambiental e preparação municipal.",
+      "data_publicacao": "2026-09-15T19:29:00-03:00",
+      "url": "https://www.mpf.mp.br/o-mpf/unidades/pr-rj/noticias/adaptacao-climatica-debate-no-rio-destaca-urgencia-de-acoes-preventivas-e-protecao-de-populacoes-vulneraveis",
+      "fonte": "Ministério Público Federal — Procuradoria da República no Rio de Janeiro"
     },
     {
-      "titulo": "STF tem cinco votos pela imunidade de ITBI para capital social de imobiliárias",
-      "descricao": "O Plenário do Supremo Tribunal Federal alcançou cinco votos para reconhecer que a imunidade do ITBI na integralização do capital social também pode alcançar empresas cuja atividade preponderante seja imobiliária. O julgamento do Tema 1.348 foi suspenso após pedido de vista, e a tese ainda está em formação.",
+      "titulo": "Justiça determina medidas para ampliar tratamento de esgoto em Barra Mansa",
+      "descricao": "A Justiça Federal acolheu parcialmente ação do MPF e do Inea e determinou que Barra Mansa atualize o planejamento de esgotamento sanitário e amplie a infraestrutura de tratamento. A decisão fixou prazos para projetos, obras, ligações à rede e envio de relatórios de acompanhamento.",
+      "data_publicacao": "2026-09-15T11:23:00-03:00",
+      "url": "https://www.mpf.mp.br/o-mpf/unidades/pr-rj/noticias/justica-atende-a-pedido-do-mpf-e-condena-municipio-de-barra-mansa-rj-a-tratar-100-do-esgoto",
+      "fonte": "Ministério Público Federal — Procuradoria da República no Rio de Janeiro"
+    },
+    {
+      "titulo": "STF tem cinco votos pela imunidade de ITBI no capital social de imobiliárias",
+      "descricao": "O Supremo Tribunal Federal formou cinco votos favoráveis à imunidade de ITBI na integralização de capital social por empresas cuja atividade seja predominantemente imobiliária. O julgamento do Tema 1.348 foi suspenso após pedido de vista, e ainda não há decisão final.",
       "data_publicacao": "2026-09-16T19:42:00-03:00",
       "url": "https://conjur.com.br/2026-set-16/stf-tem-cinco-votos-pela-imunidade-de-itbi-para-capital-social-de-imobiliarias/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Procuração eletrônica sem ICP-Brasil é válida se comprovada integridade",
-      "descricao": "O Tribunal de Justiça de Minas Gerais reconheceu a validade de uma procuração eletrônica assinada sem certificado ICP-Brasil porque a integridade e a rastreabilidade do documento foram comprovadas. A decisão considerou as modalidades de assinatura previstas na Lei nº 14.063/2020 e determinou o prosseguimento da ação.",
+      "titulo": "Procuração eletrônica sem ICP-Brasil pode ser válida com integridade comprovada",
+      "descricao": "Decisão divulgada pelo ConJur reconheceu a validade de procuração eletrônica assinada fora da ICP-Brasil quando houver elementos suficientes para comprovar autoria e integridade. O entendimento considerou a legislação sobre assinaturas eletrônicas e a ausência de dúvida sobre o documento apresentado.",
       "data_publicacao": "2026-09-11T15:45:00-03:00",
       "url": "https://conjur.com.br/2026-set-11/procuracao-eletronica-sem-icp-brasil-e-valida-se-comprovada-integridade/",
       "fonte": "ConJur"
     },
     {
       "titulo": "Inventário extrajudicial não exige mais recolhimento antecipado de ITCMD",
-      "descricao": "O Conselho Nacional de Justiça revogou a exigência de recolhimento antecipado do ITCMD para a lavratura de escritura de inventário extrajudicial, após requerimento do Colégio Notarial do Brasil. A alteração mantém as demais regras para a via administrativa e não elimina a obrigação tributária.",
+      "descricao": "O ConJur noticiou a decisão do CNJ que retirou o pagamento antecipado do ITCMD como condição para lavrar a escritura de inventário extrajudicial. A mudança mantém a obrigação tributária e prevê registro da ciência das partes e comunicação ao Fisco.",
       "data_publicacao": "2026-08-22T15:52:00-03:00",
       "url": "https://conjur.com.br/2026-ago-22/inventario-extrajudicial-nao-exigira-mais-antecipacao-de-imposto-sobre-transmissao/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Alienação de bens pelo espólio e cessão de direitos hereditários: O que muda com o art. 11-A da resolução 571/24 do CNJ",
-      "descricao": "Artigo do Colégio Notarial do Brasil examina a possibilidade de o inventariante alienar bens do espólio por escritura pública para custear despesas do inventário, observadas as garantias e condições da norma. O texto também diferencia essa operação da cessão de direitos hereditários e destaca os reflexos tributários e documentais de cada instituto.",
+      "titulo": "Alienação de bens pelo espólio ganha análise à luz da Resolução 571/24 do CNJ",
+      "descricao": "O Colégio Notarial explicou como o art. 11-A da Resolução CNJ 35/2007 permite a alienação de bens do espólio por escritura pública em hipóteses delimitadas. O texto também diferencia a venda feita pelo inventariante da cessão de direitos hereditários e aponta efeitos tributários.",
       "data_publicacao": "2026-09-16T12:00:00-03:00",
       "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
-      "fonte": "Colégio Notarial do Brasil"
+      "fonte": "Colégio Notarial do Brasil (CNB)"
     },
     {
-      "titulo": "A abertura extrajudicial do testamento público como pressuposto do inventário por escritura: Proposta de ata notarial de concordância testamentária",
-      "descricao": "O artigo propõe uma ata notarial de concordância testamentária para permitir, em hipóteses consensuais, a abertura extrajudicial de testamentos públicos antes do inventário por escritura. A proposta diferencia o testamento público das modalidades que exigem maior controle de autenticidade e dialoga com a reforma em discussão no Senado.",
+      "titulo": "Estudo propõe ata notarial para abertura consensual de testamento público",
+      "descricao": "Artigo do CNB discute a possibilidade de superar a abertura judicial prévia de testamento público quando todos os interessados concordarem com o conteúdo. A proposta prevê ata notarial de concordância e comunicação ao Ministério Público antes do inventário por escritura.",
       "data_publicacao": "2026-09-16T12:00:00-03:00",
       "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
-      "fonte": "Colégio Notarial do Brasil"
+      "fonte": "Colégio Notarial do Brasil (CNB)"
     },
     {
-      "titulo": "IBS e CBS nos cartórios: o risco de a reforma tributária encarecer a segurança jurídica",
-      "descricao": "O Colégio Notarial do Brasil analisa como a incidência do IBS e da CBS pode afetar os emolumentos e elevar o custo da formalização de atos notariais e registrais. O texto alerta que o aumento dos custos pode estimular a postergação de registros e a manutenção de negócios imobiliários sem a publicidade adequada.",
+      "titulo": "Podcast do STJ debate testamentos eletrônicos e direito sucessório",
+      "descricao": "O podcast STJ No Seu Dia abordou requisitos de validade dos testamentos particulares e a adaptação do direito sucessório às novas tecnologias. A conversa tratou de assinatura, autenticação digital e comprovação da autoria da manifestação de vontade.",
       "data_publicacao": "2026-09-16T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/ibs-e-cbs-nos-cartorios-o-risco-de-a-reforma-tributaria-encarecer-a-seguranca-juridica/",
-      "fonte": "Colégio Notarial do Brasil"
+      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
     }
   ]
 }

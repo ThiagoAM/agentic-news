@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-09-17T10:01:53-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras é destaque em evento internacional",
+      "descricao": "O Município foi representado em seminário e congresso internacionais sobre educação inclusiva realizados entre 8 e 11 de setembro. A participação apresentou experiências da rede municipal e destacou práticas voltadas à inclusão, à aprendizagem, à participação e à autonomia dos estudantes.",
+      "data_publicacao": "2026-09-14T12:00:00-03:00",
+      "url": "https://riodasostras.com.br/noticias/index.php?noticia=14522",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura desenvolve tecnologia para controle da dengue e outras doenças",
+      "descricao": "A Vigilância Ambiental de Rio das Ostras passou a utilizar tablets e sistemas próprios para registrar visitas de campo, monitorar focos de mosquitos e organizar o censo animal. As ferramentas permitem trabalho offline, transmissão posterior dos dados e acompanhamento mais preciso das ações de saúde pública.",
+      "data_publicacao": "2026-09-13T12:00:00-03:00",
+      "url": "https://riodasostras.com.br/noticias/index.php?noticia=14521",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Município inicia consultoria para modernização do licenciamento",
+      "descricao": "A Prefeitura de Rio das Ostras iniciou, em parceria com o Sebrae, uma consultoria para modernizar o sistema municipal de licenciamento e implantar novas modalidades ambientais. O trabalho pretende simplificar processos, atualizar a legislação e ampliar a segurança jurídica para empresas e atividades de baixo impacto.",
+      "data_publicacao": "2026-09-12T12:00:00-03:00",
+      "url": "https://riodasostras.com.br/noticias/index.php?noticia=14520",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Governo do Rio transfere R$ 119 milhões à União dentro do Propag",
+      "descricao": "O governo do Estado do Rio de Janeiro transferiu R$ 119 milhões à União como terceira parcela da dívida no Programa de Pleno Pagamento de Dívidas dos Estados. Segundo o Executivo estadual, a adesão ao programa reduz as parcelas e pode gerar economia superior a R$ 6 bilhões em 2026.",
+      "data_publicacao": "2026-09-15T13:50:00-03:00",
+      "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/09/15/governo-do-rio-transfere-r-119-milhoes-a-uniao-dentro-do-propag.htm",
+      "fonte": "UOL/Estadão"
+    },
+    {
+      "titulo": "MPF promove debate sobre adaptação climática e prevenção de desastres no Rio de Janeiro",
+      "descricao": "Seminário realizado na Procuradoria da República no Rio de Janeiro reuniu especialistas e instituições para discutir adaptação climática e prevenção de eventos extremos no estado. O encontro tratou da construção de territórios mais resilientes e de estratégias de enfrentamento de impactos ambientais.",
+      "data_publicacao": "2026-09-15T16:11:00-03:00",
+      "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/mpf-promove-debate-sobre-adaptacao-climatica-e-prevencao-de-desastres-no-rio-de-janeiro",
+      "fonte": "Ministério Público Federal"
+    },
+    {
+      "titulo": "STF tem cinco votos pela imunidade de ITBI para capital social de imobiliárias",
+      "descricao": "O Plenário do Supremo Tribunal Federal alcançou cinco votos para reconhecer que a imunidade do ITBI na integralização do capital social também pode alcançar empresas cuja atividade preponderante seja imobiliária. O julgamento do Tema 1.348 foi suspenso após pedido de vista, e a tese ainda está em formação.",
+      "data_publicacao": "2026-09-16T19:42:00-03:00",
+      "url": "https://conjur.com.br/2026-set-16/stf-tem-cinco-votos-pela-imunidade-de-itbi-para-capital-social-de-imobiliarias/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Procuração eletrônica sem ICP-Brasil é válida se comprovada integridade",
+      "descricao": "O Tribunal de Justiça de Minas Gerais reconheceu a validade de uma procuração eletrônica assinada sem certificado ICP-Brasil porque a integridade e a rastreabilidade do documento foram comprovadas. A decisão considerou as modalidades de assinatura previstas na Lei nº 14.063/2020 e determinou o prosseguimento da ação.",
+      "data_publicacao": "2026-09-11T15:45:00-03:00",
+      "url": "https://conjur.com.br/2026-set-11/procuracao-eletronica-sem-icp-brasil-e-valida-se-comprovada-integridade/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Inventário extrajudicial não exige mais recolhimento antecipado de ITCMD",
+      "descricao": "O Conselho Nacional de Justiça revogou a exigência de recolhimento antecipado do ITCMD para a lavratura de escritura de inventário extrajudicial, após requerimento do Colégio Notarial do Brasil. A alteração mantém as demais regras para a via administrativa e não elimina a obrigação tributária.",
+      "data_publicacao": "2026-08-22T15:52:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-22/inventario-extrajudicial-nao-exigira-mais-antecipacao-de-imposto-sobre-transmissao/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Alienação de bens pelo espólio e cessão de direitos hereditários: O que muda com o art. 11-A da resolução 571/24 do CNJ",
+      "descricao": "Artigo do Colégio Notarial do Brasil examina a possibilidade de o inventariante alienar bens do espólio por escritura pública para custear despesas do inventário, observadas as garantias e condições da norma. O texto também diferencia essa operação da cessão de direitos hereditários e destaca os reflexos tributários e documentais de cada instituto.",
+      "data_publicacao": "2026-09-16T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "A abertura extrajudicial do testamento público como pressuposto do inventário por escritura: Proposta de ata notarial de concordância testamentária",
+      "descricao": "O artigo propõe uma ata notarial de concordância testamentária para permitir, em hipóteses consensuais, a abertura extrajudicial de testamentos públicos antes do inventário por escritura. A proposta diferencia o testamento público das modalidades que exigem maior controle de autenticidade e dialoga com a reforma em discussão no Senado.",
+      "data_publicacao": "2026-09-16T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "IBS e CBS nos cartórios: o risco de a reforma tributária encarecer a segurança jurídica",
+      "descricao": "O Colégio Notarial do Brasil analisa como a incidência do IBS e da CBS pode afetar os emolumentos e elevar o custo da formalização de atos notariais e registrais. O texto alerta que o aumento dos custos pode estimular a postergação de registros e a manutenção de negócios imobiliários sem a publicidade adequada.",
+      "data_publicacao": "2026-09-16T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/ibs-e-cbs-nos-cartorios-o-risco-de-a-reforma-tributaria-encarecer-a-seguranca-juridica/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}
