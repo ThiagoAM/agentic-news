@@ -1,96 +1,103 @@
 {
-  "data-busca": "2026-09-17T10:01:53-03:00",
+  "data-busca": "2026-09-18T10:01:05-03:00",
   "noticias": [
     {
-      "titulo": "STF tem cinco votos pela imunidade de ITBI para capital social de imobiliárias",
-      "descricao": "O Plenário do Supremo Tribunal Federal alcançou cinco votos para reconhecer que a imunidade do ITBI na integralização do capital social também pode alcançar empresas cuja atividade preponderante seja imobiliária. O julgamento do Tema 1.348 foi suspenso após pedido de vista, e a tese ainda está em formação.",
-      "data_publicacao": "2026-09-16T19:42:00-03:00",
-      "url": "https://conjur.com.br/2026-set-16/stf-tem-cinco-votos-pela-imunidade-de-itbi-para-capital-social-de-imobiliarias/",
-      "fonte": "ConJur"
+      "titulo": "Comissão do CFOAB debate aumento de custas e temas da Reforma Tributária",
+      "descricao": "A Comissão Especial de Direito Tributário do Conselho Federal da OAB discutiu o aumento das custas judiciais e os efeitos da Reforma Tributária sobre sociedades de advocacia. O colegiado encaminhou um levantamento nacional de valores e tratou de questões ligadas ao protesto de dívidas e ao registro de sociedades.",
+      "data_publicacao": "2026-09-17T12:07:00-03:00",
+      "url": "https://www.oab.org.br/noticia/64604/comissao-do-cfoab-debate-aumento-de-custas-e-temas-da-reforma-tributaria",
+      "fonte": "OAB Nacional"
     },
     {
-      "titulo": "Alienação de bens pelo espólio e cessão de direitos hereditários: O que muda com o art. 11-A da resolução 571/24 do CNJ",
-      "descricao": "Artigo do Colégio Notarial do Brasil examina a possibilidade de o inventariante alienar bens do espólio por escritura pública para custear despesas do inventário, observadas as garantias e condições da norma. O texto também diferencia essa operação da cessão de direitos hereditários e destaca os reflexos tributários e documentais de cada instituto.",
+      "titulo": "Alienação de bens pelo espólio e cessão de direitos hereditários: o que muda com a Resolução 571/24 do CNJ",
+      "descricao": "Artigo do Colégio Notarial analisa o art. 11-A da Resolução CNJ 35/2007, que permite ao inventariante alienar bens do espólio por escritura pública em condições específicas. O texto diferencia essa operação da cessão de direitos hereditários e destaca cautelas documentais e tributárias.",
       "data_publicacao": "2026-09-16T12:00:00-03:00",
       "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
-      "fonte": "Colégio Notarial do Brasil"
+      "fonte": "Colégio Notarial do Brasil (CNB)"
     },
     {
-      "titulo": "A abertura extrajudicial do testamento público como pressuposto do inventário por escritura: Proposta de ata notarial de concordância testamentária",
-      "descricao": "O artigo propõe uma ata notarial de concordância testamentária para permitir, em hipóteses consensuais, a abertura extrajudicial de testamentos públicos antes do inventário por escritura. A proposta diferencia o testamento público das modalidades que exigem maior controle de autenticidade e dialoga com a reforma em discussão no Senado.",
+      "titulo": "Proposta discute abertura extrajudicial de testamento público antes do inventário",
+      "descricao": "Estudo publicado pelo Colégio Notarial examina a exigência de abertura judicial do testamento público para a realização de inventário extrajudicial. Como alternativa, propõe uma ata notarial de concordância testamentária quando houver consenso entre os interessados e participação do Ministério Público.",
       "data_publicacao": "2026-09-16T12:00:00-03:00",
       "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
-      "fonte": "Colégio Notarial do Brasil"
+      "fonte": "Colégio Notarial do Brasil (CNB)"
     },
     {
-      "titulo": "IBS e CBS nos cartórios: o risco de a reforma tributária encarecer a segurança jurídica",
-      "descricao": "O Colégio Notarial do Brasil analisa como a incidência do IBS e da CBS pode afetar os emolumentos e elevar o custo da formalização de atos notariais e registrais. O texto alerta que o aumento dos custos pode estimular a postergação de registros e a manutenção de negócios imobiliários sem a publicidade adequada.",
+      "titulo": "Podcast do STJ aborda testamentos eletrônicos e novas tecnologias no direito sucessório",
+      "descricao": "Episódio do podcast STJ No Seu Dia trata dos requisitos de validade dos testamentos particulares e da possível flexibilização de formalidades diante de manifestações digitais de vontade. A discussão também aborda autoria, autenticação e os efeitos da transformação tecnológica no direito sucessório.",
       "data_publicacao": "2026-09-16T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/ibs-e-cbs-nos-cartorios-o-risco-de-a-reforma-tributaria-encarecer-a-seguranca-juridica/",
-      "fonte": "Colégio Notarial do Brasil"
+      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
     },
     {
-      "titulo": "Sociedade empresária limitada unipessoal. Integralização de capital social. Cônjuge coproprietário não sócio – anuência. Escritura pública – necessidade.",
-      "descricao": "O IRIB divulgou decisão do TJPR segundo a qual a transferência de imóvel comum do casal para uma sociedade limitada unipessoal exige escritura pública quando o cônjuge coproprietário não integra o quadro societário. O entendimento diferencia a anuência do cônjuge da transferência do direito real que lhe pertence.",
+      "titulo": "Cartórios questionam no STF regras do CNJ sobre garantia de obrigações trabalhistas",
+      "descricao": "A Anoreg ajuizou a ADI 8015 para questionar regras do Provimento 227/2026 do CNJ sobre declaração de passivo trabalhista e indicação de bens livres de ônus por titulares de cartórios. A entidade sustenta que as exigências criam obrigações patrimoniais sem previsão legal e afetam propriedade, intimidade e proteção de dados.",
       "data_publicacao": "2026-09-16T12:00:00-03:00",
-      "url": "https://www.irib.org.br/sociedade-empresaria-limitada-unipessoal-integralizacao-de-capital-social-conjuge-coproprietario-nao-socio-regime-de-comunhao-parcial-de-bens-anuencia-escritura-publica-necessi/",
-      "fonte": "IRIB"
+      "url": "https://www.notariado.org.br/cartorios-questionam-no-stf-regras-do-cnj-sobre-garantia-de-obrigacoes-trabalhistas/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
     },
     {
-      "titulo": "Webinar: “As principais inovações em sede de inventário extrajudicial pós alterações na Resolução 35 do CNJ”",
-      "descricao": "O IRIB anunciou webinar sobre as mudanças no inventário extrajudicial após as alterações da Resolução 35 do CNJ. A programação inclui temas como herdeiros emancipados, testamento, sobrepartilha, retificação de inventário judicial pelo extrajudicial e colação de bens.",
+      "titulo": "Goiás registra crescimento de testamentos e debate planejamento sucessório",
+      "descricao": "O Colégio Notarial repercute dados que apontam 38.740 testamentos lavrados no Brasil em 2025, incluindo 1.859 em Goiás. A reportagem explica modalidades do testamento, limites da legítima e instrumentos complementares de planejamento patrimonial e sucessório.",
       "data_publicacao": "2026-09-16T12:00:00-03:00",
-      "url": "https://www.irib.org.br/webinar-as-principais-inovacoes-em-sede-de-inventario-extrajudicial-pos-alteracoes-na-resolucao-35-do-cnj/",
-      "fonte": "IRIB"
+      "url": "https://www.notariado.org.br/goias-soma-18-mil-testamentos-em-ano-recorde-no-brasil-brigas-atrasam-inventarios-diz-advogada/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
     },
     {
-      "titulo": "Raio-X dos Cartórios 2026: prazo para participação se encerrará no dia 18 de setembro",
-      "descricao": "O levantamento nacional Raio-X dos Cartórios 2026, promovido pela ANOREG/BR, recebeu divulgação do IRIB com prazo de participação até 18 de setembro. A iniciativa pretende reunir dados para formar um panorama atualizado da atividade extrajudicial brasileira.",
+      "titulo": "Nova regra do CNJ impulsiona inventários em cartórios de Bauru e Marília",
+      "descricao": "O Colégio Notarial relata aumento dos inventários extrajudiciais após a retirada da exigência de pagamento imediato do ITCMD para a lavratura da escritura. A mudança não extingue o tributo: o imposto continua devido e o cartório deve comunicar a Fazenda quando o recolhimento não ocorrer no ato.",
       "data_publicacao": "2026-09-16T12:00:00-03:00",
-      "url": "https://www.irib.org.br/raio-x-dos-cartorios-2026-prazo-para-participacao-se-encerrara-no-dia-18-de-setembro/",
-      "fonte": "IRIB"
+      "url": "https://www.notariado.org.br/imposto-de-heranca-nova-regra-sem-pagamento-imediato-faz-disparar-numero-de-inventarios-em-bauru-e-marilia/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
     },
     {
-      "titulo": "Provimento CN-CNJ n. 227/2026 é questionado no STF",
-      "descricao": "A ANOREG/BR ajuizou no Supremo Tribunal Federal a ADI 8015 contra dispositivos do Provimento CN-CNJ 227/2026, que tratam da demonstração de solvência trabalhista por delegatários de serventias extrajudiciais. A entidade sustenta que as exigências patrimoniais e disciplinares não teriam previsão legal suficiente; a ação foi distribuída ao ministro Flávio Dino.",
+      "titulo": "IBS e CBS nos cartórios podem elevar o custo da formalização jurídica",
+      "descricao": "O Colégio Registral do Rio Grande do Sul analisa o impacto da incidência do IBS e da CBS sobre serviços notariais e registrais. O artigo alerta que o repasse integral dos tributos pode encarecer escrituras e registros, defendendo a revisão da estrutura de emolumentos para preservar a formalização de direitos.",
       "data_publicacao": "2026-09-16T12:00:00-03:00",
-      "url": "https://www.irib.org.br/provimento-cn-cnj-n-227-2026-e-questionado-no-stf/",
-      "fonte": "IRIB"
+      "url": "https://colegioregistralrs.org.br/noticias/21417/ibs-e-cbs-nos-cartorios-o-risco-de-a-reforma-tributaria-encarecer-a-seguranca-juridica/",
+      "fonte": "Colégio Registral do Rio Grande do Sul"
     },
     {
-      "titulo": "Atos normativos da CGJCE atualizam Código de Normas",
-      "descricao": "A Corregedoria-Geral da Justiça do Ceará editou atos que reforçam requisitos de qualificação das partes, identificação dos negócios e detalhamento dos valores cobrados em atos notariais e registrais. As medidas também preveem revisão de atos ligados a dação em pagamento, novação, cessão de crédito e confissão de dívida.",
-      "data_publicacao": "2026-09-14T12:00:00-03:00",
-      "url": "https://www.irib.org.br/atos-normativos-da-cgjce-atualizam-codigo-de-normas/",
-      "fonte": "IRIB"
+      "titulo": "CNJ dispensa pagamento prévio de ITCMD para inventário extrajudicial",
+      "descricao": "O Conselho Nacional de Justiça informou que a escritura pública de inventário e partilha não depende mais da comprovação do recolhimento prévio do ITCMD. As partes devem declarar ciência da obrigação e o tabelião deve comunicar a lavratura ao Fisco conforme a regra aplicável.",
+      "data_publicacao": "2026-08-19T12:00:00-03:00",
+      "url": "https://www.cnj.jus.br/inventario-extrajudicial-nao-exigira-mais-pagamento-previo-de-imposto-sobre-transmissao/",
+      "fonte": "Conselho Nacional de Justiça (CNJ)"
     },
     {
-      "titulo": "TJAC: COGER proíbe Cartórios de exigir CND para prática de atos",
-      "descricao": "O Provimento COGER nº 12/2026, do Tribunal de Justiça do Acre, estabelece que a ausência de certidões fiscais não pode impedir a lavratura de escrituras, registros imobiliários ou outros atos extrajudiciais. A dispensa deve ser expressa e informada, sem afastar as obrigações fiscais e os alertas sobre riscos jurídicos da transação.",
-      "data_publicacao": "2026-09-14T12:00:00-03:00",
-      "url": "https://www.irib.org.br/tjac-coger-proibe-cartorios-de-exigir-cnd-para-pratica-de-atos/",
-      "fonte": "IRIB"
+      "titulo": "Resolução 695 do CNJ altera regras de inventário e partilha extrajudicial",
+      "descricao": "A Resolução CNJ 695/2026 alterou a Resolução 35/2007 para afastar o pagamento prévio do ITCMD como condição para lavrar escrituras de inventário e partilha. O ato exige que a escritura registre a ciência das partes e prevê comunicação ao Fisco quando o imposto não tiver sido recolhido.",
+      "data_publicacao": "2026-08-26T12:00:00-03:00",
+      "url": "https://atos.cnj.jus.br/atos/detalhar/7010",
+      "fonte": "Conselho Nacional de Justiça (CNJ)"
     },
     {
-      "titulo": "Circuito Nacional de Direito Sucessório debate mudanças no Código Civil e novos desafios da advocacia",
-      "descricao": "A OAB informou que a etapa do Circuito Nacional de Direito Sucessório debateu mudanças previstas no Direito das Sucessões, avanços da via extrajudicial e impactos da tecnologia sobre patrimônio e herança. O encontro também tratou de inventários judiciais e extrajudiciais, herança digital, herança genética e sucessão empresarial.",
-      "data_publicacao": "2026-09-16T12:10:00-03:00",
-      "url": "https://www.oab.org.br/noticia/64597/circuito-nacional-de-direito-sucessorio-debate-mudancas-no-codigo-civil-e-novos-desafios-da-advocacia",
-      "fonte": "OAB"
+      "titulo": "STJ reúne decisões sobre herança digital e acesso a bens deixados na internet",
+      "descricao": "Reportagem especial do Superior Tribunal de Justiça apresenta decisões sobre ativos e conteúdos digitais deixados por pessoas falecidas. O tribunal descreve a possibilidade de incidente no inventário para identificar, classificar e avaliar esses bens, preservando informações íntimas.",
+      "data_publicacao": "2026-09-02T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02092026-Heranca-digital-as-decisoes-do-STJ-sobre-o-acesso-a-bens-deixados-na-internet-.aspx",
+      "fonte": "Superior Tribunal de Justiça (STJ)"
     },
     {
-      "titulo": "Inventário extrajudicial não exigirá mais pagamento prévio de ITCMD",
-      "descricao": "Resolução do Conselho Nacional de Justiça, após requerimento do Colégio Notarial do Brasil, retirou a exigência de pagamento antecipado do ITCMD para a conclusão do inventário extrajudicial. A mudança pode facilitar a formalização da partilha por famílias que possuem patrimônio, mas não têm liquidez imediata para recolher o tributo.",
-      "data_publicacao": "2026-09-08T10:22:00-03:00",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/inventario-extrajudicial-nao-exigira-imposto-de-transmissao-previo",
-      "fonte": "Agência Brasil"
+      "titulo": "IRIB analisa usucapião e manutenção de indisponibilidades na matrícula de origem",
+      "descricao": "Jurisprudência selecionada do IRIB examina situação em que uma sentença de usucapião alcança frações de imóveis com averbações de indisponibilidade. O entendimento apresentado mantém a exigência de ordem específica dos juízos responsáveis para cancelar as restrições registrárias.",
+      "data_publicacao": "2026-09-10T12:00:00-03:00",
+      "url": "https://www.irib.org.br/usucapiao-judicial-aquisicao-originaria-da-propriedade-fracao-ideal-matricula-de-origem-averbacao-de-indisponibilidade-cancelamento-determinacao-judicial-cnib-exigencia-registral-legi/",
+      "fonte": "Instituto de Registro Imobiliário do Brasil (IRIB)"
     },
     {
-      "titulo": "Rio recebeu mais de 13 mil novos imóveis no primeiro semestre",
-      "descricao": "Levantamento da Brain Inteligência Estratégica para a Ademi-RJ apontou 13.272 unidades lançadas no Rio de Janeiro no primeiro semestre, com alta de 2,26% em 12 meses. As vendas chegaram a 12.883 unidades, e o Minha Casa, Minha Vida respondeu por 49,9% dos lançamentos no período.",
-      "data_publicacao": "2026-09-03T17:52:00-03:00",
-      "url": "https://odia.ig.com.br/colunas/panorama-imobiliario/2026/09/amp/7298396-rio-recebeu-mais-de-13-mil-novos-imoveis-no-primeiro-semestre.html",
-      "fonte": "O Dia"
+      "titulo": "IRIB reúne entendimento sobre registro de substituição de convenção de condomínio",
+      "descricao": "Decisão divulgada pelo IRIB considerou legítimas exigências relativas à apresentação do regimento interno, à regularidade de procurações e à via adicional para arquivamento. O caso reforça a necessidade de integralidade e de representação formalmente válida para o ingresso do título no registro imobiliário.",
+      "data_publicacao": "2026-09-09T12:00:00-03:00",
+      "url": "https://www.irib.org.br/convencao-de-condominio-registro-substituicao-regimento-interno-procuracao-regularidade-via-adicional-arquivamento-legalidade/",
+      "fonte": "Instituto de Registro Imobiliário do Brasil (IRIB)"
+    },
+    {
+      "titulo": "ANOREG/BR propõe alteração do estatuto para organizar eleições de 2026",
+      "descricao": "O IRIB noticiou proposta da ANOREG/BR para incluir no estatuto regra sobre a data das eleições da diretoria, do conselho fiscal e do conselho de ética. O prazo divulgado para o envio de sugestões sobre a alteração termina em 18 de setembro de 2026.",
+      "data_publicacao": "2026-09-09T12:00:00-03:00",
+      "url": "https://www.irib.org.br/eleicoes-anoreg-br-2026-associacao-propoe-alteracao-de-estatuto/",
+      "fonte": "Instituto de Registro Imobiliário do Brasil (IRIB)"
     }
   ]
 }
