@@ -1,103 +1,103 @@
 {
-  "data-busca": "2026-09-18T10:01:05-03:00",
+  "data-busca": "2026-09-19T10:01:44-03:00",
   "noticias": [
     {
-      "titulo": "Comissão do CFOAB debate aumento de custas e temas da Reforma Tributária",
-      "descricao": "A Comissão Especial de Direito Tributário do Conselho Federal da OAB discutiu o aumento das custas judiciais e os efeitos da Reforma Tributária sobre sociedades de advocacia. O colegiado encaminhou um levantamento nacional de valores e tratou de questões ligadas ao protesto de dívidas e ao registro de sociedades.",
-      "data_publicacao": "2026-09-17T12:07:00-03:00",
-      "url": "https://www.oab.org.br/noticia/64604/comissao-do-cfoab-debate-aumento-de-custas-e-temas-da-reforma-tributaria",
-      "fonte": "OAB Nacional"
+      "titulo": "Cadeia de cessões não gera litisconsórcio em adjudicação, diz artigo",
+      "descricao": "Artigo publicado pela ConJur sustenta que os cedentes intermediários não são litisconsortes necessários quando não titularizam o domínio. A análise destaca que a adjudicação compulsória extrajudicial deve demonstrar a cadeia de cessões e dirigir a pretensão ao proprietário registral.",
+      "data_publicacao": "2026-09-18T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-18/adjudicacao-compulsoria-a-cadeia-de-cessoes-nao-e-cadeia-dominial/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Alienação de bens pelo espólio e cessão de direitos hereditários: o que muda com a Resolução 571/24 do CNJ",
-      "descricao": "Artigo do Colégio Notarial analisa o art. 11-A da Resolução CNJ 35/2007, que permite ao inventariante alienar bens do espólio por escritura pública em condições específicas. O texto diferencia essa operação da cessão de direitos hereditários e destaca cautelas documentais e tributárias.",
+      "titulo": "STF retoma julgamento sobre imunidade de ITBI para imobiliárias",
+      "descricao": "O Supremo Tribunal Federal registrou cinco votos favoráveis à imunidade de ITBI na integralização de capital social por empresas com atividade preponderantemente imobiliária. O julgamento do Tema 1.348 foi interrompido por pedido de vista, sem tese definitiva até o momento.",
+      "data_publicacao": "2026-09-16T19:42:00-03:00",
+      "url": "https://conjur.com.br/2026-set-16/stf-tem-cinco-votos-pela-imunidade-de-itbi-para-capital-social-de-imobiliarias/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Falta de publicidade de união estável impede anulação de venda de imóvel",
+      "descricao": "Decisão divulgada pela ConJur manteve a validade da venda de um imóvel porque não havia publicidade da união estável na matrícula nem prova de má-fé dos compradores. O entendimento reforça a relevância da concentração de informações no registro imobiliário para a proteção de terceiros de boa-fé.",
+      "data_publicacao": "2026-08-28T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-28/falta-de-publicidade-de-uniao-estavel-impede-anulacao-de-venda-de-imovel/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB analisa o recolhimento de ITCMD nos inventários extrajudiciais",
+      "descricao": "Artigo do Colégio Notarial examina os efeitos da Resolução CNJ 695/2026, que afastou a exigência de recolhimento prévio do ITCMD para a lavratura da escritura de inventário e partilha. O texto ressalta que ainda há discussão sobre a exigência do imposto no registro posterior da escritura de partilha.",
       "data_publicacao": "2026-09-16T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
+      "url": "https://www.notariado.org.br/artigo-o-recolhimento-de-itcmd-previo-nos-inventarios-extrajudiciais-e-o-cnj-por-demetrio-beck-da-silva-giannakos-e-marcelo-a-guimaraes-flach/",
       "fonte": "Colégio Notarial do Brasil (CNB)"
     },
     {
-      "titulo": "Proposta discute abertura extrajudicial de testamento público antes do inventário",
-      "descricao": "Estudo publicado pelo Colégio Notarial examina a exigência de abertura judicial do testamento público para a realização de inventário extrajudicial. Como alternativa, propõe uma ata notarial de concordância testamentária quando houver consenso entre os interessados e participação do Ministério Público.",
-      "data_publicacao": "2026-09-16T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
+      "titulo": "CNB/MA elege nova diretoria para o triênio 2026–2028",
+      "descricao": "A seção maranhense do Colégio Notarial elegeu nova diretoria para o triênio 2026–2028, com posse realizada de forma virtual. A gestão anunciou como prioridades a aproximação com as serventias, a qualificação profissional e a criação de uma central de conhecimento notarial.",
+      "data_publicacao": "2026-08-28T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-ma-elege-nova-diretoria-para-o-trienio-2026-2028/",
       "fonte": "Colégio Notarial do Brasil (CNB)"
     },
     {
-      "titulo": "Podcast do STJ aborda testamentos eletrônicos e novas tecnologias no direito sucessório",
-      "descricao": "Episódio do podcast STJ No Seu Dia trata dos requisitos de validade dos testamentos particulares e da possível flexibilização de formalidades diante de manifestações digitais de vontade. A discussão também aborda autoria, autenticação e os efeitos da transformação tecnológica no direito sucessório.",
-      "data_publicacao": "2026-09-16T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
+      "titulo": "Nova política unifica normas de concursos estaduais para cartórios",
+      "descricao": "O CNB noticiou a aprovação, pelo CNJ, de uma política nacional para unificar regras dos concursos de provimento e remoção de cartórios. A proposta trata de segurança, cadeia de custódia, criptografia e identificação biométrica dos candidatos, com previsão de regras de transição.",
+      "data_publicacao": "2026-08-20T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/nova-politica-unifica-normas-de-concursos-estaduais-para-cartorios/",
       "fonte": "Colégio Notarial do Brasil (CNB)"
     },
     {
-      "titulo": "Cartórios questionam no STF regras do CNJ sobre garantia de obrigações trabalhistas",
-      "descricao": "A Anoreg ajuizou a ADI 8015 para questionar regras do Provimento 227/2026 do CNJ sobre declaração de passivo trabalhista e indicação de bens livres de ônus por titulares de cartórios. A entidade sustenta que as exigências criam obrigações patrimoniais sem previsão legal e afetam propriedade, intimidade e proteção de dados.",
-      "data_publicacao": "2026-09-16T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/cartorios-questionam-no-stf-regras-do-cnj-sobre-garantia-de-obrigacoes-trabalhistas/",
+      "titulo": "STJ afasta salário-educação de titulares de cartórios",
+      "descricao": "O Superior Tribunal de Justiça firmou entendimento de que a contribuição do salário-educação não é exigível da pessoa física que exerce serviço notarial ou registral. A decisão foi divulgada pelo CNB a partir de julgamento envolvendo a natureza jurídica da atividade e a definição legal de contribuinte.",
+      "data_publicacao": "2026-08-24T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-21/stj-livra-donos-de-cartorio-de-contribuir-ao-salario-educacao",
       "fonte": "Colégio Notarial do Brasil (CNB)"
     },
     {
-      "titulo": "Goiás registra crescimento de testamentos e debate planejamento sucessório",
-      "descricao": "O Colégio Notarial repercute dados que apontam 38.740 testamentos lavrados no Brasil em 2025, incluindo 1.859 em Goiás. A reportagem explica modalidades do testamento, limites da legítima e instrumentos complementares de planejamento patrimonial e sucessório.",
-      "data_publicacao": "2026-09-16T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/goias-soma-18-mil-testamentos-em-ano-recorde-no-brasil-brigas-atrasam-inventarios-diz-advogada/",
-      "fonte": "Colégio Notarial do Brasil (CNB)"
+      "titulo": "ONR divulga matrículas prioritárias para saneamento na Amazônia e no Pantanal",
+      "descricao": "O Operador Nacional do Registro Eletrônico de Imóveis disponibilizou relação de matrículas prioritárias abrangidas pela ADPF 743. O levantamento orienta serventias a conferirem dados de imóveis identificados em áreas com ocorrência de ilícitos ambientais e a enviarem as informações saneadas ao ONR.",
+      "data_publicacao": "2026-09-14T12:00:00-03:00",
+      "url": "https://www.onr.org.br/onr-disponibiliza-relacao-de-matriculas-prioritarias-para-saneamento-pelas-serventias-abrangidas-pela-adpf-743-amazonia-e-pantanal/",
+      "fonte": "Operador Nacional do Registro Eletrônico de Imóveis (ONR)"
     },
     {
-      "titulo": "Nova regra do CNJ impulsiona inventários em cartórios de Bauru e Marília",
-      "descricao": "O Colégio Notarial relata aumento dos inventários extrajudiciais após a retirada da exigência de pagamento imediato do ITCMD para a lavratura da escritura. A mudança não extingue o tributo: o imposto continua devido e o cartório deve comunicar a Fazenda quando o recolhimento não ocorrer no ato.",
-      "data_publicacao": "2026-09-16T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/imposto-de-heranca-nova-regra-sem-pagamento-imediato-faz-disparar-numero-de-inventarios-em-bauru-e-marilia/",
-      "fonte": "Colégio Notarial do Brasil (CNB)"
-    },
-    {
-      "titulo": "IBS e CBS nos cartórios podem elevar o custo da formalização jurídica",
-      "descricao": "O Colégio Registral do Rio Grande do Sul analisa o impacto da incidência do IBS e da CBS sobre serviços notariais e registrais. O artigo alerta que o repasse integral dos tributos pode encarecer escrituras e registros, defendendo a revisão da estrutura de emolumentos para preservar a formalização de direitos.",
-      "data_publicacao": "2026-09-16T12:00:00-03:00",
-      "url": "https://colegioregistralrs.org.br/noticias/21417/ibs-e-cbs-nos-cartorios-o-risco-de-a-reforma-tributaria-encarecer-a-seguranca-juridica/",
-      "fonte": "Colégio Registral do Rio Grande do Sul"
-    },
-    {
-      "titulo": "CNJ dispensa pagamento prévio de ITCMD para inventário extrajudicial",
-      "descricao": "O Conselho Nacional de Justiça informou que a escritura pública de inventário e partilha não depende mais da comprovação do recolhimento prévio do ITCMD. As partes devem declarar ciência da obrigação e o tabelião deve comunicar a lavratura ao Fisco conforme a regra aplicável.",
-      "data_publicacao": "2026-08-19T12:00:00-03:00",
-      "url": "https://www.cnj.jus.br/inventario-extrajudicial-nao-exigira-mais-pagamento-previo-de-imposto-sobre-transmissao/",
-      "fonte": "Conselho Nacional de Justiça (CNJ)"
-    },
-    {
-      "titulo": "Resolução 695 do CNJ altera regras de inventário e partilha extrajudicial",
-      "descricao": "A Resolução CNJ 695/2026 alterou a Resolução 35/2007 para afastar o pagamento prévio do ITCMD como condição para lavrar escrituras de inventário e partilha. O ato exige que a escritura registre a ciência das partes e prevê comunicação ao Fisco quando o imposto não tiver sido recolhido.",
-      "data_publicacao": "2026-08-26T12:00:00-03:00",
-      "url": "https://atos.cnj.jus.br/atos/detalhar/7010",
-      "fonte": "Conselho Nacional de Justiça (CNJ)"
-    },
-    {
-      "titulo": "STJ reúne decisões sobre herança digital e acesso a bens deixados na internet",
-      "descricao": "Reportagem especial do Superior Tribunal de Justiça apresenta decisões sobre ativos e conteúdos digitais deixados por pessoas falecidas. O tribunal descreve a possibilidade de incidente no inventário para identificar, classificar e avaliar esses bens, preservando informações íntimas.",
-      "data_publicacao": "2026-09-02T07:15:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02092026-Heranca-digital-as-decisoes-do-STJ-sobre-o-acesso-a-bens-deixados-na-internet-.aspx",
-      "fonte": "Superior Tribunal de Justiça (STJ)"
-    },
-    {
-      "titulo": "IRIB analisa usucapião e manutenção de indisponibilidades na matrícula de origem",
-      "descricao": "Jurisprudência selecionada do IRIB examina situação em que uma sentença de usucapião alcança frações de imóveis com averbações de indisponibilidade. O entendimento apresentado mantém a exigência de ordem específica dos juízos responsáveis para cancelar as restrições registrárias.",
+      "titulo": "ONR apresenta casos de digitalização no mercado imobiliário",
+      "descricao": "A série Registros que Conectam apresentou a experiência de uma construtora com soluções eletrônicas do Registro de Imóveis. O primeiro episódio aborda ganhos de integração, acompanhamento de processos, financiamentos e gestão documental.",
       "data_publicacao": "2026-09-10T12:00:00-03:00",
-      "url": "https://www.irib.org.br/usucapiao-judicial-aquisicao-originaria-da-propriedade-fracao-ideal-matricula-de-origem-averbacao-de-indisponibilidade-cancelamento-determinacao-judicial-cnib-exigencia-registral-legi/",
-      "fonte": "Instituto de Registro Imobiliário do Brasil (IRIB)"
+      "url": "https://www.onr.org.br/serie-registros-que-conectam-apresenta-cases-sobre-a-digitalizacao-no-mercado-imobiliario/",
+      "fonte": "Operador Nacional do Registro Eletrônico de Imóveis (ONR)"
     },
     {
-      "titulo": "IRIB reúne entendimento sobre registro de substituição de convenção de condomínio",
-      "descricao": "Decisão divulgada pelo IRIB considerou legítimas exigências relativas à apresentação do regimento interno, à regularidade de procurações e à via adicional para arquivamento. O caso reforça a necessidade de integralidade e de representação formalmente válida para o ingresso do título no registro imobiliário.",
-      "data_publicacao": "2026-09-09T12:00:00-03:00",
-      "url": "https://www.irib.org.br/convencao-de-condominio-registro-substituicao-regimento-interno-procuracao-regularidade-via-adicional-arquivamento-legalidade/",
-      "fonte": "Instituto de Registro Imobiliário do Brasil (IRIB)"
+      "titulo": "Registro de Imóveis é reconhecido pelo TJMS por qualidade e eficiência",
+      "descricao": "Cerimônia promovida pela Corregedoria-Geral da Justiça de Mato Grosso do Sul destacou unidades extrajudiciais por qualidade, eficiência e boas práticas. A iniciativa valoriza a melhoria contínua da prestação dos serviços registrais.",
+      "data_publicacao": "2026-09-10T12:00:00-03:00",
+      "url": "https://www.onr.org.br/registro-de-imoveis-e-reconhecido-pelo-tjms-por-qualidade-eficiencia-e-boas-praticas/",
+      "fonte": "Operador Nacional do Registro Eletrônico de Imóveis (ONR)"
     },
     {
-      "titulo": "ANOREG/BR propõe alteração do estatuto para organizar eleições de 2026",
-      "descricao": "O IRIB noticiou proposta da ANOREG/BR para incluir no estatuto regra sobre a data das eleições da diretoria, do conselho fiscal e do conselho de ética. O prazo divulgado para o envio de sugestões sobre a alteração termina em 18 de setembro de 2026.",
-      "data_publicacao": "2026-09-09T12:00:00-03:00",
-      "url": "https://www.irib.org.br/eleicoes-anoreg-br-2026-associacao-propoe-alteracao-de-estatuto/",
-      "fonte": "Instituto de Registro Imobiliário do Brasil (IRIB)"
+      "titulo": "Rota de regularização fundiária entrega títulos a mais de 330 famílias no Tocantins",
+      "descricao": "A Corregedoria-Geral da Justiça do Tocantins informou a entrega de mais de 330 títulos de propriedade em municípios atendidos pelo Núcleo de Prevenção e Regularização Fundiária. A titulação conclui etapas de Reurb e amplia a segurança jurídica dos imóveis regularizados.",
+      "data_publicacao": "2026-09-15T12:00:00-03:00",
+      "url": "https://corregedoria.tjto.jus.br/comunicacao/noticias/nupref-cgjus-rota-de-entrega-de-titulos-de-propriedade-avanca-em-setembro-beneficiando-mais-330-familias-em-peixe-arapoema-e-juarina",
+      "fonte": "Corregedoria-Geral da Justiça do Estado do Tocantins"
+    },
+    {
+      "titulo": "Decreto do Rio de Janeiro facilita regularização de imóveis do Minha Casa, Minha Vida",
+      "descricao": "A Defensoria Pública do Rio de Janeiro informou que o Decreto estadual 50.476/2026 permite o reconhecimento automático da isenção prevista para doações de imóveis construídos com recursos do Fundo de Arrendamento Residencial. A medida busca destravar a titulação de mais de 13 mil unidades e também alcançar futuras operações que atendam aos requisitos legais.",
+      "data_publicacao": "2026-09-15T12:00:00-03:00",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/33012-Atuacao-da-DPRJ-facilita-regularizacao-de-imoveis-do-Minha-Casa-Minha-Vida",
+      "fonte": "Defensoria Pública do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Planejamento sucessório exige diagnóstico, diálogo e regularização",
+      "descricao": "Artigo do Migalhas defende que o planejamento patrimonial e sucessório deve começar pelo levantamento da estrutura familiar, dos bens, das empresas e dos passivos. O texto apresenta testamentos, doações, usufruto e holdings como instrumentos possíveis, cuja escolha depende da realidade de cada família.",
+      "data_publicacao": "2026-09-03T13:12:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/463502/planejamento-sucessorio-do-diagnostico-a-implementacao-em-etapas",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "TRF1 mantém nulidade de resolução sobre transações imobiliárias digitais",
+      "descricao": "O Tribunal Regional Federal da 1ª Região negou pedido do COFECI para suspender decisão que declarou nula a Resolução 1.551/2025 e atos dela decorrentes. O caso discute os limites da regulamentação profissional diante das competências legais relacionadas ao direito civil e ao registro eletrônico de imóveis.",
+      "data_publicacao": "2026-09-04T12:00:00-03:00",
+      "url": "https://www.onr.org.br/trf1-nega-pedido-de-suspensao-de-liminar-e-de-sentenca-sobre-resolucao-cofeci-1-551-2025/",
+      "fonte": "Operador Nacional do Registro Eletrônico de Imóveis (ONR)"
     }
   ]
 }
