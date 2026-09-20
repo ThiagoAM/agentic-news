@@ -1,0 +1,103 @@
+{
+  "data-busca": "2026-09-19T10:01:44-03:00",
+  "noticias": [
+    {
+      "titulo": "Infraestrutura avança com ações de recuperação viária em Rio das Ostras",
+      "descricao": "Equipes da Prefeitura de Rio das Ostras realizam recapeamento na Rodovia Amaral Peixoto e patrolamento em estradas de Village e Terra Firme. As intervenções buscam melhorar as condições de circulação e ampliar a segurança de moradores e veículos de serviço.",
+      "data_publicacao": "2026-09-18T12:00:00-03:00",
+      "url": "https://riodasostras.com.br/noticias/index.php?noticia=14562",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras inaugura unidade integrada do Sesc Senac",
+      "descricao": "O Centro Integrado de Atividades Sesc Senac Rio das Ostras abre ao público em 21 de setembro, com oficinas, atividades físicas, cultura, saúde e cursos profissionalizantes. A unidade foi construída em terreno cedido pela Prefeitura e reúne ações de educação, turismo e desenvolvimento social.",
+      "data_publicacao": "2026-09-18T10:09:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/populacao-passa-a-contar-com-unidade-sesc-senac-a-partir-de-segunda-21/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras avalia implantação de tanques de piscicultura",
+      "descricao": "A Secretaria Municipal de Pesca e Agropecuária visitou produtores rurais para avaliar áreas com potencial para tanques de piscicultura. A iniciativa, feita em parceria com a Fiperj, considera disponibilidade de água, espaço e estrutura das propriedades.",
+      "data_publicacao": "2026-09-18T09:51:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-avalia-implantacao-de-tanques-de-piscicultura/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Procon de Rio das Ostras promove Mutirão do Consumidor",
+      "descricao": "O Procon municipal realizará nos dias 22 e 23 de setembro um mutirão para negociação de débitos e solução de pendências com empresas participantes. O atendimento exige agendamento pelo aplicativo Colab e apresentação dos documentos relacionados à demanda.",
+      "data_publicacao": "2026-09-17T08:18:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/procon-de-rio-das-ostras-promove-mutirao-do-consumidor/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Decreto do RJ facilita titulação de imóveis do Minha Casa, Minha Vida",
+      "descricao": "O Decreto estadual 50.476/2026 permite o reconhecimento automático da isenção prevista para doações de imóveis construídos com recursos do Fundo de Arrendamento Residencial. A Defensoria Pública do Rio de Janeiro informou que a medida busca destravar a titulação de mais de 13 mil unidades e alcançar futuras operações elegíveis.",
+      "data_publicacao": "2026-09-15T12:00:00-03:00",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/33012-Atuacao-da-DPRJ-facilita-regularizacao-de-imoveis-do-Minha-Casa-Minha-Vida",
+      "fonte": "Defensoria Pública do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "MPF debate adaptação climática e planejamento no estado do Rio",
+      "descricao": "Seminário realizado no Rio de Janeiro reuniu pesquisadores, membros do Ministério Público e representantes governamentais para discutir prevenção de danos climáticos. Os painéis abordaram planejamento urbano, licenciamento ambiental, defesa civil e proteção de populações vulneráveis no estado.",
+      "data_publicacao": "2026-09-15T19:29:00-03:00",
+      "url": "https://www.mpf.mp.br/o-mpf/unidades/pr-rj/noticias/adaptacao-climatica-debate-no-rio-destaca-urgencia-de-acoes-preventivas-e-protecao-de-populacoes-vulneraveis",
+      "fonte": "Ministério Público Federal — Procuradoria da República no Rio de Janeiro"
+    },
+    {
+      "titulo": "STF retoma julgamento sobre imunidade de ITBI para imobiliárias",
+      "descricao": "O Supremo Tribunal Federal registrou cinco votos favoráveis à imunidade de ITBI na integralização de capital social por empresas com atividade preponderantemente imobiliária. O julgamento do Tema 1.348 foi interrompido por pedido de vista, sem decisão final.",
+      "data_publicacao": "2026-09-16T19:42:00-03:00",
+      "url": "https://conjur.com.br/2026-set-16/stf-tem-cinco-votos-pela-imunidade-de-itbi-para-capital-social-de-imobiliarias/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Cadeia de cessões não gera litisconsórcio em adjudicação",
+      "descricao": "Artigo divulgado pela ConJur sustenta que os cedentes intermediários não precisam integrar a ação quando não são titulares do domínio. A análise destaca a necessidade de demonstrar a cadeia de cessões e de observar a continuidade registral conforme o direito levado a registro.",
+      "data_publicacao": "2026-09-18T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-18/adjudicacao-compulsoria-a-cadeia-de-cessoes-nao-e-cadeia-dominial/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Publicidade da união estável é considerada na venda de imóvel",
+      "descricao": "Decisão divulgada pela ConJur manteve a validade da venda de um imóvel porque não havia publicidade da união estável na matrícula nem prova de má-fé dos compradores. O entendimento reforça a importância das informações registrais para a proteção de terceiros de boa-fé.",
+      "data_publicacao": "2026-08-28T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-28/falta-de-publicidade-de-uniao-estavel-impede-anulacao-de-venda-de-imovel/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB analisa recolhimento de ITCMD nos inventários extrajudiciais",
+      "descricao": "Artigo do Colégio Notarial examina os efeitos da Resolução CNJ 695/2026, que afastou o recolhimento prévio do ITCMD como condição para lavrar a escritura de inventário e partilha. O texto ressalta que a exigência do imposto no registro posterior ainda pode gerar discussão prática.",
+      "data_publicacao": "2026-09-16T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/artigo-o-recolhimento-de-itcmd-previo-nos-inventarios-extrajudiciais-e-o-cnj-por-demetrio-beck-da-silva-giannakos-e-marcelo-a-guimaraes-flach/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    },
+    {
+      "titulo": "Webinar debate mudanças no inventário extrajudicial",
+      "descricao": "A ENNOR promoveu webinar sobre as inovações no inventário extrajudicial após alterações na Resolução 35 do CNJ. A programação tratou de herdeiros emancipados, testamento, sobrepartilha, retificação de inventário judicial e colação de bens.",
+      "data_publicacao": "2026-09-17T12:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/17/anoreg-mt-webinar-as-principais-inovacoes-em-sede-de-inventario-extrajudicial-pos-alteracoes-na-resolucao-35-do-cnj/",
+      "fonte": "Colégio Notarial do Brasil — Seção São Paulo (CNB/SP)"
+    },
+    {
+      "titulo": "CNB/MA elege nova diretoria para o triênio 2026–2028",
+      "descricao": "A seção maranhense do Colégio Notarial elegeu nova diretoria para o triênio 2026–2028. A nova gestão anunciou ações de aproximação com as serventias, qualificação profissional e organização de uma central de conhecimento notarial.",
+      "data_publicacao": "2026-08-28T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-ma-elege-nova-diretoria-para-o-trienio-2026-2028/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    },
+    {
+      "titulo": "STJ discute venda de bem de espólio sem autorização judicial",
+      "descricao": "A 4ª Turma do STJ começou a analisar se a alienação de bens ou direitos de espólio antes da partilha pode ocorrer sem autorização do juízo da sucessão. O relator votou pela ineficácia do negócio e o julgamento foi interrompido por pedido de vista.",
+      "data_publicacao": "2026-09-10T12:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/10/anoreg-br-stj-julga-se-venda-de-bem-de-espolio-exige-autorizacao-judicial/",
+      "fonte": "Colégio Notarial do Brasil — Seção São Paulo (CNB/SP)"
+    },
+    {
+      "titulo": "CNJ unifica normas de concursos para cartórios",
+      "descricao": "O CNB noticiou a aprovação de uma política nacional para unificar regras dos concursos de provimento e remoção de cartórios. A proposta prevê medidas de segurança, cadeia de custódia, criptografia e identificação biométrica dos candidatos, além de regras de transição.",
+      "data_publicacao": "2026-08-20T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/nova-politica-unifica-normas-de-concursos-estaduais-para-cartorios/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    }
+  ]
+}
