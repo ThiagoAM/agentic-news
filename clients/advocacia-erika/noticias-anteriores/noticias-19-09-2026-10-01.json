@@ -1,0 +1,103 @@
+{
+  "data-busca": "2026-09-19T10:01:44-03:00",
+  "noticias": [
+    {
+      "titulo": "Cadeia de cessões não gera litisconsórcio em adjudicação, diz artigo",
+      "descricao": "Artigo publicado pela ConJur sustenta que os cedentes intermediários não são litisconsortes necessários quando não titularizam o domínio. A análise destaca que a adjudicação compulsória extrajudicial deve demonstrar a cadeia de cessões e dirigir a pretensão ao proprietário registral.",
+      "data_publicacao": "2026-09-18T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-18/adjudicacao-compulsoria-a-cadeia-de-cessoes-nao-e-cadeia-dominial/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STF retoma julgamento sobre imunidade de ITBI para imobiliárias",
+      "descricao": "O Supremo Tribunal Federal registrou cinco votos favoráveis à imunidade de ITBI na integralização de capital social por empresas com atividade preponderantemente imobiliária. O julgamento do Tema 1.348 foi interrompido por pedido de vista, sem tese definitiva até o momento.",
+      "data_publicacao": "2026-09-16T19:42:00-03:00",
+      "url": "https://conjur.com.br/2026-set-16/stf-tem-cinco-votos-pela-imunidade-de-itbi-para-capital-social-de-imobiliarias/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Falta de publicidade de união estável impede anulação de venda de imóvel",
+      "descricao": "Decisão divulgada pela ConJur manteve a validade da venda de um imóvel porque não havia publicidade da união estável na matrícula nem prova de má-fé dos compradores. O entendimento reforça a relevância da concentração de informações no registro imobiliário para a proteção de terceiros de boa-fé.",
+      "data_publicacao": "2026-08-28T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-28/falta-de-publicidade-de-uniao-estavel-impede-anulacao-de-venda-de-imovel/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB analisa o recolhimento de ITCMD nos inventários extrajudiciais",
+      "descricao": "Artigo do Colégio Notarial examina os efeitos da Resolução CNJ 695/2026, que afastou a exigência de recolhimento prévio do ITCMD para a lavratura da escritura de inventário e partilha. O texto ressalta que ainda há discussão sobre a exigência do imposto no registro posterior da escritura de partilha.",
+      "data_publicacao": "2026-09-16T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/artigo-o-recolhimento-de-itcmd-previo-nos-inventarios-extrajudiciais-e-o-cnj-por-demetrio-beck-da-silva-giannakos-e-marcelo-a-guimaraes-flach/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    },
+    {
+      "titulo": "CNB/MA elege nova diretoria para o triênio 2026–2028",
+      "descricao": "A seção maranhense do Colégio Notarial elegeu nova diretoria para o triênio 2026–2028, com posse realizada de forma virtual. A gestão anunciou como prioridades a aproximação com as serventias, a qualificação profissional e a criação de uma central de conhecimento notarial.",
+      "data_publicacao": "2026-08-28T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-ma-elege-nova-diretoria-para-o-trienio-2026-2028/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    },
+    {
+      "titulo": "Nova política unifica normas de concursos estaduais para cartórios",
+      "descricao": "O CNB noticiou a aprovação, pelo CNJ, de uma política nacional para unificar regras dos concursos de provimento e remoção de cartórios. A proposta trata de segurança, cadeia de custódia, criptografia e identificação biométrica dos candidatos, com previsão de regras de transição.",
+      "data_publicacao": "2026-08-20T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/nova-politica-unifica-normas-de-concursos-estaduais-para-cartorios/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    },
+    {
+      "titulo": "STJ afasta salário-educação de titulares de cartórios",
+      "descricao": "O Superior Tribunal de Justiça firmou entendimento de que a contribuição do salário-educação não é exigível da pessoa física que exerce serviço notarial ou registral. A decisão foi divulgada pelo CNB a partir de julgamento envolvendo a natureza jurídica da atividade e a definição legal de contribuinte.",
+      "data_publicacao": "2026-08-24T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-ago-21/stj-livra-donos-de-cartorio-de-contribuir-ao-salario-educacao",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    },
+    {
+      "titulo": "ONR divulga matrículas prioritárias para saneamento na Amazônia e no Pantanal",
+      "descricao": "O Operador Nacional do Registro Eletrônico de Imóveis disponibilizou relação de matrículas prioritárias abrangidas pela ADPF 743. O levantamento orienta serventias a conferirem dados de imóveis identificados em áreas com ocorrência de ilícitos ambientais e a enviarem as informações saneadas ao ONR.",
+      "data_publicacao": "2026-09-14T12:00:00-03:00",
+      "url": "https://www.onr.org.br/onr-disponibiliza-relacao-de-matriculas-prioritarias-para-saneamento-pelas-serventias-abrangidas-pela-adpf-743-amazonia-e-pantanal/",
+      "fonte": "Operador Nacional do Registro Eletrônico de Imóveis (ONR)"
+    },
+    {
+      "titulo": "ONR apresenta casos de digitalização no mercado imobiliário",
+      "descricao": "A série Registros que Conectam apresentou a experiência de uma construtora com soluções eletrônicas do Registro de Imóveis. O primeiro episódio aborda ganhos de integração, acompanhamento de processos, financiamentos e gestão documental.",
+      "data_publicacao": "2026-09-10T12:00:00-03:00",
+      "url": "https://www.onr.org.br/serie-registros-que-conectam-apresenta-cases-sobre-a-digitalizacao-no-mercado-imobiliario/",
+      "fonte": "Operador Nacional do Registro Eletrônico de Imóveis (ONR)"
+    },
+    {
+      "titulo": "Registro de Imóveis é reconhecido pelo TJMS por qualidade e eficiência",
+      "descricao": "Cerimônia promovida pela Corregedoria-Geral da Justiça de Mato Grosso do Sul destacou unidades extrajudiciais por qualidade, eficiência e boas práticas. A iniciativa valoriza a melhoria contínua da prestação dos serviços registrais.",
+      "data_publicacao": "2026-09-10T12:00:00-03:00",
+      "url": "https://www.onr.org.br/registro-de-imoveis-e-reconhecido-pelo-tjms-por-qualidade-eficiencia-e-boas-praticas/",
+      "fonte": "Operador Nacional do Registro Eletrônico de Imóveis (ONR)"
+    },
+    {
+      "titulo": "Rota de regularização fundiária entrega títulos a mais de 330 famílias no Tocantins",
+      "descricao": "A Corregedoria-Geral da Justiça do Tocantins informou a entrega de mais de 330 títulos de propriedade em municípios atendidos pelo Núcleo de Prevenção e Regularização Fundiária. A titulação conclui etapas de Reurb e amplia a segurança jurídica dos imóveis regularizados.",
+      "data_publicacao": "2026-09-15T12:00:00-03:00",
+      "url": "https://corregedoria.tjto.jus.br/comunicacao/noticias/nupref-cgjus-rota-de-entrega-de-titulos-de-propriedade-avanca-em-setembro-beneficiando-mais-330-familias-em-peixe-arapoema-e-juarina",
+      "fonte": "Corregedoria-Geral da Justiça do Estado do Tocantins"
+    },
+    {
+      "titulo": "Decreto do Rio de Janeiro facilita regularização de imóveis do Minha Casa, Minha Vida",
+      "descricao": "A Defensoria Pública do Rio de Janeiro informou que o Decreto estadual 50.476/2026 permite o reconhecimento automático da isenção prevista para doações de imóveis construídos com recursos do Fundo de Arrendamento Residencial. A medida busca destravar a titulação de mais de 13 mil unidades e também alcançar futuras operações que atendam aos requisitos legais.",
+      "data_publicacao": "2026-09-15T12:00:00-03:00",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/33012-Atuacao-da-DPRJ-facilita-regularizacao-de-imoveis-do-Minha-Casa-Minha-Vida",
+      "fonte": "Defensoria Pública do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Planejamento sucessório exige diagnóstico, diálogo e regularização",
+      "descricao": "Artigo do Migalhas defende que o planejamento patrimonial e sucessório deve começar pelo levantamento da estrutura familiar, dos bens, das empresas e dos passivos. O texto apresenta testamentos, doações, usufruto e holdings como instrumentos possíveis, cuja escolha depende da realidade de cada família.",
+      "data_publicacao": "2026-09-03T13:12:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/463502/planejamento-sucessorio-do-diagnostico-a-implementacao-em-etapas",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "TRF1 mantém nulidade de resolução sobre transações imobiliárias digitais",
+      "descricao": "O Tribunal Regional Federal da 1ª Região negou pedido do COFECI para suspender decisão que declarou nula a Resolução 1.551/2025 e atos dela decorrentes. O caso discute os limites da regulamentação profissional diante das competências legais relacionadas ao direito civil e ao registro eletrônico de imóveis.",
+      "data_publicacao": "2026-09-04T12:00:00-03:00",
+      "url": "https://www.onr.org.br/trf1-nega-pedido-de-suspensao-de-liminar-e-de-sentenca-sobre-resolucao-cofeci-1-551-2025/",
+      "fonte": "Operador Nacional do Registro Eletrônico de Imóveis (ONR)"
+    }
+  ]
+}
