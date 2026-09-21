@@ -1,103 +1,82 @@
 {
-  "data-busca": "2026-09-20T10:02:13-03:00",
+  "data-busca": "2026-09-21T10:05:35-03:00",
   "noticias": [
     {
-      "titulo": "Prefeitura agiliza aprovação de projetos de obras e liberação de alvarás",
-      "descricao": "A Secretaria de Licenciamento, Habitação e Urbanismo de Rio das Ostras reorganizou fluxos e informou ter aprovado mais de 400 projetos desde maio. O Município também testa aprovação online e mantém modalidades simplificada, regular e autodeclaratória para obras e emissão de Habite-se.",
+      "titulo": "CastraMóvel leva serviços gratuitos de saúde animal a Cidade Praiana",
+      "descricao": "A Prefeitura de Rio das Ostras informou que a unidade móvel estará em Cidade Praiana nos dias 22 e 23 de setembro. O serviço oferece castrações previamente agendadas e orientações veterinárias gratuitas para cães e gatos, conforme disponibilidade de vagas.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/castramovel-leva-servicos-gratuitos-de-saude-animal-a-cidade-praiana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Banco de Empregos oferece 481 vagas em Rio das Ostras",
+      "descricao": "O Banco de Empregos de Rio das Ostras abriu 481 oportunidades nesta semana, com vagas para diferentes perfis profissionais. As inscrições são gratuitas e devem ser feitas presencialmente no Centro de Cidadania, das 10h às 17h.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-481-vagas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura agiliza aprovação de projetos e liberação de alvarás",
+      "descricao": "A Prefeitura de Rio das Ostras informou que reorganizou fluxos e aprovou mais de 400 projetos de obras desde maio. A modalidade autodeclaratória permite que o profissional obtenha o alvará para início da obra em até 24 horas, sujeito à análise técnica posterior.",
       "data_publicacao": "2026-09-18T00:00:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/prefeitura-agiliza-aprovacao-de-projetos-de-obras-e-liberacao-de-alvaras/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Rio das Ostras avança na construção do Plano Municipal de Coleta Seletiva",
-      "descricao": "A Prefeitura encerrou a primeira fase do projeto de coleta seletiva, com apresentação de diagnósticos, aspectos legais e proposta operacional. Entre as medidas discutidas estão ecopontos, organização dos resíduos por fluxos e a participação de cooperativas ou associações de catadores.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-na-construcao-do-plano-municipal-de-coleta-seletiva/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Município inicia consultoria para modernização do licenciamento",
-      "descricao": "Rio das Ostras iniciou, em parceria com o Sebrae, uma consultoria para atualizar o sistema de licenciamento e implantar novas modalidades ambientais. O trabalho pretende simplificar processos, alinhar regras municipais e estaduais e ampliar a segurança jurídica para empresas e atividades de baixo impacto.",
-      "data_publicacao": "2026-09-12T00:00:00-03:00",
-      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14520",
-      "fonte": "Portal Rio das Ostras"
-    },
-    {
-      "titulo": "Rio das Ostras tem programação especial para a Semana de Trânsito",
-      "descricao": "Atividades educativas serão realizadas em escolas e pontos de grande circulação entre 18 e 25 de setembro. A programação municipal busca reforçar o respeito às leis de trânsito e a responsabilidade de motoristas, motociclistas, ciclistas e pedestres.",
-      "data_publicacao": "2026-09-15T00:00:00-03:00",
-      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14538",
-      "fonte": "Portal Rio das Ostras"
-    },
-    {
-      "titulo": "Rio das Ostras reúne técnicos para debater projetos de novas obras",
-      "descricao": "A Secretaria de Obras promoveu uma análise dos projetos previstos para Terra Firme, Mar y Lago e Verdes Mares. A discussão técnica busca avaliar as intervenções planejadas e orientar o desenvolvimento urbano dessas localidades.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/municipio-reune-tecnicos-para-debater-projetos-de-novas-obras/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Americanas avança na venda de três imóveis no Rio de Janeiro",
-      "descricao": "A Americanas recebeu propostas para vender imóveis em Laranjeiras, Tijuca e Freguesia do Engenho Velho, no contexto de sua recuperação judicial. Os editais preveem leilão por propostas fechadas e estabelecem valores mínimos para os ativos localizados na capital fluminense.",
+      "titulo": "Defensoria facilita regularização de imóveis do Minha Casa, Minha Vida no RJ",
+      "descricao": "A Defensoria Pública do Rio de Janeiro informou que o Decreto estadual nº 50.476/2026 permite o reconhecimento automático da isenção aplicável à doação de imóveis construídos com recursos do FAR. A medida busca destravar a titulação de mais de 13 mil unidades e também alcançar futuras operações que atendam aos requisitos legais.",
       "data_publicacao": "2026-09-17T00:00:00-03:00",
-      "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/americanas-venda-imoveis-recuperacao-judicial/",
-      "fonte": "Forbes Brasil"
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/33012-Atuacao-da-DPRJ-facilita-regularizacao-de-imoveis-do-Minha-Casa-Minha-Vida",
+      "fonte": "Defensoria Pública do Rio de Janeiro"
     },
     {
-      "titulo": "Rio de Janeiro recebe congresso internacional do mercado imobiliário",
-      "descricao": "O CIMI360 reuniu no Rio de Janeiro mais de 8 mil corretores de imóveis de mais de 40 países. O evento discutiu negócios, inovação e tendências do setor, com movimentação estimada em R$ 650 milhões durante a programação.",
-      "data_publicacao": "2026-09-02T00:00:00-03:00",
-      "url": "https://creci-rj.gov.br/rio-de-janeiro-recebe-o-cimi360-e-transforma-congresso-internacional-em-celebracao-do-mercado-imobiliario-2/",
-      "fonte": "CRECI-RJ"
+      "titulo": "Cartórios de Imóveis do RJ passam a receber penhoras judiciais em tempo real",
+      "descricao": "O sistema Constri-Jud passou a integrar o Judiciário e os Registros de Imóveis para enviar eletronicamente ordens de penhora, arresto e sequestro. A implantação pretende reduzir o intervalo entre a decisão judicial e seu registro, reforçando a rastreabilidade das restrições patrimoniais.",
+      "data_publicacao": "2026-09-01T00:00:00-03:00",
+      "url": "https://www.portalgiro.com/noticia/28260/petropolis/rio-de-janeiro/cartorios-de-imoveis-do-rio-de-janeiro-passam-a-receber-penhoras-da-justica-em-tempo-real.html",
+      "fonte": "Portal Giro"
     },
     {
-      "titulo": "Cadeia de cessões não gera litisconsórcio em adjudicação, diz artigo",
-      "descricao": "Artigo publicado na ConJur sustenta que cedentes intermediários não precisam integrar o polo passivo quando não são titulares do domínio. A análise destaca que a continuidade registral deve ser examinada conforme o direito transmitido e que o registro prévio das cessões pode ser dispensado na adjudicação compulsória extrajudicial.",
+      "titulo": "STJ define grau de intervenção da Caixa em ações de seguro habitacional",
+      "descricao": "Em recurso repetitivo, o STJ diferenciou a forma de participação da Caixa conforme a existência de sentença de mérito e a data de referência do processo. A definição também estabelece quando o caso deve tramitar na Justiça Federal ou permanecer na Justiça Estadual.",
+      "data_publicacao": "2026-09-20T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-20/stj-define-intervencao-da-caixa-em-casos-sobre-seguro-habitacional-no-sfh/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Cadeia de cessões não gera litisconsórcio em adjudicação",
+      "descricao": "Artigo publicado na ConJur sustenta que cedentes intermediários não se tornam litisconsortes necessários quando não são titulares do domínio. A análise defende que a continuidade registral seja verificada conforme o direito transmitido e que o registro prévio das cessões não seja exigido na adjudicação compulsória extrajudicial.",
       "data_publicacao": "2026-09-18T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-set-18/adjudicacao-compulsoria-a-cadeia-de-cessoes-nao-e-cadeia-dominial/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Construtora não pode reter chaves por dívida após financiamento",
-      "descricao": "A ConJur noticiou decisão que afasta a retenção das chaves de imóvel por dívida posterior à contratação do financiamento. O caso aborda os limites da cobrança e a relação entre a quitação do crédito imobiliário e a entrega da unidade ao comprador.",
-      "data_publicacao": "2026-09-13T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-13/tj-sp-proibe-construtora-de-reter-chaves-por-divida-apos-financiamento/",
+      "titulo": "STF retoma julgamento sobre imunidade de ITBI para imobiliárias",
+      "descricao": "O STF formou maioria provisória em julgamento sobre a imunidade de ITBI na integralização de imóveis ao capital social de empresas com atividade imobiliária preponderante. O pedido de vista suspendeu a análise, de modo que ainda não há tese definitiva para a matéria.",
+      "data_publicacao": "2026-09-02T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-02/stf-reinicia-julgamento-de-imunidade-de-itbi-para-capital-social-de-imobiliarias/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Áreas de loteamento destinadas ao acesso público integram domínio do município",
-      "descricao": "Decisão analisada pela ConJur reconheceu a integração ao domínio municipal de áreas de loteamento destinadas ao acesso público. O caso reforça a necessidade de observar a destinação registral e urbanística das áreas no desenvolvimento e na regularização de empreendimentos.",
-      "data_publicacao": "2026-09-11T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-11/areas-de-loteamento-destinadas-ao-acesso-publico-integram-dominio-do-municipio/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Alienação de bens pelo espólio e cessão de direitos hereditários: o que muda com o art. 11-A da Resolução 571/24 do CNJ",
-      "descricao": "O artigo do Colégio Notarial do Brasil explica como o inventariante pode alienar bens do espólio por escritura pública para custear despesas do inventário, sem alvará judicial, desde que cumpra requisitos documentais e ofereça garantia. O texto diferencia essa venda da cessão de direitos hereditários e ressalta os efeitos tributários que precisam ser considerados.",
+      "titulo": "Alienação de bens do espólio pode custear despesas do inventário",
+      "descricao": "Artigo do Colégio Notarial do Brasil explica que o inventariante pode alienar bens do espólio por escritura pública, sem alvará judicial, quando o preço estiver vinculado às despesas do inventário e forem cumpridos os requisitos documentais. A análise ressalta a necessidade de garantia do inventariante e os reflexos tributários da operação.",
       "data_publicacao": "2026-09-16T00:00:00-03:00",
       "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Proposta defende abertura extrajudicial do testamento público antes do inventário por escritura",
-      "descricao": "Artigo do Colégio Notarial do Brasil propõe uma ata notarial de concordância testamentária para testamentos públicos sem controvérsia. A ideia é colher a anuência dos interessados e dar ciência ao Ministério Público, reduzindo a necessidade de uma ação judicial prévia nas hipóteses mais seguras.",
+      "titulo": "Artigo propõe abertura extrajudicial de testamento público consensual",
+      "descricao": "O CNB publicou proposta de ata notarial de concordância testamentária para permitir o inventário por escritura quando houver testamento público e consenso entre os interessados. O modelo preserva a ciência do Ministério Público, a publicidade a possíveis interessados e a remessa ao Judiciário em caso de dúvida ou impugnação.",
       "data_publicacao": "2026-09-16T00:00:00-03:00",
       "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "IBS e CBS nos cartórios levantam debate sobre o custo da segurança jurídica",
-      "descricao": "Artigo do CNB analisa o possível impacto da reforma tributária sobre emolumentos cartorários. O texto defende que a transição preserve o acesso à formalização, à publicidade dos direitos e à segurança jurídica nas operações imobiliárias.",
+      "titulo": "Podcast do STJ aborda testamentos eletrônicos e novas tecnologias",
+      "descricao": "O CNB divulgou episódio do podcast STJ No Seu Dia sobre os requisitos de validade dos testamentos particulares e a flexibilização de formalidades diante de manifestações digitais de vontade. A conversa trata de assinatura, autenticação e adaptação do direito sucessório às novas tecnologias.",
       "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/ibs-e-cbs-nos-cartorios-o-risco-de-a-reforma-tributaria-encarecer-a-seguranca-juridica/",
+      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
       "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "STJ define que o limite da usucapião familiar considera a área total do imóvel",
-      "descricao": "A Quarta Turma do STJ decidiu que o limite de 250 metros quadrados da usucapião familiar deve ser aferido pela área total do imóvel urbano. Assim, não é possível aplicar o instituto apenas sobre uma fração de imóvel cuja área total ultrapasse o limite legal.",
-      "data_publicacao": "2026-09-15T00:00:00-03:00",
-      "url": "https://ri360.com.br/n/informativo-de-jurisprudencia-stj-informativo-no-892-16-de-junho-de-2026-6797.html",
-      "fonte": "RI360"
     }
   ]
 }
