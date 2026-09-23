@@ -1,0 +1,103 @@
+{
+  "data-busca": "2026-09-22T10:02:14-03:00",
+  "noticias": [
+    {
+      "titulo": "Aluguel por curta temporada é tema de recurso repetitivo no STJ",
+      "descricao": "A Segunda Seção do STJ afetou ao rito dos repetitivos a discussão sobre a suficiência da destinação residencial prevista na convenção do condomínio para impedir locações de curta temporada. Os processos sobre a controvérsia ficam suspensos em todo o país até a definição do Tema 1.443.",
+      "data_publicacao": "2026-09-17T00:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17092026-Airbnb-afetacao-de-repetitivo-sobre-locacao-de-curta-temporada-em-condominios-suspende-processos-em-todo-o-pais.aspx",
+      "fonte": "STJ"
+    },
+    {
+      "titulo": "STJ valida pagamento com criptomoedas em negócio imobiliário",
+      "descricao": "A Terceira Turma do STJ considerou válida a cláusula que prevê o uso de criptoativos para cumprir obrigações contratuais entre particulares. O colegiado destacou que a aceitação é facultativa e que a oscilação de valor, por si só, não invalida o negócio jurídico.",
+      "data_publicacao": "2026-09-17T00:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17092026-Criptomoedas-podem-ser-usadas-para-pagar-obrigacoes-contratuais--e-flutuacao-de-valor-nao-e-justificativa-para.aspx",
+      "fonte": "STJ"
+    },
+    {
+      "titulo": "STJ reúne decisões sobre acesso a bens deixados na internet",
+      "descricao": "Reportagem especial do STJ apresenta os desafios jurídicos da chamada herança digital, que pode envolver criptomoedas, arquivos em nuvem e perfis monetizados. O tribunal descreve a possibilidade de incidente no inventário para identificar e avaliar esses bens, preservando informações protegidas.",
+      "data_publicacao": "2026-09-02T00:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/02092026-Heranca-digital-as-decisoes-do-STJ-sobre-o-acesso-a-bens-deixados-na-internet-.aspx",
+      "fonte": "STJ"
+    },
+    {
+      "titulo": "Defensoria facilita regularização de imóveis do Minha Casa, Minha Vida no RJ",
+      "descricao": "A Defensoria Pública do Rio de Janeiro informou que o Decreto estadual nº 50.476/2026 permite o reconhecimento automático da isenção aplicável à doação de imóveis construídos com recursos do FAR. A medida busca destravar a titulação de mais de 13 mil unidades e também alcançar futuras operações que atendam aos requisitos legais.",
+      "data_publicacao": "2026-09-17T17:00:00-03:00",
+      "url": "https://defensoria.rj.def.br/noticia/detalhes/33012-Atuacao-da-DPRJ-facilita-regularizacao-de-imoveis-do-Minha-Casa-Minha-Vida",
+      "fonte": "Defensoria Pública do Rio de Janeiro"
+    },
+    {
+      "titulo": "Cartórios do RJ passam a receber penhoras judiciais em tempo real",
+      "descricao": "O sistema Constri-Jud passou a integrar o Judiciário e os Registros de Imóveis para enviar eletronicamente ordens de penhora, arresto e sequestro. A implantação pretende reduzir o intervalo entre a decisão judicial e seu registro, reforçando a rastreabilidade das restrições patrimoniais.",
+      "data_publicacao": "2026-09-01T00:00:00-03:00",
+      "url": "https://www.portalgiro.com/noticia/28260/petropolis/rio-de-janeiro/cartorios-de-imoveis-do-rio-de-janeiro-passam-a-receber-penhoras-da-justica-em-tempo-real.html",
+      "fonte": "Portal Giro"
+    },
+    {
+      "titulo": "STJ define grau de intervenção da Caixa em ações de seguro habitacional",
+      "descricao": "Em recurso repetitivo, o STJ diferenciou a forma de participação da Caixa conforme a existência de sentença de mérito e a data de referência do processo. A definição também estabelece quando o caso deve tramitar na Justiça Federal ou permanecer na Justiça Estadual.",
+      "data_publicacao": "2026-09-20T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-20/stj-define-intervencao-da-caixa-em-casos-sobre-seguro-habitacional-no-sfh/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Cadeia de cessões não gera litisconsórcio em adjudicação",
+      "descricao": "Artigo publicado na ConJur sustenta que cedentes intermediários não se tornam litisconsortes necessários quando não são titulares do domínio. A análise defende que a continuidade registral seja verificada conforme o direito transmitido e que o registro prévio das cessões não seja exigido na adjudicação compulsória extrajudicial.",
+      "data_publicacao": "2026-09-18T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-18/adjudicacao-compulsoria-a-cadeia-de-cessoes-nao-e-cadeia-dominial/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STF retoma julgamento sobre imunidade de ITBI para imobiliárias",
+      "descricao": "O STF formou maioria provisória em julgamento sobre a imunidade de ITBI na integralização de imóveis ao capital social de empresas com atividade imobiliária preponderante. O pedido de vista suspendeu a análise, de modo que ainda não há tese definitiva para a matéria.",
+      "data_publicacao": "2026-09-02T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-02/stf-reinicia-julgamento-de-imunidade-de-itbi-para-capital-social-de-imobiliarias/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CSM/SP mantém usucapião extrajudicial diante de impugnação genérica",
+      "descricao": "O Conselho Superior da Magistratura de São Paulo afastou uma impugnação sem fundamentação técnica e permitiu o prosseguimento administrativo de um pedido de usucapião. A decisão considerou suficientes a planta e o memorial descritivo regulares, sem controvérsia concreta sobre limites ou titularidade.",
+      "data_publicacao": "2026-09-17T00:00:00-03:00",
+      "url": "https://ri360.com.br/n/csm-sp-recurso-de-apelacao-registro-de-imoveis-usucapi%C3%A3o-extrajudicial-impugnaca-7320.html",
+      "fonte": "RI360"
+    },
+    {
+      "titulo": "CSM/SP admite exame de matrícula encerrada em retificação de partilha",
+      "descricao": "O CSM/SP decidiu que o registrador pode consultar o histórico de uma matrícula encerrada para verificar a cadeia dominial e as datas de aquisição. No caso, a fração adquirida antes da união estável foi tratada como bem particular, exigindo a retificação da partilha antes do registro.",
+      "data_publicacao": "2026-09-17T00:00:00-03:00",
+      "url": "https://ri360.com.br/n/csm-sp-apelacao-duvida-registro-de-imoveis-escritura-publica-de-inventario-e-par-7321.html",
+      "fonte": "RI360"
+    },
+    {
+      "titulo": "Alienação de bens do espólio pode custear despesas do inventário",
+      "descricao": "Artigo do Colégio Notarial do Brasil explica que o inventariante pode alienar bens do espólio por escritura pública, sem alvará judicial, quando o preço estiver vinculado às despesas do inventário e forem cumpridos os requisitos documentais. A análise ressalta a necessidade de garantia do inventariante e os reflexos tributários da operação.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Artigo propõe abertura extrajudicial de testamento público consensual",
+      "descricao": "O CNB publicou proposta de ata notarial de concordância testamentária para permitir o inventário por escritura quando houver testamento público e consenso entre os interessados. O modelo preserva a ciência do Ministério Público, a publicidade a possíveis interessados e a remessa ao Judiciário em caso de dúvida ou impugnação.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Podcast do STJ aborda testamentos eletrônicos e novas tecnologias",
+      "descricao": "O CNB divulgou episódio do podcast STJ No Seu Dia sobre os requisitos de validade dos testamentos particulares e a flexibilização de formalidades diante de manifestações digitais de vontade. A conversa trata de assinatura, autenticação e adaptação do direito sucessório às novas tecnologias.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "IBS e CBS podem elevar o custo dos serviços cartorários",
+      "descricao": "Artigo do CNB analisa o impacto potencial dos novos tributos sobre os serviços notariais e registrais e sobre o preço da formalização jurídica. O texto defende que a transição preserve o acesso à publicidade dos direitos e à segurança jurídica nas operações imobiliárias.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/ibs-e-cbs-nos-cartorios-o-risco-de-a-reforma-tributaria-encarecer-a-seguranca-juridica/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}
