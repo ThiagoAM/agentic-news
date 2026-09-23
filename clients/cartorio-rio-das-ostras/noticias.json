@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-09-22T10:02:14-03:00",
+  "data-busca": "2026-09-23T10:28:32-03:00",
   "noticias": [
     {
-      "titulo": "CastraMóvel leva serviços gratuitos de saúde animal a Cidade Praiana",
-      "descricao": "A Prefeitura de Rio das Ostras informou que a unidade móvel estará em Cidade Praiana nos dias 22 e 23 de setembro. O serviço oferece castrações previamente agendadas e orientações veterinárias gratuitas para cães e gatos, conforme disponibilidade de vagas.",
-      "data_publicacao": "2026-09-21T09:18:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/castramovel-leva-servicos-gratuitos-de-saude-animal-a-cidade-praiana/",
+      "titulo": "Rio das Ostras participa do Festival de Turismo da Costa do Sol",
+      "descricao": "A cidade participa de 21 a 23 de setembro do primeiro Festival de Turismo da Costa do Sol, em Saquarema, junto a outros 12 municípios. A programação inclui exposição de artesanato local e debates sobre turismo regional, captação de recursos e novas tendências do setor.",
+      "data_publicacao": "2026-09-22T10:21:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-participa-do-1o-festival-de-turismo-da-costa-do-sol/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Banco de Empregos oferece 481 vagas em Rio das Ostras",
-      "descricao": "O Banco de Empregos de Rio das Ostras abriu 481 oportunidades nesta semana, com vagas para diferentes perfis profissionais. As inscrições são gratuitas e devem ser feitas presencialmente no Centro de Cidadania, das 10h às 17h.",
-      "data_publicacao": "2026-09-21T08:39:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-481-vagas/",
+      "titulo": "Rio das Ostras aplica avaliação anual de aprendizagem nas escolas",
+      "descricao": "A rede municipal iniciou a aplicação do Sistema de Avaliação Educacional de Rio das Ostras (SAERO), que mede a aprendizagem dos estudantes e apoia o planejamento pedagógico. Após a coleta das provas, os dados serão analisados com as equipes escolares para orientar intervenções e formação de professores.",
+      "data_publicacao": "2026-09-22T13:38:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/alunos-fazem-provas-de-avaliacao-do-saero/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Prefeitura agiliza aprovação de projetos e liberação de alvarás",
-      "descricao": "A Prefeitura de Rio das Ostras informou que reorganizou fluxos e aprovou mais de 400 projetos de obras desde maio. A modalidade autodeclaratória permite que o profissional obtenha o alvará para início da obra em até 24 horas, sujeito à análise técnica posterior.",
-      "data_publicacao": "2026-09-18T15:18:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/prefeitura-agiliza-aprovacao-de-projetos-de-obras-e-liberacao-de-alvaras/",
+      "titulo": "Rio das Ostras inicia pagamentos a 39 projetos culturais",
+      "descricao": "A Fundação Rio das Ostras de Cultura iniciou o pagamento dos projetos selecionados em três editais do ciclo 2 da Política Nacional Aldir Blanc e da Política Nacional de Cultura Viva. Os recursos destinados aos 39 projetos superam R$ 1,1 milhão.",
+      "data_publicacao": "2026-09-22T14:54:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-comecou-a-pagar-os-contemplados-dos-editais-pnab-ciclo-2/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Defensoria facilita regularização de imóveis do Minha Casa, Minha Vida no RJ",
-      "descricao": "A Defensoria Pública do Rio de Janeiro informou que o Decreto estadual nº 50.476/2026 permite o reconhecimento automático da isenção aplicável à doação de imóveis construídos com recursos do FAR. A medida busca destravar a titulação de mais de 13 mil unidades e também alcançar futuras operações que atendam aos requisitos legais.",
-      "data_publicacao": "2026-09-17T17:00:00-03:00",
-      "url": "https://defensoria.rj.def.br/noticia/detalhes/33012-Atuacao-da-DPRJ-facilita-regularizacao-de-imoveis-do-Minha-Casa-Minha-Vida",
-      "fonte": "Defensoria Pública do Rio de Janeiro"
+      "titulo": "CNB/CF apresenta balanço de ações com as seccionais estaduais",
+      "descricao": "Em reunião nacional realizada em 16 de setembro, o Colégio Notarial do Brasil apresentou resultados de tecnologia, relações institucionais e atuação jurídica. O balanço cita 72 entregas no e-Notariado entre janeiro e setembro, 80% das certidões do Busca Testamento automatizadas e redução de 83,3% nos cartórios bloqueados por atraso na Censec.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
     },
     {
-      "titulo": "Cartórios de Imóveis do RJ passam a receber penhoras judiciais em tempo real",
-      "descricao": "O sistema Constri-Jud passou a integrar o Judiciário e os Registros de Imóveis para enviar eletronicamente ordens de penhora, arresto e sequestro. A implantação pretende reduzir o intervalo entre a decisão judicial e seu registro, reforçando a rastreabilidade das restrições patrimoniais.",
-      "data_publicacao": "2026-09-01T00:00:00-03:00",
-      "url": "https://www.portalgiro.com/noticia/28260/petropolis/rio-de-janeiro/cartorios-de-imoveis-do-rio-de-janeiro-passam-a-receber-penhoras-da-justica-em-tempo-real.html",
-      "fonte": "Portal Giro"
+      "titulo": "Nova lei fixa prazo de cinco anos para sanções administrativas a notários e registradores",
+      "descricao": "A Lei nº 15.509/2026 acrescentou à Lei dos Cartórios prazo prescricional de cinco anos para a aplicação de sanções administrativas, contado da ocorrência do fato ou, em infrações permanentes, do fim da permanência. A norma entrou em vigor na data de sua publicação.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
     },
     {
-      "titulo": "STJ define grau de intervenção da Caixa em ações de seguro habitacional",
-      "descricao": "Em recurso repetitivo, o STJ diferenciou a forma de participação da Caixa conforme a existência de sentença de mérito e a data de referência do processo. A definição também estabelece quando o caso deve tramitar na Justiça Federal ou permanecer na Justiça Estadual.",
-      "data_publicacao": "2026-09-20T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-20/stj-define-intervencao-da-caixa-em-casos-sobre-seguro-habitacional-no-sfh/",
+      "titulo": "CNJ reformula regras nacionais dos concursos para cartórios",
+      "descricao": "Artigo publicado pelo CNB/SP analisa a Resolução CNJ nº 696/2026, que substituiu as regras anteriores para concursos de delegações notariais e registrais. O novo marco nacional organiza etapas e prazos, trata do Exame Nacional dos Cartórios e padroniza critérios de governança e execução dos certames.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/22/artigo-reforma-dos-concursos-de-cartorio-papel-do-cnj-na-construcao-de-novo-paradigma-por-mauro-campbell-marques-rodrigo-badaro-e-antonio-adonias-bastos/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo (CNB/SP)"
+    },
+    {
+      "titulo": "STF e tribunais superiores discutem desafios comuns do Judiciário",
+      "descricao": "Em reunião de 22 de setembro, presidentes do STF e dos tribunais superiores discutiram inteligência artificial, segurança cibernética e o volume de processos previdenciários. A cobertura da ConJur informa que o encontro tratou de possíveis padrões e ações coordenadas, sem anunciar uma decisão normativa.",
+      "data_publicacao": "2026-09-22T14:44:00-03:00",
+      "url": "https://conjur.com.br/2026-set-22/presidentes-do-stf-e-dos-tribunais-superiores-discutem-desafios-do-judiciario/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Cadeia de cessões não gera litisconsórcio em adjudicação",
-      "descricao": "Artigo publicado na ConJur sustenta que cedentes intermediários não se tornam litisconsortes necessários quando não são titulares do domínio. A análise defende que a continuidade registral seja verificada conforme o direito transmitido e que o registro prévio das cessões não seja exigido na adjudicação compulsória extrajudicial.",
-      "data_publicacao": "2026-09-18T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-18/adjudicacao-compulsoria-a-cadeia-de-cessoes-nao-e-cadeia-dominial/",
+      "titulo": "STJ: rito da relevância pode reduzir o uso dos recursos repetitivos",
+      "descricao": "A ConJur analisa como a entrada em vigor da Lei nº 15.484/2026 e as regras internas do STJ podem alterar a seleção de recursos especiais para formação de precedentes. O texto aponta que o filtro da relevância pode ganhar espaço em relação aos repetitivos, sem afirmar que esse instrumento tenha sido extinto.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-22/rito-da-relevancia-do-stj-absorve-repetitivos-para-formacao-de-precedentes/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "STF retoma julgamento sobre imunidade de ITBI para imobiliárias",
-      "descricao": "O STF formou maioria provisória em julgamento sobre a imunidade de ITBI na integralização de imóveis ao capital social de empresas com atividade imobiliária preponderante. O pedido de vista suspendeu a análise, de modo que ainda não há tese definitiva para a matéria.",
-      "data_publicacao": "2026-09-02T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-02/stf-reinicia-julgamento-de-imunidade-de-itbi-para-capital-social-de-imobiliarias/",
+      "titulo": "Mudança de uso de imóvel alugado exige nova contratação, defende artigo",
+      "descricao": "Artigo publicado na ConJur sustenta que, em locação direta por inexigibilidade, a alteração substancial da finalidade do imóvel pode modificar o objeto contratado. Nessa hipótese, a administração deve avaliar a necessidade de nova contratação, em vez de substituir o objeto por simples aditivo.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-21/quando-a-mudanca-de-destinacao-transfigura-a-locacao-administrativa/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Alienação de bens do espólio pode custear despesas do inventário",
-      "descricao": "Artigo do Colégio Notarial do Brasil explica que o inventariante pode alienar bens do espólio por escritura pública, sem alvará judicial, quando o preço estiver vinculado às despesas do inventário e forem cumpridos os requisitos documentais. A análise ressalta a necessidade de garantia do inventariante e os reflexos tributários da operação.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
-      "fonte": "Colégio Notarial do Brasil"
+      "titulo": "Corregedoria do RJ esclarece enquadramento de emolumentos do registro de imóveis",
+      "descricao": "O Aviso CGJ nº 449/2026 orientou delegatários e responsáveis por serviços extrajudiciais sobre os emolumentos do item 10, alínea b, da tabela de outros atos de registro de imóveis. A Corregedoria relacionou a cobrança aos itens 08 e 09 da mesma tabela, conforme diretriz decisória em processo administrativo.",
+      "data_publicacao": "2026-09-17T18:17:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/cgj/informes",
+      "fonte": "Corregedoria Geral da Justiça do Estado do Rio de Janeiro (TJRJ)"
     },
     {
-      "titulo": "Artigo propõe abertura extrajudicial de testamento público consensual",
-      "descricao": "O CNB publicou proposta de ata notarial de concordância testamentária para permitir o inventário por escritura quando houver testamento público e consenso entre os interessados. O modelo preserva a ciência do Ministério Público, a publicidade a possíveis interessados e a remessa ao Judiciário em caso de dúvida ou impugnação.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Podcast do STJ aborda testamentos eletrônicos e novas tecnologias",
-      "descricao": "O CNB divulgou episódio do podcast STJ No Seu Dia sobre os requisitos de validade dos testamentos particulares e a flexibilização de formalidades diante de manifestações digitais de vontade. A conversa trata de assinatura, autenticação e adaptação do direito sucessório às novas tecnologias.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
-      "fonte": "Colégio Notarial do Brasil"
+      "titulo": "TJRJ atualiza dispositivos do Código de Normas extrajudicial",
+      "descricao": "O Provimento CGJ nº 71/2026 alterou dispositivos da Consolidação Normativa da Corregedoria do Rio de Janeiro aplicável aos serviços extrajudiciais. A atualização abrange regras de diversos artigos do Código de Normas estadual.",
+      "data_publicacao": "2026-09-14T15:54:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/cgj/atualizacoes-consolidacao-normativa-parte-extrajudicial",
+      "fonte": "Corregedoria Geral da Justiça do Estado do Rio de Janeiro (TJRJ)"
     }
   ]
 }
