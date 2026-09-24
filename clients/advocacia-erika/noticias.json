@@ -1,82 +1,103 @@
 {
-  "data-busca": "2026-09-23T10:02:26-03:00",
+  "data-busca": "2026-09-24T10:07:51-03:00",
   "noticias": [
     {
-      "titulo": "STJ define registro como marco da prescrição para questionar doação inoficiosa",
-      "descricao": "No Informativo de Jurisprudência publicado em 22 de setembro, a Quarta Turma do STJ reafirmou que a prescrição para questionar doação inoficiosa começa com o registro do ato. O tribunal também distinguiu a redução de disposições testamentárias, que não pode ter como marco a lavratura enquanto o testamento ainda pode ser revogado.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270902%27.cod.",
-      "fonte": "STJ"
+      "titulo": "Greve da Caixa trava repasses do Minha Casa, Minha Vida e preocupa mercado imobiliário",
+      "descricao": "A paralisação dos funcionários da Caixa está represando liberações de financiamentos do Minha Casa, Minha Vida e atrasando repasses a incorporadoras, mesmo em vendas já concluídas. A Caixa afirma que contratações e parte dos procedimentos digitais continuam, enquanto etapas internas podem levar mais tempo.",
+      "data_publicacao": "2026-09-24T05:00:00-03:00",
+      "url": "https://regionalzao.com.br/mercado-imobiliario/greve-caixa-repasses-minha-casa-minha-vida/",
+      "fonte": "Regionalzão"
     },
     {
-      "titulo": "RIBCast discute desafios e etapas da regularização fundiária urbana",
-      "descricao": "Em episódio publicado em 22 de setembro, registradoras de imóveis explicam que a Reurb envolve medidas jurídicas, urbanísticas, ambientais e sociais, além da expedição do título. A conversa diferencia posse e matrícula e aborda a colaboração entre cartórios e municípios para conduzir as etapas da regularização.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/ribcast-aborda-perfil-transformador-da-regularizacao-fundiaria",
-      "fonte": "Registro de Imóveis do Brasil"
+      "titulo": "STJ reconhece legitimidade de nu-proprietário para ajuizar ação de despejo com anuência do usufrutuário",
+      "descricao": "A Terceira Turma do STJ decidiu que o nu-proprietário pode propor ação de despejo quando o contrato de locação foi celebrado com anuência expressa do usufrutuário. O colegiado considerou incompatível com a boa-fé objetiva que o locatário, após aceitar esse arranjo contratual, alegue falta de legitimidade do locador.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://colegioregistralrs.org.br/noticias/21452/stj-reconhece-legitimidade-de-nu-proprietario-para-ajuizar-acao-de-despejo-com-anuencia-do-usufrutuario/",
+      "fonte": "Colégio Registral do Rio Grande do Sul"
     },
     {
-      "titulo": "Lei estabelece prazo prescricional para sanções a notários e registradores",
-      "descricao": "A Lei nº 15.509/2026, publicada em 22 de setembro, alterou a Lei dos Notários e Registradores para fixar em cinco anos o prazo de prescrição de sanções administrativas. Para infrações permanentes, a contagem começa quando a irregularidade deixa de existir.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/lei-fixa-prazo-para-sancoes-a-notarios-e-registradores",
-      "fonte": "Registro de Imóveis do Brasil"
-    },
-    {
-      "titulo": "STF determina reexame de penhora sobre pequena propriedade rural hipotecada",
-      "descricao": "O ministro Edson Fachin determinou que o TJMG reexamine a penhora de imóvel rural dado em hipoteca, considerando a proteção reconhecida pelo STF à pequena propriedade rural familiar. A decisão citada pela reportagem aplica o entendimento do Tema 961 também a garantias reais sobre imóvel que se enquadre nos critérios definidos pelo tribunal.",
-      "data_publicacao": "2026-09-21T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/fachin-determina-revisao-de-penhora-de-propriedade-hipotecada",
-      "fonte": "Registro de Imóveis do Brasil"
-    },
-    {
-      "titulo": "Artigo analisa instrumentos e limites da transmissão patrimonial em vida",
-      "descricao": "Artigo publicado no Migalhas examina a doação com reserva de usufruto, o testamento, o pacto antenupcial e o seguro de vida como instrumentos de organização sucessória. O texto destaca os limites da legítima, a proteção contra fraude a credores e a tributação pelo ITCMD.",
-      "data_publicacao": "2026-09-20T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/463106/transmissao-do-patrimonio-em-vida-instrumentos-e-limites-sucessorios",
+      "titulo": "STJ afasta responsabilidade de banco por atraso na entrega de imóvel",
+      "descricao": "A Segunda Seção do STJ afastou a inclusão de um banco financiador em ação de compradores por atraso na entrega de imóvel, por falta de legitimidade passiva. A decisão distingue a concessão e fiscalização do financiamento da execução da obra, salvo quando houver obrigação contratual específica do banco.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/465154/stj-afasta-responsabilidade-de-banco-por-atraso-na-entrega-de-imovel",
       "fonte": "Migalhas"
     },
     {
-      "titulo": "Brasil registra recorde de testamentos públicos em 2025",
-      "descricao": "Dados do Colégio Notarial do Brasil citados pelo CNB/GO apontam 38.740 testamentos lavrados no país em 2025, maior número da série histórica, e 1.859 em Goiás. A matéria reúne informações sobre as modalidades do instrumento, sua revogabilidade e os limites legais da disposição patrimonial.",
-      "data_publicacao": "2026-09-17T00:00:00-03:00",
-      "url": "https://cnbgo.org.br/goias-soma-18-mil-testamentos-em-ano-recorde-no-brasil-brigas-atrasam-inventarios-diz-advogada/",
-      "fonte": "Colégio Notarial do Brasil – Seção Goiás"
+      "titulo": "Podcast STJ No Seu Dia debate requisitos da usucapião familiar e o limite de área prevista no Código Civil",
+      "descricao": "O episódio examina decisão da Quarta Turma do STJ sobre os requisitos da usucapião familiar e a interpretação do limite de 250 m² do artigo 1.240-A do Código Civil. A conversa também aborda o equilíbrio entre o direito à moradia e a proteção da propriedade.",
+      "data_publicacao": "2026-09-23T08:30:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23092026-Podcast-STJ-No-Seu-Dia-debate-requisitos-da-usucapiao-familiar-e-o-limite-de-area-prevista-no-Codigo-Civil.aspx",
+      "fonte": "Superior Tribunal de Justiça"
     },
     {
-      "titulo": "CBIC debate fontes de financiamento e déficit habitacional no Nordeste",
-      "descricao": "Em encontro realizado no Recife, a CBIC reuniu representantes do setor para discutir financiamento habitacional, FGTS e locação acessível. A entidade informou que o déficit habitacional nordestino é estimado em 1,76 milhão de moradias e destacou a importância de ampliar as fontes de crédito para o setor.",
+      "titulo": "Solo Cidadão quer levar regularização fundiária a toda a Bahia",
+      "descricao": "A Defensoria Pública da Bahia e a Associação dos Registradores de Imóveis da Bahia anunciaram o projeto Solo Cidadão, voltado à regularização fundiária de interesse social. A iniciativa pretende articular municípios, cartórios e moradores nos 417 municípios baianos para ampliar o acesso ao registro da propriedade.",
+      "data_publicacao": "2026-09-23T15:45:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/solo-cidadao-quer-levar-regularizacao-fundiaria-a-toda-a-bahia",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Cartilha de usucapião extrajudicial reúne orientações para a advocacia no Espírito Santo",
+      "descricao": "SINOREG-ES, OAB-ES e outras entidades lançaram uma cartilha prática sobre o reconhecimento extrajudicial da propriedade. O material explica etapas e requisitos do procedimento e busca apoiar sua condução por advogados e profissionais registrais.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.irib.org.br/cartilha-de-usucapiao-extrajudicial-sinoreg-es-oab-es-e-demais-entidades-de-classe-lancam-cartilha-hoje/",
+      "fonte": "Instituto de Registro Imobiliário do Brasil"
+    },
+    {
+      "titulo": "Contrato particular de venda de fração ideal não pode ser averbado, decide 1ª VRP/SP",
+      "descricao": "A 1ª Vara de Registros Públicos de São Paulo manteve a recusa de averbação de um contrato particular que formalizava a venda definitiva de fração ideal de imóvel. A decisão apontou a necessidade de escritura pública, continuidade da cadeia dominial, cancelamento de indisponibilidades e comprovação do ITBI.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.26notas.com.br/blog/?p=21025",
+      "fonte": "Blog do 26º Tabelionato de Notas de São Paulo"
+    },
+    {
+      "titulo": "CSM/SP exige inscrição cadastral própria para registrar fração de área comum na capital",
+      "descricao": "O Conselho Superior da Magistratura de São Paulo manteve a recusa de registro de fração ideal de área comum sem inscrição cadastral municipal própria. A decisão relaciona a exigência de identificação fiscal ao Cadastro Imobiliário Brasileiro e à qualificação do título na capital paulista.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.26notas.com.br/blog/?p=21007",
+      "fonte": "Blog do 26º Tabelionato de Notas de São Paulo"
+    },
+    {
+      "titulo": "Sem pacto antenupcial, partilha de bem particular fere continuidade registral, diz CSM/SP",
+      "descricao": "O CSM/SP manteve a recusa ao registro de partilha de imóvel particular como se o casamento tivesse adotado comunhão universal, sem pacto antenupcial por escritura pública. Aplicou-se o regime legal da comunhão parcial, e o colegiado entendeu que a transmissão pretendida contrariaria a continuidade registral.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.26notas.com.br/blog/?p=21003",
+      "fonte": "Blog do 26º Tabelionato de Notas de São Paulo"
+    },
+    {
+      "titulo": "ITBI: nova redação do art. 38 do CTN exige revisão da legislação municipal",
+      "descricao": "Artigo do Colégio Registral do Rio Grande do Sul analisa a alteração do artigo 38 do CTN pela Lei Complementar nº 227/2026. O autor sustenta que municípios poderão estimar tecnicamente o valor venal, desde que publiquem critérios objetivos e assegurem contestação pelo contribuinte.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://colegioregistralrs.org.br/noticias/21445/itbi-nova-redacao-do-art-38-do-ctn-exige-revisao-da-legislacao-municipal/",
+      "fonte": "Colégio Registral do Rio Grande do Sul"
+    },
+    {
+      "titulo": "TJCE conclui integração entre sistemas de guias do Fermoju e selos cartoriais",
+      "descricao": "O Tribunal de Justiça do Ceará concentrou no Sisguias Extrajudicial Online as funções antes disponíveis no sistema Selos Extra. As serventias podem emitir e reimprimir guias, gerar relatórios de pagamento e consultar subsídios de atos gratuitos no mesmo ambiente.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://portaldori.com.br/2026/09/22/tjce-conclui-integracao-entre-sistemas-de-guias-do-fermoju-e-selos-cartoriais/",
+      "fonte": "Portal do RI"
+    },
+    {
+      "titulo": "Assinador Digital ilustra compromisso do RI com a eficiência",
+      "descricao": "Relatório do Registro de Imóveis do Brasil aponta que o prazo médio para reunir assinaturas em um documento caiu de 14 dias em 2020 para menos de 24 horas. A ferramenta gratuita havia processado 18,1 milhões de documentos, dos quais 17,2 milhões foram concluídos, segundo a entidade.",
       "data_publicacao": "2026-09-18T00:00:00-03:00",
-      "url": "https://cbic.org.br/mercado-funding-fgts-e-locacao-acessivel-pautam-debates-no-encontro-cbic-construtores-e-incorporadores-nordeste/",
-      "fonte": "CBIC"
+      "url": "https://www.registrodeimoveis.org.br/assinador-digital-ilustra-compromisso-do-ri-com-a-eficiencia?fe=2",
+      "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "DataZAP aponta desaceleração nos preços de aluguel residencial em agosto",
-      "descricao": "O Índice FipeZAP de locação residencial registrou alta de 0,55% em agosto nas 36 cidades monitoradas, abaixo da variação de 0,70% observada em julho. O relatório também chama atenção para atrasos em financiamentos ligados à paralisação na Caixa e para a continuidade dos prazos previstos nos compromissos de compra e venda.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://imoveis.grupoolx.com.br/datazap/estudos-e-pesquisas/datazap-report-130",
-      "fonte": "DataZAP"
+      "titulo": "Aluguel consignado pode baratear garantias e mudar mercado de locação, dizem especialistas",
+      "descricao": "Projeto aprovado pela Câmara prevê desconto em folha de até 30% da remuneração disponível para pagar aluguel e encargos, mas ainda dependia de análise do Senado quando a reportagem foi publicada. Especialistas apontam possível redução de custos das garantias e observam que o desemprego pode interromper o mecanismo.",
+      "data_publicacao": "2026-09-17T04:00:00-03:00",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/09/aluguel-consignado-pode-baratear-garantias-e-mudar-mercado-de-locacao-dizem-especialistas.shtml",
+      "fonte": "Folha de S.Paulo"
     },
     {
-      "titulo": "Análise discute alcance da dispensa do ITCMD no registro de inventários",
-      "descricao": "Artigo publicado pelo CNB/GO examina a Resolução CNJ nº 695/2026, que dispensou o recolhimento prévio do ITCMD como condição para lavrar inventário extrajudicial. O autor sustenta que a dispensa não se estende automaticamente à qualificação e ao registro imobiliário, distinguindo as etapas notarial e registral.",
-      "data_publicacao": "2026-09-10T00:00:00-03:00",
-      "url": "https://cnbgo.org.br/itcmd-e-certidoes-fiscais-no-registro-dos-inventarios-extrajudiciais-os-limites-da-dispensa-do-cnj/",
-      "fonte": "Colégio Notarial do Brasil – Seção Goiás"
-    },
-    {
-      "titulo": "Senado recebe proposta sobre ITCMD na sucessão de empresas familiares",
-      "descricao": "O PLP 247/2026 propõe diretrizes para que estados e Distrito Federal possam criar isenção condicionada de ITCMD na transmissão de participações em empresas familiares produtivas. A proposta está em tramitação no Senado e aguardava despacho no Plenário na atualização consultada.",
-      "data_publicacao": "2026-09-02T00:00:00-03:00",
-      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175719",
-      "fonte": "Senado Federal"
-    },
-    {
-      "titulo": "STF mantém restrições à aquisição de terras rurais por empresas com capital estrangeiro",
-      "descricao": "Artigo publicado no Migalhas relata que o STF confirmou a validade das restrições legais à compra e ao arrendamento de imóveis rurais por empresas brasileiras controladas por capital estrangeiro. Segundo a análise, o julgamento também invalidou orientação da Corregedoria paulista que afastava a aplicação dessas restrições pelos cartórios.",
-      "data_publicacao": "2026-08-28T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/463364/a-decisao-do-stf-sobre-a-aquisicao-de-terras-por-estrangeiros",
-      "fonte": "Migalhas"
+      "titulo": "Vendas de imóveis avançam 5,4% no primeiro semestre e MCMV registra participação recorde",
+      "descricao": "Dados da CBIC indicam que as vendas de imóveis residenciais novos cresceram 5,4% no primeiro semestre de 2026 em comparação com o mesmo período de 2025. O Minha Casa, Minha Vida respondeu por 58% dos lançamentos no segundo trimestre, sua maior participação desde o início da série em 2019.",
+      "data_publicacao": "2026-08-26T00:00:00-03:00",
+      "url": "https://www.irib.org.br/vendas-de-imoveis-avancam-54-no-primeiro-semestre-e-mcmv-registra-participacao-recorde/",
+      "fonte": "Instituto de Registro Imobiliário do Brasil, com dados da CBIC"
     }
   ]
 }

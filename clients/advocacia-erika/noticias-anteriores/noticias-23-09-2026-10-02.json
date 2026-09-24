@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-09-23T10:02:26-03:00",
+  "noticias": [
+    {
+      "titulo": "STJ define registro como marco da prescrição para questionar doação inoficiosa",
+      "descricao": "No Informativo de Jurisprudência publicado em 22 de setembro, a Quarta Turma do STJ reafirmou que a prescrição para questionar doação inoficiosa começa com o registro do ato. O tribunal também distinguiu a redução de disposições testamentárias, que não pode ter como marco a lavratura enquanto o testamento ainda pode ser revogado.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270902%27.cod.",
+      "fonte": "STJ"
+    },
+    {
+      "titulo": "RIBCast discute desafios e etapas da regularização fundiária urbana",
+      "descricao": "Em episódio publicado em 22 de setembro, registradoras de imóveis explicam que a Reurb envolve medidas jurídicas, urbanísticas, ambientais e sociais, além da expedição do título. A conversa diferencia posse e matrícula e aborda a colaboração entre cartórios e municípios para conduzir as etapas da regularização.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/ribcast-aborda-perfil-transformador-da-regularizacao-fundiaria",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Lei estabelece prazo prescricional para sanções a notários e registradores",
+      "descricao": "A Lei nº 15.509/2026, publicada em 22 de setembro, alterou a Lei dos Notários e Registradores para fixar em cinco anos o prazo de prescrição de sanções administrativas. Para infrações permanentes, a contagem começa quando a irregularidade deixa de existir.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/lei-fixa-prazo-para-sancoes-a-notarios-e-registradores",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "STF determina reexame de penhora sobre pequena propriedade rural hipotecada",
+      "descricao": "O ministro Edson Fachin determinou que o TJMG reexamine a penhora de imóvel rural dado em hipoteca, considerando a proteção reconhecida pelo STF à pequena propriedade rural familiar. A decisão citada pela reportagem aplica o entendimento do Tema 961 também a garantias reais sobre imóvel que se enquadre nos critérios definidos pelo tribunal.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/fachin-determina-revisao-de-penhora-de-propriedade-hipotecada",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Artigo analisa instrumentos e limites da transmissão patrimonial em vida",
+      "descricao": "Artigo publicado no Migalhas examina a doação com reserva de usufruto, o testamento, o pacto antenupcial e o seguro de vida como instrumentos de organização sucessória. O texto destaca os limites da legítima, a proteção contra fraude a credores e a tributação pelo ITCMD.",
+      "data_publicacao": "2026-09-20T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/463106/transmissao-do-patrimonio-em-vida-instrumentos-e-limites-sucessorios",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Brasil registra recorde de testamentos públicos em 2025",
+      "descricao": "Dados do Colégio Notarial do Brasil citados pelo CNB/GO apontam 38.740 testamentos lavrados no país em 2025, maior número da série histórica, e 1.859 em Goiás. A matéria reúne informações sobre as modalidades do instrumento, sua revogabilidade e os limites legais da disposição patrimonial.",
+      "data_publicacao": "2026-09-17T00:00:00-03:00",
+      "url": "https://cnbgo.org.br/goias-soma-18-mil-testamentos-em-ano-recorde-no-brasil-brigas-atrasam-inventarios-diz-advogada/",
+      "fonte": "Colégio Notarial do Brasil – Seção Goiás"
+    },
+    {
+      "titulo": "CBIC debate fontes de financiamento e déficit habitacional no Nordeste",
+      "descricao": "Em encontro realizado no Recife, a CBIC reuniu representantes do setor para discutir financiamento habitacional, FGTS e locação acessível. A entidade informou que o déficit habitacional nordestino é estimado em 1,76 milhão de moradias e destacou a importância de ampliar as fontes de crédito para o setor.",
+      "data_publicacao": "2026-09-18T00:00:00-03:00",
+      "url": "https://cbic.org.br/mercado-funding-fgts-e-locacao-acessivel-pautam-debates-no-encontro-cbic-construtores-e-incorporadores-nordeste/",
+      "fonte": "CBIC"
+    },
+    {
+      "titulo": "DataZAP aponta desaceleração nos preços de aluguel residencial em agosto",
+      "descricao": "O Índice FipeZAP de locação residencial registrou alta de 0,55% em agosto nas 36 cidades monitoradas, abaixo da variação de 0,70% observada em julho. O relatório também chama atenção para atrasos em financiamentos ligados à paralisação na Caixa e para a continuidade dos prazos previstos nos compromissos de compra e venda.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://imoveis.grupoolx.com.br/datazap/estudos-e-pesquisas/datazap-report-130",
+      "fonte": "DataZAP"
+    },
+    {
+      "titulo": "Análise discute alcance da dispensa do ITCMD no registro de inventários",
+      "descricao": "Artigo publicado pelo CNB/GO examina a Resolução CNJ nº 695/2026, que dispensou o recolhimento prévio do ITCMD como condição para lavrar inventário extrajudicial. O autor sustenta que a dispensa não se estende automaticamente à qualificação e ao registro imobiliário, distinguindo as etapas notarial e registral.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://cnbgo.org.br/itcmd-e-certidoes-fiscais-no-registro-dos-inventarios-extrajudiciais-os-limites-da-dispensa-do-cnj/",
+      "fonte": "Colégio Notarial do Brasil – Seção Goiás"
+    },
+    {
+      "titulo": "Senado recebe proposta sobre ITCMD na sucessão de empresas familiares",
+      "descricao": "O PLP 247/2026 propõe diretrizes para que estados e Distrito Federal possam criar isenção condicionada de ITCMD na transmissão de participações em empresas familiares produtivas. A proposta está em tramitação no Senado e aguardava despacho no Plenário na atualização consultada.",
+      "data_publicacao": "2026-09-02T00:00:00-03:00",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175719",
+      "fonte": "Senado Federal"
+    },
+    {
+      "titulo": "STF mantém restrições à aquisição de terras rurais por empresas com capital estrangeiro",
+      "descricao": "Artigo publicado no Migalhas relata que o STF confirmou a validade das restrições legais à compra e ao arrendamento de imóveis rurais por empresas brasileiras controladas por capital estrangeiro. Segundo a análise, o julgamento também invalidou orientação da Corregedoria paulista que afastava a aplicação dessas restrições pelos cartórios.",
+      "data_publicacao": "2026-08-28T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/463364/a-decisao-do-stf-sobre-a-aquisicao-de-terras-por-estrangeiros",
+      "fonte": "Migalhas"
+    }
+  ]
+}
