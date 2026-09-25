@@ -1,103 +1,117 @@
 {
-  "data-busca": "2026-09-24T10:07:51-03:00",
+  "data-busca": "2026-09-25T10:02:56-03:00",
   "noticias": [
     {
-      "titulo": "Greve da Caixa trava repasses do Minha Casa, Minha Vida e preocupa mercado imobiliário",
-      "descricao": "A paralisação dos funcionários da Caixa está represando liberações de financiamentos do Minha Casa, Minha Vida e atrasando repasses a incorporadoras, mesmo em vendas já concluídas. A Caixa afirma que contratações e parte dos procedimentos digitais continuam, enquanto etapas internas podem levar mais tempo.",
-      "data_publicacao": "2026-09-24T05:00:00-03:00",
-      "url": "https://regionalzao.com.br/mercado-imobiliario/greve-caixa-repasses-minha-casa-minha-vida/",
-      "fonte": "Regionalzão"
+      "titulo": "Semestre registra queda de 14% em lançamentos de lotes",
+      "descricao": "Dados da Brain encomendados pela Aelo indicaram 48,7 mil lotes lançados no país no primeiro semestre de 2026, 14% abaixo do volume de igual período de 2025. As vendas caíram 11%, enquanto a taxa média de distratos avançou para 12% a 15%, segundo a entidade.",
+      "data_publicacao": "2026-09-24T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/semestre-registra-queda-de-14-em-lancamentos-de-lotes",
+      "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "STJ reconhece legitimidade de nu-proprietário para ajuizar ação de despejo com anuência do usufrutuário",
-      "descricao": "A Terceira Turma do STJ decidiu que o nu-proprietário pode propor ação de despejo quando o contrato de locação foi celebrado com anuência expressa do usufrutuário. O colegiado considerou incompatível com a boa-fé objetiva que o locatário, após aceitar esse arranjo contratual, alegue falta de legitimidade do locador.",
-      "data_publicacao": "2026-09-23T00:00:00-03:00",
-      "url": "https://colegioregistralrs.org.br/noticias/21452/stj-reconhece-legitimidade-de-nu-proprietario-para-ajuizar-acao-de-despejo-com-anuencia-do-usufrutuario/",
-      "fonte": "Colégio Registral do Rio Grande do Sul"
+      "titulo": "CNJ prorroga vigência de novo regime nacional de execução",
+      "descricao": "O CNJ ampliou de 30 para 180 dias, contados de 20 de agosto, o prazo para entrada em vigor da Consolidação Nacional da Execução Efetiva, que passa a valer em 16 de fevereiro de 2027. Os tribunais terão até 10 de março de 2027 para regulamentar os Núcleos de Pesquisa Patrimonial.",
+      "data_publicacao": "2026-09-24T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/cnj-prorroga-vigencia-de-novo-regime-nacional-de-execucao",
+      "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "STJ afasta responsabilidade de banco por atraso na entrega de imóvel",
-      "descricao": "A Segunda Seção do STJ afastou a inclusão de um banco financiador em ação de compradores por atraso na entrega de imóvel, por falta de legitimidade passiva. A decisão distingue a concessão e fiscalização do financiamento da execução da obra, salvo quando houver obrigação contratual específica do banco.",
-      "data_publicacao": "2026-09-23T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/465154/stj-afasta-responsabilidade-de-banco-por-atraso-na-entrega-de-imovel",
+      "titulo": "Legística imobiliária aplicada à incorporação imobiliária",
+      "descricao": "Artigo discute como compatibilizar informações registrais, municipais, urbanísticas e contratuais durante a incorporação imobiliária. Os autores apresentam a legística como método para identificar divergências documentais e comparar alternativas antes que afetem o cronograma e a viabilidade do empreendimento.",
+      "data_publicacao": "2026-09-24T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/coluna/migalhas-edilicias/465087/legistica-imobiliaria-aplicada-a-incorporacao-imobiliaria",
       "fonte": "Migalhas"
     },
     {
-      "titulo": "Podcast STJ No Seu Dia debate requisitos da usucapião familiar e o limite de área prevista no Código Civil",
-      "descricao": "O episódio examina decisão da Quarta Turma do STJ sobre os requisitos da usucapião familiar e a interpretação do limite de 250 m² do artigo 1.240-A do Código Civil. A conversa também aborda o equilíbrio entre o direito à moradia e a proteção da propriedade.",
-      "data_publicacao": "2026-09-23T08:30:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23092026-Podcast-STJ-No-Seu-Dia-debate-requisitos-da-usucapiao-familiar-e-o-limite-de-area-prevista-no-Codigo-Civil.aspx",
-      "fonte": "Superior Tribunal de Justiça"
+      "titulo": "STJ define registro do imóvel como marco para prescrição de ação contra doação inoficiosa",
+      "descricao": "A Quarta Turma do STJ fixou o registro da doação na matrícula do imóvel como marco inicial do prazo prescricional para ação que discute doação inoficiosa. O julgado também aponta que eventual redução de disposição testamentária só pode ser questionada após a morte do testador, quando o testamento passa a produzir efeitos.",
+      "data_publicacao": "2026-09-24T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/24/anoreg-sp-stj-define-registro-do-imovel-como-marco-para-prescricao-de-acao-contra-doacao-inoficiosa/",
+      "fonte": "CNB/SP Institucional"
     },
     {
-      "titulo": "Solo Cidadão quer levar regularização fundiária a toda a Bahia",
-      "descricao": "A Defensoria Pública da Bahia e a Associação dos Registradores de Imóveis da Bahia anunciaram o projeto Solo Cidadão, voltado à regularização fundiária de interesse social. A iniciativa pretende articular municípios, cartórios e moradores nos 417 municípios baianos para ampliar o acesso ao registro da propriedade.",
-      "data_publicacao": "2026-09-23T15:45:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/solo-cidadao-quer-levar-regularizacao-fundiaria-a-toda-a-bahia",
+      "titulo": "TJRS reabre inscrições de concurso para 247 vagas em cartórios",
+      "descricao": "O TJRS reabriu as inscrições para concurso de outorga de 247 delegações extrajudiciais, sendo 165 para provimento e 82 para remoção. O prazo termina em 1º de outubro, e as provas objetivas estão previstas para dezembro.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/tjrs-reabre-inscricoes-de-concurso-para-247-vagas-em-cartorios",
       "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "Cartilha de usucapião extrajudicial reúne orientações para a advocacia no Espírito Santo",
-      "descricao": "SINOREG-ES, OAB-ES e outras entidades lançaram uma cartilha prática sobre o reconhecimento extrajudicial da propriedade. O material explica etapas e requisitos do procedimento e busca apoiar sua condução por advogados e profissionais registrais.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://www.irib.org.br/cartilha-de-usucapiao-extrajudicial-sinoreg-es-oab-es-e-demais-entidades-de-classe-lancam-cartilha-hoje/",
-      "fonte": "Instituto de Registro Imobiliário do Brasil"
-    },
-    {
-      "titulo": "Contrato particular de venda de fração ideal não pode ser averbado, decide 1ª VRP/SP",
-      "descricao": "A 1ª Vara de Registros Públicos de São Paulo manteve a recusa de averbação de um contrato particular que formalizava a venda definitiva de fração ideal de imóvel. A decisão apontou a necessidade de escritura pública, continuidade da cadeia dominial, cancelamento de indisponibilidades e comprovação do ITBI.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://www.26notas.com.br/blog/?p=21025",
-      "fonte": "Blog do 26º Tabelionato de Notas de São Paulo"
-    },
-    {
-      "titulo": "CSM/SP exige inscrição cadastral própria para registrar fração de área comum na capital",
-      "descricao": "O Conselho Superior da Magistratura de São Paulo manteve a recusa de registro de fração ideal de área comum sem inscrição cadastral municipal própria. A decisão relaciona a exigência de identificação fiscal ao Cadastro Imobiliário Brasileiro e à qualificação do título na capital paulista.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://www.26notas.com.br/blog/?p=21007",
-      "fonte": "Blog do 26º Tabelionato de Notas de São Paulo"
-    },
-    {
-      "titulo": "Sem pacto antenupcial, partilha de bem particular fere continuidade registral, diz CSM/SP",
-      "descricao": "O CSM/SP manteve a recusa ao registro de partilha de imóvel particular como se o casamento tivesse adotado comunhão universal, sem pacto antenupcial por escritura pública. Aplicou-se o regime legal da comunhão parcial, e o colegiado entendeu que a transmissão pretendida contrariaria a continuidade registral.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://www.26notas.com.br/blog/?p=21003",
-      "fonte": "Blog do 26º Tabelionato de Notas de São Paulo"
-    },
-    {
-      "titulo": "ITBI: nova redação do art. 38 do CTN exige revisão da legislação municipal",
-      "descricao": "Artigo do Colégio Registral do Rio Grande do Sul analisa a alteração do artigo 38 do CTN pela Lei Complementar nº 227/2026. O autor sustenta que municípios poderão estimar tecnicamente o valor venal, desde que publiquem critérios objetivos e assegurem contestação pelo contribuinte.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://colegioregistralrs.org.br/noticias/21445/itbi-nova-redacao-do-art-38-do-ctn-exige-revisao-da-legislacao-municipal/",
-      "fonte": "Colégio Registral do Rio Grande do Sul"
-    },
-    {
-      "titulo": "TJCE conclui integração entre sistemas de guias do Fermoju e selos cartoriais",
-      "descricao": "O Tribunal de Justiça do Ceará concentrou no Sisguias Extrajudicial Online as funções antes disponíveis no sistema Selos Extra. As serventias podem emitir e reimprimir guias, gerar relatórios de pagamento e consultar subsídios de atos gratuitos no mesmo ambiente.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://portaldori.com.br/2026/09/22/tjce-conclui-integracao-entre-sistemas-de-guias-do-fermoju-e-selos-cartoriais/",
-      "fonte": "Portal do RI"
-    },
-    {
-      "titulo": "Assinador Digital ilustra compromisso do RI com a eficiência",
-      "descricao": "Relatório do Registro de Imóveis do Brasil aponta que o prazo médio para reunir assinaturas em um documento caiu de 14 dias em 2020 para menos de 24 horas. A ferramenta gratuita havia processado 18,1 milhões de documentos, dos quais 17,2 milhões foram concluídos, segundo a entidade.",
-      "data_publicacao": "2026-09-18T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/assinador-digital-ilustra-compromisso-do-ri-com-a-eficiencia?fe=2",
+      "titulo": "Iniciativa pioneira do RIB-GO está pronta para ser \"exportada\"",
+      "descricao": "O curso Mapa na Prática, do RIB-GO, reuniu 180 profissionais para orientar registradores e escreventes sobre o Provimento CNJ 195/2025, que instituiu o inventário estatístico e o sistema de informações geográficas do registro de imóveis. A entidade informou que pretende expandir a iniciativa de capacitação a outros estados.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/iniciativa-pioneira-do-rib-go-esta-pronta-para-ser-exportada?fe=2",
       "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "Aluguel consignado pode baratear garantias e mudar mercado de locação, dizem especialistas",
-      "descricao": "Projeto aprovado pela Câmara prevê desconto em folha de até 30% da remuneração disponível para pagar aluguel e encargos, mas ainda dependia de análise do Senado quando a reportagem foi publicada. Especialistas apontam possível redução de custos das garantias e observam que o desemprego pode interromper o mecanismo.",
-      "data_publicacao": "2026-09-17T04:00:00-03:00",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/09/aluguel-consignado-pode-baratear-garantias-e-mudar-mercado-de-locacao-dizem-especialistas.shtml",
+      "titulo": "Lei fixa prazo para sanções a notários e registradores",
+      "descricao": "A Lei 15.509/2026 alterou a Lei dos Cartórios e fixou em cinco anos o prazo para aplicação de sanções administrativas a notários e registradores. Nas infrações permanentes, a contagem começa quando cessa a irregularidade.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/lei-fixa-prazo-para-sancoes-a-notarios-e-registradores?fe=2",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Santander coloca mais de 200 imóveis em leilão com financiamento de até 35 anos",
+      "descricao": "O Santander ofertou mais de 200 imóveis em leilão nacional, incluindo casas, apartamentos, terrenos e imóveis comerciais. Para determinados lotes, o banco ofereceu financiamento com prazo de até 420 meses.",
+      "data_publicacao": "2026-09-21T11:58:00-03:00",
+      "url": "https://exame.com/mercado-imobiliario/leilao-do-santander-tem-mais-de-200-imoveis-a-leilao-com-financiamento-em-ate-35-anos/",
+      "fonte": "Exame"
+    },
+    {
+      "titulo": "Índice FipeZAP de Locação Residencial desacelera em agosto de 2026",
+      "descricao": "O Índice FipeZAP de locação residencial subiu 0,55% em agosto nas 36 cidades acompanhadas, acumulando alta de 9,16% em 12 meses. O preço médio chegou a R$ 54,47 por metro quadrado, enquanto a rentabilidade média estimada do aluguel foi de 6,14% ao ano.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://imoveis.grupoolx.com.br/datazap/estudos-e-pesquisas/datazap-report-130",
+      "fonte": "DataZAP / Grupo OLX"
+    },
+    {
+      "titulo": "Conselho do FGTS aprova mais R$ 500 milhões para subsídio no Minha Casa Minha Vida",
+      "descricao": "O Conselho Curador do FGTS aprovou R$ 500 milhões extras para subsídios do Minha Casa, Minha Vida em 2026, elevando o orçamento anual do programa a R$ 13 bilhões. Até agosto, 60,6% do orçamento anterior já havia sido consumido, segundo dados apresentados na reunião.",
+      "data_publicacao": "2026-09-10T11:33:00-03:00",
+      "url": "https://portas.com.br/noticias/conselho-fgts-aprova-r-500-milhoes-subsidio-minha-casa-minha-vida/",
+      "fonte": "Portas"
+    },
+    {
+      "titulo": "Corregedoria do TJAC proíbe cartórios de exigir certidão negativa de débitos para realizar atos",
+      "descricao": "O Provimento Coger 12/2026 do TJAC impede cartórios de condicionar atos extrajudiciais à apresentação de CND, CPEN ou comprovante de quitação tributária. Nas operações imobiliárias, as partes podem dispensar certidões fiscais com declaração de ciência, e as obrigações de comunicação tributária permanecem.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.tjac.jus.br/2026/09/corregedoria-do-tjac-proibe-cartorios-de-exigir-certidao-negativa-de-debitos-para-realizar-atos/",
+      "fonte": "Tribunal de Justiça do Acre"
+    },
+    {
+      "titulo": "Gestor alerta para risco de crise no crédito imobiliário",
+      "descricao": "Em entrevista, o CEO da Hedge Investments avaliou que a combinação de juros persistentemente altos e custos maiores no crédito pode pressionar o mercado imobiliário e seus fundos. Ele apontou a participação crescente do mercado de capitais no financiamento como um fator que pode encarecer operações.",
+      "data_publicacao": "2026-09-03T07:00:00-03:00",
+      "url": "https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/brasil-pode-estar-na-antessala-de-uma-crise-de-credito-no-mercado-imobiliario-diz-gestor-de-fundos.shtml",
       "fonte": "Folha de S.Paulo"
     },
     {
-      "titulo": "Vendas de imóveis avançam 5,4% no primeiro semestre e MCMV registra participação recorde",
-      "descricao": "Dados da CBIC indicam que as vendas de imóveis residenciais novos cresceram 5,4% no primeiro semestre de 2026 em comparação com o mesmo período de 2025. O Minha Casa, Minha Vida respondeu por 58% dos lançamentos no segundo trimestre, sua maior participação desde o início da série em 2019.",
-      "data_publicacao": "2026-08-26T00:00:00-03:00",
-      "url": "https://www.irib.org.br/vendas-de-imoveis-avancam-54-no-primeiro-semestre-e-mcmv-registra-participacao-recorde/",
-      "fonte": "Instituto de Registro Imobiliário do Brasil, com dados da CBIC"
+      "titulo": "Financiamento de imóveis residenciais sobe 6,6% no 1º semestre de 2026",
+      "descricao": "Segundo dados da Trillia, as vendas financiadas de imóveis residenciais somaram 507.299 unidades no primeiro semestre, alta de 6,6% sobre 2025. O aumento foi de 11,8% no financiamento de casas e de 0,6% em apartamentos.",
+      "data_publicacao": "2026-08-31T00:00:00-03:00",
+      "url": "https://b3.com.br/pt_br/noticias/trillia-8AA8D0CCA023A7E401A0587CC05024F1.htm",
+      "fonte": "B3 / Trillia"
+    },
+    {
+      "titulo": "PIB: Construção recua 0,4% no segundo trimestre, mas cresce 1,1% no semestre",
+      "descricao": "O PIB da construção recuou 0,4% no segundo trimestre em relação aos três primeiros meses do ano, mas avançou 1,1% no primeiro semestre na comparação anual. A CBIC manteve projeção de crescimento de 1,2% para o setor em 2026 e associou a desaceleração a juros e crédito mais caros.",
+      "data_publicacao": "2026-09-01T00:00:00-03:00",
+      "url": "https://cbic.org.br/pib-construcao-recua-04-no-segundo-trimestre-mas-cresce-11-no-semestre/",
+      "fonte": "CBIC"
+    },
+    {
+      "titulo": "O imóvel está na holding. Outra empresa pode receber os aluguéis?",
+      "descricao": "Artigo analisa estruturas em que uma empresa detém o imóvel e outra assume a posição de locadora. O autor explica que a separação pode ser válida quando existe fundamento contratual e a operação efetiva corresponde aos contratos e fluxos financeiros.",
+      "data_publicacao": "2026-09-01T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/463410/o-imovel-esta-na-holding-outra-empresa-pode-receber-os-alugueis",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Resolução CNJ nº 695/2026 altera regras do inventário extrajudicial",
+      "descricao": "A Resolução CNJ 695/2026 alterou a Resolução 35/2007 para permitir a lavratura de escritura pública de inventário e partilha sem comprovação do recolhimento prévio do ITCMD. O tabelião deve registrar a ciência tributária das partes e comunicar o ato ao Fisco em até cinco dias, sem afastar a obrigação do imposto conforme a legislação estadual.",
+      "data_publicacao": "2026-08-28T00:00:00-03:00",
+      "url": "https://atos.cnj.jus.br/atos/detalhar/7010",
+      "fonte": "Conselho Nacional de Justiça"
     }
   ]
 }
