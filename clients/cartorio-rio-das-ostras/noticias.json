@@ -1,82 +1,89 @@
 {
-  "data-busca": "2026-09-24T10:31:18-03:00",
+  "data-busca": "2026-09-25T10:22:06-03:00",
   "noticias": [
     {
-      "titulo": "Prefeitura inicia estudo para reurbanizar a Boca da Barra",
-      "descricao": "A Secretaria de Obras apresentou um estudo preliminar para a orla, com parquinhos, academia ao ar livre, vagas, quiosques, banheiro público, acesso acessível à praia, ciclofaixa e ampliação da via. A proposta ainda será apresentada à comunidade para ouvir moradores e comerciantes.",
-      "data_publicacao": "2026-09-22T16:59:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/secretaria-de-obras-inicia-estudo-para-reurbanizacao-da-boca-da-barra/",
+      "titulo": "Rio das Ostras aprimora processos de contratação na Saúde",
+      "descricao": "A Secretaria Municipal de Saúde promoveu um treinamento sobre boas práticas em contratações públicas, do planejamento à formalização dos instrumentos. A capacitação tratou de conformidade legal, transparência e aplicação dos recursos nos processos licitatórios e nas contratações diretas.",
+      "data_publicacao": "2026-09-24T09:14:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/qualificacao-profissional-aprimora-contratacao-na-saude/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Banco de Empregos anuncia 481 oportunidades em Rio das Ostras",
-      "descricao": "Em 21 de setembro, o Banco de Empregos municipal listava 481 vagas, entre elas para motorista de ônibus urbano, vendedor, assistente de qualidade, atendimento em restaurante e auxiliar de serviços gerais. A inscrição era gratuita e presencial no Centro de Cidadania, no Âncora.",
-      "data_publicacao": "2026-09-21T08:39:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-481-vagas/",
+      "titulo": "Faetec debate inclusão profissional e emprego apoiado",
+      "descricao": "Seminário estadual realizado em Quintino reuniu cerca de 250 pessoas para discutir o acesso de pessoas com deficiência à educação profissional e ao mercado de trabalho. As palestras abordaram o emprego apoiado e a preparação dos ambientes profissionais para ampliar a autonomia dos trabalhadores.",
+      "data_publicacao": "2026-09-24T00:00:00-03:00",
+      "url": "https://www.faetec.rj.gov.br/faetec-debate-inclusao-profissional-e-emprego-apoiado/",
+      "fonte": "Fundação de Apoio à Escola Técnica do Estado do Rio de Janeiro (FAETEC)"
+    },
+    {
+      "titulo": "Procon de Rio das Ostras atende mais de 100 pessoas em mutirão",
+      "descricao": "A ação realizada em 22 e 23 de setembro reuniu concessionárias, bancos, operadoras de telefonia e empresas varejistas para negociar débitos e resolver demandas de consumidores. A Prefeitura informou que mais de 100 pessoas foram atendidas no Centro da Cidadania.",
+      "data_publicacao": "2026-09-23T18:24:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/procon-realiza-mutirao-do-consumidor/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Prefeitura agiliza aprovação de obras e emissão de alvarás",
-      "descricao": "O município informa que aprovou mais de 400 projetos de obras desde maio e oferece três modalidades de licenciamento. No modelo autodeclaratório, o profissional habilitado pode obter alvará para início da obra em 24 horas; a aprovação online por aplicativo está em fase de testes.",
-      "data_publicacao": "2026-09-18T15:18:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/prefeitura-agiliza-aprovacao-de-projetos-de-obras-e-liberacao-de-alvaras/",
+      "titulo": "Lei de Arbitragem completa 30 anos e especialistas defendem autorregulação",
+      "descricao": "A reportagem da ConJur marca os 30 anos da Lei 9.307/1996 e apresenta levantamento de julgados do STJ e de cinco tribunais sobre pedidos de anulação de sentenças arbitrais. Especialistas ouvidos defendem que o aprimoramento da prática venha dos regulamentos das câmaras, sem nova alteração da lei.",
+      "data_publicacao": "2026-09-23T17:15:00-03:00",
+      "url": "https://conjur.com.br/2026-set-23/lei-da-arbitragem-brasileira-completa-30-anos-nesta-quarta-feira/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "Rio das Ostras conclui estudo para revisar o Plano Diretor",
+      "descricao": "O estudo urbanístico concluído pela Prefeitura vai subsidiar a revisão do Plano Diretor, que orienta regras de uso do solo, habitação, mobilidade, meio ambiente e desenvolvimento econômico. A proposta ainda será debatida com a população, o Legislativo e representantes da sociedade civil.",
+      "data_publicacao": "2026-09-23T16:47:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-conclui-estudo-urbanistico-para-revisao-do-plano-diretor-municipal/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Casamento comunitário oficializa união de casais em Nova Iguaçu",
-      "descricao": "Quase 40 casais foram oficializados em uma ação comunitária realizada em 20 de setembro, parceria do TJRJ com a Prefeitura de Nova Iguaçu. O tribunal descreve a iniciativa como uma forma de aproximar os serviços da Justiça da população.",
-      "data_publicacao": "2026-09-21T10:56:00-03:00",
-      "url": "https://www.tjrj.jus.br/web/guest/noticias/noticia/-/visualizar-conteudo/5111210/406825702",
+      "titulo": "Sebrae e Prefeitura planejam campanha para pequenos negócios da Região dos Lagos",
+      "descricao": "A Rede Lagos apresentou uma proposta-piloto da campanha Compre do Pequeno para estimular o consumo em negócios locais. O projeto prevê a participação de pelo menos 20 empresas da região e tem início planejado para 5 de outubro.",
+      "data_publicacao": "2026-09-23T14:53:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/sebrae-e-prefeitura-fortalecem-acoes-para-pequenos-negocios/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "CNB/CF apresenta balanço de ações e resultados às seccionais",
+      "descricao": "O Conselho Notarial do Brasil – Conselho Federal reuniu diretores e presidentes de seccionais para apresentar projetos de tecnologia, atuação jurídica e relações governamentais. Entre os dados divulgados, o e-Notariado registrou 72 entregas de janeiro a setembro e houve queda de 83,3% nos bloqueios de cartórios por atraso na Censec.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    },
+    {
+      "titulo": "Lei 15.509 fixa prazo de cinco anos para sanções a notários e registradores",
+      "descricao": "A Lei 15.509/2026 alterou a Lei dos Notários e Registradores e fixou em cinco anos a prescrição da ação para aplicação de sanções administrativas. O prazo conta da ocorrência do fato ou, em infrações permanentes, do dia em que cessar a permanência.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    },
+    {
+      "titulo": "Rito da relevância do STJ passa a absorver recursos repetitivos",
+      "descricao": "A reportagem explica que, a partir de 30 de setembro, colegiados do STJ começarão a analisar processos pelo rito da relevância, que pode gerar precedentes vinculantes sem exigir multiplicidade de recursos. A mudança decorre da Lei 15.484/2026 e da regulamentação interna do tribunal.",
+      "data_publicacao": "2026-09-22T17:13:00-03:00",
+      "url": "https://conjur.com.br/2026-set-22/rito-da-relevancia-do-stj-absorve-repetitivos-para-formacao-de-precedentes/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "STJ admite honorários por equidade na exclusão de execução fiscal",
+      "descricao": "A Corte Especial do STJ admitiu a fixação equitativa de honorários quando um contribuinte é excluído da execução fiscal, sem alteração do crédito e com a cobrança mantida contra os demais devedores. A reportagem relaciona o entendimento ao Tema 1.265 e ao artigo 85 do Código de Processo Civil.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-22/exclusao-da-execucao-fiscal-sem-discutir-credito-gera-honorarios-por-equidade/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "TJRJ publica notas técnicas sobre judicialização abusiva",
+      "descricao": "O Centro de Inteligência do TJRJ publicou quatro notas técnicas com orientações para identificar sinais de judicialização abusiva e litigância predatória. Os documentos tratam, entre outros pontos, de demandas repetitivas e ações sobre inclusão indevida em cadastros de inadimplentes.",
+      "data_publicacao": "2026-09-17T16:04:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/portal-conhecimento/noticias/noticia/-/visualizar-conteudo/5736540/406811244",
       "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ)"
     },
     {
-      "titulo": "TRE-RJ participa de ação social para pessoas com deficiência",
-      "descricao": "O tribunal informou que participaria de uma ação social voltada a pessoas com deficiência, programada para 23 e 24 de setembro no Rio de Janeiro. A iniciativa reuniu serviços e orientações destinados ao público PCD.",
-      "data_publicacao": "2026-09-15T17:36:00-03:00",
-      "url": "https://www.tre-rj.jus.br/comunicacao/noticias/2026/Setembro/tre-rj-participa-de-acao-social-para-pessoas-com-deficiencia-1",
-      "fonte": "Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ)"
-    },
-    {
-      "titulo": "Artigo propõe ata notarial para inventário com testamento público consensual",
-      "descricao": "Artigo publicado pelo CNB/CF propõe uma ata notarial de concordância testamentária como alternativa para inventários por escritura quando há testamento público e consenso entre os interessados. O texto é uma proposta doutrinária, não uma regra em vigor, e prevê ciência ao Ministério Público.",
+      "titulo": "CNB/CF explica a venda de bens do espólio por escritura pública",
+      "descricao": "Artigo sobre a Resolução CNJ 571/2024 explica que o inventariante pode alienar bens do espólio por escritura pública, sem alvará judicial, para custear despesas do inventário e sob condições de documentação e garantia. O texto diferencia essa venda da cessão de direitos hereditários e aborda seus possíveis reflexos tributários.",
       "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
-      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
-    },
-    {
-      "titulo": "Podcast do STJ debate testamentos eletrônicos e tecnologias no direito sucessório",
-      "descricao": "O episódio do STJ No Seu Dia aborda decisão da Terceira Turma sobre os requisitos de validade de testamentos particulares e a flexibilização das formalidades diante de manifestações digitais. A entrevista trata da comprovação de autoria, assinatura e autenticação digital.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://cnbmg.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
-      "fonte": "Colégio Notarial do Brasil – Seção Minas Gerais (CNB/MG)"
-    },
-    {
-      "titulo": "Artigo analisa mudança escalonada do regime de bens em pactos",
-      "descricao": "Artigo do CNB/CF analisa proposta do PL 4/2025 que permitiria a casais pactuar alteração automática do regime de bens após período definido, sem efeitos retroativos. O texto defende a autonomia da vontade e discute segurança jurídica; a proposta ainda não é regra vigente.",
-      "data_publicacao": "2026-09-03T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/regime-escalonado-de-bens-valoracao-da-autonomia-da-vontade/",
-      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
-    },
-    {
-      "titulo": "Reforma tributária pode reduzir disputas no Carf, afirma presidente",
-      "descricao": "Em evento em Brasília, o presidente do Carf associou a reforma tributária à redução de disputas administrativas sobre créditos e à padronização de alíquotas. A CBS substitui PIS e Cofins em 2027, enquanto o IBS substitui gradualmente ICMS e ISS até 2033.",
-      "data_publicacao": "2026-09-24T00:24:00-03:00",
-      "url": "https://conjur.com.br/2026-set-23/reforma-encerra-relacionamento-toxico-tributario-diz-presidente-do-carf/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "STJ decide que CPRB compõe bases do PIS/Pasep e da Cofins",
-      "descricao": "No Tema 1.276, a Primeira Seção do STJ fixou que a contribuição previdenciária substitutiva sobre a receita bruta integra as bases do PIS/Pasep e da Cofins. A tese foi aprovada por unanimidade e serve de referência para processos semelhantes.",
-      "data_publicacao": "2026-09-21T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-21/cprb-compoe-base-de-calculo-de-pis-e-cofins-decide-stj/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "LC 236 busca reduzir litígios tributários antes da autuação",
-      "descricao": "Artigo da ConJur analisa a LC 236/2026, que prevê métodos preventivos para permitir a autorregularização antes da lavratura do auto de infração. O texto ressalta que o alcance depende da legislação específica e que a previsão não elimina a fiscalização nem garante correção sem penalidade.",
-      "data_publicacao": "2026-09-18T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-18/lc-236-e-reducao-do-litigio-tributario-desafio-comeca-antes-da-autuacao/",
-      "fonte": "ConJur"
+      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
     }
   ]
 }

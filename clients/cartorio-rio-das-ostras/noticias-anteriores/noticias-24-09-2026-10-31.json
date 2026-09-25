@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-09-24T10:31:18-03:00",
+  "noticias": [
+    {
+      "titulo": "Prefeitura inicia estudo para reurbanizar a Boca da Barra",
+      "descricao": "A Secretaria de Obras apresentou um estudo preliminar para a orla, com parquinhos, academia ao ar livre, vagas, quiosques, banheiro público, acesso acessível à praia, ciclofaixa e ampliação da via. A proposta ainda será apresentada à comunidade para ouvir moradores e comerciantes.",
+      "data_publicacao": "2026-09-22T16:59:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/secretaria-de-obras-inicia-estudo-para-reurbanizacao-da-boca-da-barra/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Banco de Empregos anuncia 481 oportunidades em Rio das Ostras",
+      "descricao": "Em 21 de setembro, o Banco de Empregos municipal listava 481 vagas, entre elas para motorista de ônibus urbano, vendedor, assistente de qualidade, atendimento em restaurante e auxiliar de serviços gerais. A inscrição era gratuita e presencial no Centro de Cidadania, no Âncora.",
+      "data_publicacao": "2026-09-21T08:39:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-481-vagas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura agiliza aprovação de obras e emissão de alvarás",
+      "descricao": "O município informa que aprovou mais de 400 projetos de obras desde maio e oferece três modalidades de licenciamento. No modelo autodeclaratório, o profissional habilitado pode obter alvará para início da obra em 24 horas; a aprovação online por aplicativo está em fase de testes.",
+      "data_publicacao": "2026-09-18T15:18:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-agiliza-aprovacao-de-projetos-de-obras-e-liberacao-de-alvaras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Casamento comunitário oficializa união de casais em Nova Iguaçu",
+      "descricao": "Quase 40 casais foram oficializados em uma ação comunitária realizada em 20 de setembro, parceria do TJRJ com a Prefeitura de Nova Iguaçu. O tribunal descreve a iniciativa como uma forma de aproximar os serviços da Justiça da população.",
+      "data_publicacao": "2026-09-21T10:56:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/guest/noticias/noticia/-/visualizar-conteudo/5111210/406825702",
+      "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ)"
+    },
+    {
+      "titulo": "TRE-RJ participa de ação social para pessoas com deficiência",
+      "descricao": "O tribunal informou que participaria de uma ação social voltada a pessoas com deficiência, programada para 23 e 24 de setembro no Rio de Janeiro. A iniciativa reuniu serviços e orientações destinados ao público PCD.",
+      "data_publicacao": "2026-09-15T17:36:00-03:00",
+      "url": "https://www.tre-rj.jus.br/comunicacao/noticias/2026/Setembro/tre-rj-participa-de-acao-social-para-pessoas-com-deficiencia-1",
+      "fonte": "Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ)"
+    },
+    {
+      "titulo": "Artigo propõe ata notarial para inventário com testamento público consensual",
+      "descricao": "Artigo publicado pelo CNB/CF propõe uma ata notarial de concordância testamentária como alternativa para inventários por escritura quando há testamento público e consenso entre os interessados. O texto é uma proposta doutrinária, não uma regra em vigor, e prevê ciência ao Ministério Público.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
+      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
+    },
+    {
+      "titulo": "Podcast do STJ debate testamentos eletrônicos e tecnologias no direito sucessório",
+      "descricao": "O episódio do STJ No Seu Dia aborda decisão da Terceira Turma sobre os requisitos de validade de testamentos particulares e a flexibilização das formalidades diante de manifestações digitais. A entrevista trata da comprovação de autoria, assinatura e autenticação digital.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://cnbmg.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
+      "fonte": "Colégio Notarial do Brasil – Seção Minas Gerais (CNB/MG)"
+    },
+    {
+      "titulo": "Artigo analisa mudança escalonada do regime de bens em pactos",
+      "descricao": "Artigo do CNB/CF analisa proposta do PL 4/2025 que permitiria a casais pactuar alteração automática do regime de bens após período definido, sem efeitos retroativos. O texto defende a autonomia da vontade e discute segurança jurídica; a proposta ainda não é regra vigente.",
+      "data_publicacao": "2026-09-03T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/regime-escalonado-de-bens-valoracao-da-autonomia-da-vontade/",
+      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
+    },
+    {
+      "titulo": "Reforma tributária pode reduzir disputas no Carf, afirma presidente",
+      "descricao": "Em evento em Brasília, o presidente do Carf associou a reforma tributária à redução de disputas administrativas sobre créditos e à padronização de alíquotas. A CBS substitui PIS e Cofins em 2027, enquanto o IBS substitui gradualmente ICMS e ISS até 2033.",
+      "data_publicacao": "2026-09-24T00:24:00-03:00",
+      "url": "https://conjur.com.br/2026-set-23/reforma-encerra-relacionamento-toxico-tributario-diz-presidente-do-carf/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ decide que CPRB compõe bases do PIS/Pasep e da Cofins",
+      "descricao": "No Tema 1.276, a Primeira Seção do STJ fixou que a contribuição previdenciária substitutiva sobre a receita bruta integra as bases do PIS/Pasep e da Cofins. A tese foi aprovada por unanimidade e serve de referência para processos semelhantes.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-21/cprb-compoe-base-de-calculo-de-pis-e-cofins-decide-stj/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "LC 236 busca reduzir litígios tributários antes da autuação",
+      "descricao": "Artigo da ConJur analisa a LC 236/2026, que prevê métodos preventivos para permitir a autorregularização antes da lavratura do auto de infração. O texto ressalta que o alcance depende da legislação específica e que a previsão não elimina a fiscalização nem garante correção sem penalidade.",
+      "data_publicacao": "2026-09-18T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-18/lc-236-e-reducao-do-litigio-tributario-desafio-comeca-antes-da-autuacao/",
+      "fonte": "ConJur"
+    }
+  ]
+}
