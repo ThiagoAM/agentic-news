@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-09-25T10:22:06-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras aprimora processos de contratação na Saúde",
+      "descricao": "A Secretaria Municipal de Saúde promoveu um treinamento sobre boas práticas em contratações públicas, do planejamento à formalização dos instrumentos. A capacitação tratou de conformidade legal, transparência e aplicação dos recursos nos processos licitatórios e nas contratações diretas.",
+      "data_publicacao": "2026-09-24T09:14:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/qualificacao-profissional-aprimora-contratacao-na-saude/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Faetec debate inclusão profissional e emprego apoiado",
+      "descricao": "Seminário estadual realizado em Quintino reuniu cerca de 250 pessoas para discutir o acesso de pessoas com deficiência à educação profissional e ao mercado de trabalho. As palestras abordaram o emprego apoiado e a preparação dos ambientes profissionais para ampliar a autonomia dos trabalhadores.",
+      "data_publicacao": "2026-09-24T00:00:00-03:00",
+      "url": "https://www.faetec.rj.gov.br/faetec-debate-inclusao-profissional-e-emprego-apoiado/",
+      "fonte": "Fundação de Apoio à Escola Técnica do Estado do Rio de Janeiro (FAETEC)"
+    },
+    {
+      "titulo": "Procon de Rio das Ostras atende mais de 100 pessoas em mutirão",
+      "descricao": "A ação realizada em 22 e 23 de setembro reuniu concessionárias, bancos, operadoras de telefonia e empresas varejistas para negociar débitos e resolver demandas de consumidores. A Prefeitura informou que mais de 100 pessoas foram atendidas no Centro da Cidadania.",
+      "data_publicacao": "2026-09-23T18:24:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/procon-realiza-mutirao-do-consumidor/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Lei de Arbitragem completa 30 anos e especialistas defendem autorregulação",
+      "descricao": "A reportagem da ConJur marca os 30 anos da Lei 9.307/1996 e apresenta levantamento de julgados do STJ e de cinco tribunais sobre pedidos de anulação de sentenças arbitrais. Especialistas ouvidos defendem que o aprimoramento da prática venha dos regulamentos das câmaras, sem nova alteração da lei.",
+      "data_publicacao": "2026-09-23T17:15:00-03:00",
+      "url": "https://conjur.com.br/2026-set-23/lei-da-arbitragem-brasileira-completa-30-anos-nesta-quarta-feira/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "Rio das Ostras conclui estudo para revisar o Plano Diretor",
+      "descricao": "O estudo urbanístico concluído pela Prefeitura vai subsidiar a revisão do Plano Diretor, que orienta regras de uso do solo, habitação, mobilidade, meio ambiente e desenvolvimento econômico. A proposta ainda será debatida com a população, o Legislativo e representantes da sociedade civil.",
+      "data_publicacao": "2026-09-23T16:47:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-conclui-estudo-urbanistico-para-revisao-do-plano-diretor-municipal/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Sebrae e Prefeitura planejam campanha para pequenos negócios da Região dos Lagos",
+      "descricao": "A Rede Lagos apresentou uma proposta-piloto da campanha Compre do Pequeno para estimular o consumo em negócios locais. O projeto prevê a participação de pelo menos 20 empresas da região e tem início planejado para 5 de outubro.",
+      "data_publicacao": "2026-09-23T14:53:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/sebrae-e-prefeitura-fortalecem-acoes-para-pequenos-negocios/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "CNB/CF apresenta balanço de ações e resultados às seccionais",
+      "descricao": "O Conselho Notarial do Brasil – Conselho Federal reuniu diretores e presidentes de seccionais para apresentar projetos de tecnologia, atuação jurídica e relações governamentais. Entre os dados divulgados, o e-Notariado registrou 72 entregas de janeiro a setembro e houve queda de 83,3% nos bloqueios de cartórios por atraso na Censec.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    },
+    {
+      "titulo": "Lei 15.509 fixa prazo de cinco anos para sanções a notários e registradores",
+      "descricao": "A Lei 15.509/2026 alterou a Lei dos Notários e Registradores e fixou em cinco anos a prescrição da ação para aplicação de sanções administrativas. O prazo conta da ocorrência do fato ou, em infrações permanentes, do dia em que cessar a permanência.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    },
+    {
+      "titulo": "Rito da relevância do STJ passa a absorver recursos repetitivos",
+      "descricao": "A reportagem explica que, a partir de 30 de setembro, colegiados do STJ começarão a analisar processos pelo rito da relevância, que pode gerar precedentes vinculantes sem exigir multiplicidade de recursos. A mudança decorre da Lei 15.484/2026 e da regulamentação interna do tribunal.",
+      "data_publicacao": "2026-09-22T17:13:00-03:00",
+      "url": "https://conjur.com.br/2026-set-22/rito-da-relevancia-do-stj-absorve-repetitivos-para-formacao-de-precedentes/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "STJ admite honorários por equidade na exclusão de execução fiscal",
+      "descricao": "A Corte Especial do STJ admitiu a fixação equitativa de honorários quando um contribuinte é excluído da execução fiscal, sem alteração do crédito e com a cobrança mantida contra os demais devedores. A reportagem relaciona o entendimento ao Tema 1.265 e ao artigo 85 do Código de Processo Civil.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-22/exclusao-da-execucao-fiscal-sem-discutir-credito-gera-honorarios-por-equidade/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "TJRJ publica notas técnicas sobre judicialização abusiva",
+      "descricao": "O Centro de Inteligência do TJRJ publicou quatro notas técnicas com orientações para identificar sinais de judicialização abusiva e litigância predatória. Os documentos tratam, entre outros pontos, de demandas repetitivas e ações sobre inclusão indevida em cadastros de inadimplentes.",
+      "data_publicacao": "2026-09-17T16:04:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/portal-conhecimento/noticias/noticia/-/visualizar-conteudo/5736540/406811244",
+      "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ)"
+    },
+    {
+      "titulo": "CNB/CF explica a venda de bens do espólio por escritura pública",
+      "descricao": "Artigo sobre a Resolução CNJ 571/2024 explica que o inventariante pode alienar bens do espólio por escritura pública, sem alvará judicial, para custear despesas do inventário e sob condições de documentação e garantia. O texto diferencia essa venda da cessão de direitos hereditários e aborda seus possíveis reflexos tributários.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    }
+  ]
+}
