@@ -1,0 +1,117 @@
+{
+  "data-busca": "2026-09-25T10:02:56-03:00",
+  "noticias": [
+    {
+      "titulo": "Semestre registra queda de 14% em lançamentos de lotes",
+      "descricao": "Dados da Brain encomendados pela Aelo indicaram 48,7 mil lotes lançados no país no primeiro semestre de 2026, 14% abaixo do volume de igual período de 2025. As vendas caíram 11%, enquanto a taxa média de distratos avançou para 12% a 15%, segundo a entidade.",
+      "data_publicacao": "2026-09-24T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/semestre-registra-queda-de-14-em-lancamentos-de-lotes",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "CNJ prorroga vigência de novo regime nacional de execução",
+      "descricao": "O CNJ ampliou de 30 para 180 dias, contados de 20 de agosto, o prazo para entrada em vigor da Consolidação Nacional da Execução Efetiva, que passa a valer em 16 de fevereiro de 2027. Os tribunais terão até 10 de março de 2027 para regulamentar os Núcleos de Pesquisa Patrimonial.",
+      "data_publicacao": "2026-09-24T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/cnj-prorroga-vigencia-de-novo-regime-nacional-de-execucao",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Legística imobiliária aplicada à incorporação imobiliária",
+      "descricao": "Artigo discute como compatibilizar informações registrais, municipais, urbanísticas e contratuais durante a incorporação imobiliária. Os autores apresentam a legística como método para identificar divergências documentais e comparar alternativas antes que afetem o cronograma e a viabilidade do empreendimento.",
+      "data_publicacao": "2026-09-24T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/coluna/migalhas-edilicias/465087/legistica-imobiliaria-aplicada-a-incorporacao-imobiliaria",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "STJ define registro do imóvel como marco para prescrição de ação contra doação inoficiosa",
+      "descricao": "A Quarta Turma do STJ fixou o registro da doação na matrícula do imóvel como marco inicial do prazo prescricional para ação que discute doação inoficiosa. O julgado também aponta que eventual redução de disposição testamentária só pode ser questionada após a morte do testador, quando o testamento passa a produzir efeitos.",
+      "data_publicacao": "2026-09-24T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/24/anoreg-sp-stj-define-registro-do-imovel-como-marco-para-prescricao-de-acao-contra-doacao-inoficiosa/",
+      "fonte": "CNB/SP Institucional"
+    },
+    {
+      "titulo": "TJRS reabre inscrições de concurso para 247 vagas em cartórios",
+      "descricao": "O TJRS reabriu as inscrições para concurso de outorga de 247 delegações extrajudiciais, sendo 165 para provimento e 82 para remoção. O prazo termina em 1º de outubro, e as provas objetivas estão previstas para dezembro.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/tjrs-reabre-inscricoes-de-concurso-para-247-vagas-em-cartorios",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Iniciativa pioneira do RIB-GO está pronta para ser \"exportada\"",
+      "descricao": "O curso Mapa na Prática, do RIB-GO, reuniu 180 profissionais para orientar registradores e escreventes sobre o Provimento CNJ 195/2025, que instituiu o inventário estatístico e o sistema de informações geográficas do registro de imóveis. A entidade informou que pretende expandir a iniciativa de capacitação a outros estados.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/iniciativa-pioneira-do-rib-go-esta-pronta-para-ser-exportada?fe=2",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Lei fixa prazo para sanções a notários e registradores",
+      "descricao": "A Lei 15.509/2026 alterou a Lei dos Cartórios e fixou em cinco anos o prazo para aplicação de sanções administrativas a notários e registradores. Nas infrações permanentes, a contagem começa quando cessa a irregularidade.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/lei-fixa-prazo-para-sancoes-a-notarios-e-registradores?fe=2",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Santander coloca mais de 200 imóveis em leilão com financiamento de até 35 anos",
+      "descricao": "O Santander ofertou mais de 200 imóveis em leilão nacional, incluindo casas, apartamentos, terrenos e imóveis comerciais. Para determinados lotes, o banco ofereceu financiamento com prazo de até 420 meses.",
+      "data_publicacao": "2026-09-21T11:58:00-03:00",
+      "url": "https://exame.com/mercado-imobiliario/leilao-do-santander-tem-mais-de-200-imoveis-a-leilao-com-financiamento-em-ate-35-anos/",
+      "fonte": "Exame"
+    },
+    {
+      "titulo": "Índice FipeZAP de Locação Residencial desacelera em agosto de 2026",
+      "descricao": "O Índice FipeZAP de locação residencial subiu 0,55% em agosto nas 36 cidades acompanhadas, acumulando alta de 9,16% em 12 meses. O preço médio chegou a R$ 54,47 por metro quadrado, enquanto a rentabilidade média estimada do aluguel foi de 6,14% ao ano.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://imoveis.grupoolx.com.br/datazap/estudos-e-pesquisas/datazap-report-130",
+      "fonte": "DataZAP / Grupo OLX"
+    },
+    {
+      "titulo": "Conselho do FGTS aprova mais R$ 500 milhões para subsídio no Minha Casa Minha Vida",
+      "descricao": "O Conselho Curador do FGTS aprovou R$ 500 milhões extras para subsídios do Minha Casa, Minha Vida em 2026, elevando o orçamento anual do programa a R$ 13 bilhões. Até agosto, 60,6% do orçamento anterior já havia sido consumido, segundo dados apresentados na reunião.",
+      "data_publicacao": "2026-09-10T11:33:00-03:00",
+      "url": "https://portas.com.br/noticias/conselho-fgts-aprova-r-500-milhoes-subsidio-minha-casa-minha-vida/",
+      "fonte": "Portas"
+    },
+    {
+      "titulo": "Corregedoria do TJAC proíbe cartórios de exigir certidão negativa de débitos para realizar atos",
+      "descricao": "O Provimento Coger 12/2026 do TJAC impede cartórios de condicionar atos extrajudiciais à apresentação de CND, CPEN ou comprovante de quitação tributária. Nas operações imobiliárias, as partes podem dispensar certidões fiscais com declaração de ciência, e as obrigações de comunicação tributária permanecem.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.tjac.jus.br/2026/09/corregedoria-do-tjac-proibe-cartorios-de-exigir-certidao-negativa-de-debitos-para-realizar-atos/",
+      "fonte": "Tribunal de Justiça do Acre"
+    },
+    {
+      "titulo": "Gestor alerta para risco de crise no crédito imobiliário",
+      "descricao": "Em entrevista, o CEO da Hedge Investments avaliou que a combinação de juros persistentemente altos e custos maiores no crédito pode pressionar o mercado imobiliário e seus fundos. Ele apontou a participação crescente do mercado de capitais no financiamento como um fator que pode encarecer operações.",
+      "data_publicacao": "2026-09-03T07:00:00-03:00",
+      "url": "https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/brasil-pode-estar-na-antessala-de-uma-crise-de-credito-no-mercado-imobiliario-diz-gestor-de-fundos.shtml",
+      "fonte": "Folha de S.Paulo"
+    },
+    {
+      "titulo": "Financiamento de imóveis residenciais sobe 6,6% no 1º semestre de 2026",
+      "descricao": "Segundo dados da Trillia, as vendas financiadas de imóveis residenciais somaram 507.299 unidades no primeiro semestre, alta de 6,6% sobre 2025. O aumento foi de 11,8% no financiamento de casas e de 0,6% em apartamentos.",
+      "data_publicacao": "2026-08-31T00:00:00-03:00",
+      "url": "https://b3.com.br/pt_br/noticias/trillia-8AA8D0CCA023A7E401A0587CC05024F1.htm",
+      "fonte": "B3 / Trillia"
+    },
+    {
+      "titulo": "PIB: Construção recua 0,4% no segundo trimestre, mas cresce 1,1% no semestre",
+      "descricao": "O PIB da construção recuou 0,4% no segundo trimestre em relação aos três primeiros meses do ano, mas avançou 1,1% no primeiro semestre na comparação anual. A CBIC manteve projeção de crescimento de 1,2% para o setor em 2026 e associou a desaceleração a juros e crédito mais caros.",
+      "data_publicacao": "2026-09-01T00:00:00-03:00",
+      "url": "https://cbic.org.br/pib-construcao-recua-04-no-segundo-trimestre-mas-cresce-11-no-semestre/",
+      "fonte": "CBIC"
+    },
+    {
+      "titulo": "O imóvel está na holding. Outra empresa pode receber os aluguéis?",
+      "descricao": "Artigo analisa estruturas em que uma empresa detém o imóvel e outra assume a posição de locadora. O autor explica que a separação pode ser válida quando existe fundamento contratual e a operação efetiva corresponde aos contratos e fluxos financeiros.",
+      "data_publicacao": "2026-09-01T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/463410/o-imovel-esta-na-holding-outra-empresa-pode-receber-os-alugueis",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Resolução CNJ nº 695/2026 altera regras do inventário extrajudicial",
+      "descricao": "A Resolução CNJ 695/2026 alterou a Resolução 35/2007 para permitir a lavratura de escritura pública de inventário e partilha sem comprovação do recolhimento prévio do ITCMD. O tabelião deve registrar a ciência tributária das partes e comunicar o ato ao Fisco em até cinco dias, sem afastar a obrigação do imposto conforme a legislação estadual.",
+      "data_publicacao": "2026-08-28T00:00:00-03:00",
+      "url": "https://atos.cnj.jus.br/atos/detalhar/7010",
+      "fonte": "Conselho Nacional de Justiça"
+    }
+  ]
+}
