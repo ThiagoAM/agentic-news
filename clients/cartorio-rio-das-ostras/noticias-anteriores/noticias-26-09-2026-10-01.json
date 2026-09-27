@@ -1,0 +1,96 @@
+{
+  "data-busca": "2026-09-26T10:01:54-03:00",
+  "noticias": [
+    {
+      "titulo": "Secretaria de Obras inicia estudo para reurbanização da Boca da Barra",
+      "descricao": "A Prefeitura apresentou o estudo inicial para reurbanizar a orla da Boca da Barra, com equipamentos de lazer, vagas, quiosques, banheiro público, acessos à praia e ciclofaixa. A proposta ainda será apresentada a moradores e comerciantes para receber contribuições.",
+      "data_publicacao": "2026-09-22T16:59:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/secretaria-de-obras-inicia-estudo-para-reurbanizacao-da-boca-da-barra/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "CGJ-RJ orienta cobrança de emolumentos de atos comuns",
+      "descricao": "Aviso da Corregedoria orienta delegatários e responsáveis por serviços extrajudiciais sobre a cobrança de emolumentos do item 01 e da primeira nota da Tabela 01, relativa a atos comuns. A orientação segue diretriz decisória em processo administrativo do Tribunal.",
+      "data_publicacao": "2026-09-24T14:49:00-03:00",
+      "url": "https://portaltj.tjrj.jus.br/web/cgj/noticias/noticia/-/visualizar-conteudo/1017893/406847681",
+      "fonte": "Corregedoria-Geral da Justiça do Estado do Rio de Janeiro (TJRJ)"
+    },
+    {
+      "titulo": "CNB/CF apresenta balanço de ações e resultados às seccionais",
+      "descricao": "O Conselho Federal reuniu dirigentes das seccionais para atualizar projetos de tecnologia, atuação jurídica e relações institucionais. Entre os dados apresentados, o e-Notariado registrou 72 entregas de janeiro a setembro e houve redução de 83,3% nos bloqueios de cartórios por atraso na Censec.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    },
+    {
+      "titulo": "Lei nº 15.509/2026 fixa em cinco anos prazo prescricional para sanções administrativas a notários e registradores",
+      "descricao": "A Lei nº 15.509/2026 estabeleceu prazo de cinco anos para a prescrição da ação de aplicação de sanções administrativas a notários e registradores. A contagem parte da ocorrência do fato ou, em infração permanente, do dia em que cessar a permanência.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    },
+    {
+      "titulo": "Quando a mudança de destinação transfigura a locação administrativa",
+      "descricao": "Artigo da ConJur analisa quando uma mudança relevante no uso de imóvel alugado diretamente pela administração exige nova contratação. Se a finalidade integrou a escolha do imóvel e a justificativa da contratação direta, a alteração pode requerer nova pesquisa de mercado e avaliação; mudanças compatíveis podem ser feitas por aditivo.",
+      "data_publicacao": "2026-09-21T19:23:00-03:00",
+      "url": "https://conjur.com.br/2026-set-21/quando-a-mudanca-de-destinacao-transfigura-a-locacao-administrativa/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "STJ define intervenção da Caixa em casos sobre seguro habitacional no SFH",
+      "descricao": "Em julgamento repetitivo, a Corte Especial do STJ definiu hipóteses de intervenção da Caixa em ações de indenização por seguro habitacional do Sistema Financeiro da Habitação. As teses dos Temas 50 e 51 tratam de contratos ligados à apólice pública garantida pelo Fundo de Compensação de Variações Salariais.",
+      "data_publicacao": "2026-09-20T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-20/stj-define-intervencao-da-caixa-em-casos-sobre-seguro-habitacional-no-sfh/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "Fiador, devedor solidário na locação e a proteção do bem de família",
+      "descricao": "Artigo da ConJur comenta entendimento do STJ de que a exceção que permite penhorar o imóvel residencial do fiador não se estende automaticamente a quem foi qualificado no contrato apenas como devedor solidário. A distinção entre as garantias tem efeitos na proteção patrimonial em contratos de locação.",
+      "data_publicacao": "2026-09-20T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-20/fiador-devedor-solidario-na-locacao-e-a-protecao-do-bem-de-familia/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "Rio das Ostras recebe unidade integrada do Sesc e Senac",
+      "descricao": "A Prefeitura anunciou a abertura do Centro Integrado Sesc Senac em um terreno de 3,3 mil metros quadrados cedido pelo Município. A unidade reúne cursos profissionalizantes e atividades de educação, cultura, esporte, saúde, lazer e turismo.",
+      "data_publicacao": "2026-09-18T10:09:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/populacao-passa-a-contar-com-unidade-sesc-senac-a-partir-de-segunda-21/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "CGJ-RJ esclarece cobrança de emolumentos em atos de registro de imóveis",
+      "descricao": "O Aviso CGJ nº 449/2026 orienta os serviços extrajudiciais com atribuição de registro de imóveis a relacionar o item 10, alínea b, da tabela de outros atos de registro aos itens específicos 08 e 09. A comunicação segue decisão proferida em processo administrativo da Corregedoria.",
+      "data_publicacao": "2026-09-17T18:17:00-03:00",
+      "url": "https://portaltj.tjrj.jus.br/web/cgj/noticias/noticia/-/visualizar-conteudo/1017893/406813205",
+      "fonte": "Corregedoria-Geral da Justiça do Estado do Rio de Janeiro (TJRJ)"
+    },
+    {
+      "titulo": "Cartórios questionam no STF regras do CNJ sobre garantia de obrigações trabalhistas",
+      "descricao": "A Anoreg ajuizou a ADI 8.015 no STF para contestar dispositivos do Provimento CNJ nº 227/2026 que exigem de titulares de cartórios a indicação de bens livres de ônus para cobrir o passivo trabalhista declarado. A associação sustenta que as regras criaram obrigações patrimoniais sem previsão legal.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cartorios-questionam-no-stf-regras-do-cnj-sobre-garantia-de-obrigacoes-trabalhistas/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    },
+    {
+      "titulo": "Podcast STJ No Seu Dia discute testamentos eletrônicos e novas tecnologias no direito sucessório",
+      "descricao": "O episódio comenta decisão da Terceira Turma do STJ sobre requisitos de validade dos testamentos particulares e a flexibilização das formalidades diante de meios digitais. A conversa aborda autoria, assinatura e mecanismos de autenticação eletrônica.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    },
+    {
+      "titulo": "Imóveis irregulares: um problema, várias possibilidades",
+      "descricao": "Artigo do CNB descreve causas comuns de irregularidade imobiliária, como ausência de registro, construções sem averbação e inventários pendentes. Apresenta caminhos distintos, entre eles Reurb, usucapião extrajudicial, adjudicação compulsória e regularização edilícia municipal.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    },
+    {
+      "titulo": "Rio das Ostras inicia consultoria para modernizar sistema de licenciamento ambiental",
+      "descricao": "A Prefeitura e o Sebrae iniciaram consultoria para simplificar e atualizar o licenciamento municipal, com foco em segurança jurídica, legalização de empresas e novas modalidades de licença ambiental. O trabalho também prevê adequar as regras locais à legislação geral e ao sistema estadual de licenciamento.",
+      "data_publicacao": "2026-09-09T15:23:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-consultoria-para-modernizar-sistema-de-licenciamento-ambiental/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    }
+  ]
+}
