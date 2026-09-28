@@ -1,81 +1,81 @@
 {
-  "data-busca": "2026-09-27T10:26:26-03:00",
+  "data-busca": "2026-09-28T10:27:01-03:00",
   "noticias": [
     {
-      "titulo": "Ações de manutenção em Rio das Ostras seguem intensificadas",
-      "descricao": "Equipes municipais realizaram recomposição de pavimento, patrolamento, limpeza, recapeamento e reparos em diferentes localidades, além de manutenção de praças. Os trabalhos da semana incluíram Enseada, Cidade Praiana, Nova Aliança, Centro, Cantagalo, Zona Especial de Negócios e Serramar.",
-      "data_publicacao": "2026-09-25T13:52:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/acoes-de-manutencao-em-rio-das-ostras-seguem-intensificadas/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Estão abertas novas vagas para cursos gratuitos na área rural",
-      "descricao": "Rio das Ostras abriu 34 vagas em três cursos gratuitos de capacitação rural previstos para outubro, no Centro de Apoio ao Produtor Rural, em Cantagalo. As inscrições presenciais serão em 30 de setembro, das 8h às 17h, com apresentação de RG, CPF e comprovante de residência.",
-      "data_publicacao": "2026-09-25T11:10:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/estao-abertas-novas-vagas-para-cursos-gratuitos-na-area-rural/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Rio das Ostras e IFF realizam formatura da Educação de Jovens e Adultos",
-      "descricao": "A parceria da Prefeitura com o IFFluminense Campus Macaé formou turmas de cursos de Formação Inicial e Continuada do Projeto EJA–EPT. A programação incluiu Eletricista Instalador Predial, Introdução à Libras e Empreendedorismo em Mídias Digitais.",
-      "data_publicacao": "2026-09-24T11:27:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-e-iff-realizam-formatura-da-educacao-de-jovens-e-adultos/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Cinco milhões de Carteiras de Identidade Nacional são emitidas no Rio de Janeiro",
-      "descricao": "O Detran-RJ informou que cinco milhões de Carteiras de Identidade Nacional foram emitidas no estado desde o início da implantação, em 2023. A CIN usa o CPF como número único, tem versões física e digital e substituirá gradualmente o antigo RG até 2032.",
-      "data_publicacao": "2026-09-24T00:00:00-03:00",
-      "url": "https://www.detran.rj.gov.br/noticias/cinco-milhoes-de-carteiras-de-identidade-nacional-sao-emitidas-no-rio-de-janeiro.html",
-      "fonte": "Departamento de Trânsito do Estado do Rio de Janeiro (Detran-RJ)"
-    },
-    {
-      "titulo": "Detran RJ libera cadastro de veículos automáticos para habilitação",
-      "descricao": "Desde 21 de setembro, Centros de Formação de Condutores podem cadastrar veículos automáticos para aulas práticas e exames de direção no estado. A medida segue a Resolução Contran nº 1.020/2025 e permite que candidatos escolham entre veículo automático ou manual, conforme a disponibilidade da autoescola.",
-      "data_publicacao": "2026-09-21T00:00:00-03:00",
-      "url": "https://www.detran.rj.gov.br/noticias/detran-rj-libera-cadastro-de-veiculos-automaticos-para-habilitacao.html",
-      "fonte": "Departamento de Trânsito do Estado do Rio de Janeiro (Detran-RJ)"
-    },
-    {
-      "titulo": "STJ veta definição retroativa de embargos de declaração manifestamente incabíveis",
-      "descricao": "A Corte Especial do STJ decidiu que embargos de declaração tempestivos, ainda que não conhecidos, interrompem o prazo para interpor recurso especial. A reportagem explica o limite da regra que afasta esse efeito quando os embargos são manifestamente incabíveis.",
-      "data_publicacao": "2026-09-26T09:56:00-03:00",
-      "url": "https://conjur.com.br/2026-set-26/stj-veta-definicao-retroativa-de-embargos-de-declaracao-manifestamente-incabiveis/",
+      "titulo": "Artigo analisa sinais do STF sobre IPTU e imunidade recíproca em imóveis concedidos",
+      "descricao": "Artigo publicado no ConJur examina a relação entre a imunidade recíproca e a cobrança de IPTU sobre imóveis envolvidos em concessões de serviço público. A análise discute os sinais identificados na jurisprudência do STF e possíveis desdobramentos para casos futuros.",
+      "data_publicacao": "2026-09-27T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-27/iptu-e-imunidade-reciproca-sobre-imoveis-objeto-de-concessao-o-que-o-stf-indica-para-o-futuro/",
       "fonte": "Consultor Jurídico (ConJur)"
     },
     {
-      "titulo": "STJ classifica crédito trabalhista na falência por serviço posterior à recuperação judicial",
-      "descricao": "A 3ª Turma do STJ definiu a classificação, na falência, de créditos trabalhistas por serviços prestados depois do início da recuperação judicial. Esses créditos recebem prioridade até o limite de 150 salários mínimos, conforme a Lei nº 11.101/2005.",
-      "data_publicacao": "2026-09-25T14:13:00-03:00",
-      "url": "https://conjur.com.br/2026-set-25/stj-define-credito-na-falencia-por-servico-apos-recuperacao-judicial/",
+      "titulo": "Lista de não incidência do IBS e da CBS na LC 214 é exemplificativa, defende artigo",
+      "descricao": "Artigo sustenta que a lista de não incidência do IBS e da CBS prevista no art. 6º da Lei Complementar nº 214/2025 é exemplificativa. A análise observa que a incidência de ITBI ou ITCMD não afasta automaticamente os novos tributos e discute os limites de interpretação da norma.",
+      "data_publicacao": "2026-09-26T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-26/reforma-tributaria-quem-define-os-limites-da-incidencia-do-ibs-e-da-cbs/",
       "fonte": "Consultor Jurídico (ConJur)"
     },
     {
-      "titulo": "STJ define intervenção da Caixa em casos sobre seguro habitacional no SFH",
-      "descricao": "Ao julgar os Temas 50 e 51, a Corte Especial do STJ definiu quando a Caixa Econômica Federal pode intervir em ações sobre seguro habitacional do Sistema Financeiro da Habitação. As teses tratam de contratos vinculados à apólice pública garantida pelo Fundo de Compensação de Variações Salariais.",
-      "data_publicacao": "2026-09-20T08:49:00-03:00",
-      "url": "https://conjur.com.br/2026-set-20/stj-define-intervencao-da-caixa-em-casos-sobre-seguro-habitacional-no-sfh/",
+      "titulo": "Saúde orienta sobre legislação sanitária em evento",
+      "descricao": "A Vigilância Sanitária de Rio das Ostras orientou profissionais de contabilidade sobre licenciamento e regras aplicáveis a empreendimentos de diferentes áreas. A Prefeitura também detalhou como empresas de médio e alto risco sanitário iniciam ou renovam a licença no município.",
+      "data_publicacao": "2026-09-25T17:14:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/saude-orienta-sobre-legislacao-sanitaria-em-evento/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Estudantes conhecem história e natureza de Rio das Ostras em walking tour",
+      "descricao": "Cerca de 40 alunos e educadores percorreram um circuito entre a Praia do Abricó e a Boca da Barra, com informações sobre natureza, história e cultura local. O projeto municipal será estruturado em três roteiros de caminhada para moradores e visitantes.",
+      "data_publicacao": "2026-09-25T14:55:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/estudantes-conhecem-historia-e-natureza-de-rio-das-ostras-em-walking-tour/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "No arrendamento rural, crédito de carbono é só do arrendatário, defende artigo",
+      "descricao": "Artigo jurídico sustenta que os créditos de carbono gerados em área arrendada pertencem ao arrendatário, que assume os riscos da produção. O texto discute a titularidade desses créditos à luz da relação contratual entre arrendador e arrendatário.",
+      "data_publicacao": "2026-09-25T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-25/quem-e-o-dono-do-credito-de-carbono/",
       "fonte": "Consultor Jurídico (ConJur)"
     },
     {
-      "titulo": "Lei nº 15.509/2026 fixa em cinco anos prazo prescricional para sanções administrativas a notários e registradores",
-      "descricao": "A Lei nº 15.509/2026 estabeleceu prazo de cinco anos para prescrição da aplicação de sanções administrativas a notários e registradores. A contagem começa na ocorrência do fato ou, em infração permanente, quando ela cessar.",
+      "titulo": "Após 12 anos, Iphan libera condomínio de até 700 apartamentos em área histórica do Centro do Rio",
+      "descricao": "O Iphan emitiu parecer favorável a um projeto residencial de duas torres, com previsão de 500 a 700 apartamentos, no Centro do Rio. O empreendimento foi apresentado para análise municipal e deverá observar limites de altura e critérios de preservação do entorno histórico.",
+      "data_publicacao": "2026-09-24T09:11:00-03:00",
+      "url": "https://diariodorio.com/economia/mercado-imobiliario/2026/09/24/apos-12-anos-iphan-libera-condominio-de-ate-700-apartamentos-em-area-historica-do-centro-do-rio.html",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Mercado imobiliário carioca mantém ritmo de expansão",
+      "descricao": "Pesquisa da Brain para a Ademi-RJ apontou alta de 13% no preço médio residencial por metro quadrado em junho, na comparação anual, e crescimento de 44,1% nas vendas do segundo trimestre. O levantamento também registrou equilíbrio entre lançamentos e vendas no acumulado de 12 meses.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://brcom.dev.br/mercado-imobiliario-carioca-mantemritmo-de-expansao",
+      "fonte": "BRcom"
+    },
+    {
+      "titulo": "Município conclui estudo urbanístico para revisão do Plano Diretor",
+      "descricao": "A Prefeitura de Rio das Ostras concluiu o estudo técnico urbanístico que integrará a revisão do Plano Diretor Municipal. O documento reúne diretrizes de uso e ocupação do solo, mobilidade, habitação, meio ambiente e desenvolvimento econômico, e ainda será debatido com a população e o Legislativo.",
+      "data_publicacao": "2026-09-23T16:47:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-conclui-estudo-urbanistico-para-revisao-do-plano-diretor-municipal/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "CNB/CF apresenta balanço de ações e resultados em reunião com as Seccionais Estaduais",
+      "descricao": "O Colégio Notarial do Brasil – Conselho Federal apresentou às seccionais estaduais um balanço nacional de ações e serviços. Entre os indicadores divulgados estão 72 entregas do e-Notariado, redução de 83,3% nos cartórios bloqueados e automação de 80% das certidões de testamento.",
       "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
       "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
     },
     {
-      "titulo": "Alienação de bens pelo espólio e cessão de direitos hereditários: o que muda com o art. 11-A da Resolução 571/24 do CNJ",
-      "descricao": "O art. 11-A da Resolução CNJ nº 571/2024 permite que o inventariante venda bens do espólio por escritura pública para custear despesas do inventário, sem alvará judicial, quando atendidos requisitos específicos. A análise ressalta cautelas com tributos, garantias e documentação da operação.",
+      "titulo": "Podcast STJ No Seu Dia discute testamentos eletrônicos e novas tecnologias no direito sucessório",
+      "descricao": "Episódio do podcast STJ No Seu Dia aborda o uso de testamentos eletrônicos e novas tecnologias no direito sucessório. A conversa trata de requisitos formais e da assinatura e autenticação de documentos digitais.",
       "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
+      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
       "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
     },
     {
-      "titulo": "A abertura extrajudicial do testamento público como pressuposto do inventário por escritura",
-      "descricao": "Artigo do CNB examina a regra que condiciona o inventário extrajudicial com testamento à prévia abertura e cumprimento judicial, inclusive para testamento público. O texto propõe uma ata notarial de concordância testamentária e discute a Resolução CNJ nº 35/2007, atualizada pela Resolução nº 571/2024.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
+      "titulo": "Imóveis irregulares: um problema, várias possibilidades",
+      "descricao": "Artigo do CNB apresenta caminhos possíveis para enfrentar irregularidades documentais e registrais em imóveis. O texto destaca que a escolha da medida depende da análise da situação e dos documentos de cada propriedade.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
       "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
     }
   ]
