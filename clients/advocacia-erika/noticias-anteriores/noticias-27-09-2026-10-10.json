@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-09-27T10:10:40-03:00",
+  "noticias": [
+    {
+      "titulo": "Greve na Caixa: sem o “motor do setor imobiliário”, a conta vai para as construtoras",
+      "descricao": "A paralisação dos empregados da Caixa reduziu o ritmo de formalização de financiamentos habitacionais e de liberação de recursos para obras, com reflexos em vendas e no caixa de construtoras. Enquanto o movimento continuar, o banco informou que aceita medições remotas dos canteiros para instruir liberações mensais.",
+      "data_publicacao": "2026-09-26T09:32:00-03:00",
+      "url": "https://www.infomoney.com.br/business/greve-na-caixa-sem-o-motor-do-setor-imobiliario-a-conta-vai-para-as-construtoras/",
+      "fonte": "InfoMoney"
+    },
+    {
+      "titulo": "Imóvel na planta: juros de obra são descontados do financimento? Entenda",
+      "descricao": "A cobrança acompanha os valores liberados pelo banco durante a construção e não reduz o saldo do financiamento futuro. A reportagem também resume quando o encargo pode continuar após o prazo contratual e quais fatores pesam em eventual pedido de ressarcimento.",
+      "data_publicacao": "2026-09-26T12:00:00-03:00",
+      "url": "https://exame.com/mercado-imobiliario/imovel-na-planta-juros-de-obra-sao-descontados-do-financimento-entenda/",
+      "fonte": "Exame"
+    },
+    {
+      "titulo": "STJ define prescrição para ação sobre doação inoficiosa e disposições testamentárias",
+      "descricao": "Em informativo publicado em 25/09, o STJ apontou o registro imobiliário como marco inicial da prescrição de ação que busca anular ou reduzir doação inoficiosa. Para pedido de redução de disposições testamentárias, o prazo não começa com a lavratura porque o testamento pode ser revogado e ainda não produz lesão à legítima enquanto o autor vive.",
+      "data_publicacao": "2026-09-25T00:00:00-03:00",
+      "url": "https://www.anoregpr.org.br/informativo-de-jurisprudencia-do-stj-do-termo-inicial-da-prescricao-na-doacao-inoficiosa-e-no-testamento/",
+      "fonte": "Anoreg-PR"
+    },
+    {
+      "titulo": "Semestre registra queda de 14% em lançamentos de lotes",
+      "descricao": "Dados da Brain para a Aelo indicam 48,7 mil lotes lançados no primeiro semestre de 2026, queda de 14% na comparação anual, enquanto as vendas recuaram 11%. A entidade também reportou distratos entre 12% e 15%, associando a alta ao endividamento das famílias e a incertezas na aplicação da lei do distrato.",
+      "data_publicacao": "2026-09-24T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/semestre-registra-queda-de-14-em-lancamentos-de-lotes?fe=2",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "STJ reconhece legitimidade de nu-proprietário para ajuizar ação de despejo com anuência do usufrutuário",
+      "descricao": "O STJ entendeu que o nu-proprietário pode ajuizar despejo quando assinou a locação com consentimento expresso do usufrutuário. O tribunal considerou incompatível com a boa-fé o locatário alegar ilegitimidade depois de aceitar o contrato nesses termos.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://colegioregistralrs.org.br/noticias/21452/stj-reconhece-legitimidade-de-nu-proprietario-para-ajuizar-acao-de-despejo-com-anuencia-do-usufrutuario/",
+      "fonte": "Colégio Registral do Rio Grande do Sul"
+    },
+    {
+      "titulo": "Podcast STJ No Seu Dia debate requisitos da usucapião familiar e o limite de área prevista no Código Civil",
+      "descricao": "Em episódio publicado em 23/09, o podcast do tribunal analisa decisão sobre os requisitos da usucapião familiar e a leitura do limite de 250 m² do Código Civil. A conversa aborda efeitos para magistrados, advogados e cidadãos, relacionando o instituto ao direito à moradia e à proteção da propriedade.",
+      "data_publicacao": "2026-09-23T08:30:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/23092026-podcast-stj-no-seu-dia-debate-requisitos-da-usucapiao-familiar-e-o-limite-de-area-prevista-no-codigo-civil.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Fixada em cinco anos prescrição para infrações de donos de cartórios",
+      "descricao": "A Lei 15.509/2026, sancionada em 21/09 e noticiada pelo Senado no dia seguinte, estabeleceu prazo de cinco anos para a prescrição de sanções disciplinares a notários e registradores, contado da infração. Para infrações permanentes, a contagem começa quando termina a conduta.",
+      "data_publicacao": "2026-09-22T16:31:00-03:00",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/22/fixada-em-cinco-anos-prescricao-para-infracoes-de-donos-de-cartorios",
+      "fonte": "Agência Senado"
+    },
+    {
+      "titulo": "Adjudicação compulsória de gleba rural exige matrícula individualizada",
+      "descricao": "O TJMG concluiu que a adjudicação compulsória não prossegue se o lote dentro de uma gleba rural não tiver matrícula desmembrada e individualizada. O acórdão apontou a matrícula própria como pressuposto para o registro do título judicial.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://www.irib.org.br/adjudicacao-compulsoria-gleba-rural-lote-matricula-individualizada-ausencia-impossibilidade/",
+      "fonte": "Instituto de Registro Imobiliário do Brasil"
+    },
+    {
+      "titulo": "Registradores capixabas lançam cartilha sobre usucapião",
+      "descricao": "Entidades do Espírito Santo, incluindo Sinoreg-ES, OAB-ES e RIB-ES, anunciaram a cartilha prática para orientar o reconhecimento extrajudicial da propriedade. O material trata das modalidades e dos requisitos de posse, além de cuidados com imóveis em terrenos de marinha e possíveis impugnações.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/registradores-capixabas-lancam-cartilha-sobre-usucapiao?fe=2",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Matrícula imobiliária e segurança jurídica nas relações patrimoniais",
+      "descricao": "Artigo de Ceni Teresina Ferraz Bonato discute como a matrícula concentra a cadeia de titulares, direitos e gravames para orientar decisões sobre imóveis. A análise relaciona qualificação registral e atualização de dados à prevenção de disputas e à confiança nas transações patrimoniais.",
+      "data_publicacao": "2026-09-24T15:39:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/464987/matricula-imobiliaria-e-seguranca-juridica-nas-relacoes-patrimoniais",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "TJ/MG deve rever penhora de pequena propriedade rural hipotecada, decide Fachin",
+      "descricao": "O ministro Edson Fachin determinou que o TJMG reexamine a penhora de pequena propriedade rural oferecida em hipoteca, considerando a proteção reconhecida no Tema 961 do STF. A decisão registra que a impenhorabilidade pode prevalecer mesmo com garantia voluntária e alcançar também a alienação fiduciária em condições equivalentes.",
+      "data_publicacao": "2026-09-18T14:33:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/464831/tj-mg-deve-rever-penhora-de-pequena-propriedade-rural-decide-fachin",
+      "fonte": "Migalhas"
+    }
+  ]
+}

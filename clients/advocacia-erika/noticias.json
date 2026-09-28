@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-09-27T10:10:40-03:00",
+  "data-busca": "2026-09-28T10:23:29-03:00",
   "noticias": [
     {
-      "titulo": "Greve na Caixa: sem o “motor do setor imobiliário”, a conta vai para as construtoras",
-      "descricao": "A paralisação dos empregados da Caixa reduziu o ritmo de formalização de financiamentos habitacionais e de liberação de recursos para obras, com reflexos em vendas e no caixa de construtoras. Enquanto o movimento continuar, o banco informou que aceita medições remotas dos canteiros para instruir liberações mensais.",
-      "data_publicacao": "2026-09-26T09:32:00-03:00",
-      "url": "https://www.infomoney.com.br/business/greve-na-caixa-sem-o-motor-do-setor-imobiliario-a-conta-vai-para-as-construtoras/",
-      "fonte": "InfoMoney"
+      "titulo": "Justiça obriga São Luís a concluir Reurb-S e entregar títulos a famílias em 18 meses",
+      "descricao": "Sentença de primeira instância determinou que o município apresente cronograma para concluir a regularização fundiária do Novo Angelim e entregue títulos às famílias em até 18 meses. Segundo o resumo da decisão, o plano inclui corrigir inconsistências registrais e abrir matrícula para cada imóvel.",
+      "data_publicacao": "2026-09-26T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-26/municipio-deve-concluir-projeto-de-regularizacao-fundiaria-no-maranhao/",
+      "fonte": "Consultor Jurídico (ConJur)"
     },
     {
-      "titulo": "Imóvel na planta: juros de obra são descontados do financimento? Entenda",
-      "descricao": "A cobrança acompanha os valores liberados pelo banco durante a construção e não reduz o saldo do financiamento futuro. A reportagem também resume quando o encargo pode continuar após o prazo contratual e quais fatores pesam em eventual pedido de ressarcimento.",
-      "data_publicacao": "2026-09-26T12:00:00-03:00",
-      "url": "https://exame.com/mercado-imobiliario/imovel-na-planta-juros-de-obra-sao-descontados-do-financimento-entenda/",
-      "fonte": "Exame"
+      "titulo": "Artigo analisa sinais do STF sobre IPTU e imunidade recíproca em imóveis concedidos",
+      "descricao": "Artigo publicado no ConJur examina a relação entre a imunidade recíproca e a cobrança de IPTU sobre imóveis envolvidos em concessões de serviço público. A análise discute os sinais identificados na jurisprudência do STF e possíveis desdobramentos para casos futuros.",
+      "data_publicacao": "2026-09-27T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-27/iptu-e-imunidade-reciproca-sobre-imoveis-objeto-de-concessao-o-que-o-stf-indica-para-o-futuro/",
+      "fonte": "Consultor Jurídico (ConJur)"
     },
     {
-      "titulo": "STJ define prescrição para ação sobre doação inoficiosa e disposições testamentárias",
-      "descricao": "Em informativo publicado em 25/09, o STJ apontou o registro imobiliário como marco inicial da prescrição de ação que busca anular ou reduzir doação inoficiosa. Para pedido de redução de disposições testamentárias, o prazo não começa com a lavratura porque o testamento pode ser revogado e ainda não produz lesão à legítima enquanto o autor vive.",
+      "titulo": "Lista de não incidência do IBS e da CBS na LC 214 é exemplificativa, defende artigo",
+      "descricao": "Artigo sustenta que a lista de não incidência do IBS e da CBS prevista no art. 6º da Lei Complementar nº 214/2025 é exemplificativa. A análise observa que a incidência de ITBI ou ITCMD não afasta automaticamente os novos tributos e discute os limites de interpretação da norma.",
+      "data_publicacao": "2026-09-26T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-26/reforma-tributaria-quem-define-os-limites-da-incidencia-do-ibs-e-da-cbs/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "No arrendamento rural, crédito de carbono é só do arrendatário, defende artigo",
+      "descricao": "Artigo jurídico sustenta que os créditos de carbono gerados em área arrendada pertencem ao arrendatário, que assume os riscos da produção. O texto discute a titularidade desses créditos à luz da relação contratual entre arrendador e arrendatário.",
       "data_publicacao": "2026-09-25T00:00:00-03:00",
-      "url": "https://www.anoregpr.org.br/informativo-de-jurisprudencia-do-stj-do-termo-inicial-da-prescricao-na-doacao-inoficiosa-e-no-testamento/",
-      "fonte": "Anoreg-PR"
+      "url": "https://conjur.com.br/2026-set-25/quem-e-o-dono-do-credito-de-carbono/",
+      "fonte": "Consultor Jurídico (ConJur)"
     },
     {
-      "titulo": "Semestre registra queda de 14% em lançamentos de lotes",
-      "descricao": "Dados da Brain para a Aelo indicam 48,7 mil lotes lançados no primeiro semestre de 2026, queda de 14% na comparação anual, enquanto as vendas recuaram 11%. A entidade também reportou distratos entre 12% e 15%, associando a alta ao endividamento das famílias e a incertezas na aplicação da lei do distrato.",
-      "data_publicacao": "2026-09-24T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/semestre-registra-queda-de-14-em-lancamentos-de-lotes?fe=2",
-      "fonte": "Registro de Imóveis do Brasil"
+      "titulo": "CNB/CF apresenta balanço de ações e resultados em reunião com as Seccionais Estaduais",
+      "descricao": "O Colégio Notarial do Brasil – Conselho Federal apresentou às seccionais estaduais um balanço nacional de ações e serviços. Entre os indicadores divulgados estão 72 entregas do e-Notariado, redução de 83,3% nos cartórios bloqueados e automação de 80% das certidões de testamento.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
     },
     {
-      "titulo": "STJ reconhece legitimidade de nu-proprietário para ajuizar ação de despejo com anuência do usufrutuário",
-      "descricao": "O STJ entendeu que o nu-proprietário pode ajuizar despejo quando assinou a locação com consentimento expresso do usufrutuário. O tribunal considerou incompatível com a boa-fé o locatário alegar ilegitimidade depois de aceitar o contrato nesses termos.",
+      "titulo": "Podcast STJ No Seu Dia discute testamentos eletrônicos e novas tecnologias no direito sucessório",
+      "descricao": "Episódio do podcast STJ No Seu Dia aborda o uso de testamentos eletrônicos e novas tecnologias no direito sucessório. A conversa trata de requisitos formais e da assinatura e autenticação de documentos digitais.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    },
+    {
+      "titulo": "Imóveis irregulares: um problema, várias possibilidades",
+      "descricao": "Artigo do CNB apresenta caminhos possíveis para enfrentar irregularidades documentais e registrais em imóveis. O texto destaca que a escolha da medida depende da análise da situação e dos documentos de cada propriedade.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    },
+    {
+      "titulo": "Então agora não precisa mais pagar ITCMD para fazer inventário? Não é bem assim",
+      "descricao": "O artigo esclarece que a autorização para lavrar inventário extrajudicial antes do recolhimento do ITCMD não extingue o imposto. A mudança trata do momento do pagamento em relação à escritura, conforme a análise publicada pelo CNB sobre a regra do CNJ.",
+      "data_publicacao": "2026-09-03T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/entao-agora-nao-precisa-mais-pagar-itcmd-para-fazer-inventario-nao-e-bem-assim/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    },
+    {
+      "titulo": "Após 12 anos, Iphan libera condomínio de até 700 apartamentos em área histórica do Centro do Rio",
+      "descricao": "O Iphan emitiu parecer favorável a um projeto residencial de duas torres, com previsão de 500 a 700 apartamentos, no Centro do Rio. O empreendimento foi apresentado para análise municipal e deverá observar limites de altura e critérios de preservação do entorno histórico.",
+      "data_publicacao": "2026-09-24T09:11:00-03:00",
+      "url": "https://diariodorio.com/economia/mercado-imobiliario/2026/09/24/apos-12-anos-iphan-libera-condominio-de-ate-700-apartamentos-em-area-historica-do-centro-do-rio.html",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Mercado imobiliário carioca mantém ritmo de expansão",
+      "descricao": "Pesquisa da Brain para a Ademi-RJ apontou alta de 13% no preço médio residencial por metro quadrado em junho, na comparação anual, e crescimento de 44,1% nas vendas do segundo trimestre. O levantamento também registrou equilíbrio entre lançamentos e vendas no acumulado de 12 meses.",
       "data_publicacao": "2026-09-23T00:00:00-03:00",
-      "url": "https://colegioregistralrs.org.br/noticias/21452/stj-reconhece-legitimidade-de-nu-proprietario-para-ajuizar-acao-de-despejo-com-anuencia-do-usufrutuario/",
-      "fonte": "Colégio Registral do Rio Grande do Sul"
+      "url": "https://brcom.dev.br/mercado-imobiliario-carioca-mantemritmo-de-expansao",
+      "fonte": "BRcom"
     },
     {
-      "titulo": "Podcast STJ No Seu Dia debate requisitos da usucapião familiar e o limite de área prevista no Código Civil",
-      "descricao": "Em episódio publicado em 23/09, o podcast do tribunal analisa decisão sobre os requisitos da usucapião familiar e a leitura do limite de 250 m² do Código Civil. A conversa aborda efeitos para magistrados, advogados e cidadãos, relacionando o instituto ao direito à moradia e à proteção da propriedade.",
-      "data_publicacao": "2026-09-23T08:30:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/23092026-podcast-stj-no-seu-dia-debate-requisitos-da-usucapiao-familiar-e-o-limite-de-area-prevista-no-codigo-civil.aspx",
-      "fonte": "Superior Tribunal de Justiça"
-    },
-    {
-      "titulo": "Fixada em cinco anos prescrição para infrações de donos de cartórios",
-      "descricao": "A Lei 15.509/2026, sancionada em 21/09 e noticiada pelo Senado no dia seguinte, estabeleceu prazo de cinco anos para a prescrição de sanções disciplinares a notários e registradores, contado da infração. Para infrações permanentes, a contagem começa quando termina a conduta.",
-      "data_publicacao": "2026-09-22T16:31:00-03:00",
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/22/fixada-em-cinco-anos-prescricao-para-infracoes-de-donos-de-cartorios",
-      "fonte": "Agência Senado"
-    },
-    {
-      "titulo": "Adjudicação compulsória de gleba rural exige matrícula individualizada",
-      "descricao": "O TJMG concluiu que a adjudicação compulsória não prossegue se o lote dentro de uma gleba rural não tiver matrícula desmembrada e individualizada. O acórdão apontou a matrícula própria como pressuposto para o registro do título judicial.",
-      "data_publicacao": "2026-09-21T00:00:00-03:00",
-      "url": "https://www.irib.org.br/adjudicacao-compulsoria-gleba-rural-lote-matricula-individualizada-ausencia-impossibilidade/",
-      "fonte": "Instituto de Registro Imobiliário do Brasil"
-    },
-    {
-      "titulo": "Registradores capixabas lançam cartilha sobre usucapião",
-      "descricao": "Entidades do Espírito Santo, incluindo Sinoreg-ES, OAB-ES e RIB-ES, anunciaram a cartilha prática para orientar o reconhecimento extrajudicial da propriedade. O material trata das modalidades e dos requisitos de posse, além de cuidados com imóveis em terrenos de marinha e possíveis impugnações.",
-      "data_publicacao": "2026-09-21T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/registradores-capixabas-lancam-cartilha-sobre-usucapiao?fe=2",
-      "fonte": "Registro de Imóveis do Brasil"
-    },
-    {
-      "titulo": "Matrícula imobiliária e segurança jurídica nas relações patrimoniais",
-      "descricao": "Artigo de Ceni Teresina Ferraz Bonato discute como a matrícula concentra a cadeia de titulares, direitos e gravames para orientar decisões sobre imóveis. A análise relaciona qualificação registral e atualização de dados à prevenção de disputas e à confiança nas transações patrimoniais.",
-      "data_publicacao": "2026-09-24T15:39:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/464987/matricula-imobiliaria-e-seguranca-juridica-nas-relacoes-patrimoniais",
-      "fonte": "Migalhas"
-    },
-    {
-      "titulo": "TJ/MG deve rever penhora de pequena propriedade rural hipotecada, decide Fachin",
-      "descricao": "O ministro Edson Fachin determinou que o TJMG reexamine a penhora de pequena propriedade rural oferecida em hipoteca, considerando a proteção reconhecida no Tema 961 do STF. A decisão registra que a impenhorabilidade pode prevalecer mesmo com garantia voluntária e alcançar também a alienação fiduciária em condições equivalentes.",
-      "data_publicacao": "2026-09-18T14:33:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/464831/tj-mg-deve-rever-penhora-de-pequena-propriedade-rural-decide-fachin",
-      "fonte": "Migalhas"
+      "titulo": "Município conclui estudo urbanístico para revisão do Plano Diretor",
+      "descricao": "A Prefeitura de Rio das Ostras concluiu o estudo técnico urbanístico que integrará a revisão do Plano Diretor Municipal. O documento reúne diretrizes de uso e ocupação do solo, mobilidade, habitação, meio ambiente e desenvolvimento econômico, e ainda será debatido com a população e o Legislativo.",
+      "data_publicacao": "2026-09-23T16:47:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-conclui-estudo-urbanistico-para-revisao-do-plano-diretor-municipal/",
+      "fonte": "Prefeitura de Rio das Ostras"
     }
   ]
 }
