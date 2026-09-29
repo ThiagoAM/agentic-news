@@ -1,81 +1,81 @@
 {
-  "data-busca": "2026-09-28T10:27:01-03:00",
+  "data-busca": "2026-09-29T10:28:30-03:00",
   "noticias": [
     {
+      "titulo": "OstrasPrev abre inscrições para voluntários",
+      "descricao": "O Instituto OstrasPrev abriu cadastro de voluntários para contribuir com as Rodas de Conversa e outras atividades do Projeto Flor do Tempo, voltado aos segurados do regime próprio de previdência municipal. Os interessados indicam sua formação e os temas que podem compartilhar, e a seleção considera a experiência e as necessidades do projeto.",
+      "data_publicacao": "2026-09-29T08:33:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/ostrasprev-abre-inscricoes-para-voluntarios-atuarem-no-projeto-flor-do-tempo/",
+      "fonte": "Instituto de Previdência de Rio das Ostras (OstrasPrev)"
+    },
+    {
+      "titulo": "Rio das Ostras avança na atualização do cadastro imobiliário do Município",
+      "descricao": "A atualização cadastral começou por Cidade Beira Mar e reúne geoprocessamento, levantamento aerofotogramétrico e visitas técnicas. Segundo a Prefeitura, o trabalho integra dados ao Cadastro Imobiliário Brasileiro e não aumenta a alíquota do IPTU, embora ampliações não informadas ou imóveis ainda sem cadastro possam alterar lançamentos individuais.",
+      "data_publicacao": "2026-09-28T17:59:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-no-processo-de-atualizacao-do-cadastro-imobiliario-do-municipio/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Inovação tecnológica e acesso à Justiça pautam debate sobre resolução de disputas",
+      "descricao": "Comissão temática do Tribunal de Justiça do Rio de Janeiro debateu plataformas de resolução on-line de disputas e o uso do +Acordo, ferramenta pré-processual desenvolvida pelo tribunal e adotada pelo CNJ. O encontro abordou como soluções digitais podem ampliar o acesso à Justiça.",
+      "data_publicacao": "2026-09-28T16:02:00-03:00",
+      "url": "https://www.tjrj.jus.br/noticias/noticia/-/visualizar-conteudo/5111210/406867427",
+      "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ)"
+    },
+    {
+      "titulo": "Verdes Mares recebe Projeto CastraMóvel nesta terça e quarta-feira",
+      "descricao": "A unidade móvel municipal estará no bairro Verdes Mares nos dias 29 e 30 de setembro, com castrações gratuitas de cães e gatos previamente agendadas e orientações veterinárias. Os atendimentos começam às 8h e dependem de vagas disponíveis e do cumprimento dos critérios do serviço.",
+      "data_publicacao": "2026-09-28T10:49:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/verdes-mares-recebe-projeto-castramovel-nesta-terca-e-quarta-feira/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município do Rio de Janeiro retornou ao Estágio 1 às 05h desta segunda-feira, dia 28 de setembro de 2026",
+      "descricao": "O COR-Rio informou que a cidade voltou ao Estágio 1 após o fim da operação especial para a Semana de Arte do Rio, com as vias da região central liberadas. O boletim registrou previsão de chuvisco ou chuva fraca isolada e ausência de previsão de chuva moderada a forte naquele período.",
+      "data_publicacao": "2026-09-28T05:20:00-03:00",
+      "url": "https://cor.rio/municipio-do-rio-de-janeiro-retornou-ao-estagio-1-as-05h-desta-segunda-feira-dia-28-de-setembro-de-2026/",
+      "fonte": "Centro de Operações e Resiliência do Rio (COR-Rio)"
+    },
+    {
+      "titulo": "Arrematação em leilão e a negativa de crédito de IBS e CBS",
+      "descricao": "Artigo analisa como a LC 214/2025 trata IBS e CBS em arrematações judiciais e diferencia o aproveitamento de créditos conforme o regime tributário do comprador. O texto sustenta que a restrição pode reduzir a disputa por imóveis em leilão e propõe rever a regra antes da transição para o novo sistema.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-28/arrematacao-em-leilao-e-a-negativa-de-credito-de-ibs-e-cbs/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "Valor Investe: Sem dinheiro para pagar imposto da herança? Nova regra facilita inventário; entenda",
+      "descricao": "Resolução do CNJ permite formalizar a partilha extrajudicial sem comprovar previamente o pagamento do ITCMD, que continua devido nos prazos previstos por cada estado. A mudança pode permitir que herdeiros formalizem a transferência dos bens e usem parte do patrimônio recebido para quitar o imposto.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/28/valor-investe-sem-dinheiro-para-pagar-imposto-da-heranca-nova-regra-facilita-inventario-entenda/",
+      "fonte": "Valor Investe via Colégio Notarial do Brasil – Seção São Paulo (CNB/SP)"
+    },
+    {
       "titulo": "Artigo analisa sinais do STF sobre IPTU e imunidade recíproca em imóveis concedidos",
-      "descricao": "Artigo publicado no ConJur examina a relação entre a imunidade recíproca e a cobrança de IPTU sobre imóveis envolvidos em concessões de serviço público. A análise discute os sinais identificados na jurisprudência do STF e possíveis desdobramentos para casos futuros.",
+      "descricao": "Artigo discute o que os temas 1.297 e 1.398 do STF podem definir sobre o IPTU de imóveis públicos usados por concessionárias de serviços essenciais. A análise destaca a destinação pública e a reversibilidade dos bens como elementos relevantes para a imunidade tributária, em julgamentos ainda pendentes.",
       "data_publicacao": "2026-09-27T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-set-27/iptu-e-imunidade-reciproca-sobre-imoveis-objeto-de-concessao-o-que-o-stf-indica-para-o-futuro/",
       "fonte": "Consultor Jurídico (ConJur)"
     },
     {
-      "titulo": "Lista de não incidência do IBS e da CBS na LC 214 é exemplificativa, defende artigo",
-      "descricao": "Artigo sustenta que a lista de não incidência do IBS e da CBS prevista no art. 6º da Lei Complementar nº 214/2025 é exemplificativa. A análise observa que a incidência de ITBI ou ITCMD não afasta automaticamente os novos tributos e discute os limites de interpretação da norma.",
-      "data_publicacao": "2026-09-26T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-26/reforma-tributaria-quem-define-os-limites-da-incidencia-do-ibs-e-da-cbs/",
-      "fonte": "Consultor Jurídico (ConJur)"
-    },
-    {
-      "titulo": "Saúde orienta sobre legislação sanitária em evento",
-      "descricao": "A Vigilância Sanitária de Rio das Ostras orientou profissionais de contabilidade sobre licenciamento e regras aplicáveis a empreendimentos de diferentes áreas. A Prefeitura também detalhou como empresas de médio e alto risco sanitário iniciam ou renovam a licença no município.",
-      "data_publicacao": "2026-09-25T17:14:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/saude-orienta-sobre-legislacao-sanitaria-em-evento/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Estudantes conhecem história e natureza de Rio das Ostras em walking tour",
-      "descricao": "Cerca de 40 alunos e educadores percorreram um circuito entre a Praia do Abricó e a Boca da Barra, com informações sobre natureza, história e cultura local. O projeto municipal será estruturado em três roteiros de caminhada para moradores e visitantes.",
-      "data_publicacao": "2026-09-25T14:55:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/estudantes-conhecem-historia-e-natureza-de-rio-das-ostras-em-walking-tour/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "No arrendamento rural, crédito de carbono é só do arrendatário, defende artigo",
-      "descricao": "Artigo jurídico sustenta que os créditos de carbono gerados em área arrendada pertencem ao arrendatário, que assume os riscos da produção. O texto discute a titularidade desses créditos à luz da relação contratual entre arrendador e arrendatário.",
-      "data_publicacao": "2026-09-25T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-25/quem-e-o-dono-do-credito-de-carbono/",
-      "fonte": "Consultor Jurídico (ConJur)"
-    },
-    {
-      "titulo": "Após 12 anos, Iphan libera condomínio de até 700 apartamentos em área histórica do Centro do Rio",
-      "descricao": "O Iphan emitiu parecer favorável a um projeto residencial de duas torres, com previsão de 500 a 700 apartamentos, no Centro do Rio. O empreendimento foi apresentado para análise municipal e deverá observar limites de altura e critérios de preservação do entorno histórico.",
-      "data_publicacao": "2026-09-24T09:11:00-03:00",
-      "url": "https://diariodorio.com/economia/mercado-imobiliario/2026/09/24/apos-12-anos-iphan-libera-condominio-de-ate-700-apartamentos-em-area-historica-do-centro-do-rio.html",
-      "fonte": "Diário do Rio"
-    },
-    {
-      "titulo": "Mercado imobiliário carioca mantém ritmo de expansão",
-      "descricao": "Pesquisa da Brain para a Ademi-RJ apontou alta de 13% no preço médio residencial por metro quadrado em junho, na comparação anual, e crescimento de 44,1% nas vendas do segundo trimestre. O levantamento também registrou equilíbrio entre lançamentos e vendas no acumulado de 12 meses.",
-      "data_publicacao": "2026-09-23T00:00:00-03:00",
-      "url": "https://brcom.dev.br/mercado-imobiliario-carioca-mantemritmo-de-expansao",
-      "fonte": "BRcom"
-    },
-    {
-      "titulo": "Município conclui estudo urbanístico para revisão do Plano Diretor",
-      "descricao": "A Prefeitura de Rio das Ostras concluiu o estudo técnico urbanístico que integrará a revisão do Plano Diretor Municipal. O documento reúne diretrizes de uso e ocupação do solo, mobilidade, habitação, meio ambiente e desenvolvimento econômico, e ainda será debatido com a população e o Legislativo.",
-      "data_publicacao": "2026-09-23T16:47:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/municipio-conclui-estudo-urbanistico-para-revisao-do-plano-diretor-municipal/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
       "titulo": "CNB/CF apresenta balanço de ações e resultados em reunião com as Seccionais Estaduais",
-      "descricao": "O Colégio Notarial do Brasil – Conselho Federal apresentou às seccionais estaduais um balanço nacional de ações e serviços. Entre os indicadores divulgados estão 72 entregas do e-Notariado, redução de 83,3% nos cartórios bloqueados e automação de 80% das certidões de testamento.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
+      "descricao": "Em reunião com representantes estaduais, o Colégio Notarial do Brasil – Conselho Federal apresentou resultados e prioridades para a atividade notarial. Entre os dados divulgados, o e-Notariado implantou 72 entregas entre janeiro e setembro, automatizou 80% das certidões do Busca Testamento e reduziu custos de sustentação dos sistemas.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/23/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
       "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    },
+    {
+      "titulo": "Fiador, devedor solidário na locação e o bem de família",
+      "descricao": "Artigo examina precedente do STJ que distingue fiador de devedor solidário em contrato de locação e conclui que a exceção à impenhorabilidade do bem de família não se estende automaticamente ao devedor solidário. O texto ressalta que a natureza da garantia pactuada pode alterar a proteção patrimonial do responsável.",
+      "data_publicacao": "2026-09-20T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-20/fiador-devedor-solidario-na-locacao-e-a-protecao-do-bem-de-familia/",
+      "fonte": "Consultor Jurídico (ConJur)"
     },
     {
       "titulo": "Podcast STJ No Seu Dia discute testamentos eletrônicos e novas tecnologias no direito sucessório",
-      "descricao": "Episódio do podcast STJ No Seu Dia aborda o uso de testamentos eletrônicos e novas tecnologias no direito sucessório. A conversa trata de requisitos formais e da assinatura e autenticação de documentos digitais.",
+      "descricao": "Episódio do podcast do STJ aborda requisitos de validade dos testamentos particulares e a possibilidade de flexibilizar formalidades diante de manifestações digitais de vontade. A conversa também discute assinatura, autenticação digital e a adaptação do direito sucessório às novas tecnologias.",
       "data_publicacao": "2026-09-16T00:00:00-03:00",
       "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
-      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
-    },
-    {
-      "titulo": "Imóveis irregulares: um problema, várias possibilidades",
-      "descricao": "Artigo do CNB apresenta caminhos possíveis para enfrentar irregularidades documentais e registrais em imóveis. O texto destaca que a escolha da medida depende da análise da situação e dos documentos de cada propriedade.",
-      "data_publicacao": "2026-09-10T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
       "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
     }
   ]
