@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-09-29T10:28:30-03:00",
+  "noticias": [
+    {
+      "titulo": "OstrasPrev abre inscrições para voluntários",
+      "descricao": "O Instituto OstrasPrev abriu cadastro de voluntários para contribuir com as Rodas de Conversa e outras atividades do Projeto Flor do Tempo, voltado aos segurados do regime próprio de previdência municipal. Os interessados indicam sua formação e os temas que podem compartilhar, e a seleção considera a experiência e as necessidades do projeto.",
+      "data_publicacao": "2026-09-29T08:33:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/ostrasprev-abre-inscricoes-para-voluntarios-atuarem-no-projeto-flor-do-tempo/",
+      "fonte": "Instituto de Previdência de Rio das Ostras (OstrasPrev)"
+    },
+    {
+      "titulo": "Rio das Ostras avança na atualização do cadastro imobiliário do Município",
+      "descricao": "A atualização cadastral começou por Cidade Beira Mar e reúne geoprocessamento, levantamento aerofotogramétrico e visitas técnicas. Segundo a Prefeitura, o trabalho integra dados ao Cadastro Imobiliário Brasileiro e não aumenta a alíquota do IPTU, embora ampliações não informadas ou imóveis ainda sem cadastro possam alterar lançamentos individuais.",
+      "data_publicacao": "2026-09-28T17:59:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-no-processo-de-atualizacao-do-cadastro-imobiliario-do-municipio/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Inovação tecnológica e acesso à Justiça pautam debate sobre resolução de disputas",
+      "descricao": "Comissão temática do Tribunal de Justiça do Rio de Janeiro debateu plataformas de resolução on-line de disputas e o uso do +Acordo, ferramenta pré-processual desenvolvida pelo tribunal e adotada pelo CNJ. O encontro abordou como soluções digitais podem ampliar o acesso à Justiça.",
+      "data_publicacao": "2026-09-28T16:02:00-03:00",
+      "url": "https://www.tjrj.jus.br/noticias/noticia/-/visualizar-conteudo/5111210/406867427",
+      "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ)"
+    },
+    {
+      "titulo": "Verdes Mares recebe Projeto CastraMóvel nesta terça e quarta-feira",
+      "descricao": "A unidade móvel municipal estará no bairro Verdes Mares nos dias 29 e 30 de setembro, com castrações gratuitas de cães e gatos previamente agendadas e orientações veterinárias. Os atendimentos começam às 8h e dependem de vagas disponíveis e do cumprimento dos critérios do serviço.",
+      "data_publicacao": "2026-09-28T10:49:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/verdes-mares-recebe-projeto-castramovel-nesta-terca-e-quarta-feira/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município do Rio de Janeiro retornou ao Estágio 1 às 05h desta segunda-feira, dia 28 de setembro de 2026",
+      "descricao": "O COR-Rio informou que a cidade voltou ao Estágio 1 após o fim da operação especial para a Semana de Arte do Rio, com as vias da região central liberadas. O boletim registrou previsão de chuvisco ou chuva fraca isolada e ausência de previsão de chuva moderada a forte naquele período.",
+      "data_publicacao": "2026-09-28T05:20:00-03:00",
+      "url": "https://cor.rio/municipio-do-rio-de-janeiro-retornou-ao-estagio-1-as-05h-desta-segunda-feira-dia-28-de-setembro-de-2026/",
+      "fonte": "Centro de Operações e Resiliência do Rio (COR-Rio)"
+    },
+    {
+      "titulo": "Arrematação em leilão e a negativa de crédito de IBS e CBS",
+      "descricao": "Artigo analisa como a LC 214/2025 trata IBS e CBS em arrematações judiciais e diferencia o aproveitamento de créditos conforme o regime tributário do comprador. O texto sustenta que a restrição pode reduzir a disputa por imóveis em leilão e propõe rever a regra antes da transição para o novo sistema.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-28/arrematacao-em-leilao-e-a-negativa-de-credito-de-ibs-e-cbs/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "Valor Investe: Sem dinheiro para pagar imposto da herança? Nova regra facilita inventário; entenda",
+      "descricao": "Resolução do CNJ permite formalizar a partilha extrajudicial sem comprovar previamente o pagamento do ITCMD, que continua devido nos prazos previstos por cada estado. A mudança pode permitir que herdeiros formalizem a transferência dos bens e usem parte do patrimônio recebido para quitar o imposto.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/28/valor-investe-sem-dinheiro-para-pagar-imposto-da-heranca-nova-regra-facilita-inventario-entenda/",
+      "fonte": "Valor Investe via Colégio Notarial do Brasil – Seção São Paulo (CNB/SP)"
+    },
+    {
+      "titulo": "Artigo analisa sinais do STF sobre IPTU e imunidade recíproca em imóveis concedidos",
+      "descricao": "Artigo discute o que os temas 1.297 e 1.398 do STF podem definir sobre o IPTU de imóveis públicos usados por concessionárias de serviços essenciais. A análise destaca a destinação pública e a reversibilidade dos bens como elementos relevantes para a imunidade tributária, em julgamentos ainda pendentes.",
+      "data_publicacao": "2026-09-27T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-27/iptu-e-imunidade-reciproca-sobre-imoveis-objeto-de-concessao-o-que-o-stf-indica-para-o-futuro/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "CNB/CF apresenta balanço de ações e resultados em reunião com as Seccionais Estaduais",
+      "descricao": "Em reunião com representantes estaduais, o Colégio Notarial do Brasil – Conselho Federal apresentou resultados e prioridades para a atividade notarial. Entre os dados divulgados, o e-Notariado implantou 72 entregas entre janeiro e setembro, automatizou 80% das certidões do Busca Testamento e reduziu custos de sustentação dos sistemas.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/23/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    },
+    {
+      "titulo": "Fiador, devedor solidário na locação e o bem de família",
+      "descricao": "Artigo examina precedente do STJ que distingue fiador de devedor solidário em contrato de locação e conclui que a exceção à impenhorabilidade do bem de família não se estende automaticamente ao devedor solidário. O texto ressalta que a natureza da garantia pactuada pode alterar a proteção patrimonial do responsável.",
+      "data_publicacao": "2026-09-20T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-20/fiador-devedor-solidario-na-locacao-e-a-protecao-do-bem-de-familia/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "Podcast STJ No Seu Dia discute testamentos eletrônicos e novas tecnologias no direito sucessório",
+      "descricao": "Episódio do podcast do STJ aborda requisitos de validade dos testamentos particulares e a possibilidade de flexibilizar formalidades diante de manifestações digitais de vontade. A conversa também discute assinatura, autenticação digital e a adaptação do direito sucessório às novas tecnologias.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    }
+  ]
+}
