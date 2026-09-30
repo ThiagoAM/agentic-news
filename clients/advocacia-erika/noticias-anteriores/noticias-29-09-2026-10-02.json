@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-09-29T10:02:18-03:00",
+  "noticias": [
+    {
+      "titulo": "STJ julgará rescisão de contrato de imóvel com alienação sem registro em cartório",
+      "descricao": "A Segunda Seção do STJ afetou ao rito dos repetitivos a definição sobre qual regime rege a rescisão de compra e venda com alienação fiduciária ainda não registrada: Lei 9.514/1997 ou CDC. A afetação suspende, nas instâncias indicadas, recursos que discutam a mesma questão até a fixação da tese.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/stj-julgara-rescisao-de-contrato-de-imovel-com-alienacao-sem-registro-em-cartorio-2/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "NF-e ABI e a nova fiscalidade das operações imobiliárias",
+      "descricao": "Artigo explica a implantação da NF-e ABI (modelo 77) nas operações imobiliárias e seus reflexos documentais. A obrigatoriedade começa em 1º de dezembro de 2026, mas o documento fiscal não substitui requisitos civis e registrais; o texto também aponta questões técnicas ainda em implantação.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/465292/nf-e-abi-e-a-nova-fiscalidade-das-operacoes-imobiliarias",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Corregedoria Nacional define competência territorial para escritura híbrida",
+      "descricao": "Decisão da Corregedoria Nacional entendeu que escritura com assinaturas híbridas segue a competência territorial do e-Notariado. Quando há assinatura remota, a lavratura cabe ao tabelião competente em razão do imóvel ou do domicílio do adquirente, observadas as regras do Provimento CNJ 149/2023.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://www.26notas.com.br/blog/?p=21105",
+      "fonte": "26º Notas"
+    },
+    {
+      "titulo": "CNJ dispensa prova prévia do ITCMD para inventário em cartório",
+      "descricao": "Reportagem repercutida pelo CNB/SP explica que o CNJ dispensou a comprovação do recolhimento prévio do ITCMD como condição para lavrar escritura de inventário e partilha. O imposto continua devido conforme a legislação estadual, e a escritura deve registrar a ciência das partes e ser comunicada ao Fisco no prazo aplicável.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/28/valor-investe-sem-dinheiro-para-pagar-imposto-da-heranca-nova-regra-facilita-inventario-entenda/",
+      "fonte": "CNB/SP"
+    },
+    {
+      "titulo": "Adjudicação compulsória extrajudicial exige manifestação expressa dos coproprietários",
+      "descricao": "O Conselho da Magistratura do TJSC manteve a recusa de adjudicação compulsória extrajudicial em caso no qual um coproprietário assinou o contrato apenas como testemunha. O colegiado afirmou que a transferência exige declaração expressa de todos os titulares, que não pode ser presumida por indícios no procedimento registral.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://www.irib.org.br/adjudicacao-compulsoria-extrajudicial-coproprietario-manifestacao-expressa-continuidade-disponibilidade/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "CSM/SP exige justificativa para usucapião extrajudicial entre parentes",
+      "descricao": "O CSM/SP manteve a exigência de justificar por que não se utiliza título translativo em pedido de usucapião extrajudicial entre familiares ou condôminos. No caso, também faltaram prova de oposição inequívoca à coproprietária e justificativa para não escriturar, e o colegiado apontou que a via não deve contornar efeitos tributários de negócios imobiliários.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://www.26notas.com.br/blog/?p=21062",
+      "fonte": "26º Notas"
+    },
+    {
+      "titulo": "CSM/SP veda impor notificação por RTD sem justificativa na usucapião",
+      "descricao": "Em recurso sobre usucapião extrajudicial, o CSM/SP afastou a imposição automática de notificações via Registro de Títulos e Documentos quando os requerentes pediram carta com aviso de recebimento. A decisão também exige detalhamento dos emolumentos e justificativa concreta para não adotar a modalidade postal prevista na lei.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://www.26notas.com.br/blog/?p=21060",
+      "fonte": "26º Notas"
+    },
+    {
+      "titulo": "STJ reconhece legitimidade do nu-proprietário em despejo com anuência do usufrutuário",
+      "descricao": "O STJ reconheceu que o nu-proprietário que celebrou locação com anuência expressa do usufrutuário pode propor ação de despejo por inadimplência. A decisão considerou incompatível com a boa-fé que o locatário, após contratar com ambos, alegue falta de legitimidade do nu-proprietário.",
+      "data_publicacao": "2026-09-25T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/informativo-de-jurisprudencia-do-stj-trata-da-legitimidade-ativa-do-nu-proprietario-em-acao-de-despejo-diante-da-anuencia-expressa-do-usufrutuario/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "Pesquisa aponta como a geração Z vê a compra de imóveis",
+      "descricao": "Pesquisa repercutida pelo Registro de Imóveis do Brasil indica que, embora jovens da geração Z demonstrem intenção de compra de imóveis, apenas 14% dos entrevistados os veem como forma de acumular capital. A reportagem associa a diferença a juros altos, incertezas e ao descompasso entre renda e preço dos imóveis.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/imovel-nao-e-visto-como-opcao-de-investimento-pela-geracao-z",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Assinador Digital do RI reduz o prazo para reunir assinaturas",
+      "descricao": "Balanço do Registro de Imóveis do Brasil aponta que o Assinador Digital reduziu de 14 dias para menos de 24 horas o prazo médio para reunir assinaturas eletrônicas em documentos imobiliários. A plataforma conecta mais de 830 mil usuários e registrou crescimento médio anual de 83% no uso da assinatura eletrônica registral entre 2020 e 2025.",
+      "data_publicacao": "2026-09-18T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/assinador-digital-ilustra-compromisso-do-ri-com-a-eficiencia",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Inventariante pode vender bem do espólio por escritura para custear inventário",
+      "descricao": "Artigo analisa a possibilidade de o inventariante vender bem do espólio por escritura pública, sem alvará judicial, para custear despesas do inventário, conforme o art. 11-A da Resolução CNJ 35/2007. O texto destaca requisitos documentais e garantias, além de efeitos potenciais de ITBI, ITCMD e ganho de capital que exigem análise do caso.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/16/artigo-alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj-por-leticia-faria-e-maria-laura-moscardini/",
+      "fonte": "CNB/SP"
+    }
+  ]
+}
