@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-09-30T10:31:22-03:00",
+  "noticias": [
+    {
+      "titulo": "Município conclui estudo urbanístico para revisão do Plano Diretor",
+      "descricao": "A Prefeitura concluiu o estudo técnico que servirá de base à revisão do Plano Diretor, com análises de uso do solo, preservação ambiental, mobilidade, habitação e desenvolvimento. A próxima etapa prevista é uma audiência pública.",
+      "data_publicacao": "2026-09-23T16:47:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-conclui-estudo-urbanistico-para-revisao-do-plano-diretor-municipal/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Secretaria de Obras inicia estudo para reurbanização da Boca da Barra",
+      "descricao": "A Prefeitura iniciou estudos para reurbanizar a orla da Boca da Barra. A proposta em avaliação inclui parque, academia ao ar livre, estacionamento, quiosques, sanitário público, rampa, escadaria e ciclovia, com previsão de consulta à comunidade.",
+      "data_publicacao": "2026-09-22T16:59:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/secretaria-de-obras-inicia-estudo-para-reurbanizacao-da-boca-da-barra/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município reúne técnicos para debater projetos de novas obras",
+      "descricao": "Equipes técnicas analisaram projetos de urbanização para Terra Firme, Mar y Lago e Verdes Mares antes de nova licitação. Os planos incluem drenagem, pavimentação, meios-fios e calçadas após a interrupção de contratos anteriores por questões técnicas e contratuais.",
+      "data_publicacao": "2026-09-16T16:12:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-reune-tecnicos-para-debater-projetos-de-novas-obras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Banco de Empregos oferece 459 vagas em Rio das Ostras",
+      "descricao": "O Banco de Empregos municipal divulgou 459 oportunidades em áreas como construção, vendas, beleza, transporte e administração. As candidaturas gratuitas são presenciais no Centro de Cidadania, no Âncora, de segunda a sexta-feira, das 10h às 17h.",
+      "data_publicacao": "2026-09-28T09:19:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-459-vagas-nesta-segunda-28/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Mulheres dominam o pódio no Festival Novos Talentos",
+      "descricao": "Artistas conquistaram os três primeiros lugares nas categorias Geral e Modão da final do Festival Novos Talentos. Laís Azevedo e Lenny Tinoco venceram cada uma das categorias, e a premiação total do evento foi de R$ 15 mil.",
+      "data_publicacao": "2026-09-24T11:43:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/mulheres-dominam-o-podio-nos-novos-talentos/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Liminar do TJRJ suspende lei do Rio que legaliza novas obras acima do Plano Diretor",
+      "descricao": "Decisão liminar do Órgão Especial do TJRJ suspendeu, para novas construções, a lei complementar que permitia legalizar obras acima dos índices do Plano Diretor do Rio mediante contrapartida. A decisão apontou a falta de estudos técnicos e participação popular; obras já concluídas não foram afetadas pela medida.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-23/lei/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "4ª Turma do STJ admite que convenção residencial vede aluguel de curta temporada",
+      "descricao": "A 4ª Turma do STJ autorizou condomínio cuja convenção proíbe uso não residencial a impedir locações de curta temporada. O entendimento depende do texto da convenção e não cria proibição automática; a 2ª Seção ainda deve fixar tese vinculante sobre o tema.",
+      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-29/aluguel-de-curta-temporada-desvirtua-carater-residencial-em-condominio/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "Mudança de uso em locação por inexigibilidade exige nova contratação, defende artigo",
+      "descricao": "Artigo jurídico sustenta que uma mudança substancial na finalidade de imóvel alugado diretamente pela administração, por inexigibilidade, exige nova instrução de contratação. Segundo o autor, um aditivo não basta: é preciso avaliar o imóvel e pesquisar o mercado para o novo uso.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-21/quando-a-mudanca-de-destinacao-transfigura-a-locacao-administrativa/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "STJ afasta cobrança de salário-educação de titulares de serviços notariais e registrais",
+      "descricao": "No Tema 1.228, o STJ decidiu que titulares pessoas físicas de serviços notariais e registrais não são contribuintes da contribuição ao salário-educação. O tribunal também esclareceu que a inscrição do serviço em CNPJ não cria, por si só, uma pessoa jurídica distinta do titular.",
+      "data_publicacao": "2026-09-03T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/03/cnb-cf-stj-afasta-cobranca-de-salario-educacao-de-titulares-de-servicos-notariais-e-registrais/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo (CNB/SP)"
+    },
+    {
+      "titulo": "CNJ atualiza regras para concursos de cartórios",
+      "descricao": "A Resolução CNJ nº 696/2026 atualizou as regras nacionais dos concursos para delegações notariais e registrais, incluindo etapas e critérios de seleção. A norma prevê a organização por instituição especializada e atualiza a relação com o Exame Nacional dos Cartórios.",
+      "data_publicacao": "2026-09-09T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/09/anoreg-br-informativo-de-jurisprudencia-do-cnj-nova-resolucao-para-os-concursos-de-cartorios/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo (CNB/SP)"
+    },
+    {
+      "titulo": "Lei fixa em cinco anos prazo para sanções administrativas a notários e registradores",
+      "descricao": "A Lei nº 15.509/2026 estabelece prazo prescricional de cinco anos para sanções administrativas a notários e registradores, contado da prática da infração ou, em caso de infração permanente, do seu encerramento.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    }
+  ]
+}
