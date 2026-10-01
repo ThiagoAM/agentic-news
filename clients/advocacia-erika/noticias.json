@@ -1,82 +1,110 @@
 {
-  "data-busca": "2026-09-30T10:03:53-03:00",
+  "data-busca": "2026-10-01T10:18:27-03:00",
   "noticias": [
     {
-      "titulo": "Justiça determina conclusão de Reurb-S em São Luís",
-      "descricao": "A Vara de Interesses Difusos e Imobiliários de São Luís determinou que o município conclua a Reurb-S da comunidade Novo Angelim e entregue títulos às famílias habilitadas em até 18 meses. A decisão também manda apresentar, em 60 dias, cronograma e plano de trabalho com etapas urbanísticas, infraestrutura, cadastro e abertura de matrículas.",
-      "data_publicacao": "2026-09-28T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/justica-determina-conclusao-de-reurb-s-em-sao-luis",
-      "fonte": "Registro de Imóveis do Brasil"
+      "titulo": "Análise discute a prescrição disciplinar de notários após a Lei 15.509/26",
+      "descricao": "Artigo publicado pelo RIB-PR examina o prazo de cinco anos criado para sanções disciplinares e o marco inicial contado da ocorrência do fato. O texto compara possíveis interpretações para processos pendentes e aponta que retroatividade, interrupção e prescrição intercorrente ainda suscitam controvérsia.",
+      "data_publicacao": "2026-10-01T00:00:00-03:00",
+      "url": "https://ribpr.org.br/noticias/view/a-prescricao-disciplinar-dos-notarios-e-registradores-apos-a-lei-15-509-26",
+      "fonte": "RIB-PR"
     },
     {
-      "titulo": "Justiça cancela penhora e leilão de imóvel usado como moradia",
-      "descricao": "A 12ª Vara Cível de Goiânia cancelou a penhora e o leilão de um apartamento reconhecido como bem de família em outro processo e comprovadamente usado como moradia. A juíza considerou suficiente a documentação de residência e observou que a proteção da Lei 8.009/1990 não exige provar que aquele seja o único imóvel do devedor.",
+      "titulo": "RIB-PR publica guia técnico sobre regularização fundiária urbana",
+      "descricao": "A cartilha reúne orientações para registradores sobre as etapas da Reurb, da análise normativa ao registro da Certidão de Regularização Fundiária e à titulação dos beneficiários. O material também aborda georreferenciamento e SIG-RI à luz do Código de Normas Extrajudicial paranaense, cuja vigência está prevista para dezembro.",
+      "data_publicacao": "2026-09-30T00:00:00-03:00",
+      "url": "https://ribpr.org.br/noticias/view/guia-tecnico-para-registradores-sobre-a-regularizacao-fundiaria-urbana",
+      "fonte": "RIB-PR"
+    },
+    {
+      "titulo": "STJ decide que ocupação familiar prolongada não basta para usucapião",
+      "descricao": "A Quarta Turma do STJ negou por unanimidade o pedido de um casal que ocupava havia 29 anos imóvel integrante de herança ainda indivisa. Segundo a notícia do IBDFAM, a ocupação por tolerância familiar não demonstrou, por si só, o ânimo de dono necessário à usucapião extraordinária.",
+      "data_publicacao": "2026-09-30T00:00:00-03:00",
+      "url": "https://ibdfam.org.br/noticias/14287",
+      "fonte": "IBDFAM, com informações do STJ"
+    },
+    {
+      "titulo": "IRIB aborda anuência de confrontantes em retificação de imóvel do Incra",
+      "descricao": "O IRIB Responde publicou consulta sobre a dispensa de anuência de confrontantes em retificação de área ligada ao georreferenciamento de imóvel do Incra. A questão examina o alcance do Decreto 4.449/2002 e as comprovações exigíveis para os imóveis vizinhos.",
+      "data_publicacao": "2026-09-30T00:00:00-03:00",
+      "url": "https://www.irib.org.br/retificacao-de-area-medidas-perimetrais-insercao-incra-confrontante-anuencia-georreferenciamento/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "CSM/SP mantém recusa a hipoteca sobre imóvel indisponível",
+      "descricao": "O Conselho Superior da Magistratura de São Paulo manteve a recusa ao registro de escritura de confissão de dívida com garantia hipotecária quando o imóvel está sujeito a ordens de indisponibilidade. O julgamento distinguiu atos voluntários de disposição e aplicou a regra de que só pode hipotecar o bem quem poderia aliená-lo.",
+      "data_publicacao": "2026-09-30T00:00:00-03:00",
+      "url": "https://www.irib.org.br/confissao-de-divida-hipoteca-indisponibilidade-de-bens-alienacao-voluntaria/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Doação de imóvel não é revogada apenas por afastamento familiar",
+      "descricao": "A 3ª Vara Cível de Joinville negou pedido para revogar a doação de metade de um imóvel ao filho e à nora, feita com reserva de usufruto. Segundo a notícia do IRIB, o afastamento e a falta de visitas ou apoio emocional não demonstraram a conduta grave exigida para caracterizar ingratidão.",
+      "data_publicacao": "2026-09-30T00:00:00-03:00",
+      "url": "https://www.irib.org.br/doacao-de-imovel-de-pai-para-filho-nao-pode-ser-revogada-por-distanciamento-familiar-e-ingratidao/",
+      "fonte": "IRIB, com informações do TJSC"
+    },
+    {
+      "titulo": "STJ julgará rescisão de contrato com alienação fiduciária sem registro",
+      "descricao": "A Segunda Seção do STJ afetou ao Tema 1.420 a definição sobre aplicar a Lei 9.514/97 ou o Código de Defesa do Consumidor à rescisão de compra e venda de imóvel com alienação fiduciária não registrada. O julgamento repetitivo busca uniformizar entendimentos divergentes; o mérito ainda está pendente.",
       "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/justica-cancela-penhora-e-leilao-de-imovel-usado-como-moradia",
-      "fonte": "Registro de Imóveis do Brasil"
+      "url": "https://ribpr.org.br/noticias/view/stj-julgara-rescisao-de-contrato-de-imovel-com-alienacao-sem-registro-em-cartorio",
+      "fonte": "RIB-PR"
     },
     {
-      "titulo": "STJ afasta responsabilidade de banco por atraso na entrega de imóvel",
-      "descricao": "A 2ª Seção do STJ decidiu por unanimidade que o banco que atua somente como financiador de incorporação não responde automaticamente por atrasos ou vícios da obra. Fiscalizar o andamento para liberar parcelas não transfere as obrigações do incorporador, salvo previsão contratual que responsabilize a instituição.",
-      "data_publicacao": "2026-09-23T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/465154/stj-afasta-responsabilidade-de-banco-por-atraso-na-entrega-de-imovel",
+      "titulo": "Artigo discute NF-e ABI e reforma tributária nas operações imobiliárias",
+      "descricao": "Análise publicada no Migalhas explica a implantação da NF-e ABI, modelo 77, prevista para operações abrangidas a partir de dezembro de 2026. Os autores destacam que o documento fiscal eletrônico não substitui os requisitos civis e registrais para a eficácia dos títulos imobiliários.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/465292/nf-e-abi-e-a-nova-fiscalidade-das-operacoes-imobiliarias",
       "fonte": "Migalhas"
     },
     {
-      "titulo": "CSM/SP exige discriminar cada sucessão em adjudicação de inventários conjuntos",
-      "descricao": "O CSM/SP manteve a recusa ao registro de carta de adjudicação de inventários conjuntos sem discriminar as sucessões na ordem dos óbitos. A renúncia produz efeitos apenas na herança a que se refere, e a existência de herdeiro único não permite omitir transmissões intermediárias.",
+      "titulo": "IRIB questiona regras de notificação postal em usucapião extrajudicial",
+      "descricao": "Publicação do IRIB apresenta consulta sobre como notificar confrontantes pessoas físicas e jurídicas por carta com aviso de recebimento. O debate trata de quem deve assinar o recebimento e da aplicação do art. 407, § 3º, do Provimento CNJ 149/2023.",
       "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://www.26notas.com.br/blog/?p=21112",
+      "url": "https://www.irib.org.br/usucapiao-extrajudicial-confrontante-notificacao-via-postal-qualificacao-registral/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Impugnação sem prova de posse não barra usucapião extrajudicial",
+      "descricao": "O Conselho Superior da Magistratura de São Paulo afastou a impugnação de uma empresa que não era confrontante, titular de direito real nem possuidora do imóvel. A decisão permitiu a continuidade do procedimento extrajudicial diante da ausência de controvérsia possessória comprovada.",
+      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "url": "https://www.26notas.com.br/blog/?p=21110",
       "fonte": "Blog do 26"
     },
     {
-      "titulo": "Cessão de direitos exige título do cedente registrado e via original, decide CSM/SP",
-      "descricao": "O CSM/SP manteve a recusa ao registro de cessão porque o título aquisitivo da cedente não constava da matrícula e o instrumento foi apresentado em cópia. A decisão afirma que a cadeia registral deve ser preservada e exige a apresentação do documento original previsto em lei.",
+      "titulo": "Adjudicação não corrige vaga de garagem omitida da arrematação",
+      "descricao": "O Conselho Superior da Magistratura de São Paulo manteve a recusa à adjudicação compulsória extrajudicial de vaga de garagem que não constava na carta de arrematação. Como a vaga tem matrícula própria, o caso exige título que a mencione para recompor a cadeia registral.",
       "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://www.26notas.com.br/blog/?p=21114",
+      "url": "https://www.26notas.com.br/blog/?p=21111",
       "fonte": "Blog do 26"
     },
     {
-      "titulo": "Registro de carta de adjudicação exige prova do ITBI já na prenotação",
-      "descricao": "O CSM/SP entendeu que a carta judicial de adjudicação imobiliária continua sujeita à qualificação registral e à comprovação do recolhimento do ITBI desde a prenotação. No caso, o colegiado também apontou a necessidade de aprovação municipal do parcelamento do solo.",
+      "titulo": "Averbação premonitória em ação monitória é cancelada sem título executivo",
+      "descricao": "A 1ª Vara de Registros Públicos de São Paulo determinou o cancelamento de averbação baseada em ação monitória ainda em fase de conhecimento, sem título executivo ou tutela de urgência expressa. A sentença posterior não convalidou o registro considerado nulo; formado o título executivo, uma nova averbação poderá ser requerida.",
       "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://www.26notas.com.br/blog/?p=21113",
+      "url": "https://www.26notas.com.br/blog/?p=21092",
       "fonte": "Blog do 26"
     },
     {
-      "titulo": "Venda de lote não registrado anula o contrato por ilicitude do objeto",
-      "descricao": "O TJAC autorizou moradores de um núcleo rural em Rio Branco a suspender pagamentos por lotes vendidos sem registro e considerou a comercialização ilícita nos termos da Lei 6.766/1979. O tribunal rejeitou a tese de que se tratava de simples desmembramento rural e atribuiu ao loteador o dever de regularizar o empreendimento.",
-      "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://colegioregistralrs.org.br/noticias/21479/venda-de-lote-nao-registrado-anula-o-contrato-por-ilicitude-do-objeto/",
-      "fonte": "Colégio Registral RS"
-    },
-    {
-      "titulo": "TJSP mantém valor declarado como base do ITBI na integralização de imóveis",
-      "descricao": "O TJSP manteve, no caso analisado, o valor declarado na transação como base do ITBI para imóveis usados na integralização de capital, afastando o valor de referência fixado unilateralmente pelo município. O Fisco pode contestar o preço em processo administrativo; juros e multa não incidem antes do registro do título, e a correção monetária segue o IPCA-E.",
+      "titulo": "Adjudicação extrajudicial exige manifestação de todos os coproprietários",
+      "descricao": "O Conselho da Magistratura de Santa Catarina manteve a recusa a uma adjudicação compulsória extrajudicial baseada em contrato assinado por uma coproprietária, com o outro titular figurando apenas como testemunha. A decisão considerou insuficiente essa assinatura para demonstrar vontade de transferir o imóvel.",
       "data_publicacao": "2026-09-28T00:00:00-03:00",
-      "url": "https://www.26notas.com.br/blog/?p=21085",
-      "fonte": "Blog do 26"
+      "url": "https://www.irib.org.br/adjudicacao-compulsoria-extrajudicial-coproprietario-manifestacao-expressa-continuidade-disponibilidade/",
+      "fonte": "IRIB"
     },
     {
-      "titulo": "Projeto autoriza escreventes de cartório a atuar também como advogados",
-      "descricao": "O Projeto de Lei 5.435/2026 propõe permitir que escreventes de cartório que não sejam substitutos também exerçam a advocacia. A proposta mantém a vedação para titulares e substitutos e prevê impedimentos em causas ligadas à própria serventia ou a atos em que o escrevente tenha atuado; o texto ainda depende de aprovação.",
-      "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/09/29/anoreg-mt-projeto-autoriza-escreventes-de-cartorio-a-atuar-tambem-como-advogados/",
-      "fonte": "CNB/SP"
+      "titulo": "STJ fixa registro como marco da prescrição de doação inoficiosa",
+      "descricao": "No Informativo 902, a Quarta Turma definiu que o prazo para ação anulatória de doação inoficiosa começa no registro do título no Cartório de Imóveis. O STJ também afastou a data de lavratura do testamento como marco para reduzir suas disposições antes do falecimento, quando ainda não há lesão atual à legítima.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022635",
+      "fonte": "STJ"
     },
     {
-      "titulo": "Lei estabelece prescrição de cinco anos para sanções disciplinares a notários e registradores",
-      "descricao": "A Lei 15.509/2026 fixou em cinco anos o prazo prescricional para ações que aplicam sanções previstas na Lei dos Notários e Registradores, contado da ocorrência do fato ou do fim da infração permanente. Artigo do CNB/SP destaca que a lei preenche uma lacuna anterior, embora a aplicação da regra a fatos e processos anteriores ainda possa gerar controvérsia.",
-      "data_publicacao": "2026-09-28T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/09/28/artigo-prescricao-da-pretensao-punitiva-contra-tabeliaes-e-registradores-lei-15-509-26-por-carlos-eduardo-elias-de-oliveira/",
-      "fonte": "CNB/SP"
-    },
-    {
-      "titulo": "Semestre registra queda de 14% em lançamentos de lotes",
-      "descricao": "Dados da Brain Inteligência Estratégica levantados a pedido da Aelo apontam queda de 14% nos lançamentos de lotes no Brasil no primeiro semestre de 2026 e recuo de 11% nas vendas. A associação relaciona a alta dos distratos, entre 12% e 15% dos negócios, ao endividamento das famílias e à insegurança na aplicação da Lei do Distrato.",
-      "data_publicacao": "2026-09-24T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/semestre-registra-queda-de-14-em-lancamentos-de-lotes?fe=2",
-      "fonte": "Registro de Imóveis do Brasil"
+      "titulo": "Pesquisa aponta distância entre preço pedido e orçamento de compradores",
+      "descricao": "Levantamento da Loft e Offerwise indica que 42% dos compradores em São Paulo buscam imóveis de até R$ 350 mil, ante 31% dos vendedores que esperam negociar nessa faixa. A pesquisa também aponta que 74% dos vendedores aceitariam algum desconto, destacando o peso de preço e crédito nas negociações.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://portas.com.br/noticias/42-dos-compradores-em-sp-buscam-imoveis-de-ate-r-350-mil-mostra-pesquisa/",
+      "fonte": "Portas"
     }
   ]
 }
