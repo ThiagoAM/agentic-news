@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-10-01T10:37:39-03:00",
+  "noticias": [
+    {
+      "titulo": "Sala do Empreendedor amplia orientação a pequenos negócios em Rio das Ostras",
+      "descricao": "A Prefeitura informa que a Sala do Empreendedor ampliou orientações, consultorias e capacitações para MEIs, trabalhadores informais e pequenos negócios. Entre as ações estão apoio sobre formalização, crédito e questões contábeis e jurídicas, além da integração a serviços digitais municipais.",
+      "data_publicacao": "2026-09-30T14:07:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/sala-do-empreendedor-amplia-apoio-aos-pequenos-negocios/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "DER-RJ inicia recapeamento emergencial na RJ-162",
+      "descricao": "O DER-RJ começou serviços de recapeamento em trechos da RJ-162 entre Rio das Ostras e Casimiro de Abreu, após pedido de melhorias apresentado pela Prefeitura. O Município acompanha a execução e informa que a intervenção é emergencial, enquanto cobra recuperação definitiva da rodovia.",
+      "data_publicacao": "2026-09-30T12:37:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/der-rj-inicia-operacao-recapeamento-na-rj-162-apos-cobranca-por-melhorias/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Equipe de Rio das Ostras conhece tecnologias de geoprocessamento",
+      "descricao": "Técnicos da Secretaria de Infraestrutura Urbana e Obras Públicas visitaram Saquarema para conhecer uma plataforma de dados territoriais e urbanísticos. A equipe observou recursos de geoprocessamento, imagens aéreas e planejamento que podem apoiar levantamentos e projetos municipais.",
+      "data_publicacao": "2026-09-30T09:39:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/tecnicos-do-municipio-conhecem-tecnologias-de-geoprocessamento/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras abre cadastro digital de eventos para 2027",
+      "descricao": "A plataforma Colab passou a receber propostas de eventos previstos para 2027, com documentos e pedidos de análise para uso de espaços públicos. A Prefeitura esclarece que o cadastro não equivale a autorização automática e que organizadores ainda precisam cumprir os requisitos legais de licenciamento.",
+      "data_publicacao": "2026-09-29T09:12:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/cadastro-digital-de-eventos-para-2027-ja-esta-disponivel/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Artigo do ConJur analisa limites recentes para cálculo do ITBI",
+      "descricao": "O artigo examina o entendimento do STJ sobre o uso de valor de referência na base do ITBI e a discussão no STF sobre imunidade na integralização de capital por empresas imobiliárias. O julgamento do STF foi suspenso após pedido de vista e ainda não há tese definida.",
+      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-29/itbi-entre-o-stj-e-o-stf-os-novos-limites-da-tributacao-municipal-sobre-imoveis/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "Rio das Ostras atualiza o cadastro imobiliário municipal",
+      "descricao": "A Prefeitura começou em Cidade Beira Mar a atualização cadastral baseada em imagens aéreas, georreferenciamento e conferências presenciais, com previsão de integração ao Cadastro Imobiliário Brasileiro. A administração afirma que não haverá mudança na alíquota do IPTU, mas imóveis ampliados sem atualização ou ainda não cadastrados podem ter seus dados e valores revistos.",
+      "data_publicacao": "2026-09-28T17:59:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-no-processo-de-atualizacao-do-cadastro-imobiliario-do-municipio/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Artigo discute crédito de IBS e CBS em arrematação de imóvel",
+      "descricao": "Texto publicado no ConJur questiona a restrição de créditos de IBS e CBS quando uma pessoa fora do regime regular arremata imóvel sujeito ao redutor de ajuste. O autor propõe reconhecer o crédito ou transferir o redutor ao arrematante; trata-se de uma interpretação defendida no artigo, sem decisão judicial definitiva sobre o ponto.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-28/arrematacao-em-leilao-e-a-negativa-de-credito-de-ibs-e-cbs/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "ConJur debate o alcance das hipóteses de não incidência de IBS e CBS",
+      "descricao": "Artigo interpreta o art. 6º da Lei Complementar 214/2025 e defende que a lista de hipóteses de não incidência não é exaustiva. O texto também observa que a sujeição de uma operação ao ITBI ou ao ITCMD não afasta, por si só, a incidência de IBS e CBS.",
+      "data_publicacao": "2026-09-26T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-26/reforma-tributaria-quem-define-os-limites-da-incidencia-do-ibs-e-da-cbs/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "STJ fixa registro como marco prescricional para doação inoficiosa",
+      "descricao": "No REsp 2.012.027, a Quarta Turma do STJ definiu que o prazo para ação anulatória de doação inoficiosa começa no registro do ato jurídico. O Tribunal também afastou a data de lavratura do testamento como início do prazo para reduzir suas disposições antes do falecimento.",
+      "data_publicacao": "2026-09-24T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/24/anoreg-sp-stj-define-registro-do-imovel-como-marco-para-prescricao-de-acao-contra-doacao-inoficiosa/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo (CNB/SP)"
+    },
+    {
+      "titulo": "CNB/CF apresenta balanço de ações e metas do notariado",
+      "descricao": "Em reunião com as seccionais estaduais, o CNB/CF apresentou resultados de janeiro a setembro e alinhou projetos de tecnologia, relações governamentais e área jurídica. Entre os dados divulgados estão 72 entregas do e-Notariado e maior automatização de certidões do Busca Testamento.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    },
+    {
+      "titulo": "Assinador Digital reduz prazo de assinatura de títulos imobiliários",
+      "descricao": "Balanço divulgado pelo Registro de Imóveis do Brasil aponta que o prazo médio para reunir assinaturas caiu de 14 dias para menos de 24 horas com o Assinador Digital. Desde o lançamento, a ferramenta processou 18,1 milhões de documentos, dos quais 17,2 milhões foram concluídos e enviados às serventias para qualificação.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://www.anoregrj.com.br/assinador-digital-ilustra-compromisso-do-ri-com-a-eficiencia/",
+      "fonte": "ANOREG-RJ"
+    },
+    {
+      "titulo": "Podcast do STJ aborda testamentos particulares e novas tecnologias",
+      "descricao": "Episódio do podcast STJ No Seu Dia discute decisão da Terceira Turma sobre requisitos de validade de testamentos particulares e possível flexibilização das formalidades diante de manifestações digitais de vontade. A conversa aborda autoria, assinatura e mecanismos de autenticação como elementos para avaliar a validade do ato.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+    }
+  ]
+}

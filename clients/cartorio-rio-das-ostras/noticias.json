@@ -1,89 +1,89 @@
 {
-  "data-busca": "2026-10-01T10:37:39-03:00",
+  "data-busca": "2026-10-02T10:04:21-03:00",
   "noticias": [
     {
-      "titulo": "Sala do Empreendedor amplia orientação a pequenos negócios em Rio das Ostras",
-      "descricao": "A Prefeitura informa que a Sala do Empreendedor ampliou orientações, consultorias e capacitações para MEIs, trabalhadores informais e pequenos negócios. Entre as ações estão apoio sobre formalização, crédito e questões contábeis e jurídicas, além da integração a serviços digitais municipais.",
-      "data_publicacao": "2026-09-30T14:07:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/sala-do-empreendedor-amplia-apoio-aos-pequenos-negocios/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
       "titulo": "DER-RJ inicia recapeamento emergencial na RJ-162",
-      "descricao": "O DER-RJ começou serviços de recapeamento em trechos da RJ-162 entre Rio das Ostras e Casimiro de Abreu, após pedido de melhorias apresentado pela Prefeitura. O Município acompanha a execução e informa que a intervenção é emergencial, enquanto cobra recuperação definitiva da rodovia.",
+      "descricao": "O DER-RJ começou a recuperar trechos da rodovia entre Rio das Ostras e Casimiro de Abreu após solicitação do município. A Prefeitura acompanha a execução e informa que a intervenção é emergencial, enquanto cobra a recuperação definitiva da estrada.",
       "data_publicacao": "2026-09-30T12:37:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/der-rj-inicia-operacao-recapeamento-na-rj-162-apos-cobranca-por-melhorias/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Equipe de Rio das Ostras conhece tecnologias de geoprocessamento",
-      "descricao": "Técnicos da Secretaria de Infraestrutura Urbana e Obras Públicas visitaram Saquarema para conhecer uma plataforma de dados territoriais e urbanísticos. A equipe observou recursos de geoprocessamento, imagens aéreas e planejamento que podem apoiar levantamentos e projetos municipais.",
+      "titulo": "Técnicos conhecem tecnologias de geoprocessamento",
+      "descricao": "A equipe de Topografia de Rio das Ostras visitou a Secretaria de Urbanismo de Saquarema para conhecer a plataforma GeoSaquá e métodos de análise territorial. O intercâmbio apresentou dados de zoneamento, ocupação do solo, sistema viário e imagens aéreas como referências para projetos municipais.",
       "data_publicacao": "2026-09-30T09:39:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/tecnicos-do-municipio-conhecem-tecnologias-de-geoprocessamento/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Rio das Ostras abre cadastro digital de eventos para 2027",
-      "descricao": "A plataforma Colab passou a receber propostas de eventos previstos para 2027, com documentos e pedidos de análise para uso de espaços públicos. A Prefeitura esclarece que o cadastro não equivale a autorização automática e que organizadores ainda precisam cumprir os requisitos legais de licenciamento.",
-      "data_publicacao": "2026-09-29T09:12:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/cadastro-digital-de-eventos-para-2027-ja-esta-disponivel/",
+      "titulo": "SAAE realiza intervenções no sistema de drenagem em Nova Cidade",
+      "descricao": "O SAAE está substituindo manilhas na Rua Manoel Pedro Freire, limpando caixas de inspeção e trocando tubulações para melhorar o escoamento de águas pluviais. A intervenção busca antecipar problemas na rede de drenagem e reduzir riscos de alagamento na localidade.",
+      "data_publicacao": "2026-09-30T07:11:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/saae-realiza-intervencoes-no-sistema-de-drenagem-em-nova-cidade/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Artigo do ConJur analisa limites recentes para cálculo do ITBI",
-      "descricao": "O artigo examina o entendimento do STJ sobre o uso de valor de referência na base do ITBI e a discussão no STF sobre imunidade na integralização de capital por empresas imobiliárias. O julgamento do STF foi suspenso após pedido de vista e ainda não há tese definida.",
+      "titulo": "Inadimplência no aluguel residencial cai para 4,4% no Rio",
+      "descricao": "Segundo o Índice de Inadimplência de Aluguéis da Loft, a taxa no estado do Rio caiu para 4,4% em setembro, o menor patamar desde junho. O levantamento analisou 500 mil contratos de locação sob gestão da plataforma e registrou queda nacional de 5,87% no mesmo período.",
+      "data_publicacao": "2026-09-29T18:44:00-03:00",
+      "url": "https://odia.ig.com.br/colunas/panorama-imobiliario/2026/09/amp/7307148-inadimplencia-no-aluguel-residencial-cai-para-44-no-rio.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "ITBI entre o STJ e o STF: novos limites da tributação municipal sobre imóveis",
+      "descricao": "A matéria discute os limites da imunidade do ITBI em operações de integralização de imóveis ao capital de empresas e a definição da base de cálculo do imposto. A disputa pode alterar custos de transmissão e decisões de planejamento imobiliário.",
       "data_publicacao": "2026-09-29T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-set-29/itbi-entre-o-stj-e-o-stf-os-novos-limites-da-tributacao-municipal-sobre-imoveis/",
       "fonte": "Consultor Jurídico (ConJur)"
     },
     {
-      "titulo": "Rio das Ostras atualiza o cadastro imobiliário municipal",
-      "descricao": "A Prefeitura começou em Cidade Beira Mar a atualização cadastral baseada em imagens aéreas, georreferenciamento e conferências presenciais, com previsão de integração ao Cadastro Imobiliário Brasileiro. A administração afirma que não haverá mudança na alíquota do IPTU, mas imóveis ampliados sem atualização ou ainda não cadastrados podem ter seus dados e valores revistos.",
-      "data_publicacao": "2026-09-28T17:59:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-no-processo-de-atualizacao-do-cadastro-imobiliario-do-municipio/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Artigo discute crédito de IBS e CBS em arrematação de imóvel",
-      "descricao": "Texto publicado no ConJur questiona a restrição de créditos de IBS e CBS quando uma pessoa fora do regime regular arremata imóvel sujeito ao redutor de ajuste. O autor propõe reconhecer o crédito ou transferir o redutor ao arrematante; trata-se de uma interpretação defendida no artigo, sem decisão judicial definitiva sobre o ponto.",
+      "titulo": "Arrematação em leilão e a negativa de crédito de IBS e CBS",
+      "descricao": "A análise discute a tributação de arrematações imobiliárias sob a LC 214/2025 e o tratamento do crédito quando o comprador não integra o regime regular. Aponta que pagar o tributo sem poder aproveitá-lo pode reduzir a competitividade dos leilões e os valores obtidos na execução.",
       "data_publicacao": "2026-09-28T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-set-28/arrematacao-em-leilao-e-a-negativa-de-credito-de-ibs-e-cbs/",
       "fonte": "Consultor Jurídico (ConJur)"
     },
     {
-      "titulo": "ConJur debate o alcance das hipóteses de não incidência de IBS e CBS",
-      "descricao": "Artigo interpreta o art. 6º da Lei Complementar 214/2025 e defende que a lista de hipóteses de não incidência não é exaustiva. O texto também observa que a sujeição de uma operação ao ITBI ou ao ITCMD não afasta, por si só, a incidência de IBS e CBS.",
+      "titulo": "ConJur debate quem define os limites da incidência do IBS e da CBS",
+      "descricao": "O artigo examina parecer da PGFN sobre as hipóteses de não incidência previstas no art. 6º da LC 214/2025 e discute os limites da interpretação administrativa. Defende que a competência tributária siga os limites constitucionais e legais, sem presumir incidência em toda operação econômica.",
       "data_publicacao": "2026-09-26T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-set-26/reforma-tributaria-quem-define-os-limites-da-incidencia-do-ibs-e-da-cbs/",
       "fonte": "Consultor Jurídico (ConJur)"
     },
     {
-      "titulo": "STJ fixa registro como marco prescricional para doação inoficiosa",
-      "descricao": "No REsp 2.012.027, a Quarta Turma do STJ definiu que o prazo para ação anulatória de doação inoficiosa começa no registro do ato jurídico. O Tribunal também afastou a data de lavratura do testamento como início do prazo para reduzir suas disposições antes do falecimento.",
-      "data_publicacao": "2026-09-24T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/09/24/anoreg-sp-stj-define-registro-do-imovel-como-marco-para-prescricao-de-acao-contra-doacao-inoficiosa/",
-      "fonte": "Colégio Notarial do Brasil – Seção São Paulo (CNB/SP)"
+      "titulo": "Município conclui estudo urbanístico para revisão do Plano Diretor",
+      "descricao": "A equipe municipal de Licenciamento, Habitação e Urbanismo concluiu o estudo técnico que servirá à revisão do Plano Diretor de Rio das Ostras. As diretrizes abrangem uso do solo, habitação, mobilidade e áreas de interesse, e a próxima etapa anunciada é apresentar a proposta em audiência pública.",
+      "data_publicacao": "2026-09-23T16:47:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-conclui-estudo-urbanistico-para-revisao-do-plano-diretor-municipal/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "CNB/CF apresenta balanço de ações e metas do notariado",
-      "descricao": "Em reunião com as seccionais estaduais, o CNB/CF apresentou resultados de janeiro a setembro e alinhou projetos de tecnologia, relações governamentais e área jurídica. Entre os dados divulgados estão 72 entregas do e-Notariado e maior automatização de certidões do Busca Testamento.",
+      "titulo": "Lei 15.509/2026 fixa prazo de cinco anos para sanções administrativas a notários e registradores",
+      "descricao": "A nova lei estabelece prazo prescricional de cinco anos para a aplicação das sanções previstas na Lei dos Notários e Registradores. A análise da regra destaca que o prazo corre da ocorrência do fato, ressalvadas infrações permanentes, e que a incidência sobre processos anteriores ainda pode gerar controvérsia.",
       "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
-      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
     },
     {
-      "titulo": "Assinador Digital reduz prazo de assinatura de títulos imobiliários",
-      "descricao": "Balanço divulgado pelo Registro de Imóveis do Brasil aponta que o prazo médio para reunir assinaturas caiu de 14 dias para menos de 24 horas com o Assinador Digital. Desde o lançamento, a ferramenta processou 18,1 milhões de documentos, dos quais 17,2 milhões foram concluídos e enviados às serventias para qualificação.",
-      "data_publicacao": "2026-09-21T00:00:00-03:00",
-      "url": "https://www.anoregrj.com.br/assinador-digital-ilustra-compromisso-do-ri-com-a-eficiencia/",
-      "fonte": "ANOREG-RJ"
+      "titulo": "MPRJ obtém suspensão de novos licenciamentos previstos na Lei dos Puxadinhos",
+      "descricao": "O Órgão Especial do TJRJ suspendeu a emissão de novas licenças com base nas leis urbanísticas contestadas pelo MPRJ, que alteravam parâmetros de construção e uso do solo na cidade do Rio de Janeiro. A decisão cautelar preserva empreendimentos já licenciados e aguarda o julgamento definitivo da ação.",
+      "data_publicacao": "2026-09-18T11:13:00-03:00",
+      "url": "https://www.mprj.mp.br/web/guest/visualizar?noticiaId=241304",
+      "fonte": "Ministério Público do Estado do Rio de Janeiro (MPRJ)"
     },
     {
-      "titulo": "Podcast do STJ aborda testamentos particulares e novas tecnologias",
-      "descricao": "Episódio do podcast STJ No Seu Dia discute decisão da Terceira Turma sobre requisitos de validade de testamentos particulares e possível flexibilização das formalidades diante de manifestações digitais de vontade. A conversa aborda autoria, assinatura e mecanismos de autenticação como elementos para avaliar a validade do ato.",
+      "titulo": "Alienação de bens pelo espólio e cessão de direitos hereditários: alcance do art. 11-A da Resolução 571/24 do CNJ",
+      "descricao": "O artigo explica que o inventariante pode vender bens móveis ou imóveis do espólio por escritura pública sem alvará judicial, observadas condições para destinar os valores às despesas do inventário. Também distingue a venda de um bem específico da cessão da posição jurídica do herdeiro na herança.",
       "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
-      "fonte": "Colégio Notarial do Brasil – Conselho Federal (CNB/CF)"
+      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
+      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
+    },
+    {
+      "titulo": "Cartórios questionam no STF regras do CNJ sobre garantia de obrigações trabalhistas",
+      "descricao": "A Anoreg ajuizou ação no STF contra regras que exigem que titulares de cartórios indiquem bens livres de ônus para cobrir passivos trabalhistas. A associação sustenta que o provimento cria obrigações patrimoniais sem previsão legal; a discussão segue pendente no Supremo.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cartorios-questionam-no-stf-regras-do-cnj-sobre-garantia-de-obrigacoes-trabalhistas/",
+      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
     }
   ]
 }
