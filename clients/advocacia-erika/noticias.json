@@ -1,110 +1,82 @@
 {
-  "data-busca": "2026-10-01T10:18:27-03:00",
+  "data-busca": "2026-10-02T10:04:21-03:00",
   "noticias": [
     {
-      "titulo": "Análise discute a prescrição disciplinar de notários após a Lei 15.509/26",
-      "descricao": "Artigo publicado pelo RIB-PR examina o prazo de cinco anos criado para sanções disciplinares e o marco inicial contado da ocorrência do fato. O texto compara possíveis interpretações para processos pendentes e aponta que retroatividade, interrupção e prescrição intercorrente ainda suscitam controvérsia.",
+      "titulo": "Holding familiar e tributação: os novos cuidados no planejamento sucessório",
+      "descricao": "A análise reúne os efeitos de ITBI na integralização de imóveis e de ITCMD na doação de quotas a herdeiros. Destaca que a imunidade de ITBI para holdings imobiliárias ainda depende do julgamento do Tema 1.348 do STF e que os valores declarados seguem os parâmetros do Tema 1.113 do STJ.",
       "data_publicacao": "2026-10-01T00:00:00-03:00",
-      "url": "https://ribpr.org.br/noticias/view/a-prescricao-disciplinar-dos-notarios-e-registradores-apos-a-lei-15-509-26",
-      "fonte": "RIB-PR"
+      "url": "https://www.migalhas.com.br/depeso/465605/holding-familiar-e-tributacao-cuidados-no-planejamento-sucessorio?q=&s=LI",
+      "fonte": "Migalhas"
     },
     {
-      "titulo": "RIB-PR publica guia técnico sobre regularização fundiária urbana",
-      "descricao": "A cartilha reúne orientações para registradores sobre as etapas da Reurb, da análise normativa ao registro da Certidão de Regularização Fundiária e à titulação dos beneficiários. O material também aborda georreferenciamento e SIG-RI à luz do Código de Normas Extrajudicial paranaense, cuja vigência está prevista para dezembro.",
+      "titulo": "Guia técnico orienta registradores sobre a regularização fundiária urbana",
+      "descricao": "A cartilha do RIB-PR sistematiza orientações sobre a Reurb, da análise normativa ao registro da Certidão de Regularização Fundiária. O material também trata de titulação, efeitos de gravames e procedimentos iniciados sob a Lei 11.977/2009.",
       "data_publicacao": "2026-09-30T00:00:00-03:00",
       "url": "https://ribpr.org.br/noticias/view/guia-tecnico-para-registradores-sobre-a-regularizacao-fundiaria-urbana",
       "fonte": "RIB-PR"
     },
     {
-      "titulo": "STJ decide que ocupação familiar prolongada não basta para usucapião",
-      "descricao": "A Quarta Turma do STJ negou por unanimidade o pedido de um casal que ocupava havia 29 anos imóvel integrante de herança ainda indivisa. Segundo a notícia do IBDFAM, a ocupação por tolerância familiar não demonstrou, por si só, o ânimo de dono necessário à usucapião extraordinária.",
+      "titulo": "RIB-PR divulga vencedores de concurso de artigos jurídicos sobre registro imobiliário",
+      "descricao": "Três trabalhos de estudantes de Direito foram selecionados para publicação na Revista RIB-PR 2026. Os temas abordam função social do registro, responsabilidade por falhas registrais e concentração de obrigações ambientais na matrícula de imóvel rural.",
       "data_publicacao": "2026-09-30T00:00:00-03:00",
-      "url": "https://ibdfam.org.br/noticias/14287",
-      "fonte": "IBDFAM, com informações do STJ"
-    },
-    {
-      "titulo": "IRIB aborda anuência de confrontantes em retificação de imóvel do Incra",
-      "descricao": "O IRIB Responde publicou consulta sobre a dispensa de anuência de confrontantes em retificação de área ligada ao georreferenciamento de imóvel do Incra. A questão examina o alcance do Decreto 4.449/2002 e as comprovações exigíveis para os imóveis vizinhos.",
-      "data_publicacao": "2026-09-30T00:00:00-03:00",
-      "url": "https://www.irib.org.br/retificacao-de-area-medidas-perimetrais-insercao-incra-confrontante-anuencia-georreferenciamento/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "CSM/SP mantém recusa a hipoteca sobre imóvel indisponível",
-      "descricao": "O Conselho Superior da Magistratura de São Paulo manteve a recusa ao registro de escritura de confissão de dívida com garantia hipotecária quando o imóvel está sujeito a ordens de indisponibilidade. O julgamento distinguiu atos voluntários de disposição e aplicou a regra de que só pode hipotecar o bem quem poderia aliená-lo.",
-      "data_publicacao": "2026-09-30T00:00:00-03:00",
-      "url": "https://www.irib.org.br/confissao-de-divida-hipoteca-indisponibilidade-de-bens-alienacao-voluntaria/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "Doação de imóvel não é revogada apenas por afastamento familiar",
-      "descricao": "A 3ª Vara Cível de Joinville negou pedido para revogar a doação de metade de um imóvel ao filho e à nora, feita com reserva de usufruto. Segundo a notícia do IRIB, o afastamento e a falta de visitas ou apoio emocional não demonstraram a conduta grave exigida para caracterizar ingratidão.",
-      "data_publicacao": "2026-09-30T00:00:00-03:00",
-      "url": "https://www.irib.org.br/doacao-de-imovel-de-pai-para-filho-nao-pode-ser-revogada-por-distanciamento-familiar-e-ingratidao/",
-      "fonte": "IRIB, com informações do TJSC"
-    },
-    {
-      "titulo": "STJ julgará rescisão de contrato com alienação fiduciária sem registro",
-      "descricao": "A Segunda Seção do STJ afetou ao Tema 1.420 a definição sobre aplicar a Lei 9.514/97 ou o Código de Defesa do Consumidor à rescisão de compra e venda de imóvel com alienação fiduciária não registrada. O julgamento repetitivo busca uniformizar entendimentos divergentes; o mérito ainda está pendente.",
-      "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://ribpr.org.br/noticias/view/stj-julgara-rescisao-de-contrato-de-imovel-com-alienacao-sem-registro-em-cartorio",
+      "url": "https://ribpr.org.br/noticias/view/confira-o-resultado-do-concurso-de-artigos-juridicos-do-projeto-escribas-do-saber",
       "fonte": "RIB-PR"
     },
     {
-      "titulo": "Artigo discute NF-e ABI e reforma tributária nas operações imobiliárias",
-      "descricao": "Análise publicada no Migalhas explica a implantação da NF-e ABI, modelo 77, prevista para operações abrangidas a partir de dezembro de 2026. Os autores destacam que o documento fiscal eletrônico não substitui os requisitos civis e registrais para a eficácia dos títulos imobiliários.",
+      "titulo": "ITBI entre o STJ e o STF: novos limites da tributação municipal sobre imóveis",
+      "descricao": "A matéria discute os limites da imunidade do ITBI em operações de integralização de imóveis ao capital de empresas e a definição da base de cálculo do imposto. A disputa pode alterar custos de transmissão e decisões de planejamento imobiliário.",
+      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-29/itbi-entre-o-stj-e-o-stf-os-novos-limites-da-tributacao-municipal-sobre-imoveis/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "Arrematação em leilão e a negativa de crédito de IBS e CBS",
+      "descricao": "A análise discute a tributação de arrematações imobiliárias sob a LC 214/2025 e o tratamento do crédito quando o comprador não integra o regime regular. Aponta que pagar o tributo sem poder aproveitá-lo pode reduzir a competitividade dos leilões e os valores obtidos na execução.",
       "data_publicacao": "2026-09-28T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/465292/nf-e-abi-e-a-nova-fiscalidade-das-operacoes-imobiliarias",
+      "url": "https://conjur.com.br/2026-set-28/arrematacao-em-leilao-e-a-negativa-de-credito-de-ibs-e-cbs/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "Resolução 695/26 e a responsabilidade de notários e registradores pelo ITCMD",
+      "descricao": "O artigo examina se notário ou registrador pode responder subsidiariamente pelo ITCMD não recolhido após a dispensa do pagamento prévio como condição à escritura de inventário extrajudicial. Sustenta que a cobrança permanece dirigida ao contribuinte e depende das regras tributárias estaduais aplicáveis.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/464878/a-resolucao-695-26-e-a-responsabilidade-do-notario-e-do-registrador",
       "fonte": "Migalhas"
     },
     {
-      "titulo": "IRIB questiona regras de notificação postal em usucapião extrajudicial",
-      "descricao": "Publicação do IRIB apresenta consulta sobre como notificar confrontantes pessoas físicas e jurídicas por carta com aviso de recebimento. O debate trata de quem deve assinar o recebimento e da aplicação do art. 407, § 3º, do Provimento CNJ 149/2023.",
-      "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://www.irib.org.br/usucapiao-extrajudicial-confrontante-notificacao-via-postal-qualificacao-registral/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "Impugnação sem prova de posse não barra usucapião extrajudicial",
-      "descricao": "O Conselho Superior da Magistratura de São Paulo afastou a impugnação de uma empresa que não era confrontante, titular de direito real nem possuidora do imóvel. A decisão permitiu a continuidade do procedimento extrajudicial diante da ausência de controvérsia possessória comprovada.",
-      "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://www.26notas.com.br/blog/?p=21110",
-      "fonte": "Blog do 26"
-    },
-    {
-      "titulo": "Adjudicação não corrige vaga de garagem omitida da arrematação",
-      "descricao": "O Conselho Superior da Magistratura de São Paulo manteve a recusa à adjudicação compulsória extrajudicial de vaga de garagem que não constava na carta de arrematação. Como a vaga tem matrícula própria, o caso exige título que a mencione para recompor a cadeia registral.",
-      "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://www.26notas.com.br/blog/?p=21111",
-      "fonte": "Blog do 26"
-    },
-    {
-      "titulo": "Averbação premonitória em ação monitória é cancelada sem título executivo",
-      "descricao": "A 1ª Vara de Registros Públicos de São Paulo determinou o cancelamento de averbação baseada em ação monitória ainda em fase de conhecimento, sem título executivo ou tutela de urgência expressa. A sentença posterior não convalidou o registro considerado nulo; formado o título executivo, uma nova averbação poderá ser requerida.",
-      "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://www.26notas.com.br/blog/?p=21092",
-      "fonte": "Blog do 26"
-    },
-    {
-      "titulo": "Adjudicação extrajudicial exige manifestação de todos os coproprietários",
-      "descricao": "O Conselho da Magistratura de Santa Catarina manteve a recusa a uma adjudicação compulsória extrajudicial baseada em contrato assinado por uma coproprietária, com o outro titular figurando apenas como testemunha. A decisão considerou insuficiente essa assinatura para demonstrar vontade de transferir o imóvel.",
-      "data_publicacao": "2026-09-28T00:00:00-03:00",
-      "url": "https://www.irib.org.br/adjudicacao-compulsoria-extrajudicial-coproprietario-manifestacao-expressa-continuidade-disponibilidade/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "STJ fixa registro como marco da prescrição de doação inoficiosa",
-      "descricao": "No Informativo 902, a Quarta Turma definiu que o prazo para ação anulatória de doação inoficiosa começa no registro do título no Cartório de Imóveis. O STJ também afastou a data de lavratura do testamento como marco para reduzir suas disposições antes do falecimento, quando ainda não há lesão atual à legítima.",
+      "titulo": "Lei 15.509/2026 fixa prazo de cinco anos para sanções administrativas a notários e registradores",
+      "descricao": "A nova lei estabelece prazo prescricional de cinco anos para a aplicação das sanções previstas na Lei dos Notários e Registradores. A análise da regra destaca que o prazo corre da ocorrência do fato, ressalvadas infrações permanentes, e que a incidência sobre processos anteriores ainda pode gerar controvérsia.",
       "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022635",
-      "fonte": "STJ"
+      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
     },
     {
-      "titulo": "Pesquisa aponta distância entre preço pedido e orçamento de compradores",
-      "descricao": "Levantamento da Loft e Offerwise indica que 42% dos compradores em São Paulo buscam imóveis de até R$ 350 mil, ante 31% dos vendedores que esperam negociar nessa faixa. A pesquisa também aponta que 74% dos vendedores aceitariam algum desconto, destacando o peso de preço e crédito nas negociações.",
-      "data_publicacao": "2026-09-23T00:00:00-03:00",
-      "url": "https://portas.com.br/noticias/42-dos-compradores-em-sp-buscam-imoveis-de-ate-r-350-mil-mostra-pesquisa/",
-      "fonte": "Portas"
+      "titulo": "CNB/CF apresenta balanço de ações e resultados em reunião com as seccionais estaduais",
+      "descricao": "O encontro reuniu a diretoria e representantes estaduais para alinhar iniciativas nas áreas de tecnologia, relações governamentais e jurídica. O balanço divulgado inclui entregas do e-Notariado, automatização de certidões e atuação institucional junto ao CNJ e ao Legislativo.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
+    },
+    {
+      "titulo": "Alienação de bens pelo espólio e cessão de direitos hereditários: alcance do art. 11-A da Resolução 571/24 do CNJ",
+      "descricao": "O artigo explica que o inventariante pode vender bens móveis ou imóveis do espólio por escritura pública sem alvará judicial, observadas condições para destinar os valores às despesas do inventário. Também distingue a venda de um bem específico da cessão da posição jurídica do herdeiro na herança.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
+      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
+    },
+    {
+      "titulo": "Cartórios questionam no STF regras do CNJ sobre garantia de obrigações trabalhistas",
+      "descricao": "A Anoreg ajuizou ação no STF contra regras que exigem que titulares de cartórios indiquem bens livres de ônus para cobrir passivos trabalhistas. A associação sustenta que o provimento cria obrigações patrimoniais sem previsão legal; a discussão segue pendente no Supremo.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cartorios-questionam-no-stf-regras-do-cnj-sobre-garantia-de-obrigacoes-trabalhistas/",
+      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
+    },
+    {
+      "titulo": "Ação ajuizada em nome de pessoa falecida não pode ser regularizada com indicação de sucessor",
+      "descricao": "A Quarta Turma do STJ decidiu que uma ação proposta em nome de pessoa já falecida deve ser extinta, pois não havia relação processual válida na data do ajuizamento. O colegiado distinguiu esse caso de uma irregularidade de representação que poderia ser corrigida depois.",
+      "data_publicacao": "2026-09-13T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-13/acao-proposta-em-nome-de-pessoa-falecida-nao-pode-ser-regularizada/",
+      "fonte": "Consultor Jurídico (ConJur)"
     }
   ]
 }

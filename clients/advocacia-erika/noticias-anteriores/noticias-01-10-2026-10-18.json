@@ -1,0 +1,110 @@
+{
+  "data-busca": "2026-10-01T10:18:27-03:00",
+  "noticias": [
+    {
+      "titulo": "Análise discute a prescrição disciplinar de notários após a Lei 15.509/26",
+      "descricao": "Artigo publicado pelo RIB-PR examina o prazo de cinco anos criado para sanções disciplinares e o marco inicial contado da ocorrência do fato. O texto compara possíveis interpretações para processos pendentes e aponta que retroatividade, interrupção e prescrição intercorrente ainda suscitam controvérsia.",
+      "data_publicacao": "2026-10-01T00:00:00-03:00",
+      "url": "https://ribpr.org.br/noticias/view/a-prescricao-disciplinar-dos-notarios-e-registradores-apos-a-lei-15-509-26",
+      "fonte": "RIB-PR"
+    },
+    {
+      "titulo": "RIB-PR publica guia técnico sobre regularização fundiária urbana",
+      "descricao": "A cartilha reúne orientações para registradores sobre as etapas da Reurb, da análise normativa ao registro da Certidão de Regularização Fundiária e à titulação dos beneficiários. O material também aborda georreferenciamento e SIG-RI à luz do Código de Normas Extrajudicial paranaense, cuja vigência está prevista para dezembro.",
+      "data_publicacao": "2026-09-30T00:00:00-03:00",
+      "url": "https://ribpr.org.br/noticias/view/guia-tecnico-para-registradores-sobre-a-regularizacao-fundiaria-urbana",
+      "fonte": "RIB-PR"
+    },
+    {
+      "titulo": "STJ decide que ocupação familiar prolongada não basta para usucapião",
+      "descricao": "A Quarta Turma do STJ negou por unanimidade o pedido de um casal que ocupava havia 29 anos imóvel integrante de herança ainda indivisa. Segundo a notícia do IBDFAM, a ocupação por tolerância familiar não demonstrou, por si só, o ânimo de dono necessário à usucapião extraordinária.",
+      "data_publicacao": "2026-09-30T00:00:00-03:00",
+      "url": "https://ibdfam.org.br/noticias/14287",
+      "fonte": "IBDFAM, com informações do STJ"
+    },
+    {
+      "titulo": "IRIB aborda anuência de confrontantes em retificação de imóvel do Incra",
+      "descricao": "O IRIB Responde publicou consulta sobre a dispensa de anuência de confrontantes em retificação de área ligada ao georreferenciamento de imóvel do Incra. A questão examina o alcance do Decreto 4.449/2002 e as comprovações exigíveis para os imóveis vizinhos.",
+      "data_publicacao": "2026-09-30T00:00:00-03:00",
+      "url": "https://www.irib.org.br/retificacao-de-area-medidas-perimetrais-insercao-incra-confrontante-anuencia-georreferenciamento/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "CSM/SP mantém recusa a hipoteca sobre imóvel indisponível",
+      "descricao": "O Conselho Superior da Magistratura de São Paulo manteve a recusa ao registro de escritura de confissão de dívida com garantia hipotecária quando o imóvel está sujeito a ordens de indisponibilidade. O julgamento distinguiu atos voluntários de disposição e aplicou a regra de que só pode hipotecar o bem quem poderia aliená-lo.",
+      "data_publicacao": "2026-09-30T00:00:00-03:00",
+      "url": "https://www.irib.org.br/confissao-de-divida-hipoteca-indisponibilidade-de-bens-alienacao-voluntaria/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Doação de imóvel não é revogada apenas por afastamento familiar",
+      "descricao": "A 3ª Vara Cível de Joinville negou pedido para revogar a doação de metade de um imóvel ao filho e à nora, feita com reserva de usufruto. Segundo a notícia do IRIB, o afastamento e a falta de visitas ou apoio emocional não demonstraram a conduta grave exigida para caracterizar ingratidão.",
+      "data_publicacao": "2026-09-30T00:00:00-03:00",
+      "url": "https://www.irib.org.br/doacao-de-imovel-de-pai-para-filho-nao-pode-ser-revogada-por-distanciamento-familiar-e-ingratidao/",
+      "fonte": "IRIB, com informações do TJSC"
+    },
+    {
+      "titulo": "STJ julgará rescisão de contrato com alienação fiduciária sem registro",
+      "descricao": "A Segunda Seção do STJ afetou ao Tema 1.420 a definição sobre aplicar a Lei 9.514/97 ou o Código de Defesa do Consumidor à rescisão de compra e venda de imóvel com alienação fiduciária não registrada. O julgamento repetitivo busca uniformizar entendimentos divergentes; o mérito ainda está pendente.",
+      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "url": "https://ribpr.org.br/noticias/view/stj-julgara-rescisao-de-contrato-de-imovel-com-alienacao-sem-registro-em-cartorio",
+      "fonte": "RIB-PR"
+    },
+    {
+      "titulo": "Artigo discute NF-e ABI e reforma tributária nas operações imobiliárias",
+      "descricao": "Análise publicada no Migalhas explica a implantação da NF-e ABI, modelo 77, prevista para operações abrangidas a partir de dezembro de 2026. Os autores destacam que o documento fiscal eletrônico não substitui os requisitos civis e registrais para a eficácia dos títulos imobiliários.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/465292/nf-e-abi-e-a-nova-fiscalidade-das-operacoes-imobiliarias",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "IRIB questiona regras de notificação postal em usucapião extrajudicial",
+      "descricao": "Publicação do IRIB apresenta consulta sobre como notificar confrontantes pessoas físicas e jurídicas por carta com aviso de recebimento. O debate trata de quem deve assinar o recebimento e da aplicação do art. 407, § 3º, do Provimento CNJ 149/2023.",
+      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "url": "https://www.irib.org.br/usucapiao-extrajudicial-confrontante-notificacao-via-postal-qualificacao-registral/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Impugnação sem prova de posse não barra usucapião extrajudicial",
+      "descricao": "O Conselho Superior da Magistratura de São Paulo afastou a impugnação de uma empresa que não era confrontante, titular de direito real nem possuidora do imóvel. A decisão permitiu a continuidade do procedimento extrajudicial diante da ausência de controvérsia possessória comprovada.",
+      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "url": "https://www.26notas.com.br/blog/?p=21110",
+      "fonte": "Blog do 26"
+    },
+    {
+      "titulo": "Adjudicação não corrige vaga de garagem omitida da arrematação",
+      "descricao": "O Conselho Superior da Magistratura de São Paulo manteve a recusa à adjudicação compulsória extrajudicial de vaga de garagem que não constava na carta de arrematação. Como a vaga tem matrícula própria, o caso exige título que a mencione para recompor a cadeia registral.",
+      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "url": "https://www.26notas.com.br/blog/?p=21111",
+      "fonte": "Blog do 26"
+    },
+    {
+      "titulo": "Averbação premonitória em ação monitória é cancelada sem título executivo",
+      "descricao": "A 1ª Vara de Registros Públicos de São Paulo determinou o cancelamento de averbação baseada em ação monitória ainda em fase de conhecimento, sem título executivo ou tutela de urgência expressa. A sentença posterior não convalidou o registro considerado nulo; formado o título executivo, uma nova averbação poderá ser requerida.",
+      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "url": "https://www.26notas.com.br/blog/?p=21092",
+      "fonte": "Blog do 26"
+    },
+    {
+      "titulo": "Adjudicação extrajudicial exige manifestação de todos os coproprietários",
+      "descricao": "O Conselho da Magistratura de Santa Catarina manteve a recusa a uma adjudicação compulsória extrajudicial baseada em contrato assinado por uma coproprietária, com o outro titular figurando apenas como testemunha. A decisão considerou insuficiente essa assinatura para demonstrar vontade de transferir o imóvel.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://www.irib.org.br/adjudicacao-compulsoria-extrajudicial-coproprietario-manifestacao-expressa-continuidade-disponibilidade/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "STJ fixa registro como marco da prescrição de doação inoficiosa",
+      "descricao": "No Informativo 902, a Quarta Turma definiu que o prazo para ação anulatória de doação inoficiosa começa no registro do título no Cartório de Imóveis. O STJ também afastou a data de lavratura do testamento como marco para reduzir suas disposições antes do falecimento, quando ainda não há lesão atual à legítima.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022635",
+      "fonte": "STJ"
+    },
+    {
+      "titulo": "Pesquisa aponta distância entre preço pedido e orçamento de compradores",
+      "descricao": "Levantamento da Loft e Offerwise indica que 42% dos compradores em São Paulo buscam imóveis de até R$ 350 mil, ante 31% dos vendedores que esperam negociar nessa faixa. A pesquisa também aponta que 74% dos vendedores aceitariam algum desconto, destacando o peso de preço e crédito nas negociações.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://portas.com.br/noticias/42-dos-compradores-em-sp-buscam-imoveis-de-ate-r-350-mil-mostra-pesquisa/",
+      "fonte": "Portas"
+    }
+  ]
+}
