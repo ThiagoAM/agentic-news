@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-10-02T10:04:21-03:00",
+  "data-busca": "2026-10-04T10:04:44-03:00",
   "noticias": [
     {
-      "titulo": "Holding familiar e tributação: os novos cuidados no planejamento sucessório",
-      "descricao": "A análise reúne os efeitos de ITBI na integralização de imóveis e de ITCMD na doação de quotas a herdeiros. Destaca que a imunidade de ITBI para holdings imobiliárias ainda depende do julgamento do Tema 1.348 do STF e que os valores declarados seguem os parâmetros do Tema 1.113 do STJ.",
-      "data_publicacao": "2026-10-01T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/465605/holding-familiar-e-tributacao-cuidados-no-planejamento-sucessorio?q=&s=LI",
-      "fonte": "Migalhas"
-    },
-    {
-      "titulo": "Guia técnico orienta registradores sobre a regularização fundiária urbana",
-      "descricao": "A cartilha do RIB-PR sistematiza orientações sobre a Reurb, da análise normativa ao registro da Certidão de Regularização Fundiária. O material também trata de titulação, efeitos de gravames e procedimentos iniciados sob a Lei 11.977/2009.",
-      "data_publicacao": "2026-09-30T00:00:00-03:00",
-      "url": "https://ribpr.org.br/noticias/view/guia-tecnico-para-registradores-sobre-a-regularizacao-fundiaria-urbana",
-      "fonte": "RIB-PR"
-    },
-    {
-      "titulo": "RIB-PR divulga vencedores de concurso de artigos jurídicos sobre registro imobiliário",
-      "descricao": "Três trabalhos de estudantes de Direito foram selecionados para publicação na Revista RIB-PR 2026. Os temas abordam função social do registro, responsabilidade por falhas registrais e concentração de obrigações ambientais na matrícula de imóvel rural.",
-      "data_publicacao": "2026-09-30T00:00:00-03:00",
-      "url": "https://ribpr.org.br/noticias/view/confira-o-resultado-do-concurso-de-artigos-juridicos-do-projeto-escribas-do-saber",
-      "fonte": "RIB-PR"
-    },
-    {
-      "titulo": "ITBI entre o STJ e o STF: novos limites da tributação municipal sobre imóveis",
-      "descricao": "A matéria discute os limites da imunidade do ITBI em operações de integralização de imóveis ao capital de empresas e a definição da base de cálculo do imposto. A disputa pode alterar custos de transmissão e decisões de planejamento imobiliário.",
-      "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-29/itbi-entre-o-stj-e-o-stf-os-novos-limites-da-tributacao-municipal-sobre-imoveis/",
-      "fonte": "Consultor Jurídico (ConJur)"
-    },
-    {
-      "titulo": "Arrematação em leilão e a negativa de crédito de IBS e CBS",
-      "descricao": "A análise discute a tributação de arrematações imobiliárias sob a LC 214/2025 e o tratamento do crédito quando o comprador não integra o regime regular. Aponta que pagar o tributo sem poder aproveitá-lo pode reduzir a competitividade dos leilões e os valores obtidos na execução.",
+      "titulo": "Cessão de direitos de compra e venda não gera ITBI antes da transmissão do imóvel",
+      "descricao": "O Tribunal de Justiça de São Paulo afastou a exigência de ITBI para registrar a cessão de direitos derivados de compromisso de compra e venda, porque a cessão não transfere o domínio do imóvel. A cobrança surge quando o título translativo definitivo é registrado.",
       "data_publicacao": "2026-09-28T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-28/arrematacao-em-leilao-e-a-negativa-de-credito-de-ibs-e-cbs/",
-      "fonte": "Consultor Jurídico (ConJur)"
+      "url": "https://www.26notas.com.br/blog/?p=21135",
+      "fonte": "26º Notas/SP"
     },
     {
-      "titulo": "Resolução 695/26 e a responsabilidade de notários e registradores pelo ITCMD",
-      "descricao": "O artigo examina se notário ou registrador pode responder subsidiariamente pelo ITCMD não recolhido após a dispensa do pagamento prévio como condição à escritura de inventário extrajudicial. Sustenta que a cobrança permanece dirigida ao contribuinte e depende das regras tributárias estaduais aplicáveis.",
-      "data_publicacao": "2026-09-23T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/464878/a-resolucao-695-26-e-a-responsabilidade-do-notario-e-do-registrador",
-      "fonte": "Migalhas"
+      "titulo": "Impugnação sem prova contra a posse não impede usucapião extrajudicial",
+      "descricao": "O Conselho Superior da Magistratura de São Paulo manteve o prosseguimento de usucapião extrajudicial após impugnação de inventariante que não apontou fatos ou provas concretos contra a posse. A decisão considerou que alegações sobre pesquisa patrimonial, credores e sobrepartilha não demonstraram conflito possessório.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://www.26notas.com.br/blog/?p=21137",
+      "fonte": "26º Notas/SP"
     },
     {
-      "titulo": "Lei 15.509/2026 fixa prazo de cinco anos para sanções administrativas a notários e registradores",
-      "descricao": "A nova lei estabelece prazo prescricional de cinco anos para a aplicação das sanções previstas na Lei dos Notários e Registradores. A análise da regra destaca que o prazo corre da ocorrência do fato, ressalvadas infrações permanentes, e que a incidência sobre processos anteriores ainda pode gerar controvérsia.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
-      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
+      "titulo": "TJTO mantém exigência de projeto completo para registrar imóvel de parcelamento rural irregular",
+      "descricao": "O Tribunal de Justiça do Tocantins manteve a exigência de apresentação do projeto completo de loteamento para registrar individualmente imóvel rural oriundo de parcelamento não regularizado. O tribunal entendeu que a medida protege a especialidade e a disponibilidade da matrícula, e que eventual prejuízo pela omissão do poder público deve ser discutido por outra via.",
+      "data_publicacao": "2026-10-02T00:00:00-03:00",
+      "url": "https://www.irib.org.br/imovel-rural-parcelamento-nao-regularizado-loteamento-projeto-ausencia-registro-individualizado-impossibilidade-especialidade-objetiva/",
+      "fonte": "IRIB"
     },
     {
-      "titulo": "CNB/CF apresenta balanço de ações e resultados em reunião com as seccionais estaduais",
-      "descricao": "O encontro reuniu a diretoria e representantes estaduais para alinhar iniciativas nas áreas de tecnologia, relações governamentais e jurídica. O balanço divulgado inclui entregas do e-Notariado, automatização de certidões e atuação institucional junto ao CNJ e ao Legislativo.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
-      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
+      "titulo": "Preços residenciais sobem em agosto, mas valorização anual perde ritmo",
+      "descricao": "O IGMI-R da Abecip avançou 0,87% em agosto, enquanto a valorização acumulada em 12 meses recuou para 14,73% pelo quinto mês consecutivo. A publicação também reportou alta de 5,09% no IVAR da FGV e variações distintas entre as capitais pesquisadas.",
+      "data_publicacao": "2026-10-02T00:00:00-03:00",
+      "url": "https://colegioregistralrs.org.br/noticias/21509/precos-de-imoveis-avancam-mas-em-ritmo-menor/",
+      "fonte": "Colégio Registral do Rio Grande do Sul"
     },
     {
-      "titulo": "Alienação de bens pelo espólio e cessão de direitos hereditários: alcance do art. 11-A da Resolução 571/24 do CNJ",
-      "descricao": "O artigo explica que o inventariante pode vender bens móveis ou imóveis do espólio por escritura pública sem alvará judicial, observadas condições para destinar os valores às despesas do inventário. Também distingue a venda de um bem específico da cessão da posição jurídica do herdeiro na herança.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
-      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
+      "titulo": "TJMS e Incra firmam cooperação para regularizar núcleos urbanos em áreas federais",
+      "descricao": "O Tribunal de Justiça de Mato Grosso do Sul e o Incra firmaram termo de cooperação de cinco anos para regularizar núcleos urbanos consolidados em áreas federais no estado. O acordo prevê a doação das áreas às prefeituras pelo Incra e orientação técnica do tribunal para uso do Programa Lar Legal MS.",
+      "data_publicacao": "2026-10-01T00:00:00-03:00",
+      "url": "https://www.irib.org.br/cooperacao-tecnica-fortalecera-acoes-de-regularizacao-fundiaria-urbana-em-terras-publicas-de-mato-grosso-do-sul/",
+      "fonte": "IRIB"
     },
     {
-      "titulo": "Cartórios questionam no STF regras do CNJ sobre garantia de obrigações trabalhistas",
-      "descricao": "A Anoreg ajuizou ação no STF contra regras que exigem que titulares de cartórios indiquem bens livres de ônus para cobrir passivos trabalhistas. A associação sustenta que o provimento cria obrigações patrimoniais sem previsão legal; a discussão segue pendente no Supremo.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cartorios-questionam-no-stf-regras-do-cnj-sobre-garantia-de-obrigacoes-trabalhistas/",
-      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
+      "titulo": "Integralização de imóvel por sócio em comunhão universal exige escritura pública",
+      "descricao": "O TJDFT confirmou que a integralização de imóvel pertencente ao patrimônio conjugal de sócio casado em comunhão universal exige escritura pública. Para o registro, também pode ser exigida prova do pagamento do ITBI ou o reconhecimento formal de imunidade pela Fazenda.",
+      "data_publicacao": "2026-10-02T00:00:00-03:00",
+      "url": "https://www.irib.org.br/integralizacao-de-capital-social-socio-casado-regime-da-comunhao-universal-de-bens-escritura-publica-necessidade-regularidade-tributaria-exigencia-qualificacao-registral/",
+      "fonte": "IRIB"
     },
     {
-      "titulo": "Ação ajuizada em nome de pessoa falecida não pode ser regularizada com indicação de sucessor",
-      "descricao": "A Quarta Turma do STJ decidiu que uma ação proposta em nome de pessoa já falecida deve ser extinta, pois não havia relação processual válida na data do ajuizamento. O colegiado distinguiu esse caso de uma irregularidade de representação que poderia ser corrigida depois.",
-      "data_publicacao": "2026-09-13T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-13/acao-proposta-em-nome-de-pessoa-falecida-nao-pode-ser-regularizada/",
-      "fonte": "Consultor Jurídico (ConJur)"
+      "titulo": "STJ suspende processos sobre locação de curta temporada em condomínios",
+      "descricao": "O STJ afetou recursos sobre locação de curta temporada em condomínios ao rito dos repetitivos e suspendeu no país os processos que discutem se a destinação residencial basta para impedir locações por plataformas digitais. A tese do Tema 1.443 buscará uniformizar se a convenção precisa trazer proibição expressa.",
+      "data_publicacao": "2026-09-17T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17092026-Airbnb-afetacao-de-repetitivo-sobre-locacao-de-curta-temporada-em-condominios-suspende-processos-em-todo-o-pais.aspx",
+      "fonte": "Superior Tribunal de Justiça (STJ)"
+    },
+    {
+      "titulo": "Afastamento familiar não basta para revogar doação de imóvel por ingratidão",
+      "descricao": "A 3ª Vara Cível de Joinville rejeitou pedido de revogação da doação de metade de um imóvel a filho e nora, por não identificar conduta grave que caracterizasse ingratidão. A sentença registrou que a falta de convivência, visitas ou apoio emocional, por si só, não atende às hipóteses legais de revogação.",
+      "data_publicacao": "2026-09-30T00:00:00-03:00",
+      "url": "https://www.irib.org.br/doacao-de-imovel-de-pai-para-filho-nao-pode-ser-revogada-por-distanciamento-familiar-e-ingratidao/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "STJ decide que ocupação prolongada de imóvel de herança não basta para usucapião",
+      "descricao": "A Quarta Turma do STJ decidiu que morar por décadas em imóvel integrante de herança não basta para usucapião extraordinária quando a ocupação decorre de tolerância familiar e não há posse comprovada como dono. O colegiado destacou que o reconhecimento entre herdeiros depende da demonstração dos requisitos legais, inclusive ausência de oposição.",
+      "data_publicacao": "2026-09-30T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/30092026-ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao.aspx",
+      "fonte": "Superior Tribunal de Justiça (STJ)"
+    },
+    {
+      "titulo": "TJAC impede cartórios de exigir certidões fiscais como condição para atos",
+      "descricao": "A Corregedoria do TJAC publicou provimento que impede cartórios de recusar atos notariais e registrais apenas pela falta de CND, CPEN ou comprovante de quitação de tributos. A norma permite dispensar certidões fiscais em escrituras mediante opção expressa e advertência, sem afastar as obrigações legais de informação fiscal.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.tjac.jus.br/2026/09/corregedoria-do-tjac-proibe-cartorios-de-exigir-certidao-negativa-de-debitos-para-realizar-atos/",
+      "fonte": "Tribunal de Justiça do Acre (TJAC)"
+    },
+    {
+      "titulo": "Agência Brasil reúne orientações para inventário extrajudicial",
+      "descricao": "A Agência Brasil reuniu orientações sobre os documentos e etapas usuais do inventário extrajudicial, incluindo a análise de bens, dívidas, testamento e ITCMD. A matéria ressalta que a documentação varia conforme o patrimônio e as regras locais e que a escritura ainda precisa ser apresentada aos órgãos responsáveis pelos bens.",
+      "data_publicacao": "2026-09-23T14:02:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/saiba-como-dar-entrada-em-inventario-extrajudicial",
+      "fonte": "Agência Brasil"
     }
   ]
 }
