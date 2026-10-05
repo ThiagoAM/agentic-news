@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-10-04T10:04:44-03:00",
+  "data-busca": "2026-10-05T10:15:37-03:00",
   "noticias": [
     {
-      "titulo": "Rio das Ostras atualiza cadastro imobiliário e começa por Cidade Beira Mar",
-      "descricao": "A Prefeitura iniciou em Cidade Beira Mar a atualização do cadastro de imóveis para corrigir divergências nas informações territoriais. As visitas locais estão previstas até 5 de dezembro, e a administração informou que os cadastradores usarão crachá e não solicitarão senhas ou pagamentos.",
+      "titulo": "Rio das Ostras avança na atualização do cadastro imobiliário do Município",
+      "descricao": "A Prefeitura iniciou em Cidade Beira Mar a atualização cadastral, combinando georreferenciamento, levantamento aéreo e conferências presenciais para corrigir divergências sobre os imóveis. O Município informa que os dados apoiarão o planejamento territorial e a integração ao Cadastro Imobiliário Brasileiro.",
       "data_publicacao": "2026-09-28T17:59:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-no-processo-de-atualizacao-do-cadastro-imobiliario-do-municipio/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Fiscalização de transporte autua van sem autorização em Costazul",
-      "descricao": "A fiscalização realizada em 30 de setembro na RJ-106, em Costazul, identificou e autuou uma van que transportava passageiros sem autorização municipal. A Secretaria de Transportes informou que manterá operações para verificar a regularidade do serviço.",
-      "data_publicacao": "2026-10-01T13:04:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/secretaria-de-transporte-realiza-operacao-em-costazul/",
+      "titulo": "Técnicos de Rio das Ostras conhecem tecnologias de geoprocessamento",
+      "descricao": "A equipe de topografia municipal visitou Saquarema para conhecer uma plataforma que reúne informações urbanísticas e territoriais. A Prefeitura relata que a troca abordou dados georreferenciados, zoneamento, ocupação do solo e ferramentas que podem apoiar o planejamento e a tomada de decisões.",
+      "data_publicacao": "2026-09-30T09:39:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/tecnicos-do-municipio-conhecem-tecnologias-de-geoprocessamento/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Ações de manutenção viária seguem em diferentes localidades de Rio das Ostras",
-      "descricao": "Equipes municipais atuaram em Enseada, Cidade Praiana, Nova Aliança, Centro, Cantagalo, Zona Especial de Negócios e Serramar com recomposição de pavimento, patrolamento, limpeza e reparos. A Prefeitura informou que as intervenções integram a rotina de manutenção da infraestrutura urbana.",
-      "data_publicacao": "2026-09-25T13:52:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/acoes-de-manutencao-em-rio-das-ostras-seguem-intensificadas/",
+      "titulo": "Sala do Empreendedor amplia apoio aos pequenos negócios em Rio das Ostras",
+      "descricao": "A Sala do Empreendedor ampliou orientação, consultorias e capacitações para MEIs e pessoas que buscam formalizar ou desenvolver atividades econômicas. A Prefeitura informou que integra serviços municipais e prepara processos digitais de viabilidade e consulta prévia para reduzir burocracia.",
+      "data_publicacao": "2026-09-30T14:07:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/sala-do-empreendedor-amplia-apoio-aos-pequenos-negocios/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Inadimplência no aluguel residencial cai para 4,4% no Rio",
-      "descricao": "A taxa de inadimplência dos aluguéis residenciais no estado do Rio caiu para 4,4% em setembro, menor nível desde junho, segundo o Índice de Inadimplência de Aluguéis da Loft. A reportagem informa que foram analisados 500 mil contratos e que o índice nacional recuou 5,87% no mesmo período.",
-      "data_publicacao": "2026-09-29T18:44:00-03:00",
-      "url": "https://odia.ig.com.br/colunas/panorama-imobiliario/2026/09/amp/7307148-inadimplencia-no-aluguel-residencial-cai-para-44-no-rio.html",
-      "fonte": "O Dia"
+      "titulo": "Morar Carioca entrega mais 96 apartamentos em Santa Cruz e chega a 496 famílias beneficiadas",
+      "descricao": "A Prefeitura do Rio entregou 96 novas unidades do Morar Carioca do Aço, em Santa Cruz, elevando para 496 o total de famílias atendidas pelo conjunto. O projeto inclui, além das moradias, obras de urbanização, drenagem e redes de água e esgoto.",
+      "data_publicacao": "2026-09-13T14:32:00-03:00",
+      "url": "https://temporealrj.com/morar-carioca-apartamentos-santa-cruz-496-familias/",
+      "fonte": "Tempo Real"
     },
     {
-      "titulo": "TJRJ atualiza regras para unidades interligadas de registro civil",
-      "descricao": "O Provimento CGJ/RJ nº 74/2026 reescreveu a disciplina das unidades interligadas para registro de nascimento em estabelecimentos de saúde, com vigência a partir de 1º de outubro. A norma prevê que, sem resposta em até dez minutos de uma serventia do domicílio dos pais situada no RJ, o registro pode ser feito no cartório do local do parto.",
-      "data_publicacao": "2026-10-02T15:37:00-03:00",
-      "url": "https://portaltj.tjrj.jus.br/web/cgj/noticias/noticia/-/visualizar-conteudo/1017893/406896545",
-      "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ)"
+      "titulo": "Apartamentos compactos já representam 35% dos lançamentos imobiliários no Rio em 2026",
+      "descricao": "Levantamento do Sinduscon-Rio, baseado em dados consolidados pela Brain, indica que unidades compactas representaram 35% dos lançamentos imobiliários do Rio nos sete primeiros meses de 2026. A pesquisa também aponta participação de 40% do Minha Casa, Minha Vida nos lançamentos e crescimento do segmento de luxo.",
+      "data_publicacao": "2026-09-13T11:00:00-03:00",
+      "url": "https://temporealrj.com/compactos-imoveis-35-rio/",
+      "fonte": "Tempo Real"
     },
     {
-      "titulo": "ITBI entre STJ e STF: novos limites da tributação municipal sobre imóveis",
-      "descricao": "Artigo compara a tese do STJ no Tema 1.113, sobre a base de cálculo do ITBI, com o julgamento do Tema 1.348 no STF, sobre imunidade na integralização de capital por empresas imobiliárias. Na retomada do julgamento em setembro, cinco ministros acompanharam o relator e dois divergiram; o caso foi suspenso por pedido de vista.",
-      "data_publicacao": "2026-09-29T20:18:00-03:00",
-      "url": "https://conjur.com.br/2026-set-29/itbi-entre-o-stj-e-o-stf-os-novos-limites-da-tributacao-municipal-sobre-imoveis/",
-      "fonte": "Consultor Jurídico (ConJur)"
-    },
-    {
-      "titulo": "Arrematação em leilão e a negativa de crédito de IBS e CBS",
-      "descricao": "Os autores analisam como a LC nº 214/2025 trata o arrematante de imóvel em leilão judicial como contribuinte de IBS e CBS e condiciona o crédito ao regime regular. Eles argumentam que a cobrança sem direito a crédito pode reduzir os lances de compradores ocasionais e afetar o resultado das execuções.",
-      "data_publicacao": "2026-09-28T19:15:00-03:00",
+      "titulo": "Arrematante fora do regime regular deveria ter crédito de IBS e CBS, defende artigo",
+      "descricao": "O artigo examina o tratamento de pessoas físicas que arrematam imóveis e ficam fora do regime regular de IBS e CBS. Sustenta que a perda do redutor de ajuste pode elevar o custo de aquisição e propõe reconhecer o crédito, ainda que de forma diferida.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-set-28/arrematacao-em-leilao-e-a-negativa-de-credito-de-ibs-e-cbs/",
-      "fonte": "Consultor Jurídico (ConJur)"
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Reforma tributária: quem define os limites da incidência do IBS e da CBS?",
-      "descricao": "O artigo examina parecer da PGFN sobre as hipóteses de não incidência do IBS e da CBS previstas no art. 6º da LC nº 214/2025. Defende que os exemplos legais orientam a interpretação, mas que a competência tributária continua limitada pela Constituição e pela lei complementar.",
-      "data_publicacao": "2026-09-26T11:28:00-03:00",
-      "url": "https://conjur.com.br/2026-set-26/reforma-tributaria-quem-define-os-limites-da-incidencia-do-ibs-e-da-cbs/",
-      "fonte": "Consultor Jurídico (ConJur)"
+      "titulo": "ITBI: artigo analisa limites definidos pelo STJ e julgamento pendente no STF",
+      "descricao": "O artigo sustenta que a vedação do STJ ao uso automático de valores de referência e o julgamento no STF delimitam a atuação municipal sobre o ITBI. O voto do relator no STF propôs estender a imunidade à integralização de capital por empresas com atividade imobiliária predominante até o valor integralizado, mas um pedido de vista suspendeu a análise.",
+      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-29/itbi-entre-o-stj-e-o-stf-os-novos-limites-da-tributacao-municipal-sobre-imoveis/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Lei nº 15.509/2026 fixa prazo de cinco anos para sanções administrativas a notários e registradores",
-      "descricao": "A Lei nº 15.509/2026 estabelece prazo prescricional de cinco anos para a aplicação das sanções administrativas previstas para notários e registradores. A cobertura do CNB destaca que o marco inicial é a ocorrência da infração, ressalvadas as infrações permanentes.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
-      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
+      "titulo": "Mudança de uso em locação por inexigibilidade exige nova contratação, defende artigo",
+      "descricao": "O artigo examina a locação direta de imóvel pela Administração Pública com fundamento em inexigibilidade e o efeito de uma mudança substancial de finalidade. Defende que, nesses casos, um termo aditivo pode ser insuficiente e que a nova contratação deve incluir pesquisa de mercado e avaliação do imóvel.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-21/quando-a-mudanca-de-destinacao-transfigura-a-locacao-administrativa/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Alienação de bens pelo espólio e cessão de direitos hereditários: o art. 11-A da Resolução 571/24",
-      "descricao": "O artigo explica que o art. 11-A da Resolução CNJ nº 35/2007 permite ao inventariante alienar bem do espólio por escritura pública sem alvará judicial, vinculando o preço às despesas do inventário e prestando garantia de destinação. Também distingue essa venda da cessão de direitos hereditários, em que o herdeiro transfere sua posição na herança.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
-      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
+      "titulo": "Imóveis irregulares: um problema, várias possibilidades",
+      "descricao": "O artigo reúne situações comuns de irregularidade imobiliária, como falta de registro, contratos particulares, divergências cadastrais, sucessões pendentes e débitos fiscais. Aponta que a solução pode ser judicial, extrajudicial ou administrativa, conforme a origem de cada problema.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
+      "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Artigo propõe abertura extrajudicial consensual de testamento público antes do inventário",
-      "descricao": "Artigo do CNB propõe uma ata notarial de concordância para a abertura extrajudicial de testamento público quando todos os interessados estão de acordo, como etapa anterior ao inventário por escritura. A proposta prevê ciência ao Ministério Público e remessa ao Judiciário se houver dúvida, discordância ou impugnação.",
+      "titulo": "Abertura extrajudicial do testamento público como etapa do inventário por escritura é proposta em artigo",
+      "descricao": "O artigo propõe uma ata notarial para registrar a concordância unânime dos interessados conhecidos e apoiar o inventário extrajudicial após testamento público. Entre as salvaguardas sugeridas estão edital eletrônico na CENSEC por pelo menos 30 dias e remessa ao Judiciário quando houver dúvida, discordância ou impugnação.",
       "data_publicacao": "2026-09-16T00:00:00-03:00",
       "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
-      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Cartórios questionam no STF regras do CNJ sobre garantia de obrigações trabalhistas",
+      "descricao": "A Anoreg ajuizou a ADI 8015 para contestar os artigos do Provimento CNJ 227/2026 que exigem a indicação de bens livres de ônus para cobrir obrigações trabalhistas. A entidade alega que a regra cria exigências patrimoniais sem previsão legal, e o processo foi distribuído ao ministro Flávio Dino.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cartorios-questionam-no-stf-regras-do-cnj-sobre-garantia-de-obrigacoes-trabalhistas/",
+      "fonte": "Colégio Notarial do Brasil"
     }
   ]
 }
