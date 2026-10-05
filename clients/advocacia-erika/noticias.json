@@ -1,82 +1,89 @@
 {
-  "data-busca": "2026-10-04T10:04:44-03:00",
+  "data-busca": "2026-10-05T10:02:33-03:00",
   "noticias": [
     {
-      "titulo": "Cessão de direitos de compra e venda não gera ITBI antes da transmissão do imóvel",
-      "descricao": "O Tribunal de Justiça de São Paulo afastou a exigência de ITBI para registrar a cessão de direitos derivados de compromisso de compra e venda, porque a cessão não transfere o domínio do imóvel. A cobrança surge quando o título translativo definitivo é registrado.",
+      "titulo": "Imóveis irregulares: um problema, várias possibilidades",
+      "descricao": "O artigo reúne situações comuns de irregularidade imobiliária, como falta de registro, contratos particulares, divergências cadastrais, sucessões pendentes e débitos fiscais. Aponta que a solução pode ser judicial, extrajudicial ou administrativa, conforme a origem de cada problema.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Abertura extrajudicial do testamento público como etapa do inventário por escritura é proposta em artigo",
+      "descricao": "O artigo propõe uma ata notarial para registrar a concordância unânime dos interessados conhecidos e apoiar o inventário extrajudicial após testamento público. Entre as salvaguardas sugeridas estão edital eletrônico na CENSEC por pelo menos 30 dias e remessa ao Judiciário quando houver dúvida, discordância ou impugnação.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Cartórios questionam no STF regras do CNJ sobre garantia de obrigações trabalhistas",
+      "descricao": "A Anoreg ajuizou a ADI 8015 para contestar os artigos do Provimento CNJ 227/2026 que exigem a indicação de bens livres de ônus para cobrir obrigações trabalhistas. A entidade alega que a regra cria exigências patrimoniais sem previsão legal, e o processo foi distribuído ao ministro Flávio Dino.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cartorios-questionam-no-stf-regras-do-cnj-sobre-garantia-de-obrigacoes-trabalhistas/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Arrematante fora do regime regular deveria ter crédito de IBS e CBS, defende artigo",
+      "descricao": "O artigo examina o tratamento tributário de pessoas físicas que arrematam imóveis e ficam fora do regime regular de IBS e CBS. Sustenta que a perda do redutor de ajuste pode elevar o custo de aquisição e propõe reconhecer o crédito, ainda que de forma diferida.",
       "data_publicacao": "2026-09-28T00:00:00-03:00",
-      "url": "https://www.26notas.com.br/blog/?p=21135",
-      "fonte": "26º Notas/SP"
+      "url": "https://conjur.com.br/2026-set-28/arrematacao-em-leilao-e-a-negativa-de-credito-de-ibs-e-cbs/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Impugnação sem prova contra a posse não impede usucapião extrajudicial",
-      "descricao": "O Conselho Superior da Magistratura de São Paulo manteve o prosseguimento de usucapião extrajudicial após impugnação de inventariante que não apontou fatos ou provas concretos contra a posse. A decisão considerou que alegações sobre pesquisa patrimonial, credores e sobrepartilha não demonstraram conflito possessório.",
-      "data_publicacao": "2026-09-28T00:00:00-03:00",
-      "url": "https://www.26notas.com.br/blog/?p=21137",
-      "fonte": "26º Notas/SP"
+      "titulo": "ITBI: artigo analisa limites definidos pelo STJ e julgamento pendente no STF",
+      "descricao": "O artigo sustenta que a vedação do STJ ao uso automático de valores de referência e o julgamento no STF delimitam a atuação municipal sobre o ITBI. O voto do relator no STF propôs estender a imunidade à integralização de capital por empresas com atividade imobiliária predominante até o valor integralizado, mas um pedido de vista suspendeu a análise.",
+      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-29/itbi-entre-o-stj-e-o-stf-os-novos-limites-da-tributacao-municipal-sobre-imoveis/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "TJTO mantém exigência de projeto completo para registrar imóvel de parcelamento rural irregular",
-      "descricao": "O Tribunal de Justiça do Tocantins manteve a exigência de apresentação do projeto completo de loteamento para registrar individualmente imóvel rural oriundo de parcelamento não regularizado. O tribunal entendeu que a medida protege a especialidade e a disponibilidade da matrícula, e que eventual prejuízo pela omissão do poder público deve ser discutido por outra via.",
-      "data_publicacao": "2026-10-02T00:00:00-03:00",
-      "url": "https://www.irib.org.br/imovel-rural-parcelamento-nao-regularizado-loteamento-projeto-ausencia-registro-individualizado-impossibilidade-especialidade-objetiva/",
-      "fonte": "IRIB"
+      "titulo": "Mudança de uso em locação por inexigibilidade exige nova contratação, defende artigo",
+      "descricao": "O artigo examina a locação direta de imóvel pela Administração Pública com fundamento em inexigibilidade e o efeito de uma mudança substancial de finalidade. Defende que, nesses casos, um termo aditivo pode ser insuficiente e que a nova contratação deve incluir pesquisa de mercado e avaliação do imóvel.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-21/quando-a-mudanca-de-destinacao-transfigura-a-locacao-administrativa/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Preços residenciais sobem em agosto, mas valorização anual perde ritmo",
-      "descricao": "O IGMI-R da Abecip avançou 0,87% em agosto, enquanto a valorização acumulada em 12 meses recuou para 14,73% pelo quinto mês consecutivo. A publicação também reportou alta de 5,09% no IVAR da FGV e variações distintas entre as capitais pesquisadas.",
-      "data_publicacao": "2026-10-02T00:00:00-03:00",
-      "url": "https://colegioregistralrs.org.br/noticias/21509/precos-de-imoveis-avancam-mas-em-ritmo-menor/",
-      "fonte": "Colégio Registral do Rio Grande do Sul"
+      "titulo": "Cadeia de cessões não gera litisconsórcio necessário em adjudicação compulsória, defende artigo",
+      "descricao": "O artigo diferencia a sequência de cessões de direitos aquisitivos da cadeia dominial do imóvel. Defende que os cessionários podem comprovar a legitimidade para pedir a aquisição sem incluir automaticamente os cedentes intermediários no processo, preservada a continuidade registral em relação ao titular do domínio.",
+      "data_publicacao": "2026-09-18T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-18/adjudicacao-compulsoria-a-cadeia-de-cessoes-nao-e-cadeia-dominial/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "TJMS e Incra firmam cooperação para regularizar núcleos urbanos em áreas federais",
-      "descricao": "O Tribunal de Justiça de Mato Grosso do Sul e o Incra firmaram termo de cooperação de cinco anos para regularizar núcleos urbanos consolidados em áreas federais no estado. O acordo prevê a doação das áreas às prefeituras pelo Incra e orientação técnica do tribunal para uso do Programa Lar Legal MS.",
-      "data_publicacao": "2026-10-01T00:00:00-03:00",
-      "url": "https://www.irib.org.br/cooperacao-tecnica-fortalecera-acoes-de-regularizacao-fundiaria-urbana-em-terras-publicas-de-mato-grosso-do-sul/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "Integralização de imóvel por sócio em comunhão universal exige escritura pública",
-      "descricao": "O TJDFT confirmou que a integralização de imóvel pertencente ao patrimônio conjugal de sócio casado em comunhão universal exige escritura pública. Para o registro, também pode ser exigida prova do pagamento do ITBI ou o reconhecimento formal de imunidade pela Fazenda.",
-      "data_publicacao": "2026-10-02T00:00:00-03:00",
-      "url": "https://www.irib.org.br/integralizacao-de-capital-social-socio-casado-regime-da-comunhao-universal-de-bens-escritura-publica-necessidade-regularidade-tributaria-exigencia-qualificacao-registral/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "STJ suspende processos sobre locação de curta temporada em condomínios",
-      "descricao": "O STJ afetou recursos sobre locação de curta temporada em condomínios ao rito dos repetitivos e suspendeu no país os processos que discutem se a destinação residencial basta para impedir locações por plataformas digitais. A tese do Tema 1.443 buscará uniformizar se a convenção precisa trazer proibição expressa.",
+      "titulo": "STJ suspende processos sobre locação de curta temporada em condomínios para julgar tema repetitivo",
+      "descricao": "A Segunda Seção do STJ afetou os Recursos Especiais 2.272.537 e 2.272.536 ao rito dos repetitivos e suspendeu no país processos sobre locações curtas em condomínios. O tribunal vai decidir se a cláusula de destinação residencial basta para impedir a locação por plataformas digitais ou se é necessária proibição expressa.",
       "data_publicacao": "2026-09-17T07:15:00-03:00",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17092026-Airbnb-afetacao-de-repetitivo-sobre-locacao-de-curta-temporada-em-condominios-suspende-processos-em-todo-o-pais.aspx",
-      "fonte": "Superior Tribunal de Justiça (STJ)"
+      "fonte": "Superior Tribunal de Justiça"
     },
     {
-      "titulo": "Afastamento familiar não basta para revogar doação de imóvel por ingratidão",
-      "descricao": "A 3ª Vara Cível de Joinville rejeitou pedido de revogação da doação de metade de um imóvel a filho e nora, por não identificar conduta grave que caracterizasse ingratidão. A sentença registrou que a falta de convivência, visitas ou apoio emocional, por si só, não atende às hipóteses legais de revogação.",
-      "data_publicacao": "2026-09-30T00:00:00-03:00",
-      "url": "https://www.irib.org.br/doacao-de-imovel-de-pai-para-filho-nao-pode-ser-revogada-por-distanciamento-familiar-e-ingratidao/",
-      "fonte": "IRIB"
+      "titulo": "Rio das Ostras avança na atualização do cadastro imobiliário do Município",
+      "descricao": "A Prefeitura iniciou a atualização cadastral dos imóveis pela localidade de Cidade Beira Mar, combinando georreferenciamento, levantamento aéreo e conferências presenciais. Segundo o Município, os dados devem apoiar o planejamento urbano e a integração ao Cadastro Imobiliário Brasileiro, com correção de informações sobre imóveis e ocupação do solo.",
+      "data_publicacao": "2026-09-28T17:59:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-no-processo-de-atualizacao-do-cadastro-imobiliario-do-municipio/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "STJ decide que ocupação prolongada de imóvel de herança não basta para usucapião",
-      "descricao": "A Quarta Turma do STJ decidiu que morar por décadas em imóvel integrante de herança não basta para usucapião extraordinária quando a ocupação decorre de tolerância familiar e não há posse comprovada como dono. O colegiado destacou que o reconhecimento entre herdeiros depende da demonstração dos requisitos legais, inclusive ausência de oposição.",
-      "data_publicacao": "2026-09-30T07:15:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/30092026-ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao.aspx",
-      "fonte": "Superior Tribunal de Justiça (STJ)"
+      "titulo": "Apartamentos compactos já representam 35% dos lançamentos imobiliários no Rio em 2026",
+      "descricao": "Levantamento do Sinduscon-Rio, baseado em dados consolidados pela Brain, indica que unidades compactas chegaram a 35% dos lançamentos do Rio nos sete primeiros meses de 2026. A pesquisa também aponta participação de 40% do Minha Casa, Minha Vida nos lançamentos e avanço do segmento de luxo.",
+      "data_publicacao": "2026-09-13T11:00:00-03:00",
+      "url": "https://temporealrj.com/compactos-imoveis-35-rio/",
+      "fonte": "Tempo Real"
     },
     {
-      "titulo": "TJAC impede cartórios de exigir certidões fiscais como condição para atos",
-      "descricao": "A Corregedoria do TJAC publicou provimento que impede cartórios de recusar atos notariais e registrais apenas pela falta de CND, CPEN ou comprovante de quitação de tributos. A norma permite dispensar certidões fiscais em escrituras mediante opção expressa e advertência, sem afastar as obrigações legais de informação fiscal.",
-      "data_publicacao": "2026-09-10T00:00:00-03:00",
-      "url": "https://www.tjac.jus.br/2026/09/corregedoria-do-tjac-proibe-cartorios-de-exigir-certidao-negativa-de-debitos-para-realizar-atos/",
-      "fonte": "Tribunal de Justiça do Acre (TJAC)"
+      "titulo": "Mercado imobiliário carioca mantém ritmo de expansão no primeiro semestre",
+      "descricao": "Pesquisa da Brain para a Ademi-RJ registrou 7.294 unidades residenciais vendidas no Rio entre abril e junho, alta de 44,1% ante o mesmo trimestre de 2025. O estudo também apontou valorização anual de 13% no preço médio do metro quadrado em junho e equilíbrio entre lançamentos e vendas no acumulado de 12 meses.",
+      "data_publicacao": "2026-09-23T18:01:00-03:00",
+      "url": "https://oglobo.globo.com/conteudo-de-marca/morar-bem/noticia/2026/09/23/mercado-imobiliario-carioca-mantem-ritmo-de-expansao.ghtml",
+      "fonte": "O Globo - Morar Bem"
     },
     {
-      "titulo": "Agência Brasil reúne orientações para inventário extrajudicial",
-      "descricao": "A Agência Brasil reuniu orientações sobre os documentos e etapas usuais do inventário extrajudicial, incluindo a análise de bens, dívidas, testamento e ITCMD. A matéria ressalta que a documentação varia conforme o patrimônio e as regras locais e que a escritura ainda precisa ser apresentada aos órgãos responsáveis pelos bens.",
-      "data_publicacao": "2026-09-23T14:02:00-03:00",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/saiba-como-dar-entrada-em-inventario-extrajudicial",
-      "fonte": "Agência Brasil"
+      "titulo": "Morar Carioca entrega mais 96 apartamentos em Santa Cruz e chega a 496 famílias beneficiadas",
+      "descricao": "A Prefeitura do Rio entregou 96 novas unidades do Morar Carioca do Aço, em Santa Cruz, ampliando para 496 o número de famílias atendidas pelo conjunto. O projeto informado pela Prefeitura inclui moradias acessíveis e obras de urbanização, drenagem e redes de água e esgoto.",
+      "data_publicacao": "2026-09-13T14:32:00-03:00",
+      "url": "https://temporealrj.com/morar-carioca-apartamentos-santa-cruz-496-familias/",
+      "fonte": "Tempo Real"
     }
   ]
 }

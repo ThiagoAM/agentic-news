@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-04T10:04:44-03:00",
+  "noticias": [
+    {
+      "titulo": "Cessão de direitos de compra e venda não gera ITBI antes da transmissão do imóvel",
+      "descricao": "O Tribunal de Justiça de São Paulo afastou a exigência de ITBI para registrar a cessão de direitos derivados de compromisso de compra e venda, porque a cessão não transfere o domínio do imóvel. A cobrança surge quando o título translativo definitivo é registrado.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://www.26notas.com.br/blog/?p=21135",
+      "fonte": "26º Notas/SP"
+    },
+    {
+      "titulo": "Impugnação sem prova contra a posse não impede usucapião extrajudicial",
+      "descricao": "O Conselho Superior da Magistratura de São Paulo manteve o prosseguimento de usucapião extrajudicial após impugnação de inventariante que não apontou fatos ou provas concretos contra a posse. A decisão considerou que alegações sobre pesquisa patrimonial, credores e sobrepartilha não demonstraram conflito possessório.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://www.26notas.com.br/blog/?p=21137",
+      "fonte": "26º Notas/SP"
+    },
+    {
+      "titulo": "TJTO mantém exigência de projeto completo para registrar imóvel de parcelamento rural irregular",
+      "descricao": "O Tribunal de Justiça do Tocantins manteve a exigência de apresentação do projeto completo de loteamento para registrar individualmente imóvel rural oriundo de parcelamento não regularizado. O tribunal entendeu que a medida protege a especialidade e a disponibilidade da matrícula, e que eventual prejuízo pela omissão do poder público deve ser discutido por outra via.",
+      "data_publicacao": "2026-10-02T00:00:00-03:00",
+      "url": "https://www.irib.org.br/imovel-rural-parcelamento-nao-regularizado-loteamento-projeto-ausencia-registro-individualizado-impossibilidade-especialidade-objetiva/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Preços residenciais sobem em agosto, mas valorização anual perde ritmo",
+      "descricao": "O IGMI-R da Abecip avançou 0,87% em agosto, enquanto a valorização acumulada em 12 meses recuou para 14,73% pelo quinto mês consecutivo. A publicação também reportou alta de 5,09% no IVAR da FGV e variações distintas entre as capitais pesquisadas.",
+      "data_publicacao": "2026-10-02T00:00:00-03:00",
+      "url": "https://colegioregistralrs.org.br/noticias/21509/precos-de-imoveis-avancam-mas-em-ritmo-menor/",
+      "fonte": "Colégio Registral do Rio Grande do Sul"
+    },
+    {
+      "titulo": "TJMS e Incra firmam cooperação para regularizar núcleos urbanos em áreas federais",
+      "descricao": "O Tribunal de Justiça de Mato Grosso do Sul e o Incra firmaram termo de cooperação de cinco anos para regularizar núcleos urbanos consolidados em áreas federais no estado. O acordo prevê a doação das áreas às prefeituras pelo Incra e orientação técnica do tribunal para uso do Programa Lar Legal MS.",
+      "data_publicacao": "2026-10-01T00:00:00-03:00",
+      "url": "https://www.irib.org.br/cooperacao-tecnica-fortalecera-acoes-de-regularizacao-fundiaria-urbana-em-terras-publicas-de-mato-grosso-do-sul/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Integralização de imóvel por sócio em comunhão universal exige escritura pública",
+      "descricao": "O TJDFT confirmou que a integralização de imóvel pertencente ao patrimônio conjugal de sócio casado em comunhão universal exige escritura pública. Para o registro, também pode ser exigida prova do pagamento do ITBI ou o reconhecimento formal de imunidade pela Fazenda.",
+      "data_publicacao": "2026-10-02T00:00:00-03:00",
+      "url": "https://www.irib.org.br/integralizacao-de-capital-social-socio-casado-regime-da-comunhao-universal-de-bens-escritura-publica-necessidade-regularidade-tributaria-exigencia-qualificacao-registral/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "STJ suspende processos sobre locação de curta temporada em condomínios",
+      "descricao": "O STJ afetou recursos sobre locação de curta temporada em condomínios ao rito dos repetitivos e suspendeu no país os processos que discutem se a destinação residencial basta para impedir locações por plataformas digitais. A tese do Tema 1.443 buscará uniformizar se a convenção precisa trazer proibição expressa.",
+      "data_publicacao": "2026-09-17T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17092026-Airbnb-afetacao-de-repetitivo-sobre-locacao-de-curta-temporada-em-condominios-suspende-processos-em-todo-o-pais.aspx",
+      "fonte": "Superior Tribunal de Justiça (STJ)"
+    },
+    {
+      "titulo": "Afastamento familiar não basta para revogar doação de imóvel por ingratidão",
+      "descricao": "A 3ª Vara Cível de Joinville rejeitou pedido de revogação da doação de metade de um imóvel a filho e nora, por não identificar conduta grave que caracterizasse ingratidão. A sentença registrou que a falta de convivência, visitas ou apoio emocional, por si só, não atende às hipóteses legais de revogação.",
+      "data_publicacao": "2026-09-30T00:00:00-03:00",
+      "url": "https://www.irib.org.br/doacao-de-imovel-de-pai-para-filho-nao-pode-ser-revogada-por-distanciamento-familiar-e-ingratidao/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "STJ decide que ocupação prolongada de imóvel de herança não basta para usucapião",
+      "descricao": "A Quarta Turma do STJ decidiu que morar por décadas em imóvel integrante de herança não basta para usucapião extraordinária quando a ocupação decorre de tolerância familiar e não há posse comprovada como dono. O colegiado destacou que o reconhecimento entre herdeiros depende da demonstração dos requisitos legais, inclusive ausência de oposição.",
+      "data_publicacao": "2026-09-30T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/30092026-ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao.aspx",
+      "fonte": "Superior Tribunal de Justiça (STJ)"
+    },
+    {
+      "titulo": "TJAC impede cartórios de exigir certidões fiscais como condição para atos",
+      "descricao": "A Corregedoria do TJAC publicou provimento que impede cartórios de recusar atos notariais e registrais apenas pela falta de CND, CPEN ou comprovante de quitação de tributos. A norma permite dispensar certidões fiscais em escrituras mediante opção expressa e advertência, sem afastar as obrigações legais de informação fiscal.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.tjac.jus.br/2026/09/corregedoria-do-tjac-proibe-cartorios-de-exigir-certidao-negativa-de-debitos-para-realizar-atos/",
+      "fonte": "Tribunal de Justiça do Acre (TJAC)"
+    },
+    {
+      "titulo": "Agência Brasil reúne orientações para inventário extrajudicial",
+      "descricao": "A Agência Brasil reuniu orientações sobre os documentos e etapas usuais do inventário extrajudicial, incluindo a análise de bens, dívidas, testamento e ITCMD. A matéria ressalta que a documentação varia conforme o patrimônio e as regras locais e que a escritura ainda precisa ser apresentada aos órgãos responsáveis pelos bens.",
+      "data_publicacao": "2026-09-23T14:02:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/saiba-como-dar-entrada-em-inventario-extrajudicial",
+      "fonte": "Agência Brasil"
+    }
+  ]
+}
