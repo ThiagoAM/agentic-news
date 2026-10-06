@@ -1,89 +1,89 @@
 {
-  "data-busca": "2026-10-05T10:02:33-03:00",
+  "data-busca": "2026-10-06T10:02:59-03:00",
   "noticias": [
     {
-      "titulo": "Imóveis irregulares: um problema, várias possibilidades",
-      "descricao": "O artigo reúne situações comuns de irregularidade imobiliária, como falta de registro, contratos particulares, divergências cadastrais, sucessões pendentes e débitos fiscais. Aponta que a solução pode ser judicial, extrajudicial ou administrativa, conforme a origem de cada problema.",
-      "data_publicacao": "2026-09-10T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
-      "fonte": "Colégio Notarial do Brasil"
+      "titulo": "STJ voltará a julgar prazo para pedir indenização por vícios em imóveis do SFH",
+      "descricao": "A Corte Especial do STJ deve retomar em 7 de outubro o Tema 1.039, que define o início do prazo para pedidos de indenização do seguro habitacional por vícios de construção em imóveis financiados pelo SFH. Há divergência entre contar o prazo da ciência da recusa de cobertura ou, em certas hipóteses, do encerramento do contrato.",
+      "data_publicacao": "2026-10-05T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/amp/quentes/465911/stj-julgara-prazo-para-pedir-indenizacao-por-vicios-em-imoveis-do-sfh",
+      "fonte": "Migalhas"
     },
     {
-      "titulo": "Abertura extrajudicial do testamento público como etapa do inventário por escritura é proposta em artigo",
-      "descricao": "O artigo propõe uma ata notarial para registrar a concordância unânime dos interessados conhecidos e apoiar o inventário extrajudicial após testamento público. Entre as salvaguardas sugeridas estão edital eletrônico na CENSEC por pelo menos 30 dias e remessa ao Judiciário quando houver dúvida, discordância ou impugnação.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Cartórios questionam no STF regras do CNJ sobre garantia de obrigações trabalhistas",
-      "descricao": "A Anoreg ajuizou a ADI 8015 para contestar os artigos do Provimento CNJ 227/2026 que exigem a indicação de bens livres de ônus para cobrir obrigações trabalhistas. A entidade alega que a regra cria exigências patrimoniais sem previsão legal, e o processo foi distribuído ao ministro Flávio Dino.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cartorios-questionam-no-stf-regras-do-cnj-sobre-garantia-de-obrigacoes-trabalhistas/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Arrematante fora do regime regular deveria ter crédito de IBS e CBS, defende artigo",
-      "descricao": "O artigo examina o tratamento tributário de pessoas físicas que arrematam imóveis e ficam fora do regime regular de IBS e CBS. Sustenta que a perda do redutor de ajuste pode elevar o custo de aquisição e propõe reconhecer o crédito, ainda que de forma diferida.",
-      "data_publicacao": "2026-09-28T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-28/arrematacao-em-leilao-e-a-negativa-de-credito-de-ibs-e-cbs/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "ITBI: artigo analisa limites definidos pelo STJ e julgamento pendente no STF",
-      "descricao": "O artigo sustenta que a vedação do STJ ao uso automático de valores de referência e o julgamento no STF delimitam a atuação municipal sobre o ITBI. O voto do relator no STF propôs estender a imunidade à integralização de capital por empresas com atividade imobiliária predominante até o valor integralizado, mas um pedido de vista suspendeu a análise.",
-      "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-29/itbi-entre-o-stj-e-o-stf-os-novos-limites-da-tributacao-municipal-sobre-imoveis/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Mudança de uso em locação por inexigibilidade exige nova contratação, defende artigo",
-      "descricao": "O artigo examina a locação direta de imóvel pela Administração Pública com fundamento em inexigibilidade e o efeito de uma mudança substancial de finalidade. Defende que, nesses casos, um termo aditivo pode ser insuficiente e que a nova contratação deve incluir pesquisa de mercado e avaliação do imóvel.",
-      "data_publicacao": "2026-09-21T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-21/quando-a-mudanca-de-destinacao-transfigura-a-locacao-administrativa/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Cadeia de cessões não gera litisconsórcio necessário em adjudicação compulsória, defende artigo",
-      "descricao": "O artigo diferencia a sequência de cessões de direitos aquisitivos da cadeia dominial do imóvel. Defende que os cessionários podem comprovar a legitimidade para pedir a aquisição sem incluir automaticamente os cedentes intermediários no processo, preservada a continuidade registral em relação ao titular do domínio.",
-      "data_publicacao": "2026-09-18T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-18/adjudicacao-compulsoria-a-cadeia-de-cessoes-nao-e-cadeia-dominial/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "STJ suspende processos sobre locação de curta temporada em condomínios para julgar tema repetitivo",
-      "descricao": "A Segunda Seção do STJ afetou os Recursos Especiais 2.272.537 e 2.272.536 ao rito dos repetitivos e suspendeu no país processos sobre locações curtas em condomínios. O tribunal vai decidir se a cláusula de destinação residencial basta para impedir a locação por plataformas digitais ou se é necessária proibição expressa.",
-      "data_publicacao": "2026-09-17T07:15:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17092026-Airbnb-afetacao-de-repetitivo-sobre-locacao-de-curta-temporada-em-condominios-suspende-processos-em-todo-o-pais.aspx",
-      "fonte": "Superior Tribunal de Justiça"
+      "titulo": "Inventário extrajudicial sem ITCMD prévio: A boa intenção do CNJ",
+      "descricao": "Artigo de opinião analisa a Resolução 695/26 do CNJ, que permite lavrar inventário e partilha extrajudiciais sem comprovação prévia do recolhimento do ITCMD. O autor questiona como a dispensa se concilia com as regras de responsabilidade dos tabeliães e com a exigência fiscal no registro do imóvel.",
+      "data_publicacao": "2026-10-05T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/amp/depeso/465571/inventario-extrajudicial-sem-itcmd-previo-a-boa-intencao-do-cnj",
+      "fonte": "Migalhas"
     },
     {
       "titulo": "Rio das Ostras avança na atualização do cadastro imobiliário do Município",
-      "descricao": "A Prefeitura iniciou a atualização cadastral dos imóveis pela localidade de Cidade Beira Mar, combinando georreferenciamento, levantamento aéreo e conferências presenciais. Segundo o Município, os dados devem apoiar o planejamento urbano e a integração ao Cadastro Imobiliário Brasileiro, com correção de informações sobre imóveis e ocupação do solo.",
+      "descricao": "A Prefeitura iniciou em Cidade Beira Mar a atualização do cadastro imobiliário para corrigir divergências e conhecer melhor a ocupação do solo. Segundo o Município, o levantamento apoia o planejamento urbano e a integração ao Cadastro Imobiliário Brasileiro e ao sistema nacional territorial.",
       "data_publicacao": "2026-09-28T17:59:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-no-processo-de-atualizacao-do-cadastro-imobiliario-do-municipio/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Apartamentos compactos já representam 35% dos lançamentos imobiliários no Rio em 2026",
-      "descricao": "Levantamento do Sinduscon-Rio, baseado em dados consolidados pela Brain, indica que unidades compactas chegaram a 35% dos lançamentos do Rio nos sete primeiros meses de 2026. A pesquisa também aponta participação de 40% do Minha Casa, Minha Vida nos lançamentos e avanço do segmento de luxo.",
-      "data_publicacao": "2026-09-13T11:00:00-03:00",
-      "url": "https://temporealrj.com/compactos-imoveis-35-rio/",
-      "fonte": "Tempo Real"
+      "titulo": "Matrícula imobiliária e segurança jurídica nas relações patrimoniais",
+      "descricao": "Artigo descreve a matrícula como o registro que reúne identificação do imóvel, titulares, transmissões, ônus e averbações, permitindo consultar sua situação jurídica. O texto discute sua função preventiva em negócios patrimoniais e imobiliários.",
+      "data_publicacao": "2026-09-24T15:39:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/464987/matricula-imobiliaria-e-seguranca-juridica-nas-relacoes-patrimoniais",
+      "fonte": "Migalhas"
     },
     {
-      "titulo": "Mercado imobiliário carioca mantém ritmo de expansão no primeiro semestre",
-      "descricao": "Pesquisa da Brain para a Ademi-RJ registrou 7.294 unidades residenciais vendidas no Rio entre abril e junho, alta de 44,1% ante o mesmo trimestre de 2025. O estudo também apontou valorização anual de 13% no preço médio do metro quadrado em junho e equilíbrio entre lançamentos e vendas no acumulado de 12 meses.",
+      "titulo": "Airbnb: afetação de repetitivo sobre locação de curta temporada em condomínios suspende processos em todo o país",
+      "descricao": "A Segunda Seção do STJ afetou os Recursos Especiais 2.272.537 e 2.272.536 ao rito dos repetitivos e suspendeu processos sobre locações de curta temporada em condomínios. A tese definirá se a destinação residencial basta para vedar a modalidade ou se é necessária proibição expressa na convenção.",
+      "data_publicacao": "2026-09-17T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17092026-Airbnb-afetacao-de-repetitivo-sobre-locacao-de-curta-temporada-em-condominios-suspende-processos-em-todo-o-pais.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Criptomoedas podem ser usadas para pagar obrigações contratuais, e flutuação de valor não é justificativa para invalidar negócio",
+      "descricao": "A Terceira Turma do STJ considerou válida uma cláusula que previa criptomoedas como parte do pagamento em negócios entre particulares, incluindo a compra de um imóvel. A decisão esclareceu que a volatilidade do ativo, por si só, não invalida o ajuste, sem impedir a análise das demais circunstâncias do caso.",
+      "data_publicacao": "2026-09-17T06:55:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17092026-Criptomoedas-podem-ser-usadas-para-pagar-obrigacoes-contratuais--e-flutuacao-de-valor-nao-e-justificativa-para.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Mercado imobiliário carioca mantém ritmo de expansão",
+      "descricao": "Pesquisa da Brain para a Ademi-RJ apontou 7.294 unidades residenciais vendidas na capital entre abril e junho, alta de 44,1% na comparação anual. O levantamento também mostrou aumento de 13% no preço médio do metro quadrado e equilíbrio entre vendas e lançamentos no acumulado de 12 meses.",
       "data_publicacao": "2026-09-23T18:01:00-03:00",
       "url": "https://oglobo.globo.com/conteudo-de-marca/morar-bem/noticia/2026/09/23/mercado-imobiliario-carioca-mantem-ritmo-de-expansao.ghtml",
       "fonte": "O Globo - Morar Bem"
     },
     {
-      "titulo": "Morar Carioca entrega mais 96 apartamentos em Santa Cruz e chega a 496 famílias beneficiadas",
-      "descricao": "A Prefeitura do Rio entregou 96 novas unidades do Morar Carioca do Aço, em Santa Cruz, ampliando para 496 o número de famílias atendidas pelo conjunto. O projeto informado pela Prefeitura inclui moradias acessíveis e obras de urbanização, drenagem e redes de água e esgoto.",
-      "data_publicacao": "2026-09-13T14:32:00-03:00",
-      "url": "https://temporealrj.com/morar-carioca-apartamentos-santa-cruz-496-familias/",
+      "titulo": "Imóvel compacto é a estrela do mercado em 2026 e já representa 35% dos lançamentos do ano; luxo mais que dobrou sua participação no Rio",
+      "descricao": "Dados do Sinduscon-Rio consolidados pela Brain indicam que imóveis compactos responderam por 35% dos lançamentos no Rio nos primeiros sete meses de 2026. O levantamento também aponta recuperação do Minha Casa, Minha Vida e crescimento da participação do segmento de luxo.",
+      "data_publicacao": "2026-09-14T00:00:00-03:00",
+      "url": "https://temporealrj.com/compactos-imoveis-35-rio/",
       "fonte": "Tempo Real"
+    },
+    {
+      "titulo": "Centro Empresarial Arcos da Lapa vai virar residencial com 384 apartamentos, sete lojas no térreo e fachada ativa",
+      "descricao": "A Prefeitura do Rio aprovou a transformação do Centro Empresarial Arcos da Lapa em empreendimento residencial com 384 unidades e sete lojas no térreo. O licenciamento prevê mudança de uso sem demolir a estrutura atual, dentro do programa Reviver Centro; a análise do órgão municipal de patrimônio segue pendente.",
+      "data_publicacao": "2026-09-29T07:26:00-03:00",
+      "url": "https://temporealrj.com/centro-empresarial-arcos-da-lapa-residencial/",
+      "fonte": "Tempo Real"
+    },
+    {
+      "titulo": "Anoreg/BR: Jurisprudência TJ/PR – Integralização de capital social exige escritura pública quando cônjuge coproprietário não é sócio",
+      "descricao": "O TJPR manteve a exigência de escritura pública para transferir a fração de imóvel comum pertencente ao cônjuge coproprietário que não é sócio da empresa. A decisão entendeu que a exceção legal para integralização de capital não abrange essa parcela, ainda que haja anuência no contrato social.",
+      "data_publicacao": "2026-09-25T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/25/anoreg-br-jurisprudencia-tj-pr-integralizacao-de-capital-social-exige-escritura-publica-quando-conjuge-coproprietario-nao-e-socio/",
+      "fonte": "CNB/SP"
+    },
+    {
+      "titulo": "A abertura extrajudicial do testamento público como pressuposto do inventário por escritura: Proposta de ata notarial de concordância testamentária",
+      "descricao": "Artigo propõe uma ata notarial de concordância testamentária para viabilizar inventário extrajudicial quando o testamento público for incontroverso e todos os interessados estiverem de acordo. A proposta prevê ciência ao Ministério Público, edital na CENSEC e envio ao Judiciário em caso de discordância ou dúvida.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Imóveis irregulares: um problema, várias possibilidades",
+      "descricao": "Artigo descreve causas recorrentes de irregularidade imobiliária, como falta de registro, contratos informais, divergências cadastrais e questões sucessórias ou fiscais. O texto apresenta a regularização como medida de proteção jurídica e de acesso a financiamento, compra e venda e garantias.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
+      "fonte": "Colégio Notarial do Brasil"
     }
   ]
 }
