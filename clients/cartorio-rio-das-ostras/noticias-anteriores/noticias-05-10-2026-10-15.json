@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-05T10:15:37-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras avança na atualização do cadastro imobiliário do Município",
+      "descricao": "A Prefeitura iniciou em Cidade Beira Mar a atualização cadastral, combinando georreferenciamento, levantamento aéreo e conferências presenciais para corrigir divergências sobre os imóveis. O Município informa que os dados apoiarão o planejamento territorial e a integração ao Cadastro Imobiliário Brasileiro.",
+      "data_publicacao": "2026-09-28T17:59:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-no-processo-de-atualizacao-do-cadastro-imobiliario-do-municipio/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Técnicos de Rio das Ostras conhecem tecnologias de geoprocessamento",
+      "descricao": "A equipe de topografia municipal visitou Saquarema para conhecer uma plataforma que reúne informações urbanísticas e territoriais. A Prefeitura relata que a troca abordou dados georreferenciados, zoneamento, ocupação do solo e ferramentas que podem apoiar o planejamento e a tomada de decisões.",
+      "data_publicacao": "2026-09-30T09:39:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/tecnicos-do-municipio-conhecem-tecnologias-de-geoprocessamento/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Sala do Empreendedor amplia apoio aos pequenos negócios em Rio das Ostras",
+      "descricao": "A Sala do Empreendedor ampliou orientação, consultorias e capacitações para MEIs e pessoas que buscam formalizar ou desenvolver atividades econômicas. A Prefeitura informou que integra serviços municipais e prepara processos digitais de viabilidade e consulta prévia para reduzir burocracia.",
+      "data_publicacao": "2026-09-30T14:07:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/sala-do-empreendedor-amplia-apoio-aos-pequenos-negocios/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Morar Carioca entrega mais 96 apartamentos em Santa Cruz e chega a 496 famílias beneficiadas",
+      "descricao": "A Prefeitura do Rio entregou 96 novas unidades do Morar Carioca do Aço, em Santa Cruz, elevando para 496 o total de famílias atendidas pelo conjunto. O projeto inclui, além das moradias, obras de urbanização, drenagem e redes de água e esgoto.",
+      "data_publicacao": "2026-09-13T14:32:00-03:00",
+      "url": "https://temporealrj.com/morar-carioca-apartamentos-santa-cruz-496-familias/",
+      "fonte": "Tempo Real"
+    },
+    {
+      "titulo": "Apartamentos compactos já representam 35% dos lançamentos imobiliários no Rio em 2026",
+      "descricao": "Levantamento do Sinduscon-Rio, baseado em dados consolidados pela Brain, indica que unidades compactas representaram 35% dos lançamentos imobiliários do Rio nos sete primeiros meses de 2026. A pesquisa também aponta participação de 40% do Minha Casa, Minha Vida nos lançamentos e crescimento do segmento de luxo.",
+      "data_publicacao": "2026-09-13T11:00:00-03:00",
+      "url": "https://temporealrj.com/compactos-imoveis-35-rio/",
+      "fonte": "Tempo Real"
+    },
+    {
+      "titulo": "Arrematante fora do regime regular deveria ter crédito de IBS e CBS, defende artigo",
+      "descricao": "O artigo examina o tratamento de pessoas físicas que arrematam imóveis e ficam fora do regime regular de IBS e CBS. Sustenta que a perda do redutor de ajuste pode elevar o custo de aquisição e propõe reconhecer o crédito, ainda que de forma diferida.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-28/arrematacao-em-leilao-e-a-negativa-de-credito-de-ibs-e-cbs/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ITBI: artigo analisa limites definidos pelo STJ e julgamento pendente no STF",
+      "descricao": "O artigo sustenta que a vedação do STJ ao uso automático de valores de referência e o julgamento no STF delimitam a atuação municipal sobre o ITBI. O voto do relator no STF propôs estender a imunidade à integralização de capital por empresas com atividade imobiliária predominante até o valor integralizado, mas um pedido de vista suspendeu a análise.",
+      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-29/itbi-entre-o-stj-e-o-stf-os-novos-limites-da-tributacao-municipal-sobre-imoveis/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Mudança de uso em locação por inexigibilidade exige nova contratação, defende artigo",
+      "descricao": "O artigo examina a locação direta de imóvel pela Administração Pública com fundamento em inexigibilidade e o efeito de uma mudança substancial de finalidade. Defende que, nesses casos, um termo aditivo pode ser insuficiente e que a nova contratação deve incluir pesquisa de mercado e avaliação do imóvel.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-21/quando-a-mudanca-de-destinacao-transfigura-a-locacao-administrativa/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Imóveis irregulares: um problema, várias possibilidades",
+      "descricao": "O artigo reúne situações comuns de irregularidade imobiliária, como falta de registro, contratos particulares, divergências cadastrais, sucessões pendentes e débitos fiscais. Aponta que a solução pode ser judicial, extrajudicial ou administrativa, conforme a origem de cada problema.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Abertura extrajudicial do testamento público como etapa do inventário por escritura é proposta em artigo",
+      "descricao": "O artigo propõe uma ata notarial para registrar a concordância unânime dos interessados conhecidos e apoiar o inventário extrajudicial após testamento público. Entre as salvaguardas sugeridas estão edital eletrônico na CENSEC por pelo menos 30 dias e remessa ao Judiciário quando houver dúvida, discordância ou impugnação.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Cartórios questionam no STF regras do CNJ sobre garantia de obrigações trabalhistas",
+      "descricao": "A Anoreg ajuizou a ADI 8015 para contestar os artigos do Provimento CNJ 227/2026 que exigem a indicação de bens livres de ônus para cobrir obrigações trabalhistas. A entidade alega que a regra cria exigências patrimoniais sem previsão legal, e o processo foi distribuído ao ministro Flávio Dino.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cartorios-questionam-no-stf-regras-do-cnj-sobre-garantia-de-obrigacoes-trabalhistas/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

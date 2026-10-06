@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-10-05T10:15:37-03:00",
+  "data-busca": "2026-10-06T10:12:05-03:00",
   "noticias": [
     {
       "titulo": "Rio das Ostras avança na atualização do cadastro imobiliário do Município",
-      "descricao": "A Prefeitura iniciou em Cidade Beira Mar a atualização cadastral, combinando georreferenciamento, levantamento aéreo e conferências presenciais para corrigir divergências sobre os imóveis. O Município informa que os dados apoiarão o planejamento territorial e a integração ao Cadastro Imobiliário Brasileiro.",
+      "descricao": "A Prefeitura iniciou em Cidade Beira Mar a atualização do cadastro imobiliário para corrigir divergências e conhecer melhor a ocupação do solo. Segundo o Município, o levantamento apoia o planejamento urbano e a integração ao Cadastro Imobiliário Brasileiro e ao sistema nacional territorial.",
       "data_publicacao": "2026-09-28T17:59:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-no-processo-de-atualizacao-do-cadastro-imobiliario-do-municipio/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Técnicos de Rio das Ostras conhecem tecnologias de geoprocessamento",
-      "descricao": "A equipe de topografia municipal visitou Saquarema para conhecer uma plataforma que reúne informações urbanísticas e territoriais. A Prefeitura relata que a troca abordou dados georreferenciados, zoneamento, ocupação do solo e ferramentas que podem apoiar o planejamento e a tomada de decisões.",
+      "titulo": "Técnicos conhecem tecnologias de Geoprocessamento",
+      "descricao": "A equipe de Topografia de Rio das Ostras visitou Saquarema para conhecer uma plataforma de informações urbanísticas e territoriais. A troca abordou ferramentas georreferenciadas para apoiar planejamento urbano, zoneamento, análise da ocupação do solo e gestão municipal.",
       "data_publicacao": "2026-09-30T09:39:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/tecnicos-do-municipio-conhecem-tecnologias-de-geoprocessamento/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Sala do Empreendedor amplia apoio aos pequenos negócios em Rio das Ostras",
-      "descricao": "A Sala do Empreendedor ampliou orientação, consultorias e capacitações para MEIs e pessoas que buscam formalizar ou desenvolver atividades econômicas. A Prefeitura informou que integra serviços municipais e prepara processos digitais de viabilidade e consulta prévia para reduzir burocracia.",
+      "titulo": "Sala do Empreendedor amplia apoio aos pequenos negócios",
+      "descricao": "A Prefeitura descreve ações de orientação, capacitação e integração de serviços da Sala do Empreendedor para pequenos negócios locais. Entre os próximos passos estão fluxos digitais de viabilidade e consulta prévia em articulação com outras áreas municipais.",
       "data_publicacao": "2026-09-30T14:07:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/sala-do-empreendedor-amplia-apoio-aos-pequenos-negocios/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Morar Carioca entrega mais 96 apartamentos em Santa Cruz e chega a 496 famílias beneficiadas",
-      "descricao": "A Prefeitura do Rio entregou 96 novas unidades do Morar Carioca do Aço, em Santa Cruz, elevando para 496 o total de famílias atendidas pelo conjunto. O projeto inclui, além das moradias, obras de urbanização, drenagem e redes de água e esgoto.",
-      "data_publicacao": "2026-09-13T14:32:00-03:00",
-      "url": "https://temporealrj.com/morar-carioca-apartamentos-santa-cruz-496-familias/",
-      "fonte": "Tempo Real"
-    },
-    {
-      "titulo": "Apartamentos compactos já representam 35% dos lançamentos imobiliários no Rio em 2026",
-      "descricao": "Levantamento do Sinduscon-Rio, baseado em dados consolidados pela Brain, indica que unidades compactas representaram 35% dos lançamentos imobiliários do Rio nos sete primeiros meses de 2026. A pesquisa também aponta participação de 40% do Minha Casa, Minha Vida nos lançamentos e crescimento do segmento de luxo.",
-      "data_publicacao": "2026-09-13T11:00:00-03:00",
+      "titulo": "Imóvel compacto é a estrela do mercado em 2026 e já representa 35% dos lançamentos do ano; luxo mais que dobrou sua participação no Rio",
+      "descricao": "Dados do Sinduscon-Rio, consolidados pela Brain, indicam que apartamentos compactos responderam por 35% dos lançamentos na cidade do Rio nos primeiros sete meses de 2026. O levantamento também aponta participação de 40% do Minha Casa, Minha Vida e avanço do segmento de luxo.",
+      "data_publicacao": "2026-09-14T00:00:00-03:00",
       "url": "https://temporealrj.com/compactos-imoveis-35-rio/",
       "fonte": "Tempo Real"
     },
     {
-      "titulo": "Arrematante fora do regime regular deveria ter crédito de IBS e CBS, defende artigo",
-      "descricao": "O artigo examina o tratamento de pessoas físicas que arrematam imóveis e ficam fora do regime regular de IBS e CBS. Sustenta que a perda do redutor de ajuste pode elevar o custo de aquisição e propõe reconhecer o crédito, ainda que de forma diferida.",
-      "data_publicacao": "2026-09-28T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-28/arrematacao-em-leilao-e-a-negativa-de-credito-de-ibs-e-cbs/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "ITBI: artigo analisa limites definidos pelo STJ e julgamento pendente no STF",
-      "descricao": "O artigo sustenta que a vedação do STJ ao uso automático de valores de referência e o julgamento no STF delimitam a atuação municipal sobre o ITBI. O voto do relator no STF propôs estender a imunidade à integralização de capital por empresas com atividade imobiliária predominante até o valor integralizado, mas um pedido de vista suspendeu a análise.",
-      "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-29/itbi-entre-o-stj-e-o-stf-os-novos-limites-da-tributacao-municipal-sobre-imoveis/",
-      "fonte": "ConJur"
+      "titulo": "Centro Empresarial Arcos da Lapa vai virar residencial com 384 apartamentos, sete lojas no térreo e fachada ativa",
+      "descricao": "O projeto aprovado para o Centro Empresarial Arcos da Lapa prevê 384 unidades residenciais e sete lojas no térreo, com manutenção da estrutura existente. O licenciamento autoriza mudança de uso dentro do programa Reviver Centro, enquanto a análise do órgão municipal de patrimônio permanecia em andamento na data da publicação.",
+      "data_publicacao": "2026-09-29T07:26:00-03:00",
+      "url": "https://temporealrj.com/centro-empresarial-arcos-da-lapa-residencial/",
+      "fonte": "Tempo Real"
     },
     {
       "titulo": "Mudança de uso em locação por inexigibilidade exige nova contratação, defende artigo",
-      "descricao": "O artigo examina a locação direta de imóvel pela Administração Pública com fundamento em inexigibilidade e o efeito de uma mudança substancial de finalidade. Defende que, nesses casos, um termo aditivo pode ser insuficiente e que a nova contratação deve incluir pesquisa de mercado e avaliação do imóvel.",
+      "descricao": "Artigo jurídico sustenta que a finalidade pública integra o objeto de uma locação direta por inexigibilidade e que uma mudança substancial de uso exige nova contratação. A análise aponta a necessidade de pesquisa de mercado e avaliação do imóvel conforme a Lei 14.133/2021.",
       "data_publicacao": "2026-09-21T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-set-21/quando-a-mudanca-de-destinacao-transfigura-a-locacao-administrativa/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Imóveis irregulares: um problema, várias possibilidades",
-      "descricao": "O artigo reúne situações comuns de irregularidade imobiliária, como falta de registro, contratos particulares, divergências cadastrais, sucessões pendentes e débitos fiscais. Aponta que a solução pode ser judicial, extrajudicial ou administrativa, conforme a origem de cada problema.",
-      "data_publicacao": "2026-09-10T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
-      "fonte": "Colégio Notarial do Brasil"
+      "titulo": "Lista de não incidência do IBS e da CBS na LC 214 é exemplificativa, defende artigo",
+      "descricao": "Artigo jurídico sustenta que a lista de hipóteses de não incidência do IBS e da CBS na Lei Complementar 214/2025 orienta a interpretação, sem excluir outras situações previstas em lei. O texto observa que a sujeição de uma operação ao ITBI ou ao ITCMD não afasta, por si só, os novos tributos.",
+      "data_publicacao": "2026-09-26T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-26/reforma-tributaria-quem-define-os-limites-da-incidencia-do-ibs-e-da-cbs/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Abertura extrajudicial do testamento público como etapa do inventário por escritura é proposta em artigo",
-      "descricao": "O artigo propõe uma ata notarial para registrar a concordância unânime dos interessados conhecidos e apoiar o inventário extrajudicial após testamento público. Entre as salvaguardas sugeridas estão edital eletrônico na CENSEC por pelo menos 30 dias e remessa ao Judiciário quando houver dúvida, discordância ou impugnação.",
+      "titulo": "Renda da curta temporada passa a depender de convenção e tributação, defende artigo",
+      "descricao": "Artigo analisa como a convenção condominial e o regime tributário afetam a exploração recorrente de imóveis por curta temporada. O texto relaciona o tema ao entendimento da Segunda Seção do STJ e à reforma tributária, e observa que a tese ainda será definida no repetitivo Tema 1.443.",
+      "data_publicacao": "2026-10-03T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-03/curta-temporada-o-novo-calculo-do-investimento-imobiliario/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ITCMD e certidões fiscais no registro dos inventários extrajudiciais: Os limites da dispensa do CNJ",
+      "descricao": "Artigo do Colégio Notarial do Brasil examina a Resolução 695/2026 do CNJ e distingue a dispensa do pagamento prévio do ITCMD para lavrar a escritura da fiscalização tributária na etapa de registro imobiliário. O texto também discute o tratamento das certidões fiscais pessoais do espólio.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/itcmd-e-certidoes-fiscais-no-registro-dos-inventarios-extrajudiciais-os-limites-da-dispensa-do-cnj/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    },
+    {
+      "titulo": "A abertura extrajudicial do testamento público como pressuposto do inventário por escritura: Proposta de ata notarial de concordância testamentária",
+      "descricao": "Artigo do Colégio Notarial propõe uma ata de concordância testamentária para inventário extrajudicial quando o testamento público for incontroverso e todos os interessados estiverem de acordo. Entre as salvaguardas sugeridas estão a ciência ao Ministério Público, um edital na CENSEC e o envio ao Judiciário em caso de dúvida ou discordância.",
       "data_publicacao": "2026-09-16T00:00:00-03:00",
       "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
-      "fonte": "Colégio Notarial do Brasil"
+      "fonte": "Colégio Notarial do Brasil (CNB)"
     },
     {
-      "titulo": "Cartórios questionam no STF regras do CNJ sobre garantia de obrigações trabalhistas",
-      "descricao": "A Anoreg ajuizou a ADI 8015 para contestar os artigos do Provimento CNJ 227/2026 que exigem a indicação de bens livres de ônus para cobrir obrigações trabalhistas. A entidade alega que a regra cria exigências patrimoniais sem previsão legal, e o processo foi distribuído ao ministro Flávio Dino.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cartorios-questionam-no-stf-regras-do-cnj-sobre-garantia-de-obrigacoes-trabalhistas/",
-      "fonte": "Colégio Notarial do Brasil"
+      "titulo": "Imóveis irregulares: um problema, várias possibilidades",
+      "descricao": "Artigo do Colégio Notarial descreve causas recorrentes de irregularidade imobiliária, como falta de registro, contratos informais, divergências cadastrais e pendências sucessórias ou fiscais. O texto discute a regularização e seus efeitos para o acesso ao mercado formal, a financiamentos e a garantias.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
     }
   ]
 }
