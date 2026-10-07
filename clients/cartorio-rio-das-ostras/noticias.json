@@ -1,54 +1,33 @@
 {
-  "data-busca": "2026-10-06T10:12:05-03:00",
+  "data-busca": "2026-10-07T10:07:06-03:00",
   "noticias": [
     {
-      "titulo": "Rio das Ostras avança na atualização do cadastro imobiliário do Município",
-      "descricao": "A Prefeitura iniciou em Cidade Beira Mar a atualização do cadastro imobiliário para corrigir divergências e conhecer melhor a ocupação do solo. Segundo o Município, o levantamento apoia o planejamento urbano e a integração ao Cadastro Imobiliário Brasileiro e ao sistema nacional territorial.",
-      "data_publicacao": "2026-09-28T17:59:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-no-processo-de-atualizacao-do-cadastro-imobiliario-do-municipio/",
+      "titulo": "IVAR sobe 0,28% em setembro",
+      "descricao": "O Índice de Variação de Aluguéis Residenciais (IVAR) da FGV IBRE avançou 0,28% no país em setembro, e a variação acumulada em 12 meses ficou em 5,08%. No Rio de Janeiro, os aluguéis residenciais subiram, em média, 0,45% no mês e 5,77% em 12 meses.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://portalibre.fgv.br/noticias/ivar-sobe-028-em-setembro",
+      "fonte": "FGV IBRE"
+    },
+    {
+      "titulo": "Núcleo Pedagógico abre inscrições para dois novos cursos",
+      "descricao": "A Prefeitura de Rio das Ostras abriu inscrições para duas capacitações gratuitas: uma formação on-line de leitura em espanhol e um encontro presencial sobre o uso de resultados de avaliações no planejamento pedagógico. A atividade presencial está marcada para 29 de outubro no Núcleo de Gestão Pedagógica.",
+      "data_publicacao": "2026-10-06T13:49:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/nucleo-pedagogico-abre-inscricoes-para-dois-novos-cursos/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Técnicos conhecem tecnologias de Geoprocessamento",
-      "descricao": "A equipe de Topografia de Rio das Ostras visitou Saquarema para conhecer uma plataforma de informações urbanísticas e territoriais. A troca abordou ferramentas georreferenciadas para apoiar planejamento urbano, zoneamento, análise da ocupação do solo e gestão municipal.",
-      "data_publicacao": "2026-09-30T09:39:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/tecnicos-do-municipio-conhecem-tecnologias-de-geoprocessamento/",
+      "titulo": "Rio das Ostras inicia plantio de milho e feijão em Cantagalo",
+      "descricao": "A Prefeitura iniciou o plantio de milho e feijão em Cantagalo, na área rural de Rio das Ostras, com assistência técnica e apoio de máquinas aos produtores. Parte das sementes de feijão veio da Pesagro-Rio, e a produção também poderá abastecer plantios municipais no próximo ciclo.",
+      "data_publicacao": "2026-10-06T09:15:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-plantio-de-milho-e-feijao-em-cantagalo/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Sala do Empreendedor amplia apoio aos pequenos negócios",
-      "descricao": "A Prefeitura descreve ações de orientação, capacitação e integração de serviços da Sala do Empreendedor para pequenos negócios locais. Entre os próximos passos estão fluxos digitais de viabilidade e consulta prévia em articulação com outras áreas municipais.",
-      "data_publicacao": "2026-09-30T14:07:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/sala-do-empreendedor-amplia-apoio-aos-pequenos-negocios/",
+      "titulo": "Vestibular Cederj: inscrições até 29 de outubro",
+      "descricao": "O Vestibular Cederj 2027/1 oferece 7.165 vagas gratuitas em 16 cursos de graduação, com 55 vagas previstas para o polo de Rio das Ostras. As inscrições vão até 29 de outubro; a oferta local inclui Tecnologia em Gestão de Turismo e Design Gráfico.",
+      "data_publicacao": "2026-10-05T15:38:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/vestibular-cederj-inscricoes-ate-29-de-outubro/",
       "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Imóvel compacto é a estrela do mercado em 2026 e já representa 35% dos lançamentos do ano; luxo mais que dobrou sua participação no Rio",
-      "descricao": "Dados do Sinduscon-Rio, consolidados pela Brain, indicam que apartamentos compactos responderam por 35% dos lançamentos na cidade do Rio nos primeiros sete meses de 2026. O levantamento também aponta participação de 40% do Minha Casa, Minha Vida e avanço do segmento de luxo.",
-      "data_publicacao": "2026-09-14T00:00:00-03:00",
-      "url": "https://temporealrj.com/compactos-imoveis-35-rio/",
-      "fonte": "Tempo Real"
-    },
-    {
-      "titulo": "Centro Empresarial Arcos da Lapa vai virar residencial com 384 apartamentos, sete lojas no térreo e fachada ativa",
-      "descricao": "O projeto aprovado para o Centro Empresarial Arcos da Lapa prevê 384 unidades residenciais e sete lojas no térreo, com manutenção da estrutura existente. O licenciamento autoriza mudança de uso dentro do programa Reviver Centro, enquanto a análise do órgão municipal de patrimônio permanecia em andamento na data da publicação.",
-      "data_publicacao": "2026-09-29T07:26:00-03:00",
-      "url": "https://temporealrj.com/centro-empresarial-arcos-da-lapa-residencial/",
-      "fonte": "Tempo Real"
-    },
-    {
-      "titulo": "Mudança de uso em locação por inexigibilidade exige nova contratação, defende artigo",
-      "descricao": "Artigo jurídico sustenta que a finalidade pública integra o objeto de uma locação direta por inexigibilidade e que uma mudança substancial de uso exige nova contratação. A análise aponta a necessidade de pesquisa de mercado e avaliação do imóvel conforme a Lei 14.133/2021.",
-      "data_publicacao": "2026-09-21T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-21/quando-a-mudanca-de-destinacao-transfigura-a-locacao-administrativa/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Lista de não incidência do IBS e da CBS na LC 214 é exemplificativa, defende artigo",
-      "descricao": "Artigo jurídico sustenta que a lista de hipóteses de não incidência do IBS e da CBS na Lei Complementar 214/2025 orienta a interpretação, sem excluir outras situações previstas em lei. O texto observa que a sujeição de uma operação ao ITBI ou ao ITCMD não afasta, por si só, os novos tributos.",
-      "data_publicacao": "2026-09-26T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-26/reforma-tributaria-quem-define-os-limites-da-incidencia-do-ibs-e-da-cbs/",
-      "fonte": "ConJur"
     },
     {
       "titulo": "Renda da curta temporada passa a depender de convenção e tributação, defende artigo",
@@ -58,25 +37,46 @@
       "fonte": "ConJur"
     },
     {
-      "titulo": "ITCMD e certidões fiscais no registro dos inventários extrajudiciais: Os limites da dispensa do CNJ",
-      "descricao": "Artigo do Colégio Notarial do Brasil examina a Resolução 695/2026 do CNJ e distingue a dispensa do pagamento prévio do ITCMD para lavrar a escritura da fiscalização tributária na etapa de registro imobiliário. O texto também discute o tratamento das certidões fiscais pessoais do espólio.",
-      "data_publicacao": "2026-09-10T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/itcmd-e-certidoes-fiscais-no-registro-dos-inventarios-extrajudiciais-os-limites-da-dispensa-do-cnj/",
-      "fonte": "Colégio Notarial do Brasil (CNB)"
+      "titulo": "Inadimplência no aluguel residencial cai para 4,4% no Rio",
+      "descricao": "A taxa de inadimplência no aluguel residencial no estado do Rio de Janeiro recuou para 4,4% em setembro, o menor nível desde junho, segundo o Índice de Inadimplência de Aluguéis da Loft. O levantamento analisou 500 mil contratos no país e considera atrasos superiores a 15 dias, com uma janela de três meses para comunicação.",
+      "data_publicacao": "2026-09-29T18:44:00-03:00",
+      "url": "https://odia.ig.com.br/colunas/panorama-imobiliario/2026/09/amp/7307148-inadimplencia-no-aluguel-residencial-cai-para-44-no-rio.html",
+      "fonte": "O Dia"
     },
     {
-      "titulo": "A abertura extrajudicial do testamento público como pressuposto do inventário por escritura: Proposta de ata notarial de concordância testamentária",
-      "descricao": "Artigo do Colégio Notarial propõe uma ata de concordância testamentária para inventário extrajudicial quando o testamento público for incontroverso e todos os interessados estiverem de acordo. Entre as salvaguardas sugeridas estão a ciência ao Ministério Público, um edital na CENSEC e o envio ao Judiciário em caso de dúvida ou discordância.",
+      "titulo": "Lista de não incidência do IBS e da CBS na LC 214 é exemplificativa, defende artigo",
+      "descricao": "Artigo jurídico sustenta que a lista de hipóteses de não incidência do IBS e da CBS na Lei Complementar 214/2025 orienta a interpretação, sem excluir outras situações previstas em lei. O texto observa que a sujeição de uma operação ao ITBI ou ao ITCMD não afasta, por si só, os novos tributos.",
+      "data_publicacao": "2026-09-26T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-26/reforma-tributaria-quem-define-os-limites-da-incidencia-do-ibs-e-da-cbs/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Lei nº 15.509/2026 fixa em cinco anos prazo prescricional para sanções administrativas a notários e registradores",
+      "descricao": "A Lei nº 15.509/2026 estabeleceu prazo prescricional de cinco anos para a aplicação de sanções administrativas a notários e registradores, segundo a notícia do Colégio Notarial do Brasil. A norma foi publicada no Diário Oficial da União em 22 de setembro.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
+    },
+    {
+      "titulo": "Entenda como o pagamento prévio do ITCMD descomplica a partilha de bens",
+      "descricao": "O Conselho Nacional de Justiça decidiu que a escritura extrajudicial de inventário e partilha pode ser lavrada sem o pagamento prévio do ITCMD, após pedido do Colégio Notarial do Brasil – Conselho Federal. O imposto continua devido conforme as regras estaduais, que também determinam seu prazo e forma de recolhimento.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://www.cnj.jus.br/entenda-como-o-pagamento-previo-do-itcmd-descomplica-a-partilha-de-bens/",
+      "fonte": "Conselho Nacional de Justiça (CNJ)"
+    },
+    {
+      "titulo": "Mudança de uso em locação por inexigibilidade exige nova contratação, defende artigo",
+      "descricao": "Artigo jurídico sustenta que a finalidade pública integra o objeto de uma locação direta por inexigibilidade e que uma mudança substancial de uso exige nova contratação. A análise aponta a necessidade de pesquisa de mercado e avaliação do imóvel conforme a Lei 14.133/2021.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-21/quando-a-mudanca-de-destinacao-transfigura-a-locacao-administrativa/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Alienação de bens pelo espólio e cessão de direitos hereditários: O que muda com o art. 11-A da resolução 571/24 do CNJ",
+      "descricao": "Artigo do CNB/CF explica que o art. 11-A da Resolução CNJ 571/2024 permite ao inventariante alienar bens do espólio por escritura pública, sem alvará judicial, para custear despesas do inventário e sob requisitos específicos. O texto diferencia essa venda da cessão de direitos hereditários, que transfere a posição jurídica do herdeiro e exige forma pública.",
       "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
-      "fonte": "Colégio Notarial do Brasil (CNB)"
-    },
-    {
-      "titulo": "Imóveis irregulares: um problema, várias possibilidades",
-      "descricao": "Artigo do Colégio Notarial descreve causas recorrentes de irregularidade imobiliária, como falta de registro, contratos informais, divergências cadastrais e pendências sucessórias ou fiscais. O texto discute a regularização e seus efeitos para o acesso ao mercado formal, a financiamentos e a garantias.",
-      "data_publicacao": "2026-09-10T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
-      "fonte": "Colégio Notarial do Brasil (CNB)"
+      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
+      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
     }
   ]
 }
