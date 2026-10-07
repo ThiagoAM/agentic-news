@@ -1,89 +1,82 @@
 {
-  "data-busca": "2026-10-06T10:02:59-03:00",
+  "data-busca": "2026-10-07T10:07:06-03:00",
   "noticias": [
     {
-      "titulo": "STJ voltará a julgar prazo para pedir indenização por vícios em imóveis do SFH",
-      "descricao": "A Corte Especial do STJ deve retomar em 7 de outubro o Tema 1.039, que define o início do prazo para pedidos de indenização do seguro habitacional por vícios de construção em imóveis financiados pelo SFH. Há divergência entre contar o prazo da ciência da recusa de cobertura ou, em certas hipóteses, do encerramento do contrato.",
+      "titulo": "Bancos automatizarão financiamento de imóvel",
+      "descricao": "Bancos e ONR firmaram acordo para integrar consultas registrais ao fluxo de financiamento imobiliário, automatizando verificações sobre titularidade, ônus e registro das garantias. O sistema está em desenvolvimento e o ONR informou que pretende iniciar testes da integração em fevereiro.",
+      "data_publicacao": "2026-10-06T00:00:00-03:00",
+      "url": "https://www.onr.org.br/bancos-automatizarao-financiamento-de-imovel/",
+      "fonte": "Operador Nacional do Sistema de Registro Eletrônico de Imóveis (ONR)"
+    },
+    {
+      "titulo": "Família obtém autorização para permanecer em imóvel público",
+      "descricao": "A Justiça de Aparecida de Goiânia autorizou uma família que ocupava há décadas um imóvel público a permanecer no local por meio de concessão de uso especial para fins de moradia. A decisão considerou os requisitos legais e proibiu atos de desocupação ou demolição enquanto se busca o reconhecimento definitivo do direito.",
+      "data_publicacao": "2026-10-06T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/familia-obtem-autorizacao-para-permanecer-em-imovel-publico",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Financiamento imobiliário via poupança avança em 2026",
+      "descricao": "Dados da Abecip mostram que o volume de crédito imobiliário do SBPE chegou a R$ 16,97 bilhões em agosto, 46,6% acima do mesmo mês de 2025. No acumulado de janeiro a agosto, os financiamentos somaram R$ 132,5 bilhões, alta anual de 37%, apesar da retirada de recursos da poupança.",
       "data_publicacao": "2026-10-05T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/amp/quentes/465911/stj-julgara-prazo-para-pedir-indenizacao-por-vicios-em-imoveis-do-sfh",
+      "url": "https://www.registrodeimoveis.org.br/financiamento-imobiliario-via-poupanca-avanca-em-2026",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Ocupação prolongada de imóvel por herdeiro não basta para usucapião",
+      "descricao": "O STJ decidiu que a permanência prolongada em imóvel de família, por si só, não comprova posse com intenção de dono para usucapião extraordinária. No caso, a propriedade integrava herança ainda não partilhada e havia oposição de outros herdeiros.",
+      "data_publicacao": "2026-09-30T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30092026-Ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao.aspx",
+      "fonte": "Superior Tribunal de Justiça (STJ)"
+    },
+    {
+      "titulo": "NF-e ABI e a nova fiscalidade das operações imobiliárias",
+      "descricao": "Análise publicada no Migalhas examina a NF-e ABI, modelo fiscal eletrônico previsto para operações imobiliárias, e os efeitos da reforma do consumo sobre a documentação dessas transações. O texto distingue a emissão fiscal da escritura e do registro imobiliário, que seguem necessários conforme a natureza do negócio; a obrigatoriedade está prevista para 1º de dezembro de 2026.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/465292/nf-e-abi-e-a-nova-fiscalidade-das-operacoes-imobiliarias",
       "fonte": "Migalhas"
     },
     {
-      "titulo": "Inventário extrajudicial sem ITCMD prévio: A boa intenção do CNJ",
-      "descricao": "Artigo de opinião analisa a Resolução 695/26 do CNJ, que permite lavrar inventário e partilha extrajudiciais sem comprovação prévia do recolhimento do ITCMD. O autor questiona como a dispensa se concilia com as regras de responsabilidade dos tabeliães e com a exigência fiscal no registro do imóvel.",
-      "data_publicacao": "2026-10-05T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/amp/depeso/465571/inventario-extrajudicial-sem-itcmd-previo-a-boa-intencao-do-cnj",
-      "fonte": "Migalhas"
-    },
-    {
-      "titulo": "Rio das Ostras avança na atualização do cadastro imobiliário do Município",
-      "descricao": "A Prefeitura iniciou em Cidade Beira Mar a atualização do cadastro imobiliário para corrigir divergências e conhecer melhor a ocupação do solo. Segundo o Município, o levantamento apoia o planejamento urbano e a integração ao Cadastro Imobiliário Brasileiro e ao sistema nacional territorial.",
-      "data_publicacao": "2026-09-28T17:59:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-no-processo-de-atualizacao-do-cadastro-imobiliario-do-municipio/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Matrícula imobiliária e segurança jurídica nas relações patrimoniais",
-      "descricao": "Artigo descreve a matrícula como o registro que reúne identificação do imóvel, titulares, transmissões, ônus e averbações, permitindo consultar sua situação jurídica. O texto discute sua função preventiva em negócios patrimoniais e imobiliários.",
-      "data_publicacao": "2026-09-24T15:39:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/464987/matricula-imobiliaria-e-seguranca-juridica-nas-relacoes-patrimoniais",
-      "fonte": "Migalhas"
-    },
-    {
-      "titulo": "Airbnb: afetação de repetitivo sobre locação de curta temporada em condomínios suspende processos em todo o país",
-      "descricao": "A Segunda Seção do STJ afetou os Recursos Especiais 2.272.537 e 2.272.536 ao rito dos repetitivos e suspendeu processos sobre locações de curta temporada em condomínios. A tese definirá se a destinação residencial basta para vedar a modalidade ou se é necessária proibição expressa na convenção.",
-      "data_publicacao": "2026-09-17T07:15:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17092026-Airbnb-afetacao-de-repetitivo-sobre-locacao-de-curta-temporada-em-condominios-suspende-processos-em-todo-o-pais.aspx",
-      "fonte": "Superior Tribunal de Justiça"
-    },
-    {
-      "titulo": "Criptomoedas podem ser usadas para pagar obrigações contratuais, e flutuação de valor não é justificativa para invalidar negócio",
-      "descricao": "A Terceira Turma do STJ considerou válida uma cláusula que previa criptomoedas como parte do pagamento em negócios entre particulares, incluindo a compra de um imóvel. A decisão esclareceu que a volatilidade do ativo, por si só, não invalida o ajuste, sem impedir a análise das demais circunstâncias do caso.",
-      "data_publicacao": "2026-09-17T06:55:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17092026-Criptomoedas-podem-ser-usadas-para-pagar-obrigacoes-contratuais--e-flutuacao-de-valor-nao-e-justificativa-para.aspx",
-      "fonte": "Superior Tribunal de Justiça"
-    },
-    {
-      "titulo": "Mercado imobiliário carioca mantém ritmo de expansão",
-      "descricao": "Pesquisa da Brain para a Ademi-RJ apontou 7.294 unidades residenciais vendidas na capital entre abril e junho, alta de 44,1% na comparação anual. O levantamento também mostrou aumento de 13% no preço médio do metro quadrado e equilíbrio entre vendas e lançamentos no acumulado de 12 meses.",
-      "data_publicacao": "2026-09-23T18:01:00-03:00",
-      "url": "https://oglobo.globo.com/conteudo-de-marca/morar-bem/noticia/2026/09/23/mercado-imobiliario-carioca-mantem-ritmo-de-expansao.ghtml",
-      "fonte": "O Globo - Morar Bem"
-    },
-    {
-      "titulo": "Imóvel compacto é a estrela do mercado em 2026 e já representa 35% dos lançamentos do ano; luxo mais que dobrou sua participação no Rio",
-      "descricao": "Dados do Sinduscon-Rio consolidados pela Brain indicam que imóveis compactos responderam por 35% dos lançamentos no Rio nos primeiros sete meses de 2026. O levantamento também aponta recuperação do Minha Casa, Minha Vida e crescimento da participação do segmento de luxo.",
-      "data_publicacao": "2026-09-14T00:00:00-03:00",
-      "url": "https://temporealrj.com/compactos-imoveis-35-rio/",
-      "fonte": "Tempo Real"
-    },
-    {
-      "titulo": "Centro Empresarial Arcos da Lapa vai virar residencial com 384 apartamentos, sete lojas no térreo e fachada ativa",
-      "descricao": "A Prefeitura do Rio aprovou a transformação do Centro Empresarial Arcos da Lapa em empreendimento residencial com 384 unidades e sete lojas no térreo. O licenciamento prevê mudança de uso sem demolir a estrutura atual, dentro do programa Reviver Centro; a análise do órgão municipal de patrimônio segue pendente.",
-      "data_publicacao": "2026-09-29T07:26:00-03:00",
-      "url": "https://temporealrj.com/centro-empresarial-arcos-da-lapa-residencial/",
-      "fonte": "Tempo Real"
-    },
-    {
-      "titulo": "Anoreg/BR: Jurisprudência TJ/PR – Integralização de capital social exige escritura pública quando cônjuge coproprietário não é sócio",
-      "descricao": "O TJPR manteve a exigência de escritura pública para transferir a fração de imóvel comum pertencente ao cônjuge coproprietário que não é sócio da empresa. A decisão entendeu que a exceção legal para integralização de capital não abrange essa parcela, ainda que haja anuência no contrato social.",
-      "data_publicacao": "2026-09-25T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/09/25/anoreg-br-jurisprudencia-tj-pr-integralizacao-de-capital-social-exige-escritura-publica-quando-conjuge-coproprietario-nao-e-socio/",
-      "fonte": "CNB/SP"
-    },
-    {
-      "titulo": "A abertura extrajudicial do testamento público como pressuposto do inventário por escritura: Proposta de ata notarial de concordância testamentária",
-      "descricao": "Artigo propõe uma ata notarial de concordância testamentária para viabilizar inventário extrajudicial quando o testamento público for incontroverso e todos os interessados estiverem de acordo. A proposta prevê ciência ao Ministério Público, edital na CENSEC e envio ao Judiciário em caso de discordância ou dúvida.",
+      "titulo": "A face esquecida do provimento CNJ 228/26",
+      "descricao": "Artigo analisa o Provimento CNJ nº 228/2026, que organiza o uso de extratos eletrônicos em registros imobiliários, e aponta limites para exigências baseadas apenas em inconsistências de dados. A análise ressalta que a norma preserva a qualificação jurídica do título e não elimina a possibilidade de recusa diante de ilegalidade, indício de fraude ou incompatibilidade com a matrícula.",
       "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
-      "fonte": "Colégio Notarial do Brasil"
+      "url": "https://www.migalhas.com.br/depeso/464495/a-face-esquecida-do-provimento-cnj-228-26",
+      "fonte": "Migalhas"
     },
     {
-      "titulo": "Imóveis irregulares: um problema, várias possibilidades",
-      "descricao": "Artigo descreve causas recorrentes de irregularidade imobiliária, como falta de registro, contratos informais, divergências cadastrais e questões sucessórias ou fiscais. O texto apresenta a regularização como medida de proteção jurídica e de acesso a financiamento, compra e venda e garantias.",
+      "titulo": "Holding imobiliária: Qual parte da estratégia tem prazo de validade em 2026?",
+      "descricao": "Artigo discute a regra de transição do IBS e da CBS para imóveis já pertencentes ao contribuinte em 31 de dezembro de 2026, incluindo a opção de usar valor de referência no cálculo do redutor de ajuste, conforme as condições legais. O texto também examina a integralização de imóveis em holdings patrimoniais e diferencia o tratamento atual das operações a partir de 2027.",
+      "data_publicacao": "2026-09-14T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/coluna/migalhas-de-direito-das-organizacoes/464322/holding-imobiliaria-qual-parte-da-estrategia-tem-prazo-de-validade",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "R$ 500 milhões reforçam Minha Casa, Minha Vida",
+      "descricao": "O Conselho Curador do FGTS aprovou aporte adicional de R$ 500 milhões para o Minha Casa, Minha Vida, elevando a previsão de subsídios para R$ 13 bilhões em 2026. Conforme o Ministério das Cidades, o reforço atende à demanda deste ano e não deve se estender automaticamente ao orçamento de 2027.",
+      "data_publicacao": "2026-09-11T15:30:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/r-500-milhoes-reforcam-minha-casa-minha-vida",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "MCMV ultrapassa metade de lançamentos e vendas de imóveis novos",
+      "descricao": "Levantamento setorial reportou que 58% dos lançamentos residenciais do segundo trimestre de 2026 se enquadraram no Minha Casa, Minha Vida, e 51% das vendas do período foram ligadas ao programa. O dado acompanha a expansão das faixas e condições de financiamento e a menor procura relativa por imóveis de médio e médio-alto padrão.",
       "data_publicacao": "2026-09-10T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/imoveis-irregulares-um-problema-varias-possibilidades/",
-      "fonte": "Colégio Notarial do Brasil"
+      "url": "https://www.registrodeimoveis.org.br/mcmv-ultrapassa-metade-de-lancamentos-e-vendas-de-imoveis-novos?fe=2",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Averbação de construções: CGJ/SP simplifica procedimentos nos registros de imóveis de São Paulo",
+      "descricao": "Artigo sobre o Provimento CGJ/SP 17/26 relata que construções, ampliações, reformas e demolições poderão ser averbadas com habite-se ou documento municipal equivalente, sem exigir certidão negativa de débitos previdenciários como condição do registro. A mudança pode facilitar a regularização registral, mas não extingue eventuais obrigações fiscais ou previdenciárias.",
+      "data_publicacao": "2026-09-09T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/464114/averbacao-de-construcoes-cgj-sp-simplifica-procedimentos-em-sp",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "FNDI reforça regra que disciplinou registro em áreas de marinha",
+      "descricao": "Nota técnica do Fórum Nacional de Desenvolvimento Imobiliário destacou regras de Santa Catarina para atos registrais envolvendo imóveis em terrenos de marinha, como a verificação da regularidade perante a SPU e o uso da Certidão de Autorização para Transferência quando cabível. O fórum aponta a possibilidade de usucapião extrajudicial em áreas ainda não demarcadas, observados os requisitos legais, e defende que a norma estadual sirva de referência nacional.",
+      "data_publicacao": "2026-09-09T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/fndi-reforca-regra-que-disciplinou-registro-em-area-de-marinha",
+      "fonte": "Registro de Imóveis do Brasil"
     }
   ]
 }
