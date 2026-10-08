@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-07T10:07:06-03:00",
+  "noticias": [
+    {
+      "titulo": "Bancos automatizarão financiamento de imóvel",
+      "descricao": "Bancos e ONR firmaram acordo para integrar consultas registrais ao fluxo de financiamento imobiliário, automatizando verificações sobre titularidade, ônus e registro das garantias. O sistema está em desenvolvimento e o ONR informou que pretende iniciar testes da integração em fevereiro.",
+      "data_publicacao": "2026-10-06T00:00:00-03:00",
+      "url": "https://www.onr.org.br/bancos-automatizarao-financiamento-de-imovel/",
+      "fonte": "Operador Nacional do Sistema de Registro Eletrônico de Imóveis (ONR)"
+    },
+    {
+      "titulo": "Família obtém autorização para permanecer em imóvel público",
+      "descricao": "A Justiça de Aparecida de Goiânia autorizou uma família que ocupava há décadas um imóvel público a permanecer no local por meio de concessão de uso especial para fins de moradia. A decisão considerou os requisitos legais e proibiu atos de desocupação ou demolição enquanto se busca o reconhecimento definitivo do direito.",
+      "data_publicacao": "2026-10-06T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/familia-obtem-autorizacao-para-permanecer-em-imovel-publico",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Financiamento imobiliário via poupança avança em 2026",
+      "descricao": "Dados da Abecip mostram que o volume de crédito imobiliário do SBPE chegou a R$ 16,97 bilhões em agosto, 46,6% acima do mesmo mês de 2025. No acumulado de janeiro a agosto, os financiamentos somaram R$ 132,5 bilhões, alta anual de 37%, apesar da retirada de recursos da poupança.",
+      "data_publicacao": "2026-10-05T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/financiamento-imobiliario-via-poupanca-avanca-em-2026",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Ocupação prolongada de imóvel por herdeiro não basta para usucapião",
+      "descricao": "O STJ decidiu que a permanência prolongada em imóvel de família, por si só, não comprova posse com intenção de dono para usucapião extraordinária. No caso, a propriedade integrava herança ainda não partilhada e havia oposição de outros herdeiros.",
+      "data_publicacao": "2026-09-30T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30092026-Ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao.aspx",
+      "fonte": "Superior Tribunal de Justiça (STJ)"
+    },
+    {
+      "titulo": "NF-e ABI e a nova fiscalidade das operações imobiliárias",
+      "descricao": "Análise publicada no Migalhas examina a NF-e ABI, modelo fiscal eletrônico previsto para operações imobiliárias, e os efeitos da reforma do consumo sobre a documentação dessas transações. O texto distingue a emissão fiscal da escritura e do registro imobiliário, que seguem necessários conforme a natureza do negócio; a obrigatoriedade está prevista para 1º de dezembro de 2026.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/465292/nf-e-abi-e-a-nova-fiscalidade-das-operacoes-imobiliarias",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "A face esquecida do provimento CNJ 228/26",
+      "descricao": "Artigo analisa o Provimento CNJ nº 228/2026, que organiza o uso de extratos eletrônicos em registros imobiliários, e aponta limites para exigências baseadas apenas em inconsistências de dados. A análise ressalta que a norma preserva a qualificação jurídica do título e não elimina a possibilidade de recusa diante de ilegalidade, indício de fraude ou incompatibilidade com a matrícula.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/464495/a-face-esquecida-do-provimento-cnj-228-26",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Holding imobiliária: Qual parte da estratégia tem prazo de validade em 2026?",
+      "descricao": "Artigo discute a regra de transição do IBS e da CBS para imóveis já pertencentes ao contribuinte em 31 de dezembro de 2026, incluindo a opção de usar valor de referência no cálculo do redutor de ajuste, conforme as condições legais. O texto também examina a integralização de imóveis em holdings patrimoniais e diferencia o tratamento atual das operações a partir de 2027.",
+      "data_publicacao": "2026-09-14T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/coluna/migalhas-de-direito-das-organizacoes/464322/holding-imobiliaria-qual-parte-da-estrategia-tem-prazo-de-validade",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "R$ 500 milhões reforçam Minha Casa, Minha Vida",
+      "descricao": "O Conselho Curador do FGTS aprovou aporte adicional de R$ 500 milhões para o Minha Casa, Minha Vida, elevando a previsão de subsídios para R$ 13 bilhões em 2026. Conforme o Ministério das Cidades, o reforço atende à demanda deste ano e não deve se estender automaticamente ao orçamento de 2027.",
+      "data_publicacao": "2026-09-11T15:30:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/r-500-milhoes-reforcam-minha-casa-minha-vida",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "MCMV ultrapassa metade de lançamentos e vendas de imóveis novos",
+      "descricao": "Levantamento setorial reportou que 58% dos lançamentos residenciais do segundo trimestre de 2026 se enquadraram no Minha Casa, Minha Vida, e 51% das vendas do período foram ligadas ao programa. O dado acompanha a expansão das faixas e condições de financiamento e a menor procura relativa por imóveis de médio e médio-alto padrão.",
+      "data_publicacao": "2026-09-10T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/mcmv-ultrapassa-metade-de-lancamentos-e-vendas-de-imoveis-novos?fe=2",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Averbação de construções: CGJ/SP simplifica procedimentos nos registros de imóveis de São Paulo",
+      "descricao": "Artigo sobre o Provimento CGJ/SP 17/26 relata que construções, ampliações, reformas e demolições poderão ser averbadas com habite-se ou documento municipal equivalente, sem exigir certidão negativa de débitos previdenciários como condição do registro. A mudança pode facilitar a regularização registral, mas não extingue eventuais obrigações fiscais ou previdenciárias.",
+      "data_publicacao": "2026-09-09T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/464114/averbacao-de-construcoes-cgj-sp-simplifica-procedimentos-em-sp",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "FNDI reforça regra que disciplinou registro em áreas de marinha",
+      "descricao": "Nota técnica do Fórum Nacional de Desenvolvimento Imobiliário destacou regras de Santa Catarina para atos registrais envolvendo imóveis em terrenos de marinha, como a verificação da regularidade perante a SPU e o uso da Certidão de Autorização para Transferência quando cabível. O fórum aponta a possibilidade de usucapião extrajudicial em áreas ainda não demarcadas, observados os requisitos legais, e defende que a norma estadual sirva de referência nacional.",
+      "data_publicacao": "2026-09-09T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/fndi-reforca-regra-que-disciplinou-registro-em-area-de-marinha",
+      "fonte": "Registro de Imóveis do Brasil"
+    }
+  ]
+}
