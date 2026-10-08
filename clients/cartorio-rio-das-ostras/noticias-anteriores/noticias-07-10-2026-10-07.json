@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-07T10:07:06-03:00",
+  "noticias": [
+    {
+      "titulo": "IVAR sobe 0,28% em setembro",
+      "descricao": "O Índice de Variação de Aluguéis Residenciais (IVAR) da FGV IBRE avançou 0,28% no país em setembro, e a variação acumulada em 12 meses ficou em 5,08%. No Rio de Janeiro, os aluguéis residenciais subiram, em média, 0,45% no mês e 5,77% em 12 meses.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://portalibre.fgv.br/noticias/ivar-sobe-028-em-setembro",
+      "fonte": "FGV IBRE"
+    },
+    {
+      "titulo": "Núcleo Pedagógico abre inscrições para dois novos cursos",
+      "descricao": "A Prefeitura de Rio das Ostras abriu inscrições para duas capacitações gratuitas: uma formação on-line de leitura em espanhol e um encontro presencial sobre o uso de resultados de avaliações no planejamento pedagógico. A atividade presencial está marcada para 29 de outubro no Núcleo de Gestão Pedagógica.",
+      "data_publicacao": "2026-10-06T13:49:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/nucleo-pedagogico-abre-inscricoes-para-dois-novos-cursos/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras inicia plantio de milho e feijão em Cantagalo",
+      "descricao": "A Prefeitura iniciou o plantio de milho e feijão em Cantagalo, na área rural de Rio das Ostras, com assistência técnica e apoio de máquinas aos produtores. Parte das sementes de feijão veio da Pesagro-Rio, e a produção também poderá abastecer plantios municipais no próximo ciclo.",
+      "data_publicacao": "2026-10-06T09:15:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-plantio-de-milho-e-feijao-em-cantagalo/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Vestibular Cederj: inscrições até 29 de outubro",
+      "descricao": "O Vestibular Cederj 2027/1 oferece 7.165 vagas gratuitas em 16 cursos de graduação, com 55 vagas previstas para o polo de Rio das Ostras. As inscrições vão até 29 de outubro; a oferta local inclui Tecnologia em Gestão de Turismo e Design Gráfico.",
+      "data_publicacao": "2026-10-05T15:38:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/vestibular-cederj-inscricoes-ate-29-de-outubro/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Renda da curta temporada passa a depender de convenção e tributação, defende artigo",
+      "descricao": "Artigo analisa como a convenção condominial e o regime tributário afetam a exploração recorrente de imóveis por curta temporada. O texto relaciona o tema ao entendimento da Segunda Seção do STJ e à reforma tributária, e observa que a tese ainda será definida no repetitivo Tema 1.443.",
+      "data_publicacao": "2026-10-03T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-03/curta-temporada-o-novo-calculo-do-investimento-imobiliario/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Inadimplência no aluguel residencial cai para 4,4% no Rio",
+      "descricao": "A taxa de inadimplência no aluguel residencial no estado do Rio de Janeiro recuou para 4,4% em setembro, o menor nível desde junho, segundo o Índice de Inadimplência de Aluguéis da Loft. O levantamento analisou 500 mil contratos no país e considera atrasos superiores a 15 dias, com uma janela de três meses para comunicação.",
+      "data_publicacao": "2026-09-29T18:44:00-03:00",
+      "url": "https://odia.ig.com.br/colunas/panorama-imobiliario/2026/09/amp/7307148-inadimplencia-no-aluguel-residencial-cai-para-44-no-rio.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Lista de não incidência do IBS e da CBS na LC 214 é exemplificativa, defende artigo",
+      "descricao": "Artigo jurídico sustenta que a lista de hipóteses de não incidência do IBS e da CBS na Lei Complementar 214/2025 orienta a interpretação, sem excluir outras situações previstas em lei. O texto observa que a sujeição de uma operação ao ITBI ou ao ITCMD não afasta, por si só, os novos tributos.",
+      "data_publicacao": "2026-09-26T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-26/reforma-tributaria-quem-define-os-limites-da-incidencia-do-ibs-e-da-cbs/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Lei nº 15.509/2026 fixa em cinco anos prazo prescricional para sanções administrativas a notários e registradores",
+      "descricao": "A Lei nº 15.509/2026 estabeleceu prazo prescricional de cinco anos para a aplicação de sanções administrativas a notários e registradores, segundo a notícia do Colégio Notarial do Brasil. A norma foi publicada no Diário Oficial da União em 22 de setembro.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
+    },
+    {
+      "titulo": "Entenda como o pagamento prévio do ITCMD descomplica a partilha de bens",
+      "descricao": "O Conselho Nacional de Justiça decidiu que a escritura extrajudicial de inventário e partilha pode ser lavrada sem o pagamento prévio do ITCMD, após pedido do Colégio Notarial do Brasil – Conselho Federal. O imposto continua devido conforme as regras estaduais, que também determinam seu prazo e forma de recolhimento.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://www.cnj.jus.br/entenda-como-o-pagamento-previo-do-itcmd-descomplica-a-partilha-de-bens/",
+      "fonte": "Conselho Nacional de Justiça (CNJ)"
+    },
+    {
+      "titulo": "Mudança de uso em locação por inexigibilidade exige nova contratação, defende artigo",
+      "descricao": "Artigo jurídico sustenta que a finalidade pública integra o objeto de uma locação direta por inexigibilidade e que uma mudança substancial de uso exige nova contratação. A análise aponta a necessidade de pesquisa de mercado e avaliação do imóvel conforme a Lei 14.133/2021.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-21/quando-a-mudanca-de-destinacao-transfigura-a-locacao-administrativa/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Alienação de bens pelo espólio e cessão de direitos hereditários: O que muda com o art. 11-A da resolução 571/24 do CNJ",
+      "descricao": "Artigo do CNB/CF explica que o art. 11-A da Resolução CNJ 571/2024 permite ao inventariante alienar bens do espólio por escritura pública, sem alvará judicial, para custear despesas do inventário e sob requisitos específicos. O texto diferencia essa venda da cessão de direitos hereditários, que transfere a posição jurídica do herdeiro e exige forma pública.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
+      "fonte": "Colégio Notarial do Brasil (CNB/CF)"
+    }
+  ]
+}
