@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-10-09T10:03:30-03:00",
+  "data-busca": "2026-10-10T10:04:56-03:00",
   "noticias": [
     {
-      "titulo": "STJ suspende processos sobre locação de curta temporada em condomínios",
-      "descricao": "A Segunda Seção afetou os Recursos Especiais 2.272.537 e 2.272.536 ao rito dos repetitivos e suspendeu, em todo o país, processos que discutem se a destinação residencial prevista na convenção condominial basta para impedir locações de curta temporada por plataformas digitais. A controvérsia será julgada como Tema 1.443.",
-      "data_publicacao": "2026-09-17T07:15:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17092026-Airbnb-afetacao-de-repetitivo-sobre-locacao-de-curta-temporada-em-condominios-suspende-processos-em-todo-o-pais.aspx",
-      "fonte": "Superior Tribunal de Justiça"
+      "titulo": "Reurb: consulta discute legitimação fundiária em imóvel com indisponibilidade",
+      "descricao": "Consulta do IRIB discute se uma indisponibilidade averbada após a compra e venda impede a expedição de título de legitimação fundiária em procedimento de Reurb. O caso também pergunta se eventual gravame deve ser levado à nova matrícula ou se a aquisição originária permite o registro sem a restrição.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://www.irib.org.br/reurb-legitimacao-fundiaria-indisponibilidade-de-bens-qualificacao-registral/",
+      "fonte": "IRIB"
     },
     {
-      "titulo": "STJ reconhece incidência de IR sobre ganhos em operações entre fundos imobiliários",
-      "descricao": "A Primeira Turma do STJ decidiu, por maioria, que ganhos de capital de um fundo imobiliário ao alienar ou resgatar cotas de outro FII estão sujeitos ao Imposto de Renda. O julgamento foi destacado na edição 903 do Informativo de Jurisprudência.",
-      "data_publicacao": "2026-10-06T07:10:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06102026-Informativo-destaca-imposto-de-renda-em-operacoes-com-fundos-imobiliarios--.aspx",
-      "fonte": "Superior Tribunal de Justiça"
+      "titulo": "CNJ decide que emolumentos extrajudiciais só podem ser atualizados por lei",
+      "descricao": "Em procedimento de controle administrativo, o CNJ decidiu por unanimidade que alterações nas faixas de valores, bases e critérios de progressividade dos emolumentos extrajudiciais dependem de lei. O caso analisou pedido relacionado ao Tribunal de Justiça do Acre e reafirmou a natureza tributária dessas cobranças.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://www.irib.org.br/emolumentos-de-cartorios-extrajudiciais-somente-podem-ser-atualizados-por-lei/",
+      "fonte": "IRIB"
     },
     {
-      "titulo": "Comprador poderá registrar metade de imóvel negociado antes da morte do vendedor",
-      "descricao": "A Vara de Sucessões e Registros Públicos de Joinville autorizou a escritura definitiva de 50% de um imóvel vendido antes da morte de um dos proprietários, após o espólio reconhecer o negócio e a quitação. A decisão limitou a autorização à fração que pertencia ao vendedor falecido, pois os sucessores da outra coproprietária não participaram do processo.",
-      "data_publicacao": "2026-09-18T16:14:00-03:00",
-      "url": "https://www.tjsc.jus.br/web/imprensa/-/comprador-tera-direito-ao-registro-de-50-de-imovel-negociado-antes-de-vendedor-morrer?redirect=%2Fweb%2Fimprensa%2Fnoticias%2F-%2Fasset_publisher%2FGP1QtxFaSsX0%2F%3Fp_r_p_assetEntryId%3D11639537",
-      "fonte": "Tribunal de Justiça de Santa Catarina"
-    },
-    {
-      "titulo": "Preços anunciados de imóveis residenciais sobem 0,58% em setembro",
-      "descricao": "O Índice FipeZAP registrou alta mensal de 0,58% nos preços anunciados de imóveis residenciais em setembro, após avanço de 0,53% em agosto. O preço médio chegou a R$ 10.015 por metro quadrado, com aumento em 46 das 56 cidades acompanhadas.",
-      "data_publicacao": "2026-10-05T11:40:00-03:00",
-      "url": "https://portalgmi.com.br/materia/precos-anunciados-de-imoveis-residenciais-sobem-058-em-setembro",
-      "fonte": "Guia do Mercado Imobiliário"
-    },
-    {
-      "titulo": "MRV vende 437 apartamentos da Luggo por R$ 166 milhões",
-      "descricao": "A MRV&Co concluiu a venda de três empreendimentos residenciais da Luggo para um fundo imobiliário estruturado com a Mauá Capital. A operação soma R$ 166 milhões, dos quais R$ 144 milhões serão recebidos pela companhia, enquanto a Luggo seguirá administrando ativos sem novos projetos próprios prontos ou em construção.",
-      "data_publicacao": "2026-10-07T03:08:00-03:00",
-      "url": "https://portalgmi.com.br/materia/mrv-vende-437-apartamentos-por-r-166-mi-e-luggo-fica-sem-novos-projetos",
-      "fonte": "Guia do Mercado Imobiliário"
-    },
-    {
-      "titulo": "Wyndham levará bandeira TRYP a empreendimento residencial perto de Congonhas",
-      "descricao": "A Ampla Incorporadora prevê construir 240 studios de 22 m² na Vila Congonhas, em São Paulo, em projeto residencial com serviços de hospitalidade e possibilidade de locação de curta duração. O empreendimento tem VGV estimado em R$ 110 milhões e operação prevista para 2029.",
-      "data_publicacao": "2026-10-08T01:05:00-03:00",
-      "url": "https://portalgmi.com.br/materia/wyndham-leva-bandeira-tryp-a-residencial-de-r-110-milhoes-ao-lado-de-congonhas",
-      "fonte": "Guia do Mercado Imobiliário"
-    },
-    {
-      "titulo": "Netflix aluga segundo edifício na região da Avenida Rebouças",
-      "descricao": "A Netflix alugou integralmente um edifício de 2.166 m² na região da Rebouças, em São Paulo, por contrato de dez anos e aluguel mensal informado de R$ 385 mil. A ocupação ocorre em um eixo que registrou vacância de 3,99% no segundo trimestre, abaixo da média municipal indicada pela reportagem.",
-      "data_publicacao": "2026-10-07T03:34:00-03:00",
-      "url": "https://portalgmi.com.br/materia/netflix-ocupa-segundo-predio-na-reboucas-onde-so-4-dos-escritorios-estao-vagos",
-      "fonte": "Guia do Mercado Imobiliário"
-    },
-    {
-      "titulo": "Domicílios com apenas um morador chegam a 19,7% no Brasil",
-      "descricao": "Segundo a PNAD Contínua citada na reportagem, os domicílios unipessoais passaram de 12,2% do total em 2012 para 19,7% em 2025. A composição etária do grupo e a redução das áreas médias de apartamentos de um dormitório em São Paulo são apresentadas como fatores para acompanhar mudanças na demanda residencial.",
-      "data_publicacao": "2026-10-08T03:19:00-03:00",
-      "url": "https://portalgmi.com.br/materia/1-em-cada-5-domicilios-brasileiros-tem-apenas-um-morador-jovens-sao-minoria",
-      "fonte": "Guia do Mercado Imobiliário"
-    },
-    {
-      "titulo": "Vacância de galpões logísticos em São Paulo cai a 3,8%",
-      "descricao": "A taxa de vacância dos galpões monitorados pela CBRE em um raio de até 120 quilômetros da capital paulista caiu para 3,8% ao fim de setembro, ante 7,8% um ano antes. O levantamento contabilizou quase 900 mil m² de novas entregas em 2026 e cerca de 3 milhões de m² absorvidos em novas locações.",
-      "data_publicacao": "2026-10-07T02:48:00-03:00",
-      "url": "https://portalgmi.com.br/materia/galpoes-logisticos-de-sp-tem-maior-ocupacao-em-18-anos-mesmo-com-novas-entregas",
-      "fonte": "Guia do Mercado Imobiliário"
-    },
-    {
-      "titulo": "Fortaleza e região metropolitana registram R$ 5,8 bilhões em negócios imobiliários",
-      "descricao": "Dados de janeiro a agosto indicam crescimento de quase 14% no valor geral de vendas e de 3% no número de vendas na capital cearense e municípios vizinhos. Os lançamentos avançaram 40%, levando o estoque residencial a 15.548 unidades em agosto, segundo o levantamento apresentado na reportagem.",
-      "data_publicacao": "2026-10-04T00:27:00-03:00",
-      "url": "https://portalgmi.com.br/materia/fortaleza-e-regiao-metropolitana-movimentam-r-58-bi-e-aceleram-lancamentos",
-      "fonte": "Guia do Mercado Imobiliário"
-    },
-    {
-      "titulo": "ANOREG divulga finalistas do Prêmio Registro que Transforma 2026",
-      "descricao": "A comissão do prêmio selecionou três projetos em cada um dos sete eixos temáticos após avaliar 56 inscrições ligadas a registros de imóveis e associações estaduais. Os vencedores serão anunciados em 28 de outubro, durante encontro nacional da categoria em Salvador.",
-      "data_publicacao": "2026-10-05T00:00:00-03:00",
-      "url": "https://www.anoreg.org.br/site/conheca-os-finalistas-do-premio-registro-que-transforma-2026/",
+      "titulo": "Projeto propõe patrimônio de afetação obrigatório e garantia para incorporações",
+      "descricao": "O PL 3.108/2026, apresentado no Senado, propõe tornar obrigatório o patrimônio de afetação em incorporações imobiliárias e exigir garantia financeira mínima de 5% do custo da obra. O texto também prevê cronograma e prazos de início e entrega nos contratos; ainda está em tramitação, não é lei.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/pl-torna-obrigatoria-instituicao-de-patrimonio-de-afetacao-e-constituicao-de-garantia-financeira-para-execucao-do-empreendimento-imobiliario/",
       "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "STJ analisa se herdeira pode embargar execução movida contra pais falecidos",
+      "descricao": "A Terceira Turma do STJ discute se uma herdeira pode apresentar, em nome próprio, embargos à execução movida contra os pais falecidos antes da abertura de inventário. O julgamento está suspenso após pedido de vista, com divergência sobre se a legitimidade cabe ao espólio ou à herdeira pessoalmente citada.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/filha-pode-embargar-execucao-movida-contra-pais-falecidos-stj-julga/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "Transações imobiliárias digitais terão testes integrados com bancos em 2027",
+      "descricao": "ONR, RIB e instituições financeiras planejam testar, a partir de fevereiro de 2027, integração digital para operações de financiamento ou empréstimo imobiliário. O sistema deve automatizar consultas a titularidade, ônus e registro de garantias por certidões estruturadas, e poderá ser usado também por instituições fora do acordo.",
+      "data_publicacao": "2026-10-08T00:00:00-03:00",
+      "url": "https://www.irib.org.br/transacoes-imobiliarias-digitais-integracao-entre-registros-de-imoveis-e-entidades-financeiras-sera-testada-a-partir-de-fevereiro-de-2027/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "STJ reconhece relevância de tema sobre honorários cobrados por condomínios",
+      "descricao": "A Segunda Seção do STJ reconheceu relevância no tema sobre a possibilidade de repassar ao condômino honorários contratuais gastos pelo condomínio em ação de cobrança. O mérito será julgado em sessão presencial e recursos sobre o assunto foram suspensos enquanto se aguarda a definição da tese.",
+      "data_publicacao": "2026-10-07T12:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/07102026-Cobranca-de-honorarios-por-condominios-STJ-define-primeira-relevancia-reconhecida-em-sessao-virtual.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Pesquisa aponta influência de riscos climáticos na escolha de imóveis",
+      "descricao": "Pesquisa da Brain Inteligência Estratégica com 1.200 pessoas indica que 40% já descartaram um imóvel ou região por risco climático, percentual que chega a 51% no Sul. Enchentes e alagamentos aparecem entre os motivos mais citados, mostrando como a exposição ambiental passou a pesar nas decisões de compra.",
+      "data_publicacao": "2026-10-06T00:00:00-03:00",
+      "url": "https://www.irib.org.br/pesquisa-aponta-que-riscos-climaticos-influenciam-decisao-na-compra-de-imoveis/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Projeto regulamenta registro digital de direitos ligados a imóveis",
+      "descricao": "O PL 3.024/2026 propõe incluir representações digitais de direitos ligados a imóveis no Sistema de Registro Eletrônico de Imóveis, com validade jurídica condicionada ao registro ou à averbação na matrícula. O projeto também prevê limite provisório para os emolumentos e seguirá para análise das comissões da Câmara dos Deputados.",
+      "data_publicacao": "2026-10-06T16:59:00-03:00",
+      "url": "https://www.camara.leg.br/noticias/1309531-projeto-regulamenta-registro-digital-de-direitos-sobre-imoveis",
+      "fonte": "Agência Câmara de Notícias"
+    },
+    {
+      "titulo": "Cartórios registraram recorde de testamentos em 2025",
+      "descricao": "Os Cartórios de Notas registraram 38.740 testamentos em 2025, alta de 21% em relação a 2020 e maior número da série histórica, segundo dados do Colégio Notarial do Brasil. A reportagem também aborda outras formas de registrar valores e memórias familiares, distinguindo-as dos efeitos jurídicos do testamento.",
+      "data_publicacao": "2026-10-06T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/pais-e-avos-deixam-valores-e-historias-alem-do-testamento/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "STJ afasta usucapião de imóvel de herança ocupado por descendente",
+      "descricao": "A Quarta Turma do STJ afastou a usucapião extraordinária pedida por filha e genro que ocupavam imóvel integrante de herança, por falta de comprovação de posse com intenção de dono. O tribunal ressaltou que a usucapião entre herdeiros não é absolutamente proibida, mas exige posse exclusiva pelo prazo legal e sem oposição dos demais.",
+      "data_publicacao": "2026-09-30T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30092026-Ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "CNB/SP participará de seminário sobre direito registral e tokenização imobiliária",
+      "descricao": "O CNB/SP participará em 23 de outubro do XII Seminário Luso-Brasileiro de Direito Registral Imobiliário, organizado pela Escola Paulista da Magistratura e pelo CENoR da Universidade de Coimbra. A programação prevê debate sobre os impactos da tokenização imobiliária para a segurança jurídica e a publicidade registral.",
+      "data_publicacao": "2026-09-25T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/25/cnb-sp-participa-xii-seminario-luso-brasileiro-de-direito-registral-imobiliario/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
     }
   ]
 }

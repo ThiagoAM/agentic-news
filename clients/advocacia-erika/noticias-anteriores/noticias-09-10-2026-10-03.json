@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-09T10:03:30-03:00",
+  "noticias": [
+    {
+      "titulo": "STJ suspende processos sobre locação de curta temporada em condomínios",
+      "descricao": "A Segunda Seção afetou os Recursos Especiais 2.272.537 e 2.272.536 ao rito dos repetitivos e suspendeu, em todo o país, processos que discutem se a destinação residencial prevista na convenção condominial basta para impedir locações de curta temporada por plataformas digitais. A controvérsia será julgada como Tema 1.443.",
+      "data_publicacao": "2026-09-17T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17092026-Airbnb-afetacao-de-repetitivo-sobre-locacao-de-curta-temporada-em-condominios-suspende-processos-em-todo-o-pais.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ reconhece incidência de IR sobre ganhos em operações entre fundos imobiliários",
+      "descricao": "A Primeira Turma do STJ decidiu, por maioria, que ganhos de capital de um fundo imobiliário ao alienar ou resgatar cotas de outro FII estão sujeitos ao Imposto de Renda. O julgamento foi destacado na edição 903 do Informativo de Jurisprudência.",
+      "data_publicacao": "2026-10-06T07:10:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06102026-Informativo-destaca-imposto-de-renda-em-operacoes-com-fundos-imobiliarios--.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Comprador poderá registrar metade de imóvel negociado antes da morte do vendedor",
+      "descricao": "A Vara de Sucessões e Registros Públicos de Joinville autorizou a escritura definitiva de 50% de um imóvel vendido antes da morte de um dos proprietários, após o espólio reconhecer o negócio e a quitação. A decisão limitou a autorização à fração que pertencia ao vendedor falecido, pois os sucessores da outra coproprietária não participaram do processo.",
+      "data_publicacao": "2026-09-18T16:14:00-03:00",
+      "url": "https://www.tjsc.jus.br/web/imprensa/-/comprador-tera-direito-ao-registro-de-50-de-imovel-negociado-antes-de-vendedor-morrer?redirect=%2Fweb%2Fimprensa%2Fnoticias%2F-%2Fasset_publisher%2FGP1QtxFaSsX0%2F%3Fp_r_p_assetEntryId%3D11639537",
+      "fonte": "Tribunal de Justiça de Santa Catarina"
+    },
+    {
+      "titulo": "Preços anunciados de imóveis residenciais sobem 0,58% em setembro",
+      "descricao": "O Índice FipeZAP registrou alta mensal de 0,58% nos preços anunciados de imóveis residenciais em setembro, após avanço de 0,53% em agosto. O preço médio chegou a R$ 10.015 por metro quadrado, com aumento em 46 das 56 cidades acompanhadas.",
+      "data_publicacao": "2026-10-05T11:40:00-03:00",
+      "url": "https://portalgmi.com.br/materia/precos-anunciados-de-imoveis-residenciais-sobem-058-em-setembro",
+      "fonte": "Guia do Mercado Imobiliário"
+    },
+    {
+      "titulo": "MRV vende 437 apartamentos da Luggo por R$ 166 milhões",
+      "descricao": "A MRV&Co concluiu a venda de três empreendimentos residenciais da Luggo para um fundo imobiliário estruturado com a Mauá Capital. A operação soma R$ 166 milhões, dos quais R$ 144 milhões serão recebidos pela companhia, enquanto a Luggo seguirá administrando ativos sem novos projetos próprios prontos ou em construção.",
+      "data_publicacao": "2026-10-07T03:08:00-03:00",
+      "url": "https://portalgmi.com.br/materia/mrv-vende-437-apartamentos-por-r-166-mi-e-luggo-fica-sem-novos-projetos",
+      "fonte": "Guia do Mercado Imobiliário"
+    },
+    {
+      "titulo": "Wyndham levará bandeira TRYP a empreendimento residencial perto de Congonhas",
+      "descricao": "A Ampla Incorporadora prevê construir 240 studios de 22 m² na Vila Congonhas, em São Paulo, em projeto residencial com serviços de hospitalidade e possibilidade de locação de curta duração. O empreendimento tem VGV estimado em R$ 110 milhões e operação prevista para 2029.",
+      "data_publicacao": "2026-10-08T01:05:00-03:00",
+      "url": "https://portalgmi.com.br/materia/wyndham-leva-bandeira-tryp-a-residencial-de-r-110-milhoes-ao-lado-de-congonhas",
+      "fonte": "Guia do Mercado Imobiliário"
+    },
+    {
+      "titulo": "Netflix aluga segundo edifício na região da Avenida Rebouças",
+      "descricao": "A Netflix alugou integralmente um edifício de 2.166 m² na região da Rebouças, em São Paulo, por contrato de dez anos e aluguel mensal informado de R$ 385 mil. A ocupação ocorre em um eixo que registrou vacância de 3,99% no segundo trimestre, abaixo da média municipal indicada pela reportagem.",
+      "data_publicacao": "2026-10-07T03:34:00-03:00",
+      "url": "https://portalgmi.com.br/materia/netflix-ocupa-segundo-predio-na-reboucas-onde-so-4-dos-escritorios-estao-vagos",
+      "fonte": "Guia do Mercado Imobiliário"
+    },
+    {
+      "titulo": "Domicílios com apenas um morador chegam a 19,7% no Brasil",
+      "descricao": "Segundo a PNAD Contínua citada na reportagem, os domicílios unipessoais passaram de 12,2% do total em 2012 para 19,7% em 2025. A composição etária do grupo e a redução das áreas médias de apartamentos de um dormitório em São Paulo são apresentadas como fatores para acompanhar mudanças na demanda residencial.",
+      "data_publicacao": "2026-10-08T03:19:00-03:00",
+      "url": "https://portalgmi.com.br/materia/1-em-cada-5-domicilios-brasileiros-tem-apenas-um-morador-jovens-sao-minoria",
+      "fonte": "Guia do Mercado Imobiliário"
+    },
+    {
+      "titulo": "Vacância de galpões logísticos em São Paulo cai a 3,8%",
+      "descricao": "A taxa de vacância dos galpões monitorados pela CBRE em um raio de até 120 quilômetros da capital paulista caiu para 3,8% ao fim de setembro, ante 7,8% um ano antes. O levantamento contabilizou quase 900 mil m² de novas entregas em 2026 e cerca de 3 milhões de m² absorvidos em novas locações.",
+      "data_publicacao": "2026-10-07T02:48:00-03:00",
+      "url": "https://portalgmi.com.br/materia/galpoes-logisticos-de-sp-tem-maior-ocupacao-em-18-anos-mesmo-com-novas-entregas",
+      "fonte": "Guia do Mercado Imobiliário"
+    },
+    {
+      "titulo": "Fortaleza e região metropolitana registram R$ 5,8 bilhões em negócios imobiliários",
+      "descricao": "Dados de janeiro a agosto indicam crescimento de quase 14% no valor geral de vendas e de 3% no número de vendas na capital cearense e municípios vizinhos. Os lançamentos avançaram 40%, levando o estoque residencial a 15.548 unidades em agosto, segundo o levantamento apresentado na reportagem.",
+      "data_publicacao": "2026-10-04T00:27:00-03:00",
+      "url": "https://portalgmi.com.br/materia/fortaleza-e-regiao-metropolitana-movimentam-r-58-bi-e-aceleram-lancamentos",
+      "fonte": "Guia do Mercado Imobiliário"
+    },
+    {
+      "titulo": "ANOREG divulga finalistas do Prêmio Registro que Transforma 2026",
+      "descricao": "A comissão do prêmio selecionou três projetos em cada um dos sete eixos temáticos após avaliar 56 inscrições ligadas a registros de imóveis e associações estaduais. Os vencedores serão anunciados em 28 de outubro, durante encontro nacional da categoria em Salvador.",
+      "data_publicacao": "2026-10-05T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/conheca-os-finalistas-do-premio-registro-que-transforma-2026/",
+      "fonte": "ANOREG/BR"
+    }
+  ]
+}
