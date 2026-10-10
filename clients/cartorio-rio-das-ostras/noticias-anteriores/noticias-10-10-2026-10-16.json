@@ -1,5 +1,5 @@
 {
-  "data-busca": "2026-10-10T10:18:02-03:00",
+  "data-busca": "2026-10-10T10:16:35-03:00",
   "noticias": [
     {
       "titulo": "Secretaria de Obras inicia ciclo de qualificação e padronização de rotinas",
@@ -9,11 +9,11 @@
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "STJ vai definir limites de retenção em distratos de contratos imobiliários",
-      "descricao": "A Segunda Seção do STJ afetou quatro recursos para definir percentual e base de cálculo da retenção quando há rescisão de contratos imobiliários, antes e depois da Lei do Distrato. O colegiado suspendeu processos com recurso especial ou agravo sobre as duas controvérsias enquanto prepara os precedentes repetitivos.",
-      "data_publicacao": "2026-10-08T07:40:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08102026-Repetitivo-definira-limites-de-retencao-em-rescisao-de-contratos-imobiliarios-antes-e-depois-da-Lei-do-Distrato.aspx",
-      "fonte": "Superior Tribunal de Justiça"
+      "titulo": "Cessão de precatórios pode exigir escritura pública para produzir efeitos judiciais",
+      "descricao": "Proposta de regulamentação apresentada pelo CNJ e Banco Central prevê escritura pública para que cessões de precatórios produzam efeitos perante o Judiciário, com registro eletrônico e mecanismos de rastreabilidade. A nota técnica está em análise no plenário virtual do CNJ entre 8 e 16 de outubro, portanto as medidas ainda são propostas.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
     },
     {
       "titulo": "Rio das Ostras Instrumental inicia temporada com tributo a Sérgio Mendes e Tom Jobim",
@@ -21,13 +21,6 @@
       "data_publicacao": "2026-10-07T12:26:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-instrumental-faz-tributo-a-sergio-mendes-e-tom-jobim/",
       "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Cessão de precatórios pode exigir escritura pública para produzir efeitos judiciais",
-      "descricao": "Proposta de regulamentação apresentada pelo CNJ e Banco Central prevê escritura pública para que cessões de precatórios produzam efeitos perante o Judiciário, com registro eletrônico e mecanismos de rastreabilidade. A nota técnica está em análise no plenário virtual do CNJ entre 8 e 16 de outubro, portanto as medidas ainda são propostas.",
-      "data_publicacao": "2026-10-07T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
-      "fonte": "Colégio Notarial do Brasil (CNB)"
     },
     {
       "titulo": "Professores de Rio das Ostras iniciam curso de Educação Musical",
