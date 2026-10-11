@@ -1,88 +1,81 @@
 {
-  "data-busca": "2026-10-10T10:18:02-03:00",
+  "data-busca": "2026-10-11T09:59:59-03:00",
   "noticias": [
     {
-      "titulo": "Secretaria de Obras inicia ciclo de qualificação e padronização de rotinas",
-      "descricao": "A Secretaria de Infraestrutura Urbana e Obras Públicas de Rio das Ostras iniciou um ciclo de encontros para padronizar rotinas e qualificar servidores. A primeira atividade tratou de processos, documentos, uso do sistema SALI e organização de arquivos.",
-      "data_publicacao": "2026-10-09T14:19:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/secretaria-de-obras-qualifica-tecnicos-e-rotinas/",
+      "titulo": "Obras de artesãs de Rio das Ostras ganham destaque regional",
+      "descricao": "Quatro artesãs de Rio das Ostras participam da mostra Mar de Poesia, em Saquarema, com trabalhos desenvolvidos no projeto Mentoria Artística da Fundação de Cultura local. As peças usam materiais e técnicas como escamas e conchas, fibras naturais, modelagem e estamparia artesanal.",
+      "data_publicacao": "2026-10-08T16:48:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/obras-de-artesas-de-rio-das-ostras-ganham-destaque-regional/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "STJ vai definir limites de retenção em distratos de contratos imobiliários",
-      "descricao": "A Segunda Seção do STJ afetou quatro recursos para definir percentual e base de cálculo da retenção quando há rescisão de contratos imobiliários, antes e depois da Lei do Distrato. O colegiado suspendeu processos com recurso especial ou agravo sobre as duas controvérsias enquanto prepara os precedentes repetitivos.",
-      "data_publicacao": "2026-10-08T07:40:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08102026-Repetitivo-definira-limites-de-retencao-em-rescisao-de-contratos-imobiliarios-antes-e-depois-da-Lei-do-Distrato.aspx",
-      "fonte": "Superior Tribunal de Justiça"
+      "titulo": "Prefeitura e INCRA começam projeto piloto de regularização fundiária em Cantagalo",
+      "descricao": "A Prefeitura de Rio das Ostras e o Incra iniciaram um mapeamento piloto em Cantagalo para distinguir propriedades que mantêm uso rural de áreas com ocupação urbana. O levantamento deverá indicar quais imóveis permanecem sob responsabilidade do Incra e quais podem ser encaminhados à regularização fundiária urbana municipal.",
+      "data_publicacao": "2026-10-08T00:00:00-03:00",
+      "url": "https://riodasostras.com.br/noticias/index.php?noticia=14690",
+      "fonte": "Portal Rio das Ostras"
     },
     {
-      "titulo": "Rio das Ostras Instrumental inicia temporada com tributo a Sérgio Mendes e Tom Jobim",
-      "descricao": "A temporada 2026 do projeto começa em 10 de outubro com show gratuito de Victor Biglione e Marcos Ariel, às 16h, na Concha Acústica da Praça São Pedro. A programação inclui exposição sobre os 50 anos de música de Biglione até 12 de outubro na Casa de Cultura.",
-      "data_publicacao": "2026-10-07T12:26:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-instrumental-faz-tributo-a-sergio-mendes-e-tom-jobim/",
+      "titulo": "Rio movimenta quase R$ 50 bilhões em imóveis nos primeiros oito meses de 2026",
+      "descricao": "Levantamento baseado na arrecadação do ITBI estima que imóveis no município do Rio movimentaram cerca de R$ 50 bilhões entre janeiro e agosto, alta de 12% ante o mesmo período de 2025. O estudo também aponta valorização real de 8% do preço médio do metro quadrado nos 12 meses até meados de 2026.",
+      "data_publicacao": "2026-10-06T15:25:00-03:00",
+      "url": "https://diariodorio.com/economia/mercado-imobiliario/2026/10/06/rio-movimenta-quase-rs-50-bilhoes-em-imoveis-nos-primeiros-oito-meses-de-2026.html",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Rio das Ostras inicia plantio de milho e feijão em Cantagalo",
+      "descricao": "O município iniciou o plantio de milho e feijão em Cantagalo, com assistência técnica e apoio de máquinas da Prefeitura. Para o feijão, são utilizadas sementes cedidas pela Pesagro-Rio, e a Secretaria prevê destinar sementes produzidas a outros agricultores no próximo ciclo.",
+      "data_publicacao": "2026-10-06T09:15:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-plantio-de-milho-e-feijao-em-cantagalo/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Cessão de precatórios pode exigir escritura pública para produzir efeitos judiciais",
-      "descricao": "Proposta de regulamentação apresentada pelo CNJ e Banco Central prevê escritura pública para que cessões de precatórios produzam efeitos perante o Judiciário, com registro eletrônico e mecanismos de rastreabilidade. A nota técnica está em análise no plenário virtual do CNJ entre 8 e 16 de outubro, portanto as medidas ainda são propostas.",
-      "data_publicacao": "2026-10-07T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
-      "fonte": "Colégio Notarial do Brasil (CNB)"
+      "titulo": "Renda da locação por curta temporada passa a depender de convenção e tributação, analisa artigo",
+      "descricao": "Artigo publicado no ConJur examina como a locação habitual de curta temporada em condomínios residenciais se relaciona com a convenção condominial e a tributação de operações em escala. O texto registra que a tese do STJ sobre a matéria ainda será definida em recurso repetitivo.",
+      "data_publicacao": "2026-10-03T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-03/curta-temporada-o-novo-calculo-do-investimento-imobiliario/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Professores de Rio das Ostras iniciam curso de Educação Musical",
-      "descricao": "O curso online “Aprendendo a Ler Música” começou para 19 docentes, incluindo profissionais do Centro de Formação Artística e da rede municipal. A iniciativa usa a flauta doce como recurso para ensinar leitura de partituras e resulta de cooperação entre a Fundação de Cultura e o Projeto Sopro Novo.",
-      "data_publicacao": "2026-10-06T15:35:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/professores-de-rio-das-ostras-iniciam-curso-de-educacao-musical/",
+      "titulo": "Seguem intensificadas ações de manutenção e recuperação viária em Rio das Ostras",
+      "descricao": "Equipes municipais realizaram recapeamento, recuperação de vias e serviços de drenagem em diferentes localidades de Rio das Ostras. A programação incluiu intervenções em Serramar, Chácara Mariléa, Enseada, Mar do Norte e na Ponte do Recanto.",
+      "data_publicacao": "2026-10-02T10:29:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-realiza-acoes-de-manutencao-e-recuperacao-viaria-em-diferentes-pontos-da-cidade/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "FipeZAP registra alta de 0,76% nos preços residenciais no Rio em setembro",
-      "descricao": "Os preços de venda de imóveis residenciais avançaram 0,76% na cidade do Rio de Janeiro em setembro, acima da variação nacional de 0,58%, segundo o FipeZAP. Entre as tipologias, imóveis de três quartos tiveram alta mensal de 0,61%, e unidades com quatro ou mais quartos, 0,42%.",
-      "data_publicacao": "2026-10-06T13:25:00-03:00",
-      "url": "https://odia.ig.com.br/colunas/panorama-imobiliario/2026/10/7309567-valor-do-imovel-registra-nova-aceleracao-no-pais.html",
-      "fonte": "O Dia"
-    },
-    {
-      "titulo": "Inadimplência no aluguel residencial cai a 4,4% no estado do Rio",
-      "descricao": "A taxa de inadimplência em locações residenciais no estado do Rio recuou para 4,4% em setembro, seu menor patamar desde junho, segundo o Índice de Inadimplência de Aluguéis da Loft. A amostra considerou cerca de 500 mil contratos administrados pela plataforma em todo o país e define atraso como mais de 15 dias.",
-      "data_publicacao": "2026-09-29T18:44:00-03:00",
-      "url": "https://odia.ig.com.br/colunas/panorama-imobiliario/2026/09/amp/7307148-inadimplencia-no-aluguel-residencial-cai-para-44-no-rio.html",
-      "fonte": "O Dia"
-    },
-    {
-      "titulo": "4ª Turma do STJ admite que convenção residencial vede aluguel de curta temporada",
-      "descricao": "Notícia originalmente publicada no ConJur relata que a Quarta Turma do STJ autorizou condomínio com convenção que veda uso não residencial a impedir locações de curta temporada. A possibilidade depende da destinação prevista na convenção, e a Segunda Seção ainda deve fixar tese vinculante em recurso repetitivo.",
-      "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-29/aluguel-de-curta-temporada-desvirtua-carater-residencial-em-condominio/",
+      "titulo": "Liminar do TJRJ suspende lei do Rio que legaliza novas obras acima do Plano Diretor",
+      "descricao": "O Órgão Especial do TJRJ suspendeu, para novas construções, os efeitos de lei complementar que permitia legalizar obras acima dos índices do Plano Diretor do município do Rio mediante contrapartida. A liminar aponta questionamentos sobre a falta de estudos técnicos e participação popular; construções já realizadas não foram alcançadas pela medida naquele momento.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-23/lei/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "ITBI entre o STJ e o STF: novos limites da tributação municipal sobre imóveis",
-      "descricao": "Artigo do ConJur examina a tese do STJ sobre a base de cálculo do ITBI e a discussão ainda aberta no STF sobre a imunidade na integralização de imóveis ao capital social de empresas com atividade imobiliária. Na publicação, o julgamento do Tema 1.348 ainda não tinha tese definitiva e o placar do Supremo era parcial.",
-      "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-29/itbi-entre-o-stj-e-o-stf-os-novos-limites-da-tributacao-municipal-sobre-imoveis/",
+      "titulo": "STJ define como a Caixa participa de ações de seguro habitacional do SFH",
+      "descricao": "Em recurso repetitivo, o STJ definiu quando a Caixa atua como parte, assistente litisconsorcial ou interveniente anômala em ações relativas ao seguro habitacional de apólice pública do SFH. A classificação depende do estágio processual e pode determinar se o caso segue na Justiça estadual ou é remetido à Justiça Federal.",
+      "data_publicacao": "2026-09-20T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-20/stj-define-intervencao-da-caixa-em-casos-sobre-seguro-habitacional-no-sfh/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Lei fixa prazo de cinco anos para sanções administrativas a notários e registradores",
-      "descricao": "A Lei nº 15.509/2026 estabeleceu prazo prescricional de cinco anos para sanções administrativas disciplinares aplicáveis a notários e registradores. A norma foi publicada em 21 de setembro e trata da responsabilização na atividade extrajudicial.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
-      "fonte": "Colégio Notarial do Brasil (CNB)"
-    },
-    {
-      "titulo": "Mudança de uso pode transfigurar locação administrativa contratada sem licitação",
-      "descricao": "Análise publicada pelo ConJur aponta que, em locações públicas por inexigibilidade, a finalidade pode integrar o objeto quando as características do imóvel justificam a escolha direta. Se a necessidade mudar, a administração deve reavaliar o imóvel, as alternativas disponíveis e o fundamento da contratação.",
-      "data_publicacao": "2026-09-21T19:23:00-03:00",
-      "url": "https://conjur.com.br/2026-set-21/quando-a-mudanca-de-destinacao-transfigura-a-locacao-administrativa/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Venda de bens do espólio por escritura e cessão de direitos hereditários: o que muda",
-      "descricao": "A publicação explica que o art. 11-A da Resolução CNJ nº 571/2024 permite ao inventariante alienar, por escritura, bem do espólio para custear despesas do inventário, sem alvará judicial, desde que cumpra requisitos de destinação e garantia. O texto distingue essa venda da cessão de direitos hereditários, que transfere a fração ideal do herdeiro sobre a herança.",
+      "titulo": "Abertura extrajudicial de testamento público é proposta como etapa do inventário por escritura",
+      "descricao": "Artigo do CNB propõe uma ata notarial de concordância para viabilizar a abertura extrajudicial de testamento público antes do inventário por escritura. A proposta busca reduzir uma etapa judicial no cenário consensual e não altera, por si só, as regras atualmente vigentes.",
       "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
+      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    },
+    {
+      "titulo": "Podcast do STJ discute testamentos eletrônicos e novas tecnologias no direito sucessório",
+      "descricao": "Episódio do podcast STJ No Seu Dia aborda decisão da Terceira Turma sobre os requisitos de validade de testamentos particulares e a flexibilização de formalidades diante de manifestações digitais. A conversa trata de autoria, assinatura e autenticação no direito sucessório.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    },
+    {
+      "titulo": "Regra que exige bens de titular de cartório para cobrir passivo trabalhista vai ao STF",
+      "descricao": "A ANOREG ajuizou a ADI 8.015 no STF contra dispositivos do Provimento CNJ 227/26 que exigem a indicação de bens livres de ônus para cobrir passivos trabalhistas de cartórios. A entidade sustenta que a norma cria obrigações sem previsão legal e afeta direitos patrimoniais e de privacidade; a matéria apresenta esses pontos como argumentos da ação.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/regra-que-exige-bens-de-titular-de-cartorio-para-cobrir-passivo-trabalhista-vai-ao-stf/",
       "fonte": "Colégio Notarial do Brasil (CNB)"
     }
   ]

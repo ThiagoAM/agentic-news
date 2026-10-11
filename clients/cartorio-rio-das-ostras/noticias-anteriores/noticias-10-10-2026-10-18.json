@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-10-10T10:18:02-03:00",
+  "noticias": [
+    {
+      "titulo": "Secretaria de Obras inicia ciclo de qualificação e padronização de rotinas",
+      "descricao": "A Secretaria de Infraestrutura Urbana e Obras Públicas de Rio das Ostras iniciou um ciclo de encontros para padronizar rotinas e qualificar servidores. A primeira atividade tratou de processos, documentos, uso do sistema SALI e organização de arquivos.",
+      "data_publicacao": "2026-10-09T14:19:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/secretaria-de-obras-qualifica-tecnicos-e-rotinas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "STJ vai definir limites de retenção em distratos de contratos imobiliários",
+      "descricao": "A Segunda Seção do STJ afetou quatro recursos para definir percentual e base de cálculo da retenção quando há rescisão de contratos imobiliários, antes e depois da Lei do Distrato. O colegiado suspendeu processos com recurso especial ou agravo sobre as duas controvérsias enquanto prepara os precedentes repetitivos.",
+      "data_publicacao": "2026-10-08T07:40:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08102026-Repetitivo-definira-limites-de-retencao-em-rescisao-de-contratos-imobiliarios-antes-e-depois-da-Lei-do-Distrato.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Rio das Ostras Instrumental inicia temporada com tributo a Sérgio Mendes e Tom Jobim",
+      "descricao": "A temporada 2026 do projeto começa em 10 de outubro com show gratuito de Victor Biglione e Marcos Ariel, às 16h, na Concha Acústica da Praça São Pedro. A programação inclui exposição sobre os 50 anos de música de Biglione até 12 de outubro na Casa de Cultura.",
+      "data_publicacao": "2026-10-07T12:26:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-instrumental-faz-tributo-a-sergio-mendes-e-tom-jobim/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cessão de precatórios pode exigir escritura pública para produzir efeitos judiciais",
+      "descricao": "Proposta de regulamentação apresentada pelo CNJ e Banco Central prevê escritura pública para que cessões de precatórios produzam efeitos perante o Judiciário, com registro eletrônico e mecanismos de rastreabilidade. A nota técnica está em análise no plenário virtual do CNJ entre 8 e 16 de outubro, portanto as medidas ainda são propostas.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    },
+    {
+      "titulo": "Professores de Rio das Ostras iniciam curso de Educação Musical",
+      "descricao": "O curso online “Aprendendo a Ler Música” começou para 19 docentes, incluindo profissionais do Centro de Formação Artística e da rede municipal. A iniciativa usa a flauta doce como recurso para ensinar leitura de partituras e resulta de cooperação entre a Fundação de Cultura e o Projeto Sopro Novo.",
+      "data_publicacao": "2026-10-06T15:35:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/professores-de-rio-das-ostras-iniciam-curso-de-educacao-musical/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "FipeZAP registra alta de 0,76% nos preços residenciais no Rio em setembro",
+      "descricao": "Os preços de venda de imóveis residenciais avançaram 0,76% na cidade do Rio de Janeiro em setembro, acima da variação nacional de 0,58%, segundo o FipeZAP. Entre as tipologias, imóveis de três quartos tiveram alta mensal de 0,61%, e unidades com quatro ou mais quartos, 0,42%.",
+      "data_publicacao": "2026-10-06T13:25:00-03:00",
+      "url": "https://odia.ig.com.br/colunas/panorama-imobiliario/2026/10/7309567-valor-do-imovel-registra-nova-aceleracao-no-pais.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Inadimplência no aluguel residencial cai a 4,4% no estado do Rio",
+      "descricao": "A taxa de inadimplência em locações residenciais no estado do Rio recuou para 4,4% em setembro, seu menor patamar desde junho, segundo o Índice de Inadimplência de Aluguéis da Loft. A amostra considerou cerca de 500 mil contratos administrados pela plataforma em todo o país e define atraso como mais de 15 dias.",
+      "data_publicacao": "2026-09-29T18:44:00-03:00",
+      "url": "https://odia.ig.com.br/colunas/panorama-imobiliario/2026/09/amp/7307148-inadimplencia-no-aluguel-residencial-cai-para-44-no-rio.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "4ª Turma do STJ admite que convenção residencial vede aluguel de curta temporada",
+      "descricao": "Notícia originalmente publicada no ConJur relata que a Quarta Turma do STJ autorizou condomínio com convenção que veda uso não residencial a impedir locações de curta temporada. A possibilidade depende da destinação prevista na convenção, e a Segunda Seção ainda deve fixar tese vinculante em recurso repetitivo.",
+      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-29/aluguel-de-curta-temporada-desvirtua-carater-residencial-em-condominio/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ITBI entre o STJ e o STF: novos limites da tributação municipal sobre imóveis",
+      "descricao": "Artigo do ConJur examina a tese do STJ sobre a base de cálculo do ITBI e a discussão ainda aberta no STF sobre a imunidade na integralização de imóveis ao capital social de empresas com atividade imobiliária. Na publicação, o julgamento do Tema 1.348 ainda não tinha tese definitiva e o placar do Supremo era parcial.",
+      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-29/itbi-entre-o-stj-e-o-stf-os-novos-limites-da-tributacao-municipal-sobre-imoveis/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Lei fixa prazo de cinco anos para sanções administrativas a notários e registradores",
+      "descricao": "A Lei nº 15.509/2026 estabeleceu prazo prescricional de cinco anos para sanções administrativas disciplinares aplicáveis a notários e registradores. A norma foi publicada em 21 de setembro e trata da responsabilização na atividade extrajudicial.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    },
+    {
+      "titulo": "Mudança de uso pode transfigurar locação administrativa contratada sem licitação",
+      "descricao": "Análise publicada pelo ConJur aponta que, em locações públicas por inexigibilidade, a finalidade pode integrar o objeto quando as características do imóvel justificam a escolha direta. Se a necessidade mudar, a administração deve reavaliar o imóvel, as alternativas disponíveis e o fundamento da contratação.",
+      "data_publicacao": "2026-09-21T19:23:00-03:00",
+      "url": "https://conjur.com.br/2026-set-21/quando-a-mudanca-de-destinacao-transfigura-a-locacao-administrativa/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Venda de bens do espólio por escritura e cessão de direitos hereditários: o que muda",
+      "descricao": "A publicação explica que o art. 11-A da Resolução CNJ nº 571/2024 permite ao inventariante alienar, por escritura, bem do espólio para custear despesas do inventário, sem alvará judicial, desde que cumpra requisitos de destinação e garantia. O texto distingue essa venda da cessão de direitos hereditários, que transfere a fração ideal do herdeiro sobre a herança.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    }
+  ]
+}
