@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-10-11T09:59:59-03:00",
+  "noticias": [
+    {
+      "titulo": "Sistema Nacional de Adoção passa a ser integrado com cartórios de registro civil",
+      "descricao": "O Sistema Nacional de Adoção e Acolhimento passou a trocar informações com o Serp e os cartórios de registro civil para encaminhar mandados e devolver certidões eletrônicas após adoção. O fluxo centraliza etapas antes manuais e busca ampliar a rastreabilidade das alterações registrais.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/sistema-nacional-de-adocao-passa-a-ser-integrado-com-cartorios-de-registro-civil/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "Rádio Decidendi discute limites de arbitramento do imposto sobre transmissões de bens por herança e doação",
+      "descricao": "O episódio aborda o Tema 1.371 do STJ, que delimitou quando os fiscos estaduais podem arbitrar a base de cálculo do ITCMD. O procedimento pode ser aplicado se as informações ou documentos do contribuinte forem omissos ou não merecerem fé.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/radio-decidendi-discute-limites-de-arbitramento-do-imposto-sobre-transmissoes-de-bens-por-heranca-e-doacao/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "STJ invalida procurações que fizeram irmãos renunciar à herança",
+      "descricao": "A Terceira Turma do STJ manteve a anulação de procurações usadas para que irmãos renunciassem à herança em favor de um deles, após reconhecer vício na manifestação de vontade. A decisão também alcança a escritura de inventário e partilha fundada nesses documentos, que deverá ser refeita.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/stj-invalida-procuracoes-que-fizeram-irmaos-renunciar-a-heranca/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "“Competência residual mitigada”: a figura criada pela Lei 14.382/22",
+      "descricao": "Artigo explica que a Lei 14.382/22 restringiu a competência residual dos cartórios de origem, podendo exigir abertura de matrícula na serventia que passou a ser competente. O texto descreve as hipóteses de transição e o impacto prático para a continuidade dos registros imobiliários.",
+      "data_publicacao": "2026-10-09T13:08:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/466265/x",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Cessão de precatórios deverá ser feita por escritura pública em tabelionato para ter validade judicial",
+      "descricao": "CNJ e Banco Central apresentaram uma proposta de regulamentação que prevê escritura pública para a cessão de precatórios produzir efeitos perante o Judiciário, além de registro eletrônico e rastreabilidade. A proposta estava em análise no Plenário do CNJ, com previsão de deliberação entre 8 e 16 de outubro.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "ANOREG/BR divulga orientações práticas sobre IBS e CBS na atividade notarial e registral",
+      "descricao": "A ANOREG/BR publicou a Recomendação nº 002/2026 com orientações para a implementação do IBS e da CBS nos serviços notariais e registrais. O material atualiza o cenário normativo e reúne recomendações práticas sobre a emissão de notas fiscais de serviço pelas serventias.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/anoreg-br-divulga-orientacoes-praticas-sobre-a-implementacao-do-ibs-e-da-cbs-na-atividade-notarial-e-registral/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "Lei nº 15.509/2026 fixa em cinco anos prazo prescricional para sanções administrativas a notários e registradores",
+      "descricao": "A Lei nº 15.509/2026 estabeleceu prazo prescricional de cinco anos para sanções administrativas aplicáveis a notários e registradores. A publicação do CNB identifica a norma federal, sancionada em 21 de setembro de 2026.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Alienação de bens pelo espólio e cessão de direitos hereditários: o que muda com o art. 11-A da Resolução 571/24 do CNJ",
+      "descricao": "Análise do CNB detalha o art. 11-A da Resolução CNJ 571/24, que permite ao inventariante vender bens do espólio por escritura pública sem alvará judicial, desde que cumpra requisitos. Entre eles estão a destinação do valor a despesas discriminadas e a prestação de garantia; o bem vendido não integra a partilha.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Abertura extrajudicial do testamento público como etapa do inventário por escritura",
+      "descricao": "Artigo propõe uma ata notarial de concordância para viabilizar a abertura extrajudicial de testamento público consensual antes do inventário por escritura. A proposta é apresentada como alternativa para reduzir a etapa judicial nesse cenário, sem alterar por si só as regras vigentes.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Podcast STJ No Seu Dia discute testamentos eletrônicos e novas tecnologias no direito sucessório",
+      "descricao": "Episódio do podcast STJ No Seu Dia analisa decisão da Terceira Turma sobre a validade de testamentos particulares e a flexibilização de formalidades diante de manifestações digitais de vontade. A conversa aborda autoria, assinatura e autenticação no direito sucessório.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Regra que exige bens de titular de cartório para cobrir passivo trabalhista vai ao STF",
+      "descricao": "A ANOREG ajuizou a ADI 8.015 no STF contra dispositivos do Provimento CNJ 227/26 que exigem que titulares de cartórios indiquem bens livres de ônus para cobrir passivos trabalhistas. A entidade alega falta de previsão legal e violação a direitos patrimoniais e de privacidade; a matéria apresenta esses argumentos como teses da ação.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/regra-que-exige-bens-de-titular-de-cartorio-para-cobrir-passivo-trabalhista-vai-ao-stf/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "A transmissão do patrimônio em vida: instrumentos e limites do planejamento sucessório",
+      "descricao": "Artigo examina doação com reserva de usufruto, testamento, pacto antenupcial e seguro de vida, destacando os limites da legítima, a fraude contra credores e os efeitos do ITCMD. O texto observa que o planejamento em vida pode organizar a destinação e a gestão patrimonial, mas não elimina a necessidade de inventário.",
+      "data_publicacao": "2026-09-20T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/463106/x",
+      "fonte": "Migalhas"
+    }
+  ]
+}
