@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-11T09:59:59-03:00",
+  "noticias": [
+    {
+      "titulo": "Obras de artesãs de Rio das Ostras ganham destaque regional",
+      "descricao": "Quatro artesãs de Rio das Ostras participam da mostra Mar de Poesia, em Saquarema, com trabalhos desenvolvidos no projeto Mentoria Artística da Fundação de Cultura local. As peças usam materiais e técnicas como escamas e conchas, fibras naturais, modelagem e estamparia artesanal.",
+      "data_publicacao": "2026-10-08T16:48:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/obras-de-artesas-de-rio-das-ostras-ganham-destaque-regional/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura e INCRA começam projeto piloto de regularização fundiária em Cantagalo",
+      "descricao": "A Prefeitura de Rio das Ostras e o Incra iniciaram um mapeamento piloto em Cantagalo para distinguir propriedades que mantêm uso rural de áreas com ocupação urbana. O levantamento deverá indicar quais imóveis permanecem sob responsabilidade do Incra e quais podem ser encaminhados à regularização fundiária urbana municipal.",
+      "data_publicacao": "2026-10-08T00:00:00-03:00",
+      "url": "https://riodasostras.com.br/noticias/index.php?noticia=14690",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Rio movimenta quase R$ 50 bilhões em imóveis nos primeiros oito meses de 2026",
+      "descricao": "Levantamento baseado na arrecadação do ITBI estima que imóveis no município do Rio movimentaram cerca de R$ 50 bilhões entre janeiro e agosto, alta de 12% ante o mesmo período de 2025. O estudo também aponta valorização real de 8% do preço médio do metro quadrado nos 12 meses até meados de 2026.",
+      "data_publicacao": "2026-10-06T15:25:00-03:00",
+      "url": "https://diariodorio.com/economia/mercado-imobiliario/2026/10/06/rio-movimenta-quase-rs-50-bilhoes-em-imoveis-nos-primeiros-oito-meses-de-2026.html",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Rio das Ostras inicia plantio de milho e feijão em Cantagalo",
+      "descricao": "O município iniciou o plantio de milho e feijão em Cantagalo, com assistência técnica e apoio de máquinas da Prefeitura. Para o feijão, são utilizadas sementes cedidas pela Pesagro-Rio, e a Secretaria prevê destinar sementes produzidas a outros agricultores no próximo ciclo.",
+      "data_publicacao": "2026-10-06T09:15:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-plantio-de-milho-e-feijao-em-cantagalo/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Renda da locação por curta temporada passa a depender de convenção e tributação, analisa artigo",
+      "descricao": "Artigo publicado no ConJur examina como a locação habitual de curta temporada em condomínios residenciais se relaciona com a convenção condominial e a tributação de operações em escala. O texto registra que a tese do STJ sobre a matéria ainda será definida em recurso repetitivo.",
+      "data_publicacao": "2026-10-03T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-03/curta-temporada-o-novo-calculo-do-investimento-imobiliario/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Seguem intensificadas ações de manutenção e recuperação viária em Rio das Ostras",
+      "descricao": "Equipes municipais realizaram recapeamento, recuperação de vias e serviços de drenagem em diferentes localidades de Rio das Ostras. A programação incluiu intervenções em Serramar, Chácara Mariléa, Enseada, Mar do Norte e na Ponte do Recanto.",
+      "data_publicacao": "2026-10-02T10:29:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-realiza-acoes-de-manutencao-e-recuperacao-viaria-em-diferentes-pontos-da-cidade/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Liminar do TJRJ suspende lei do Rio que legaliza novas obras acima do Plano Diretor",
+      "descricao": "O Órgão Especial do TJRJ suspendeu, para novas construções, os efeitos de lei complementar que permitia legalizar obras acima dos índices do Plano Diretor do município do Rio mediante contrapartida. A liminar aponta questionamentos sobre a falta de estudos técnicos e participação popular; construções já realizadas não foram alcançadas pela medida naquele momento.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-23/lei/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ define como a Caixa participa de ações de seguro habitacional do SFH",
+      "descricao": "Em recurso repetitivo, o STJ definiu quando a Caixa atua como parte, assistente litisconsorcial ou interveniente anômala em ações relativas ao seguro habitacional de apólice pública do SFH. A classificação depende do estágio processual e pode determinar se o caso segue na Justiça estadual ou é remetido à Justiça Federal.",
+      "data_publicacao": "2026-09-20T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-20/stj-define-intervencao-da-caixa-em-casos-sobre-seguro-habitacional-no-sfh/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Abertura extrajudicial de testamento público é proposta como etapa do inventário por escritura",
+      "descricao": "Artigo do CNB propõe uma ata notarial de concordância para viabilizar a abertura extrajudicial de testamento público antes do inventário por escritura. A proposta busca reduzir uma etapa judicial no cenário consensual e não altera, por si só, as regras atualmente vigentes.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    },
+    {
+      "titulo": "Podcast do STJ discute testamentos eletrônicos e novas tecnologias no direito sucessório",
+      "descricao": "Episódio do podcast STJ No Seu Dia aborda decisão da Terceira Turma sobre os requisitos de validade de testamentos particulares e a flexibilização de formalidades diante de manifestações digitais. A conversa trata de autoria, assinatura e autenticação no direito sucessório.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    },
+    {
+      "titulo": "Regra que exige bens de titular de cartório para cobrir passivo trabalhista vai ao STF",
+      "descricao": "A ANOREG ajuizou a ADI 8.015 no STF contra dispositivos do Provimento CNJ 227/26 que exigem a indicação de bens livres de ônus para cobrir passivos trabalhistas de cartórios. A entidade sustenta que a norma cria obrigações sem previsão legal e afeta direitos patrimoniais e de privacidade; a matéria apresenta esses pontos como argumentos da ação.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/regra-que-exige-bens-de-titular-de-cartorio-para-cobrir-passivo-trabalhista-vai-ao-stf/",
+      "fonte": "Colégio Notarial do Brasil (CNB)"
+    }
+  ]
+}

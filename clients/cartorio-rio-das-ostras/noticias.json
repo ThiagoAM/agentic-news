@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-10-11T09:59:59-03:00",
+  "data-busca": "2026-10-12T10:15:51-03:00",
   "noticias": [
     {
-      "titulo": "Obras de artesãs de Rio das Ostras ganham destaque regional",
-      "descricao": "Quatro artesãs de Rio das Ostras participam da mostra Mar de Poesia, em Saquarema, com trabalhos desenvolvidos no projeto Mentoria Artística da Fundação de Cultura local. As peças usam materiais e técnicas como escamas e conchas, fibras naturais, modelagem e estamparia artesanal.",
-      "data_publicacao": "2026-10-08T16:48:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/obras-de-artesas-de-rio-das-ostras-ganham-destaque-regional/",
+      "titulo": "Rio das Ostras avança na atualização do cadastro imobiliário municipal",
+      "descricao": "A Prefeitura iniciou a revisão do cadastro de imóveis pela localidade de Cidade Beira Mar para corrigir divergências e mapear melhor a ocupação do território. O projeto prevê georreferenciamento e busca apoiar o planejamento municipal e a integração de informações com cartórios e a União.",
+      "data_publicacao": "2026-09-28T17:59:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-no-processo-de-atualizacao-do-cadastro-imobiliario-do-municipio/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Prefeitura e INCRA começam projeto piloto de regularização fundiária em Cantagalo",
-      "descricao": "A Prefeitura de Rio das Ostras e o Incra iniciaram um mapeamento piloto em Cantagalo para distinguir propriedades que mantêm uso rural de áreas com ocupação urbana. O levantamento deverá indicar quais imóveis permanecem sob responsabilidade do Incra e quais podem ser encaminhados à regularização fundiária urbana municipal.",
+      "titulo": "Município conclui estudo urbanístico para revisão do Plano Diretor",
+      "descricao": "A Secretaria de Licenciamento, Habitação e Urbanismo concluiu estudo técnico para a revisão do Plano Diretor municipal. As diretrizes tratam de uso do solo, habitação, mobilidade e preservação ambiental, e a proposta ainda será debatida em audiência pública.",
+      "data_publicacao": "2026-09-23T16:47:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-conclui-estudo-urbanistico-para-revisao-do-plano-diretor-municipal/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Secretaria de Obras qualifica técnicos e padroniza rotinas",
+      "descricao": "Rio das Ostras iniciou encontros para padronizar rotinas administrativas e qualificar equipes de Infraestrutura e Obras. A primeira atividade tratou de documentos, controle de processos, uso do Sistema SALI e arquivamento, com nova etapa prevista para engenheiros.",
+      "data_publicacao": "2026-10-09T14:19:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/secretaria-de-obras-qualifica-tecnicos-e-rotinas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "IVAR registra alta de 0,45% nos aluguéis do Rio em setembro",
+      "descricao": "O Índice de Variação de Aluguéis Residenciais (IVAR) do FGV IBRE indicou que os aluguéis no Rio subiram, em média, 0,45% em setembro. A variação acumulada em 12 meses na capital fluminense desacelerou de 6,37% em agosto para 5,77% em setembro.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://portalibre.fgv.br/noticias/ivar-sobe-028-em-setembro",
+      "fonte": "FGV IBRE"
+    },
+    {
+      "titulo": "Regulamento da CBS fere isonomia ao excluir imóveis prontos do redutor, defende artigo",
+      "descricao": "Artigo sustenta que o regulamento da CBS permite incluir custos de obra no redutor de ajuste apenas para imóveis em construção em 31 de dezembro de 2026, deixando de fora os já concluídos. O autor questiona essa distinção e discute o tratamento de vendas com condição suspensiva cumprida em 2027.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-09/cbs-na-venda-de-imovel-analise-de-seus-aspectos-relevantes/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Arrematante fora do regime regular deveria ter crédito de IBS e CBS, defende artigo",
+      "descricao": "Artigo analisa o tratamento do IBS e da CBS para a pessoa física que arremata imóvel fora do regime regular e a possível extinção do redutor de ajuste. O autor propõe reconhecer crédito tributário ou transferir o redutor, apresentando uma interpretação jurídica ainda sujeita a debate.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-28/arrematacao-em-leilao-e-a-negativa-de-credito-de-ibs-e-cbs/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Mudança de uso em locação por inexigibilidade exige nova contratação, defende artigo",
+      "descricao": "Artigo sustenta que uma mudança substancial na finalidade de imóvel locado diretamente por inexigibilidade exige nova instrução de contratação, em vez de simples aditamento. A análise recomenda documentar a nova necessidade pública, avaliar o imóvel e pesquisar alternativas de mercado.",
+      "data_publicacao": "2026-09-21T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-21/quando-a-mudanca-de-destinacao-transfigura-a-locacao-administrativa/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Contornos da base de cálculo do ITBI na incorporação imobiliária direta",
+      "descricao": "Artigo examina se a base do ITBI em incorporações diretas deve considerar apenas a fração ideal do terreno ou o valor da unidade a ser construída. O texto relaciona a divergência de entendimentos ao Tema 1.113 do STJ e às mudanças introduzidas pela Lei Complementar nº 227/2026.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/09/artigo-contornos-da-base-de-calculo-do-itbi-na-incorporacao-imobiliaria-direta-por-gabriel-cordeiro-de-lima/",
+      "fonte": "CNB/SP"
+    },
+    {
+      "titulo": "Escritura pública será requisito para cessão de precatórios perante os tribunais",
+      "descricao": "CNB/SP e CNB/CF participaram da apresentação de proposta do CNJ e do Banco Central para que cessões de precatórios tenham efeitos perante os tribunais somente após escritura pública, com registro eletrônico. A proposta foi pautada para análise entre 8 e 16 de outubro e, se aprovada, dependerá de normas complementares.",
       "data_publicacao": "2026-10-08T00:00:00-03:00",
-      "url": "https://riodasostras.com.br/noticias/index.php?noticia=14690",
-      "fonte": "Portal Rio das Ostras"
+      "url": "https://cnbsp.org.br/2026/10/08/escritura-publica-em-tabelionato-de-notas-sera-requisito-para-cessao-de-precatorios/",
+      "fonte": "CNB/SP"
     },
     {
-      "titulo": "Rio movimenta quase R$ 50 bilhões em imóveis nos primeiros oito meses de 2026",
-      "descricao": "Levantamento baseado na arrecadação do ITBI estima que imóveis no município do Rio movimentaram cerca de R$ 50 bilhões entre janeiro e agosto, alta de 12% ante o mesmo período de 2025. O estudo também aponta valorização real de 8% do preço médio do metro quadrado nos 12 meses até meados de 2026.",
-      "data_publicacao": "2026-10-06T15:25:00-03:00",
-      "url": "https://diariodorio.com/economia/mercado-imobiliario/2026/10/06/rio-movimenta-quase-rs-50-bilhoes-em-imoveis-nos-primeiros-oito-meses-de-2026.html",
-      "fonte": "Diário do Rio"
-    },
-    {
-      "titulo": "Rio das Ostras inicia plantio de milho e feijão em Cantagalo",
-      "descricao": "O município iniciou o plantio de milho e feijão em Cantagalo, com assistência técnica e apoio de máquinas da Prefeitura. Para o feijão, são utilizadas sementes cedidas pela Pesagro-Rio, e a Secretaria prevê destinar sementes produzidas a outros agricultores no próximo ciclo.",
-      "data_publicacao": "2026-10-06T09:15:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-plantio-de-milho-e-feijao-em-cantagalo/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Renda da locação por curta temporada passa a depender de convenção e tributação, analisa artigo",
-      "descricao": "Artigo publicado no ConJur examina como a locação habitual de curta temporada em condomínios residenciais se relaciona com a convenção condominial e a tributação de operações em escala. O texto registra que a tese do STJ sobre a matéria ainda será definida em recurso repetitivo.",
-      "data_publicacao": "2026-10-03T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-03/curta-temporada-o-novo-calculo-do-investimento-imobiliario/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Seguem intensificadas ações de manutenção e recuperação viária em Rio das Ostras",
-      "descricao": "Equipes municipais realizaram recapeamento, recuperação de vias e serviços de drenagem em diferentes localidades de Rio das Ostras. A programação incluiu intervenções em Serramar, Chácara Mariléa, Enseada, Mar do Norte e na Ponte do Recanto.",
-      "data_publicacao": "2026-10-02T10:29:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/municipio-realiza-acoes-de-manutencao-e-recuperacao-viaria-em-diferentes-pontos-da-cidade/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Liminar do TJRJ suspende lei do Rio que legaliza novas obras acima do Plano Diretor",
-      "descricao": "O Órgão Especial do TJRJ suspendeu, para novas construções, os efeitos de lei complementar que permitia legalizar obras acima dos índices do Plano Diretor do município do Rio mediante contrapartida. A liminar aponta questionamentos sobre a falta de estudos técnicos e participação popular; construções já realizadas não foram alcançadas pela medida naquele momento.",
+      "titulo": "CNB/CF apresenta balanço de ações e resultados com as seccionais estaduais",
+      "descricao": "Em reunião com as seccionais, o CNB/CF apresentou resultados de suas frentes jurídica, institucional e tecnológica. O balanço informou 72 entregas implantadas no e-Notariado de janeiro a setembro, 80% de certidões do Busca Testamento automatizadas e redução de 83,3% nas serventias bloqueadas por atraso na CENSEC.",
       "data_publicacao": "2026-09-23T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-23/lei/",
-      "fonte": "ConJur"
+      "url": "https://cnbsp.org.br/2026/09/23/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
+      "fonte": "CNB/SP"
     },
     {
-      "titulo": "STJ define como a Caixa participa de ações de seguro habitacional do SFH",
-      "descricao": "Em recurso repetitivo, o STJ definiu quando a Caixa atua como parte, assistente litisconsorcial ou interveniente anômala em ações relativas ao seguro habitacional de apólice pública do SFH. A classificação depende do estágio processual e pode determinar se o caso segue na Justiça estadual ou é remetido à Justiça Federal.",
-      "data_publicacao": "2026-09-20T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-20/stj-define-intervencao-da-caixa-em-casos-sobre-seguro-habitacional-no-sfh/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Abertura extrajudicial de testamento público é proposta como etapa do inventário por escritura",
-      "descricao": "Artigo do CNB propõe uma ata notarial de concordância para viabilizar a abertura extrajudicial de testamento público antes do inventário por escritura. A proposta busca reduzir uma etapa judicial no cenário consensual e não altera, por si só, as regras atualmente vigentes.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
-      "fonte": "Colégio Notarial do Brasil (CNB)"
-    },
-    {
-      "titulo": "Podcast do STJ discute testamentos eletrônicos e novas tecnologias no direito sucessório",
-      "descricao": "Episódio do podcast STJ No Seu Dia aborda decisão da Terceira Turma sobre os requisitos de validade de testamentos particulares e a flexibilização de formalidades diante de manifestações digitais. A conversa trata de autoria, assinatura e autenticação no direito sucessório.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
-      "fonte": "Colégio Notarial do Brasil (CNB)"
-    },
-    {
-      "titulo": "Regra que exige bens de titular de cartório para cobrir passivo trabalhista vai ao STF",
-      "descricao": "A ANOREG ajuizou a ADI 8.015 no STF contra dispositivos do Provimento CNJ 227/26 que exigem a indicação de bens livres de ônus para cobrir passivos trabalhistas de cartórios. A entidade sustenta que a norma cria obrigações sem previsão legal e afeta direitos patrimoniais e de privacidade; a matéria apresenta esses pontos como argumentos da ação.",
-      "data_publicacao": "2026-09-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/regra-que-exige-bens-de-titular-de-cartorio-para-cobrir-passivo-trabalhista-vai-ao-stf/",
-      "fonte": "Colégio Notarial do Brasil (CNB)"
+      "titulo": "Não fiz o inventário do imóvel. Vou perder minha casa para o inquilino?",
+      "descricao": "Em resposta sobre um imóvel de herança alugado, o especialista explica que o contrato de locação não precisa de reconhecimento de firma e que a forma escrita ajuda a demonstrar que o inquilino não exerce posse como dono. O texto ressalta que a abertura do inventário continua necessária para regularizar o imóvel.",
+      "data_publicacao": "2026-09-20T08:00:00-03:00",
+      "url": "https://exame.com/mercado-imobiliario/nao-fiz-o-inventario-do-imovel-vou-perder-minha-casa-para-o-inquilino/",
+      "fonte": "Exame"
     }
   ]
 }
