@@ -1,0 +1,96 @@
+{
+  "data-busca": "2026-10-12T10:02:05-03:00",
+  "noticias": [
+    {
+      "titulo": "STF retoma julgamento sobre imunidade do ITBI para empresas imobiliárias",
+      "descricao": "A sessão virtual do STF de 9 a 19 de outubro inclui o RE 1.495.108 (Tema 1.348), que discute a imunidade do ITBI na integralização de imóveis ao capital de empresas com atividade imobiliária. A nota oficial informa a retomada do julgamento, sem divulgar uma conclusão definitiva.",
+      "data_publicacao": "2026-10-09T11:02:00-03:00",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-29/",
+      "fonte": "STF"
+    },
+    {
+      "titulo": "O ITBI nasce no registro do imóvel, não na Junta Comercial",
+      "descricao": "Artigo analisa acórdão do TJ/MG segundo o qual o ITBI sobre imóvel integralizado surge com o registro na matrícula, e não com o arquivamento do ato na Junta Comercial. No mesmo caso, o tribunal afastou a imunidade diante da atividade imobiliária preponderante descrita no objeto social.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/465744/@@kvymG",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "IBS e CBS: Os impactos na locação por holding patrimoniais",
+      "descricao": "Artigo descreve as etapas de transição dos novos tributos na locação de imóveis por holdings e os critérios que diferenciam pessoas físicas e jurídicas. A análise aponta que o impacto depende do imóvel, do perfil do locatário e do regime aplicável.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/465622/ibs-e-cbs-os-impactos-na-locacao-por-holding-patrimoniais",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Holding familiar e tributação: cuidados no planejamento sucessório",
+      "descricao": "Texto analisa possíveis efeitos de ITBI e ITCMD na transferência de imóveis e quotas a herdeiros em estruturas familiares. Também destaca a discussão no STF sobre o alcance da imunidade do ITBI para empresas com atividade imobiliária.",
+      "data_publicacao": "2026-10-01T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/465605/holding-familiar-e-tributacao-cuidados-no-planejamento-sucessorio",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "NF-e ABI e a nova fiscalidade das operações imobiliárias",
+      "descricao": "Artigo explica como a NF-e ABI, modelo 77, deverá documentar operações imobiliárias e resume o cronograma de implantação, com obrigatoriedade prevista para 1º de dezembro de 2026. Ressalta que a nota fiscal não substitui os requisitos civis e registrais aplicáveis à transmissão de direitos reais.",
+      "data_publicacao": "2026-09-28T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/465292/x",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Ocupação prolongada de imóvel por herdeiro não basta para usucapião",
+      "descricao": "O STJ decidiu que a longa ocupação de um imóvel da herança não basta para usucapião quando não há demonstração clara de posse exercida como dono. O caso envolveu filha e genro que moravam no imóvel ainda não partilhado, com oposição de outros herdeiros.",
+      "data_publicacao": "2026-09-30T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/30092026-ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao.aspx",
+      "fonte": "STJ"
+    },
+    {
+      "titulo": "Adjudicação compulsória exige outorga uxória em compromisso sob o CC/1916",
+      "descricao": "O STJ decidiu que a falta de autorização conjugal não invalida os efeitos obrigacionais de compromisso de compra e venda firmado sob o Código Civil de 1916, mas impede a adjudicação compulsória do imóvel. A decisão também reconhece a exigência de vênia conjugal para a transferência da propriedade nesse contexto.",
+      "data_publicacao": "2026-10-05T00:00:00-03:00",
+      "url": "https://www.irib.org.br/adjudicacao-compulsoria-compromisso-de-compra-e-venda-outorga-uxoria-ausencia-impossibilidade-cc-1916/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Extinção do usufruto por morte não gera ITCMD no Paraná",
+      "descricao": "O TJPR confirmou que a morte dos usufrutuários extingue o usufruto sem gerar ITCMD quando a aquisição onerosa já teve ITBI recolhido e não ocorre nova transmissão. A decisão foi proferida em mandado de segurança e se refere ao caso concreto.",
+      "data_publicacao": "2026-10-06T00:00:00-03:00",
+      "url": "https://www.irib.org.br/usufruto-extincao-usufrutuario-falecimento-consolidacao-da-propriedade-plena-fato-gerador-itcmd-inexistencia/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "ONR e bancos preparam automação de verificações de garantias imobiliárias",
+      "descricao": "O ONR firmou acordo com Banco do Brasil, Caixa, Sicoob, Sicredi, Ailos e Unicred para automatizar verificações de matrícula e registro de garantias em operações imobiliárias. O projeto está em desenvolvimento, e os primeiros testes estão previstos a partir de fevereiro.",
+      "data_publicacao": "2026-10-06T00:00:00-03:00",
+      "url": "https://www.onr.org.br/bancos-automatizarao-financiamento-de-imovel/",
+      "fonte": "ONR"
+    },
+    {
+      "titulo": "Exame compara juros de financiamento para compra da casa própria em outubro",
+      "descricao": "Matéria compara taxas divulgadas por bancos para financiamento residencial e explica como perfil de crédito, renda, relacionamento e prazo influenciam a oferta. Também apresenta condições distintas para o Minha Casa, Minha Vida e a linha pró-cotista.",
+      "data_publicacao": "2026-10-07T05:00:00-03:00",
+      "url": "https://exame.com/mercado-imobiliario/quanto-custa-financiar-a-casa-propria-em-outubro-compare-juros-cobrados-pelos-bancos/",
+      "fonte": "Exame"
+    },
+    {
+      "titulo": "Preços dos imóveis residenciais aceleram em agosto",
+      "descricao": "O IGMI-R apontou alta média de 0,87% nos preços de imóveis residenciais novos pesquisados em dez capitais em agosto, acima da variação de 0,61% em julho. O acumulado em 12 meses desacelerou para 14,73%.",
+      "data_publicacao": "2026-10-07T08:35:24-03:00",
+      "url": "https://sindusconsp.com.br/precos-dos-imoveis-residenciais-aceleram-em-agosto/",
+      "fonte": "SindusCon-SP"
+    },
+    {
+      "titulo": "Airbnb: quando a convenção do condomínio afasta suspensão nacional do STJ",
+      "descricao": "O TJRJ manteve a proibição de locações de curta temporada em um condomínio cuja convenção veda expressamente esse uso por plataformas digitais. Também negou a suspensão do processo pelo Tema 1.443 do STJ, segundo a publicação do Colégio Registral do Rio Grande do Sul.",
+      "data_publicacao": "2026-10-05T00:00:00-03:00",
+      "url": "https://colegioregistralrs.org.br/noticias/21523/airbnb-quando-a-convencao-do-condominio-afasta-suspensao-nacional-do-stj/",
+      "fonte": "Colégio Registral RS"
+    },
+    {
+      "titulo": "TJ/MG nega demolição de imóvel ocupado há décadas por família",
+      "descricao": "O TJMG negou pedidos de reintegração de posse e demolição apresentados por Betim contra uma família que ocupa o imóvel há cerca de 40 anos. A decisão considerou a cobrança de IPTU e indicou que alternativas administrativas ou de regularização fundiária fossem avaliadas antes da remoção.",
+      "data_publicacao": "2026-10-06T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/06/tj-mg-municipio-tem-pedido-negado-para-demolir-imovel-ocupado-por-idosos/",
+      "fonte": "CNB/SP"
+    }
+  ]
+}
