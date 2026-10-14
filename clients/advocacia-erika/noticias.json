@@ -1,110 +1,82 @@
 {
-  "data-busca": "2026-10-13T10:02:30-03:00",
+  "data-busca": "2026-10-14T10:02:40-03:00",
   "noticias": [
     {
-      "titulo": "STF forma maioria por imunidade de ITBI para empresa imobiliária",
-      "descricao": "O placar chegou a seis votos a dois pelo reconhecimento da imunidade do ITBI na integralização de imóveis ao capital de empresas com atividade imobiliária. O julgamento do Tema 1.348 segue no plenário virtual até 19 de outubro, com possibilidade de fiscalização de simulação ou fraude.",
-      "data_publicacao": "2026-10-12T08:12:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/466315/stf-forma-maioria-por-imunidade-de-itbi-para-empresa-imobiliaria",
-      "fonte": "Migalhas"
+      "titulo": "União estável não formalizada pode exigir prova para participação no inventário",
+      "descricao": "A Agência Brasil explica que a falta de escritura ou contrato não elimina uma união estável, mas pode exigir que o sobrevivente comprove a relação para participar do inventário. A reportagem também aborda o direito real de habitação, que em regra protege a permanência no imóvel da família sem transferir sua propriedade.",
+      "data_publicacao": "2026-10-12T08:30:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/uniao-estavel-nao-formalizada-como-provar-e-entrar-no-inventario",
+      "fonte": "Agência Brasil"
     },
     {
-      "titulo": "O ITBI nasce no registro do imóvel, não na Junta Comercial",
-      "descricao": "O artigo analisa decisão do TJ/MG segundo a qual o fato gerador do ITBI na integralização de imóvel ocorre com o registro na matrícula, e não com o arquivamento do ato societário. Também diferencia esse marco temporal da controvérsia sobre a imunidade para empresas imobiliárias.",
-      "data_publicacao": "2026-10-07T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/465744/@@kvymG",
-      "fonte": "Migalhas"
+      "titulo": "STJ afetará repetitivos sobre retenção em distratos imobiliários",
+      "descricao": "A Segunda Seção do STJ afetou dois temas para definir percentuais e bases de cálculo da retenção quando o comprador provoca a rescisão de contratos imobiliários, separando negócios anteriores à Lei do Distrato e compras posteriores de lotes ou terrenos. Processos com recursos especiais sobre as questões foram suspensos enquanto o tribunal prepara as teses.",
+      "data_publicacao": "2026-10-08T07:40:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08102026-Repetitivo-definira-limites-de-retencao-em-rescisao-de-contratos-imobiliarios-antes-e-depois-da-Lei-do-Distrato.aspx",
+      "fonte": "Superior Tribunal de Justiça"
     },
     {
-      "titulo": "IBS e CBS: Os impactos na locação por holding patrimoniais",
-      "descricao": "O texto resume a transição para IBS e CBS sobre aluguéis recebidos por holdings e as reduções previstas para operações imobiliárias. A obrigatoriedade de nota fiscal de locação foi adiada para dezembro de 2026, antes da cobrança plena da CBS em 2027.",
-      "data_publicacao": "2026-10-07T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/465622/ibs-e-cbs-os-impactos-na-locacao-por-holding-patrimoniais",
-      "fonte": "Migalhas"
+      "titulo": "STJ suspende processos sobre locação de curta temporada em condomínios",
+      "descricao": "O STJ determinou a suspensão nacional de processos que discutem se a destinação residencial prevista na convenção do condomínio basta para impedir locações de curta temporada por plataformas digitais ou se é necessária proibição expressa. A controvérsia será examinada sob o rito dos recursos repetitivos.",
+      "data_publicacao": "2026-09-17T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17092026-Airbnb-afetacao-de-repetitivo-sobre-locacao-de-curta-temporada-em-condominios-suspende-processos-em-todo-o-pais.aspx",
+      "fonte": "Superior Tribunal de Justiça"
     },
     {
-      "titulo": "Holding familiar e tributação: cuidados no planejamento sucessório",
-      "descricao": "O artigo examina efeitos possíveis de ITBI e ITCMD na transferência de imóveis e quotas entre familiares. Também aborda o julgamento ainda em curso no STF sobre imunidade do ITBI na integralização de capital por empresas com atividade imobiliária.",
-      "data_publicacao": "2026-10-01T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/465605/holding-familiar-e-tributacao-cuidados-no-planejamento-sucessorio",
-      "fonte": "Migalhas"
-    },
-    {
-      "titulo": "Regulamento da CBS fere isonomia ao excluir imóveis prontos do redutor, defende artigo",
-      "descricao": "O artigo discute a transição do PIS/Cofins para a CBS nas vendas de imóveis e a composição do redutor de ajuste previsto na reforma tributária. O autor questiona a diferença entre imóveis já concluídos e aqueles ainda em construção no fim de 2026.",
+      "titulo": "CNJ mantém por ora dispensa de anuência em retificação rural certificada pelo SIGEF",
+      "descricao": "O corregedor nacional de Justiça negou liminar que pretendia condicionar à qualificação registral prévia a dispensa de anuência de confrontantes em retificações de imóveis rurais certificados no SIGEF. A decisão manteve a regra provisoriamente e solicitou manifestações do ONR, IRIB e RIB sobre sua aplicação e controles registrais.",
       "data_publicacao": "2026-10-09T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-09/cbs-na-venda-de-imovel-analise-de-seus-aspectos-relevantes/",
-      "fonte": "ConJur"
+      "url": "https://www.irib.org.br/dispensa-de-assinatura-de-vizinhos-para-corrigir-limites-de-terras-rurais-e-mantida-pelo-cnj/",
+      "fonte": "IRIB"
     },
     {
-      "titulo": "Arrematante fora do regime regular deveria ter crédito de IBS e CBS, defende artigo",
-      "descricao": "O artigo examina o tratamento do IBS e da CBS para a pessoa física que arremata imóvel fora do regime regular e a possível extinção do redutor de ajuste. O autor propõe reconhecer crédito tributário ou transferir o redutor, interpretação que permanece em debate.",
-      "data_publicacao": "2026-09-28T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-28/arrematacao-em-leilao-e-a-negativa-de-credito-de-ibs-e-cbs/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Mudança de uso em locação por inexigibilidade exige nova contratação, defende artigo",
-      "descricao": "O artigo sustenta que uma mudança substancial na finalidade de imóvel locado por inexigibilidade demanda nova instrução de contratação, em vez de simples aditamento. A análise trata da documentação da necessidade pública, da avaliação do imóvel e da pesquisa de alternativas de mercado.",
-      "data_publicacao": "2026-09-21T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-21/quando-a-mudanca-de-destinacao-transfigura-a-locacao-administrativa/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Ocupação prolongada de imóvel por herdeiro não basta para usucapião",
-      "descricao": "O STJ decidiu que a longa ocupação de imóvel herdado não basta para usucapião extraordinária sem prova clara de posse exercida como dono. O caso envolveu filha e genro que moravam em bem ainda não partilhado, diante da oposição de outros herdeiros.",
-      "data_publicacao": "2026-09-30T07:15:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/30092026-ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao.aspx",
-      "fonte": "STJ"
-    },
-    {
-      "titulo": "Adjudicação compulsória exige outorga uxória em compromisso sob o CC/1916",
-      "descricao": "O STJ decidiu que a falta de autorização conjugal não invalida os efeitos obrigacionais do compromisso de compra e venda firmado sob o Código Civil de 1916, mas impede a adjudicação compulsória. A transferência da propriedade também depende da vênia conjugal nesse contexto.",
+      "titulo": "Abertura de holdings familiares cresce 63% de janeiro a julho",
+      "descricao": "Dados da Receita Federal citados pelo Colégio Registral apontam 28,7 mil aberturas de holdings familiares não financeiras entre janeiro e julho de 2026, ante 17,5 mil no mesmo período de 2025. A reportagem associa o movimento às mudanças previstas para o ITCMD e ressalta que custos de manutenção e características do patrimônio também entram na análise.",
       "data_publicacao": "2026-10-05T00:00:00-03:00",
-      "url": "https://www.irib.org.br/adjudicacao-compulsoria-compromisso-de-compra-e-venda-outorga-uxoria-ausencia-impossibilidade-cc-1916/",
-      "fonte": "IRIB"
+      "url": "https://colegioregistralrs.org.br/noticias/21521/com-reforma-tributaria-abertura-de-holdings-familiares-dispara-63-no-ano/",
+      "fonte": "Colégio Registral do Rio Grande do Sul"
     },
     {
-      "titulo": "Extinção do usufruto por morte não gera ITCMD no Paraná",
-      "descricao": "O TJPR confirmou que a morte dos usufrutuários extingue o usufruto e consolida a propriedade plena sem novo ITCMD quando a aquisição onerosa já teve ITBI recolhido. A decisão foi proferida em mandado de segurança e se refere ao caso concreto.",
-      "data_publicacao": "2026-10-06T00:00:00-03:00",
-      "url": "https://www.irib.org.br/usufruto-extincao-usufrutuario-falecimento-consolidacao-da-propriedade-plena-fato-gerador-itcmd-inexistencia/",
-      "fonte": "IRIB"
+      "titulo": "FipeZAP registra alta de 0,58% nos preços pedidos de imóveis em setembro",
+      "descricao": "O índice FipeZAP apontou alta mensal de 0,58% nos preços anunciados de imóveis residenciais em setembro, com média de R$ 10.015 por metro quadrado e elevação em 46 das 56 cidades pesquisadas. O indicador acumulou 5,51% em 12 meses e mede preços de oferta, que podem diferir dos valores efetivamente negociados.",
+      "data_publicacao": "2026-10-05T11:40:00-03:00",
+      "url": "https://portalgmi.com.br/materia/precos-anunciados-de-imoveis-residenciais-sobem-058-em-setembro",
+      "fonte": "GMI — Guia do Mercado Imobiliário"
     },
     {
-      "titulo": "ONR e bancos preparam automação de verificações de garantias imobiliárias",
-      "descricao": "O ONR firmou acordo com Banco do Brasil, Caixa, Sicoob, Sicredi, Ailos e Unicred para automatizar verificações de titularidade, ônus e registro de garantias em operações imobiliárias. O sistema está em desenvolvimento, com testes previstos a partir de fevereiro.",
-      "data_publicacao": "2026-10-06T00:00:00-03:00",
-      "url": "https://www.onr.org.br/bancos-automatizarao-financiamento-de-imovel/",
-      "fonte": "ONR"
+      "titulo": "Saques na poupança superam R$ 66 bilhões enquanto crédito imobiliário cresce",
+      "descricao": "Dados do Banco Central mostram saques líquidos de R$ 66,43 bilhões na poupança entre janeiro e setembro de 2026, enquanto os financiamentos de imóveis para aquisição e construção somaram 384,6 mil unidades nos oito primeiros meses, alta anual de 35,9%. A análise relaciona a expansão do crédito a mudanças regulatórias que ampliaram recursos disponíveis e observa que ajustes para 2027 ainda estão em discussão.",
+      "data_publicacao": "2026-10-12T14:05:00-03:00",
+      "url": "https://portalgmi.com.br/materia/poupanca-perde-r-664-bilhoes-em-2026-mas-credito-imobiliario-cresce",
+      "fonte": "GMI — Guia do Mercado Imobiliário"
     },
     {
-      "titulo": "Exame compara juros de financiamento para compra da casa própria em outubro",
-      "descricao": "A matéria compara taxas divulgadas por bancos para financiamento residencial e explica como perfil de crédito, renda, relacionamento e prazo influenciam as ofertas. Também apresenta condições distintas para o Minha Casa, Minha Vida e a linha pró-cotista.",
-      "data_publicacao": "2026-10-07T05:00:00-03:00",
-      "url": "https://exame.com/mercado-imobiliario/quanto-custa-financiar-a-casa-propria-em-outubro-compare-juros-cobrados-pelos-bancos/",
-      "fonte": "Exame"
+      "titulo": "Projeto cria endereços digitais por GPS para áreas remotas",
+      "descricao": "O PL 3.288/2026 propõe endereços digitais baseados em coordenadas de GPS para imóveis, comunidades e órgãos públicos sem endereço tradicional ou de difícil acesso. A proposta tramita na Câmara e ainda precisa passar por seis comissões, além de ser aprovada pela Câmara e pelo Senado.",
+      "data_publicacao": "2026-09-17T09:07:00-03:00",
+      "url": "https://www.camara.leg.br/noticias/1303286-projeto-cria-enderecos-digitais-para-facilitar-localizacao-em-areas-remotas",
+      "fonte": "Agência Câmara de Notícias"
     },
     {
-      "titulo": "Preços dos imóveis residenciais aceleram em agosto",
-      "descricao": "O IGMI-R apontou alta média de 0,87% nos preços de imóveis residenciais novos pesquisados em dez capitais em agosto, acima da variação de 0,61% em julho. O acumulado em 12 meses desacelerou para 14,73%.",
-      "data_publicacao": "2026-10-07T08:35:24-03:00",
-      "url": "https://sindusconsp.com.br/precos-dos-imoveis-residenciais-aceleram-em-agosto/",
-      "fonte": "SindusCon-SP"
+      "titulo": "CSM de São Paulo mantém recusa de partilha de imóvel rural sem descrição suficiente",
+      "descricao": "O Conselho Superior da Magistratura do TJSP manteve a recusa de registro de uma partilha porque a matrícula não permitia localizar o imóvel rural com precisão, diante de divisas descritas sem medidas laterais ou referências suficientes. O colegiado concluiu que a flexibilização normativa não dispensava a identificação do imóvel e que a retificação deveria preceder o registro.",
+      "data_publicacao": "2026-09-15T17:04:00-03:00",
+      "url": "https://portaldori.com.br/2026/09/15/csm-sp-registro-de-imoveis-duvida-escritura-publica-de-inventario-e-partilha-imovel-rural-principio-da-especialidade-objetiva-descricao-tabular-preca/",
+      "fonte": "Portal do RI"
     },
     {
-      "titulo": "IVAR sobe 0,28% em setembro",
-      "descricao": "O índice do FGV IBRE subiu 0,28% no país em setembro, enquanto os aluguéis residenciais no Rio de Janeiro avançaram 0,45% no mês. Na comparação anual, a variação carioca desacelerou de 6,37% em agosto para 5,77%.",
-      "data_publicacao": "2026-10-07T00:00:00-03:00",
-      "url": "https://portalibre.fgv.br/noticias/ivar-sobe-028-em-setembro",
-      "fonte": "FGV IBRE"
+      "titulo": "ONR publica lista de matrículas prioritárias ligadas à ADPF 743",
+      "descricao": "O Operador Nacional do Sistema de Registro Eletrônico de Imóveis divulgou matrículas prioritárias relacionadas a imóveis identificados em bases do SIGEF, SNCI e CAR em áreas com ilícitos ambientais. A lista foi organizada por estado e acompanhada de uma camada no Mapa restrito para orientar o saneamento registral previsto na decisão do STF.",
+      "data_publicacao": "2026-09-15T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/adpf-743-onr-disponibiliza-relacao-de-matriculas-prioritarias-para-saneamento/",
+      "fonte": "ANOREG/BR"
     },
     {
-      "titulo": "Contornos da base de cálculo do ITBI na incorporação imobiliária direta",
-      "descricao": "O artigo analisa se o ITBI em incorporações imobiliárias diretas deve incidir apenas sobre a fração ideal do terreno ou sobre o valor global da unidade futura. O texto relaciona a divergência jurisprudencial à reforma tributária e às decisões sobre o fato gerador do imposto.",
-      "data_publicacao": "2026-10-09T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/10/09/artigo-contornos-da-base-de-calculo-do-itbi-na-incorporacao-imobiliaria-direta-por-gabriel-cordeiro-de-lima/",
-      "fonte": "CNB/SP"
+      "titulo": "Artigo alerta que pagamento não cancela automaticamente pacto comissório na matrícula rural",
+      "descricao": "Artigo publicado pelo Colégio Registral do Rio Grande do Sul examina uma quitação de 2002 que permaneceu no acervo notarial sem assinatura do tabelião e não chegou ao Registro de Imóveis. O autor sustenta que o pagamento, por si só, não extingue a garantia publicizada na matrícula sem documento formalmente regular e apto ao registro.",
+      "data_publicacao": "2026-10-13T00:00:00-03:00",
+      "url": "https://colegioregistralrs.org.br/noticias/21568/pacto-comissorio-no-imovel-rural-quando-a-quitacao-existe-no-acervo-mas-nao-alcanca-a-matricula/",
+      "fonte": "Colégio Registral do Rio Grande do Sul"
     }
   ]
 }
