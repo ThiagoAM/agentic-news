@@ -1,93 +1,79 @@
 {
-  "data-busca": "2026-10-13T10:12:25-03:00",
+  "data-busca": "2026-10-14T10:02:40-03:00",
   "noticias": [
     {
-      "titulo": "Secretaria de Obras qualifica técnicos e padroniza rotinas",
-      "descricao": "Rio das Ostras iniciou um ciclo de encontros para padronizar procedimentos administrativos e qualificar as equipes de Infraestrutura e Obras. A primeira etapa abordou documentos, controle de processos, uso do sistema SALI e arquivamento.",
-      "data_publicacao": "2026-10-09T14:19:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/secretaria-de-obras-qualifica-tecnicos-e-rotinas/",
+      "titulo": "SAAE realiza manutenção de drenagem em bairros de Rio das Ostras",
+      "descricao": "Equipes do SAAE substituíram manilhas, limparam caixas-ralo e poços de visita e desobstruíram ralos em Operário, Ouro Verde, Nova Cidade e Costazul. O boletim municipal também registrou a recuperação de uma tubulação no Hospital Municipal, em Parque Zabulão.",
+      "data_publicacao": "2026-10-13T14:50:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/saae-realiza-intervencoes-em-diferentes-localidades-do-municipio/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Regulamento da CBS fere isonomia ao excluir imóveis prontos do redutor, defende artigo",
-      "descricao": "O artigo discute a transição do PIS/Cofins para a CBS nas vendas de imóveis e a composição do redutor de ajuste previsto na reforma tributária. O autor questiona a diferença entre imóveis concluídos e aqueles ainda em construção no fim de 2026.",
+      "titulo": "Intimação por e-mail não substitui aviso pessoal antes de leilão fiduciário, decide STJ",
+      "descricao": "A Terceira Turma do STJ manteve anulada a venda extrajudicial de um imóvel porque e-mails e telegramas não provaram que a devedora foi pessoalmente informada sobre as datas dos leilões. A decisão aplicou a exigência prevista no artigo 27, § 2º-A, da Lei 9.514/1997.",
+      "data_publicacao": "2026-10-10T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-10/stj-mantem-anulacao-de-leilao-por-falta-de-intimacao-pessoal-de-devedora/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo questiona tratamento da CBS no redutor de ajuste de imóveis",
+      "descricao": "O texto sustenta que o regulamento da CBS trata de forma diferente os custos de imóveis concluídos e daqueles ainda em construção ao calcular o redutor de ajuste. O autor prevê disputas interpretativas na transição tributária; trata-se de análise jurídica, não de decisão judicial.",
       "data_publicacao": "2026-10-09T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-out-09/cbs-na-venda-de-imovel-analise-de-seus-aspectos-relevantes/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "CNJ: Sistema Nacional de Adoção passa a ser integrado com cartórios de registro civil",
-      "descricao": "O Sistema Nacional de Adoção e Acolhimento passou a integrar etapas de registro civil com o Serp e os cartórios do país, conforme o Provimento CNJ nº 240/2026. A integração permite enviar ordens judiciais e receber de volta a nova certidão eletrônica, substituindo parte do fluxo manual.",
-      "data_publicacao": "2026-10-09T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/10/09/cnj-sistema-nacional-de-adocao-passa-a-ser-integrado-com-cartorios-de-registro-civil/",
-      "fonte": "CNB/SP"
-    },
-    {
-      "titulo": "Contornos da base de cálculo do ITBI na incorporação imobiliária direta",
-      "descricao": "O artigo analisa se o ITBI em incorporações imobiliárias diretas deve incidir apenas sobre a fração ideal do terreno ou sobre o valor da unidade futura. O texto relaciona a divergência de entendimentos à reforma tributária e à jurisprudência sobre o fato gerador do imposto.",
-      "data_publicacao": "2026-10-09T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/10/09/artigo-contornos-da-base-de-calculo-do-itbi-na-incorporacao-imobiliaria-direta-por-gabriel-cordeiro-de-lima/",
-      "fonte": "CNB/SP"
-    },
-    {
-      "titulo": "Anoreg/BR divulga orientações práticas sobre a implementação do IBS e da CBS na atividade notarial e registral",
-      "descricao": "A Recomendação nº 002/2026 reúne orientações sobre a emissão de NFS-e com destaque para IBS e CBS nos serviços notariais e registrais. A Anoreg/BR recomenda a emissão individualizada desde já e sugere manter também o documento local de ISS quando o município ainda o exigir.",
-      "data_publicacao": "2026-10-08T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/10/08/anoreg-br-divulga-orientacoes-praticas-sobre-a-implementacao-do-ibs-e-da-cbs-na-atividade-notarial-e-registral/",
-      "fonte": "CNB/SP (Anoreg/BR)"
-    },
-    {
-      "titulo": "Prefeitura e INCRA começam projeto piloto em Cantagalo",
-      "descricao": "A Prefeitura e o Incra vão mapear a localidade de Cantagalo para distinguir imóveis rurais dos urbanos. O levantamento deve apoiar o planejamento territorial e identificar áreas que possam integrar o programa municipal de regularização fundiária urbana.",
-      "data_publicacao": "2026-10-08T11:11:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/prefeitura-e-incra-comecam-projeto-em-cantagalo/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "IVAR sobe 0,28% em setembro",
-      "descricao": "O índice do FGV IBRE subiu 0,28% no país em setembro, enquanto os aluguéis residenciais no Rio de Janeiro avançaram 0,45% no mês. Na comparação anual, a variação carioca desacelerou de 6,37% em agosto para 5,77%.",
+      "titulo": "Aluguéis residenciais no Rio sobem 0,45% em setembro, aponta IVAR",
+      "descricao": "O FGV IBRE registrou alta média de 0,45% nos aluguéis residenciais do Rio de Janeiro em setembro, o nono mês consecutivo de avanço. No indicador de 12 meses, a variação carioca desacelerou de 6,37% em agosto para 5,77%.",
       "data_publicacao": "2026-10-07T00:00:00-03:00",
       "url": "https://portalibre.fgv.br/noticias/ivar-sobe-028-em-setembro",
       "fonte": "FGV IBRE"
     },
     {
-      "titulo": "Prefeitura e ITERJ entrega registros de imóveis a cerca de 300 famílias da Vila Pegas",
-      "descricao": "Moradores de Ipiabas, em Barra do Piraí, receberam documentos definitivos de seus imóveis após um processo de regularização fundiária conduzido com o ITERJ. A ação alcançou cerca de 300 famílias e formalizou a situação registral das moradias na comunidade.",
+      "titulo": "CNJ e Banco Central propõem escritura pública para cessão de precatórios",
+      "descricao": "Proposta apresentada pelo CNJ e pelo Banco Central prevê escritura pública para que a cessão de precatórios produza efeitos perante o Judiciário, com registro eletrônico e rastreabilidade das transferências. O CNB/CF participou da elaboração; na data da publicação, a nota técnica ainda seria analisada pelo Plenário Virtual do CNJ.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
+      "fonte": "Colégio Notarial do Brasil — Conselho Federal"
+    },
+    {
+      "titulo": "Rio das Ostras inicia plantio de milho e feijão em Cantagalo",
+      "descricao": "A Secretaria de Pesca e Agropecuária iniciou o plantio de milho e feijão em Cantagalo, com assistência técnica e apoio de máquinas aos produtores rurais. As sementes de feijão vieram da Pesagro-Rio, e parte da produção poderá abastecer novos plantios municipais no próximo ciclo.",
+      "data_publicacao": "2026-10-06T09:15:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-plantio-de-milho-e-feijao-em-cantagalo/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Barra do Piraí entrega registros de imóveis a cerca de 300 famílias",
+      "descricao": "A Prefeitura de Barra do Piraí e o ITERJ entregaram registros imobiliários a aproximadamente 300 famílias da Vila Pegas, em Ipiabas, após levantamento e identificação dos imóveis e moradores. A iniciativa integra a regularização fundiária conduzida em parceria no município.",
       "data_publicacao": "2026-10-05T20:53:00-03:00",
       "url": "https://barradopirai.rj.gov.br/todas-as-noticias/63fee058-29ab-450c-adad-91c4cca4c381",
       "fonte": "Prefeitura de Barra do Piraí / ITERJ"
     },
     {
-      "titulo": "Rio das Ostras avança na atualização do cadastro imobiliário do Município",
-      "descricao": "A Prefeitura iniciou a atualização cadastral dos imóveis pela localidade de Cidade Beira Mar para corrigir divergências e mapear a ocupação do território. O projeto prevê georreferenciamento e busca apoiar o planejamento municipal e a integração de informações com cartórios e a União.",
-      "data_publicacao": "2026-09-28T17:59:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-no-processo-de-atualizacao-do-cadastro-imobiliario-do-municipio/",
-      "fonte": "Prefeitura de Rio das Ostras"
+      "titulo": "Lei fixa prazo de cinco anos para prescrição de sanções a notários e registradores",
+      "descricao": "A Lei 15.509/2026 alterou a Lei dos Cartórios e fixou em cinco anos o prazo para prescrição da ação de aplicação de sanções administrativas a notários e registradores. A contagem começa na ocorrência do fato ou, em infrações permanentes, quando cessa a permanência.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "fonte": "Colégio Notarial do Brasil — Conselho Federal"
     },
     {
-      "titulo": "Arrematante fora do regime regular deveria ter crédito de IBS e CBS, defende artigo",
-      "descricao": "O artigo examina o tratamento do IBS e da CBS para a pessoa física que arremata imóvel fora do regime regular e a possível extinção do redutor de ajuste. O autor propõe reconhecer crédito tributário ou transferir o redutor, interpretação que permanece em debate.",
-      "data_publicacao": "2026-09-28T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-28/arrematacao-em-leilao-e-a-negativa-de-credito-de-ibs-e-cbs/",
-      "fonte": "ConJur"
+      "titulo": "Rio+Saneamento identifica 150 ligações pluviais irregulares em imóveis de Rio das Ostras",
+      "descricao": "Uma inspeção em Cidade Praiana identificou 150 imóveis que direcionavam água da chuva à rede de esgoto, e moradores receberam orientação para separar as ligações dos sistemas pluvial e sanitário. A concessionária informou que o volume indevido pode sobrecarregar a rede e gerar extravasamentos em períodos chuvosos.",
+      "data_publicacao": "2026-09-17T00:00:00-03:00",
+      "url": "https://www.riomaissaneamento.com.br/riosaneamento-identifica-150-imoveis-com-ligacoes-irregulares-de-agua-da-chuva-na-rede-de-esgoto-em-rio-das-ostras/",
+      "fonte": "Rio+Saneamento"
     },
     {
-      "titulo": "CNB/CF apresenta balanço de ações e resultados em reunião com as Seccionais Estaduais",
-      "descricao": "Em reunião com representantes de todo o país, o CNB/CF apresentou resultados das frentes jurídica, institucional e tecnológica. Entre os dados divulgados estão entregas implantadas no e-Notariado e a automação de parte das certidões do Busca Testamento.",
-      "data_publicacao": "2026-09-23T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/09/23/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
-      "fonte": "CNB/CF"
+      "titulo": "Artigo explica venda extrajudicial de bens do espólio durante inventário",
+      "descricao": "A Resolução CNJ 571/2024 permite que o inventariante venda bens do espólio por escritura pública, sem alvará judicial, quando o produto for destinado às despesas do inventário e forem atendidos requisitos de garantia e documentação. O artigo do CNB/CF diferencia esse procedimento da cessão de direitos hereditários feita por um herdeiro.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/alienacao-de-bens-pelo-espolio-e-cessao-de-direitos-hereditarios-o-que-muda-com-o-art-11-a-da-resolucao-571-24-do-cnj/",
+      "fonte": "Colégio Notarial do Brasil — Conselho Federal"
     },
     {
-      "titulo": "Município conclui estudo urbanístico para revisão do Plano Diretor",
-      "descricao": "A Secretaria de Licenciamento, Habitação e Urbanismo concluiu estudo técnico para a revisão do Plano Diretor de Rio das Ostras. As diretrizes tratam de uso do solo, habitação, mobilidade e preservação ambiental, e a proposta ainda será debatida em audiência pública.",
-      "data_publicacao": "2026-09-23T16:47:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/municipio-conclui-estudo-urbanistico-para-revisao-do-plano-diretor-municipal/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Mudança de uso em locação por inexigibilidade exige nova contratação, defende artigo",
-      "descricao": "O artigo sustenta que uma mudança substancial na finalidade de imóvel locado por inexigibilidade demanda nova instrução de contratação, em vez de simples aditamento. A análise trata da documentação da necessidade pública, da avaliação do imóvel e da pesquisa de alternativas de mercado.",
+      "titulo": "Artigo sustenta que mudança de uso em locação pública exige nova contratação",
+      "descricao": "O artigo defende que uma mudança substancial na finalidade de imóvel alugado diretamente por inexigibilidade não deve ser feita apenas por aditivo. A administração teria de instruir nova contratação, reavaliando o uso pretendido, a singularidade do imóvel e as alternativas disponíveis no mercado.",
       "data_publicacao": "2026-09-21T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-set-21/quando-a-mudanca-de-destinacao-transfigura-a-locacao-administrativa/",
       "fonte": "ConJur"
