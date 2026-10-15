@@ -1,82 +1,89 @@
 {
-  "data-busca": "2026-10-14T10:02:40-03:00",
+  "data-busca": "2026-10-15T10:01:40-03:00",
   "noticias": [
     {
-      "titulo": "União estável não formalizada pode exigir prova para participação no inventário",
-      "descricao": "A Agência Brasil explica que a falta de escritura ou contrato não elimina uma união estável, mas pode exigir que o sobrevivente comprove a relação para participar do inventário. A reportagem também aborda o direito real de habitação, que em regra protege a permanência no imóvel da família sem transferir sua propriedade.",
-      "data_publicacao": "2026-10-12T08:30:00-03:00",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/uniao-estavel-nao-formalizada-como-provar-e-entrar-no-inventario",
-      "fonte": "Agência Brasil"
+      "titulo": "Inadimplemento leva a ressarcimento de comprador de imóvel",
+      "descricao": "A 5ª Vara Cível de Santo André determinou que uma incorporadora devolva integralmente R$ 767 mil a dois compradores, após meses de paralisação da obra sem cronograma confiável de conclusão. A juíza afastou a retenção de valores ao concluir que a empresa não demonstrou a retomada dos trabalhos nem a capacidade de cumprir o prazo contratual.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/inadimplemento-leva-a-ressarcimento-de-comprador-de-imovel",
+      "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "STJ afetará repetitivos sobre retenção em distratos imobiliários",
-      "descricao": "A Segunda Seção do STJ afetou dois temas para definir percentuais e bases de cálculo da retenção quando o comprador provoca a rescisão de contratos imobiliários, separando negócios anteriores à Lei do Distrato e compras posteriores de lotes ou terrenos. Processos com recursos especiais sobre as questões foram suspensos enquanto o tribunal prepara as teses.",
-      "data_publicacao": "2026-10-08T07:40:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08102026-Repetitivo-definira-limites-de-retencao-em-rescisao-de-contratos-imobiliarios-antes-e-depois-da-Lei-do-Distrato.aspx",
-      "fonte": "Superior Tribunal de Justiça"
-    },
-    {
-      "titulo": "STJ suspende processos sobre locação de curta temporada em condomínios",
-      "descricao": "O STJ determinou a suspensão nacional de processos que discutem se a destinação residencial prevista na convenção do condomínio basta para impedir locações de curta temporada por plataformas digitais ou se é necessária proibição expressa. A controvérsia será examinada sob o rito dos recursos repetitivos.",
-      "data_publicacao": "2026-09-17T07:15:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17092026-Airbnb-afetacao-de-repetitivo-sobre-locacao-de-curta-temporada-em-condominios-suspende-processos-em-todo-o-pais.aspx",
-      "fonte": "Superior Tribunal de Justiça"
-    },
-    {
-      "titulo": "CNJ mantém por ora dispensa de anuência em retificação rural certificada pelo SIGEF",
-      "descricao": "O corregedor nacional de Justiça negou liminar que pretendia condicionar à qualificação registral prévia a dispensa de anuência de confrontantes em retificações de imóveis rurais certificados no SIGEF. A decisão manteve a regra provisoriamente e solicitou manifestações do ONR, IRIB e RIB sobre sua aplicação e controles registrais.",
-      "data_publicacao": "2026-10-09T00:00:00-03:00",
-      "url": "https://www.irib.org.br/dispensa-de-assinatura-de-vizinhos-para-corrigir-limites-de-terras-rurais-e-mantida-pelo-cnj/",
+      "titulo": "Portaria institui plataforma digital para gestão dos imóveis da União",
+      "descricao": "A Portaria SPU/MGI nº 6.906/2026 instituiu a SPUnet como plataforma oficial e obrigatória para cadastro, regularização, avaliação e gestão dos imóveis da União. A norma prevê integração de dados patrimoniais e geoespaciais e entrou em vigor após publicação no Diário Oficial de 13 de outubro.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://www.irib.org.br/portaria-spu-mgi-n-6-906-de-24-de-agosto-de-2026/",
       "fonte": "IRIB"
     },
     {
-      "titulo": "Abertura de holdings familiares cresce 63% de janeiro a julho",
-      "descricao": "Dados da Receita Federal citados pelo Colégio Registral apontam 28,7 mil aberturas de holdings familiares não financeiras entre janeiro e julho de 2026, ante 17,5 mil no mesmo período de 2025. A reportagem associa o movimento às mudanças previstas para o ITCMD e ressalta que custos de manutenção e características do patrimônio também entram na análise.",
-      "data_publicacao": "2026-10-05T00:00:00-03:00",
-      "url": "https://colegioregistralrs.org.br/noticias/21521/com-reforma-tributaria-abertura-de-holdings-familiares-dispara-63-no-ano/",
-      "fonte": "Colégio Registral do Rio Grande do Sul"
+      "titulo": "STF modula efeitos de decisão sobre alíquota do IPTU por área do imóvel",
+      "descricao": "O Supremo Tribunal Federal definiu que a decisão que veda alíquotas de IPTU calculadas pela área do imóvel produz efeitos a partir de 12 de agosto de 2026, data da publicação da ata do Tema 1.455. A modulação preserva cobranças e pagamentos anteriores, além de processos administrativos e ações judiciais que ainda estavam pendentes.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://www.irib.org.br/decisao-que-proibe-os-municipios-de-fixar-aliquotas-do-iptu-com-base-na-area-do-imovel-produz-efeitos-a-partir-de-12-de-agosto-de-2026/",
+      "fonte": "IRIB"
     },
     {
-      "titulo": "FipeZAP registra alta de 0,58% nos preços pedidos de imóveis em setembro",
-      "descricao": "O índice FipeZAP apontou alta mensal de 0,58% nos preços anunciados de imóveis residenciais em setembro, com média de R$ 10.015 por metro quadrado e elevação em 46 das 56 cidades pesquisadas. O indicador acumulou 5,51% em 12 meses e mede preços de oferta, que podem diferir dos valores efetivamente negociados.",
-      "data_publicacao": "2026-10-05T11:40:00-03:00",
-      "url": "https://portalgmi.com.br/materia/precos-anunciados-de-imoveis-residenciais-sobem-058-em-setembro",
-      "fonte": "GMI — Guia do Mercado Imobiliário"
+      "titulo": "TJDFT mantém recusa de penhora sobre escritura de imóvel não registrada",
+      "descricao": "O TJDFT manteve a recusa de averbar penhora de direitos aquisitivos decorrentes de escritura de compra e venda que não foi registrada, pois o executado não constava como titular na matrícula. O acórdão reconheceu que esses direitos podem ser penhorados, mas concluiu que a continuidade registral impede a averbação enquanto o título aquisitivo não ingressar no fólio real.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://www.irib.org.br/penhora-direitos-aquisitivos-escritura-publica-nao-registrada-averbacao-impossibilidade-principio-da-continuidade-registral/",
+      "fonte": "IRIB"
     },
     {
-      "titulo": "Saques na poupança superam R$ 66 bilhões enquanto crédito imobiliário cresce",
-      "descricao": "Dados do Banco Central mostram saques líquidos de R$ 66,43 bilhões na poupança entre janeiro e setembro de 2026, enquanto os financiamentos de imóveis para aquisição e construção somaram 384,6 mil unidades nos oito primeiros meses, alta anual de 35,9%. A análise relaciona a expansão do crédito a mudanças regulatórias que ampliaram recursos disponíveis e observa que ajustes para 2027 ainda estão em discussão.",
-      "data_publicacao": "2026-10-12T14:05:00-03:00",
-      "url": "https://portalgmi.com.br/materia/poupanca-perde-r-664-bilhoes-em-2026-mas-credito-imobiliario-cresce",
-      "fonte": "GMI — Guia do Mercado Imobiliário"
-    },
-    {
-      "titulo": "Projeto cria endereços digitais por GPS para áreas remotas",
-      "descricao": "O PL 3.288/2026 propõe endereços digitais baseados em coordenadas de GPS para imóveis, comunidades e órgãos públicos sem endereço tradicional ou de difícil acesso. A proposta tramita na Câmara e ainda precisa passar por seis comissões, além de ser aprovada pela Câmara e pelo Senado.",
-      "data_publicacao": "2026-09-17T09:07:00-03:00",
-      "url": "https://www.camara.leg.br/noticias/1303286-projeto-cria-enderecos-digitais-para-facilitar-localizacao-em-areas-remotas",
-      "fonte": "Agência Câmara de Notícias"
-    },
-    {
-      "titulo": "CSM de São Paulo mantém recusa de partilha de imóvel rural sem descrição suficiente",
-      "descricao": "O Conselho Superior da Magistratura do TJSP manteve a recusa de registro de uma partilha porque a matrícula não permitia localizar o imóvel rural com precisão, diante de divisas descritas sem medidas laterais ou referências suficientes. O colegiado concluiu que a flexibilização normativa não dispensava a identificação do imóvel e que a retificação deveria preceder o registro.",
-      "data_publicacao": "2026-09-15T17:04:00-03:00",
-      "url": "https://portaldori.com.br/2026/09/15/csm-sp-registro-de-imoveis-duvida-escritura-publica-de-inventario-e-partilha-imovel-rural-principio-da-especialidade-objetiva-descricao-tabular-preca/",
-      "fonte": "Portal do RI"
-    },
-    {
-      "titulo": "ONR publica lista de matrículas prioritárias ligadas à ADPF 743",
-      "descricao": "O Operador Nacional do Sistema de Registro Eletrônico de Imóveis divulgou matrículas prioritárias relacionadas a imóveis identificados em bases do SIGEF, SNCI e CAR em áreas com ilícitos ambientais. A lista foi organizada por estado e acompanhada de uma camada no Mapa restrito para orientar o saneamento registral previsto na decisão do STF.",
-      "data_publicacao": "2026-09-15T00:00:00-03:00",
-      "url": "https://www.anoreg.org.br/site/adpf-743-onr-disponibiliza-relacao-de-matriculas-prioritarias-para-saneamento/",
-      "fonte": "ANOREG/BR"
-    },
-    {
-      "titulo": "Artigo alerta que pagamento não cancela automaticamente pacto comissório na matrícula rural",
-      "descricao": "Artigo publicado pelo Colégio Registral do Rio Grande do Sul examina uma quitação de 2002 que permaneceu no acervo notarial sem assinatura do tabelião e não chegou ao Registro de Imóveis. O autor sustenta que o pagamento, por si só, não extingue a garantia publicizada na matrícula sem documento formalmente regular e apto ao registro.",
+      "titulo": "Morte do outorgante impede registro de escritura lavrada por procurador",
+      "descricao": "O Tribunal de Justiça de Minas Gerais manteve a recusa de registrar escritura de venda assinada por procurador depois da morte do proprietário. O colegiado entendeu que o falecimento extinguiu o mandato e transferiu imediatamente a herança aos sucessores, que não poderiam ser representados por poderes já encerrados.",
       "data_publicacao": "2026-10-13T00:00:00-03:00",
-      "url": "https://colegioregistralrs.org.br/noticias/21568/pacto-comissorio-no-imovel-rural-quando-a-quitacao-existe-no-acervo-mas-nao-alcanca-a-matricula/",
-      "fonte": "Colégio Registral do Rio Grande do Sul"
+      "url": "https://www.irib.org.br/compra-e-venda-escritura-publica-procuracao-morte-do-outorgante-mandato-extincao-principio-da-saisine-registro-recusa/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Projeto propõe permitir mudança de destinação de áreas públicas em loteamentos",
+      "descricao": "O PL 3.007/2026 propõe autorizar municípios a alterar a destinação de áreas públicas e institucionais provenientes de parcelamentos urbanos. A proposta exige justificativa de interesse público, compatibilidade com o Plano Diretor, estudos técnicos e participação social, e aguarda relatoria na Comissão de Desenvolvimento Urbano da Câmara.",
+      "data_publicacao": "2026-10-13T00:00:00-03:00",
+      "url": "https://www.irib.org.br/pl-altera-lei-de-parcelamento-do-solo-urbano-para-permitir-que-municipio-mude-destinacao-de-areas-de-loteamento/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Minha Casa, Minha Vida soma 2,7 milhões de unidades contratadas",
+      "descricao": "O Minha Casa, Minha Vida alcançou 2,7 milhões de unidades contratadas desde 2023 e está presente em 95% dos municípios brasileiros, segundo dados apresentados pelo Ministério das Cidades. O programa financiou R$ 424,2 bilhões no período, e a meta federal é chegar a 3 milhões de contratações até o fim de 2026.",
+      "data_publicacao": "2026-10-13T00:00:00-03:00",
+      "url": "https://portas.com.br/noticias/minha-casa-minha-vida-2-7-milhoes-unidades-contratadas/",
+      "fonte": "Portas"
+    },
+    {
+      "titulo": "STF forma maioria sobre imunidade de ITBI na integralização de imóveis",
+      "descricao": "No Tema 1.348, seis ministros do Supremo votaram a favor da imunidade de ITBI na transferência de imóveis para integralização de capital, mesmo quando a empresa atua predominantemente no mercado imobiliário; dois ministros divergiram. O julgamento virtual seguia em andamento, com previsão de encerramento em 19 de outubro, de modo que ainda não havia tese final proclamada.",
+      "data_publicacao": "2026-10-13T12:23:00-03:00",
+      "url": "https://lawletter.com.br/noticia/stf-forma-maioria-por-imunidade-de-itbi-na-integralizacao-de-capital-de-imobiliarias",
+      "fonte": "Lawletter"
+    },
+    {
+      "titulo": "SBPE registra saques líquidos pelo quarto mês consecutivo",
+      "descricao": "O Sistema Brasileiro de Poupança e Empréstimo teve retirada líquida de R$ 6,19 bilhões em setembro, o quarto resultado mensal negativo seguido, segundo dados do Banco Central. Apesar disso, o crédito imobiliário financiado com recursos da poupança somou R$ 132,5 bilhões entre janeiro e agosto, alta de 37,5% em relação ao mesmo período de 2025.",
+      "data_publicacao": "2026-10-13T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/sbpe-registra-captacao-liquida-negativa-pelo-quarto-mes",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "STJ afasta usucapião familiar de imóvel urbano acima de 250 m²",
+      "descricao": "A Quarta Turma do STJ rejeitou pedido de usucapião familiar sobre parte de um imóvel urbano de 360 m², aplicando o limite legal à propriedade inteira, e não apenas à fração reivindicada. O colegiado considerou que o teto de 250 m² previsto no Código Civil é requisito objetivo para essa modalidade de aquisição.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/metragem-superior-a-250-m-leva-stj-a-afastar-usucapiao",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Ocupação prolongada de imóvel herdado não basta para usucapião",
+      "descricao": "A Quarta Turma do STJ decidiu que a permanência por décadas em imóvel da família não comprova, por si só, posse com intenção de dono. No caso, o imóvel ainda integrava herança não partilhada e outros herdeiros se opuseram ao pedido, fatores que afastaram o requisito de animus domini.",
+      "data_publicacao": "2026-09-30T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30092026-Ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "CNJ reafirma que mudança nas faixas de emolumentos exige lei",
+      "descricao": "O Conselho Nacional de Justiça decidiu por unanimidade que valores, bases de cálculo e critérios de progressividade dos emolumentos extrajudiciais só podem ser alterados por lei formal. O caso tratou das faixas usadas no Acre, e o colegiado afastou a possibilidade de atualização por ato administrativo ou determinação correcional.",
+      "data_publicacao": "2026-10-13T00:00:00-03:00",
+      "url": "https://www.anoregpr.org.br/emolumentos-de-cartorios-extrajudiciais-somente-podem-ser-atualizados-por-lei/",
+      "fonte": "Anoreg-PR"
     }
   ]
 }
