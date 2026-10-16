@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-10-15T10:01:40-03:00",
+  "noticias": [
+    {
+      "titulo": "Inadimplemento leva a ressarcimento de comprador de imóvel",
+      "descricao": "A 5ª Vara Cível de Santo André determinou que uma incorporadora devolva integralmente R$ 767 mil a dois compradores, após meses de paralisação da obra sem cronograma confiável de conclusão. A juíza afastou a retenção de valores ao concluir que a empresa não demonstrou a retomada dos trabalhos nem a capacidade de cumprir o prazo contratual.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/inadimplemento-leva-a-ressarcimento-de-comprador-de-imovel",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Portaria institui plataforma digital para gestão dos imóveis da União",
+      "descricao": "A Portaria SPU/MGI nº 6.906/2026 instituiu a SPUnet como plataforma oficial e obrigatória para cadastro, regularização, avaliação e gestão dos imóveis da União. A norma prevê integração de dados patrimoniais e geoespaciais e entrou em vigor após publicação no Diário Oficial de 13 de outubro.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://www.irib.org.br/portaria-spu-mgi-n-6-906-de-24-de-agosto-de-2026/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "STF modula efeitos de decisão sobre alíquota do IPTU por área do imóvel",
+      "descricao": "O Supremo Tribunal Federal definiu que a decisão que veda alíquotas de IPTU calculadas pela área do imóvel produz efeitos a partir de 12 de agosto de 2026, data da publicação da ata do Tema 1.455. A modulação preserva cobranças e pagamentos anteriores, além de processos administrativos e ações judiciais que ainda estavam pendentes.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://www.irib.org.br/decisao-que-proibe-os-municipios-de-fixar-aliquotas-do-iptu-com-base-na-area-do-imovel-produz-efeitos-a-partir-de-12-de-agosto-de-2026/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "TJDFT mantém recusa de penhora sobre escritura de imóvel não registrada",
+      "descricao": "O TJDFT manteve a recusa de averbar penhora de direitos aquisitivos decorrentes de escritura de compra e venda que não foi registrada, pois o executado não constava como titular na matrícula. O acórdão reconheceu que esses direitos podem ser penhorados, mas concluiu que a continuidade registral impede a averbação enquanto o título aquisitivo não ingressar no fólio real.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://www.irib.org.br/penhora-direitos-aquisitivos-escritura-publica-nao-registrada-averbacao-impossibilidade-principio-da-continuidade-registral/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Morte do outorgante impede registro de escritura lavrada por procurador",
+      "descricao": "O Tribunal de Justiça de Minas Gerais manteve a recusa de registrar escritura de venda assinada por procurador depois da morte do proprietário. O colegiado entendeu que o falecimento extinguiu o mandato e transferiu imediatamente a herança aos sucessores, que não poderiam ser representados por poderes já encerrados.",
+      "data_publicacao": "2026-10-13T00:00:00-03:00",
+      "url": "https://www.irib.org.br/compra-e-venda-escritura-publica-procuracao-morte-do-outorgante-mandato-extincao-principio-da-saisine-registro-recusa/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Projeto propõe permitir mudança de destinação de áreas públicas em loteamentos",
+      "descricao": "O PL 3.007/2026 propõe autorizar municípios a alterar a destinação de áreas públicas e institucionais provenientes de parcelamentos urbanos. A proposta exige justificativa de interesse público, compatibilidade com o Plano Diretor, estudos técnicos e participação social, e aguarda relatoria na Comissão de Desenvolvimento Urbano da Câmara.",
+      "data_publicacao": "2026-10-13T00:00:00-03:00",
+      "url": "https://www.irib.org.br/pl-altera-lei-de-parcelamento-do-solo-urbano-para-permitir-que-municipio-mude-destinacao-de-areas-de-loteamento/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Minha Casa, Minha Vida soma 2,7 milhões de unidades contratadas",
+      "descricao": "O Minha Casa, Minha Vida alcançou 2,7 milhões de unidades contratadas desde 2023 e está presente em 95% dos municípios brasileiros, segundo dados apresentados pelo Ministério das Cidades. O programa financiou R$ 424,2 bilhões no período, e a meta federal é chegar a 3 milhões de contratações até o fim de 2026.",
+      "data_publicacao": "2026-10-13T00:00:00-03:00",
+      "url": "https://portas.com.br/noticias/minha-casa-minha-vida-2-7-milhoes-unidades-contratadas/",
+      "fonte": "Portas"
+    },
+    {
+      "titulo": "STF forma maioria sobre imunidade de ITBI na integralização de imóveis",
+      "descricao": "No Tema 1.348, seis ministros do Supremo votaram a favor da imunidade de ITBI na transferência de imóveis para integralização de capital, mesmo quando a empresa atua predominantemente no mercado imobiliário; dois ministros divergiram. O julgamento virtual seguia em andamento, com previsão de encerramento em 19 de outubro, de modo que ainda não havia tese final proclamada.",
+      "data_publicacao": "2026-10-13T12:23:00-03:00",
+      "url": "https://lawletter.com.br/noticia/stf-forma-maioria-por-imunidade-de-itbi-na-integralizacao-de-capital-de-imobiliarias",
+      "fonte": "Lawletter"
+    },
+    {
+      "titulo": "SBPE registra saques líquidos pelo quarto mês consecutivo",
+      "descricao": "O Sistema Brasileiro de Poupança e Empréstimo teve retirada líquida de R$ 6,19 bilhões em setembro, o quarto resultado mensal negativo seguido, segundo dados do Banco Central. Apesar disso, o crédito imobiliário financiado com recursos da poupança somou R$ 132,5 bilhões entre janeiro e agosto, alta de 37,5% em relação ao mesmo período de 2025.",
+      "data_publicacao": "2026-10-13T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/sbpe-registra-captacao-liquida-negativa-pelo-quarto-mes",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "STJ afasta usucapião familiar de imóvel urbano acima de 250 m²",
+      "descricao": "A Quarta Turma do STJ rejeitou pedido de usucapião familiar sobre parte de um imóvel urbano de 360 m², aplicando o limite legal à propriedade inteira, e não apenas à fração reivindicada. O colegiado considerou que o teto de 250 m² previsto no Código Civil é requisito objetivo para essa modalidade de aquisição.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/metragem-superior-a-250-m-leva-stj-a-afastar-usucapiao",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Ocupação prolongada de imóvel herdado não basta para usucapião",
+      "descricao": "A Quarta Turma do STJ decidiu que a permanência por décadas em imóvel da família não comprova, por si só, posse com intenção de dono. No caso, o imóvel ainda integrava herança não partilhada e outros herdeiros se opuseram ao pedido, fatores que afastaram o requisito de animus domini.",
+      "data_publicacao": "2026-09-30T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30092026-Ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "CNJ reafirma que mudança nas faixas de emolumentos exige lei",
+      "descricao": "O Conselho Nacional de Justiça decidiu por unanimidade que valores, bases de cálculo e critérios de progressividade dos emolumentos extrajudiciais só podem ser alterados por lei formal. O caso tratou das faixas usadas no Acre, e o colegiado afastou a possibilidade de atualização por ato administrativo ou determinação correcional.",
+      "data_publicacao": "2026-10-13T00:00:00-03:00",
+      "url": "https://www.anoregpr.org.br/emolumentos-de-cartorios-extrajudiciais-somente-podem-ser-atualizados-por-lei/",
+      "fonte": "Anoreg-PR"
+    }
+  ]
+}
