@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-15T10:17:11-03:00",
+  "noticias": [
+    {
+      "titulo": "Moradores de Cidade Beira Mar devem atualizar cadastro dos imóveis",
+      "descricao": "A Prefeitura orientou proprietários do bairro Cidade Beira Mar que construíram, ampliaram ou alteraram seus imóveis a atualizar o cadastro municipal. A etapa inicial abrange somente o bairro e busca alinhar os dados cadastrais à situação atual das propriedades.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/Noticias.php?noticia=14712",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Banco de Empregos anunciou 480 vagas em Rio das Ostras",
+      "descricao": "Em 13 de outubro, o Banco de Empregos de Rio das Ostras divulgou 480 oportunidades em funções de diferentes áreas e níveis de experiência. A notícia informou que a inscrição era gratuita e presencial no Centro de Cidadania, e que a relação correspondia às vagas anunciadas naquela terça-feira.",
+      "data_publicacao": "2026-10-13T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14704",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura e Incra iniciam mapeamento piloto em Cantagalo",
+      "descricao": "Rio das Ostras e o Incra iniciaram um projeto piloto para mapear propriedades rurais e imóveis com características urbanas em Cantagalo. O levantamento deverá identificar áreas que permanecem sob responsabilidade do Incra e imóveis que podem ser incluídos na regularização fundiária municipal.",
+      "data_publicacao": "2026-10-08T11:11:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-e-incra-comecam-projeto-em-cantagalo/",
+      "fonte": "Prefeitura de Rio das Ostras / Incra"
+    },
+    {
+      "titulo": "Decreto estadual facilita titulação de imóveis do Minha Casa, Minha Vida",
+      "descricao": "A Defensoria Pública do Rio de Janeiro informou que o Decreto estadual nº 50.476/2026 prevê reconhecimento automático de isenção na doação de imóveis construídos com recursos do Fundo de Arrendamento Residencial, enfrentando um passivo de titulação superior a 13 mil unidades. A DPRJ também aponta 10.987 novas unidades previstas no ciclo 2025–2026 do programa no estado e destaca a medida como prevenção de novos atrasos registrais.",
+      "data_publicacao": "2026-09-17T17:00:00-03:00",
+      "url": "https://www.defensoria.rj.def.br/noticia/detalhes/33012-Atuacao-da-DPRJ-facilita-regularizacao-de-imoveis-do-Minha-Casa-Minha-Vida",
+      "fonte": "Defensoria Pública do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "TJRJ publica orientações para identificar litigância abusiva",
+      "descricao": "O Tribunal de Justiça do Rio de Janeiro divulgou quatro notas técnicas com orientações para identificar possíveis padrões de litigância abusiva e fragmentação de demandas. Os documentos recomendam análise individualizada dos processos e conferência da documentação, com o objetivo de apoiar a gestão processual e preservar o acesso à Justiça.",
+      "data_publicacao": "2026-09-17T16:04:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/portal-conhecimento/noticias/noticia/-/visualizar-conteudo/5736540/406811244",
+      "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "STJ mantém anulação de leilão de imóvel por falta de intimação pessoal",
+      "descricao": "A ConJur informa que a Terceira Turma do STJ manteve anulada a venda extrajudicial de um imóvel depois de não ser comprovada a intimação pessoal da devedora sobre as datas dos leilões. Segundo a cobertura, e-mails e telegramas não demonstraram ciência inequívoca no caso analisado.",
+      "data_publicacao": "2026-10-10T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-10/stj-mantem-anulacao-de-leilao-por-falta-de-intimacao-pessoal-de-devedora/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo discute redutor da CBS na venda de imóveis",
+      "descricao": "Artigo publicado no ConJur analisa o redutor de ajuste da CBS em operações de alienação imobiliária e aponta diferenças entre os custos admitidos para imóveis em construção e para edificações já concluídas no fim de 2026. A autora considera que a regulamentação pode suscitar debate sobre isonomia tributária; trata-se de análise jurídica, não de decisão judicial.",
+      "data_publicacao": "2026-10-09T20:04:00-03:00",
+      "url": "https://conjur.com.br/2026-out-09/cbs-na-venda-de-imovel-analise-de-seus-aspectos-relevantes/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo diferencia cadeia de cessões e cadeia dominial na adjudicação",
+      "descricao": "Guilherme Augusto Monte distingue a cadeia de promessas e cessões, que demonstra a legitimidade aquisitiva, da cadeia dominial verificada no registro do imóvel. O autor sustenta que o cessionário final pode buscar a adjudicação contra o titular registral após provar a sequência negocial e a quitação, sem incluir automaticamente cedentes intermediários no processo.",
+      "data_publicacao": "2026-09-18T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-18/adjudicacao-compulsoria-a-cadeia-de-cessoes-nao-e-cadeia-dominial/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Anoreg questiona no STF regra sobre garantia patrimonial de cartórios",
+      "descricao": "A Anoreg ajuizou a ADI 8.015 no Supremo Tribunal Federal contra regras do CNJ que exigem dos titulares de cartórios a indicação de bens para cobrir eventual passivo trabalhista. O CNB relata que a associação sustenta falta de previsão legal e questiona a proporcionalidade das exigências; a ação ainda não representa decisão de mérito.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cartorios-questionam-no-stf-regras-do-cnj-sobre-garantia-de-obrigacoes-trabalhistas/",
+      "fonte": "Colégio Notarial do Brasil — Conselho Federal"
+    },
+    {
+      "titulo": "Artigo propõe ata notarial de concordância para inventário com testamento público",
+      "descricao": "Artigo publicado pelo CNB/CF propõe criar uma ata notarial de concordância testamentária para viabilizar inventário extrajudicial quando houver testamento público e consenso entre os interessados. O texto apresenta a ideia como proposta, com manifestação do Ministério Público e remessa à via judicial em caso de dúvida ou discordância, e não como regra vigente.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/a-abertura-extrajudicial-do-testamento-publico-como-pressuposto-do-inventario-por-escritura-proposta-de-ata-notarial-de-concordancia-testamentaria/",
+      "fonte": "Colégio Notarial do Brasil — Conselho Federal"
+    },
+    {
+      "titulo": "Podcast do STJ aborda validade de testamentos particulares e meios digitais",
+      "descricao": "O CNB/CF divulgou episódio do podcast STJ No Seu Dia sobre decisão da Terceira Turma a respeito dos requisitos formais de validade dos testamentos particulares. A conversa aborda a comprovação de autoria, autenticação digital e a adaptação do direito sucessório às novas formas de manifestação de vontade.",
+      "data_publicacao": "2026-09-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/podcast-stj-no-seu-dia-discute-testamentos-eletronicos-e-novas-tecnologias-no-direito-sucessorio/",
+      "fonte": "Colégio Notarial do Brasil — Conselho Federal"
+    }
+  ]
+}
