@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-10-16T10:00:56-03:00",
+  "data-busca": "2026-10-17T10:10:23-03:00",
   "noticias": [
     {
       "titulo": "Prefeitura orienta moradores de Cidade Beira Mar a atualizar cadastro de imóveis",
-      "descricao": "A orientação municipal é voltada a proprietários que fizeram construções, ampliações ou outras alterações nos imóveis do bairro e precisam atualizar o cadastro. Neste momento, o aviso se aplica apenas a Cidade Beira Mar.",
+      "descricao": "A orientação municipal é voltada a proprietários do bairro Cidade Beira Mar que construíram, ampliaram ou fizeram outras alterações nos imóveis. Neste primeiro momento, a atualização cadastral se aplica exclusivamente ao bairro.",
       "data_publicacao": "2026-10-14T00:00:00-03:00",
       "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14712",
       "fonte": "Portal Rio das Ostras"
     },
     {
-      "titulo": "Município conclui estudo urbanístico para revisão do Plano Diretor",
-      "descricao": "A Secretaria de Licenciamento, Habitação e Urbanismo concluiu o estudo técnico que compõe a revisão do Plano Diretor de Rio das Ostras. O documento reúne diretrizes de uso do solo, habitação, mobilidade e desenvolvimento sustentável e será apresentado à população em audiência pública.",
-      "data_publicacao": "2026-09-23T16:47:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/municipio-conclui-estudo-urbanistico-para-revisao-do-plano-diretor-municipal/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
       "titulo": "Prefeitura promove qualificação de equipe de engenharia",
-      "descricao": "A Secretaria de Infraestrutura Urbana e Obras Públicas realizou capacitação para engenheiros municipais sobre análise e desenvolvimento de projetos de pavimentos flexíveis. A formação também apresentou uma ferramenta própria para apoiar cálculos e padronizar parâmetros técnicos em projetos de pavimentação.",
+      "descricao": "A Secretaria de Obras de Rio das Ostras capacitou engenheiros municipais em análise e desenvolvimento de projetos de pavimentos flexíveis. A atividade também apresentou uma ferramenta da equipe para apoiar cálculos e padronizar parâmetros técnicos de projetos.",
       "data_publicacao": "2026-10-15T14:35:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/prefeitura-promove-qualificacao-de-equipe-de-engenharia/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
+      "titulo": "Município conclui estudo urbanístico para revisão do Plano Diretor",
+      "descricao": "A Prefeitura de Rio das Ostras concluiu o estudo técnico urbanístico que integrará o material da comissão responsável pela revisão do Plano Diretor. O documento reúne diretrizes sobre uso do solo, mobilidade, habitação, meio ambiente e desenvolvimento econômico; a próxima etapa anunciada é uma audiência pública.",
+      "data_publicacao": "2026-09-23T16:47:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-conclui-estudo-urbanistico-para-revisao-do-plano-diretor-municipal/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
       "titulo": "Atuação da DPRJ facilita regularização de imóveis do Minha Casa, Minha Vida",
-      "descricao": "O Decreto estadual nº 50.476/2026 permite reconhecer automaticamente a isenção aplicável à doação de imóveis construídos com recursos do Fundo de Arrendamento Residencial. A mudança busca destravar a titulação de mais de 13 mil unidades no Estado do Rio de Janeiro e vale também para operações futuras que cumpram os requisitos legais.",
+      "descricao": "O Decreto estadual nº 50.476/2026 permite reconhecer automaticamente a isenção aplicável à doação de imóveis construídos com recursos do Fundo de Arrendamento Residencial. A medida busca remover um entrave à titulação de mais de 13 mil unidades do programa no Estado do Rio de Janeiro e também vale para futuras operações que atendam aos requisitos legais.",
       "data_publicacao": "2026-09-17T17:00:00-03:00",
       "url": "https://www.defensoria.rj.def.br/noticia/detalhes/33012-Atuacao-da-DPRJ-facilita-regularizacao-de-imoveis-do-Minha-Casa-Minha-Vida",
       "fonte": "Defensoria Pública do Estado do Rio de Janeiro"
     },
     {
-      "titulo": "Liminar do TJRJ suspende lei do Rio que legaliza novas obras acima do plano diretor",
-      "descricao": "O Órgão Especial do TJRJ suspendeu, para novas construções, uma lei municipal que permitia legalizar obras acima dos índices do Plano Diretor mediante contrapartida. A decisão mencionou a falta de estudos técnicos e de participação popular; obras já realizadas não foram atingidas pela medida liminar.",
-      "data_publicacao": "2026-09-23T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-23/lei/",
+      "titulo": "IPP e Secovi Rio firmam acordo para ampliar dados do mercado imobiliário",
+      "descricao": "O Instituto Pereira Passos e o Secovi Rio firmaram um acordo de cooperação para ampliar o intercâmbio de dados e indicadores do mercado imobiliário carioca. A iniciativa pretende apoiar estudos sobre as transformações urbanas e o planejamento da cidade do Rio de Janeiro.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://rioemalta.com.br/noticias/ipp-e-secovi-rio-firmam-acordo-para-ampliar-dados-do-mercado-imobiliario-1792150563977",
+      "fonte": "Rio em Alta, com informações do Instituto Pereira Passos"
+    },
+    {
+      "titulo": "Falta de intimação pessoal de devedor mantém anulação de leilão",
+      "descricao": "A Terceira Turma do STJ manteve a anulação de um leilão extrajudicial de imóvel por falta de intimação pessoal da devedora. Para o colegiado, notificações eletrônicas, por si sós, não demonstraram ciência inequívoca do evento.",
+      "data_publicacao": "2026-10-10T15:51:00-03:00",
+      "url": "https://conjur.com.br/2026-out-10/stj-mantem-anulacao-de-leilao-por-falta-de-intimacao-pessoal-de-devedora/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "4ª Turma do STJ admite que convenção residencial vede aluguel de curta temporada",
-      "descricao": "A 4ª Turma do STJ entendeu que a convenção de condomínio que restringe o uso a fins residenciais pode impedir locações de curta temporada. A restrição depende do que dispõe a convenção, e a 2ª Seção ainda deve fixar tese vinculante sobre o tema.",
-      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "titulo": "Condomínio tem o direito de proibir aluguel de curta temporada, afirma STJ",
+      "descricao": "A Quarta Turma do STJ permitiu que um condomínio residencial impeça a locação de curta temporada quando a convenção restringe o uso das unidades a fins residenciais. A decisão considera a alta rotatividade incompatível com essa destinação prevista na convenção.",
+      "data_publicacao": "2026-09-29T14:13:00-03:00",
       "url": "https://conjur.com.br/2026-set-29/aluguel-de-curta-temporada-desvirtua-carater-residencial-em-condominio/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "STJ define grau de intervenção da Caixa em ações de seguro habitacional do SFH",
-      "descricao": "Em recurso repetitivo, o STJ definiu como a Caixa participa de ações de indenização do seguro habitacional de apólice pública do SFH, conforme o estágio processual em 26 de novembro de 2010. Nas apólices privadas, a instituição não intervém e os processos seguem na Justiça Estadual.",
-      "data_publicacao": "2026-09-20T00:00:00-03:00",
+      "titulo": "STJ define intervenção da Caixa em casos sobre seguro habitacional no SFH",
+      "descricao": "A Corte Especial do STJ estabeleceu critérios para a participação da Caixa em ações sobre indenização de seguros habitacionais vinculados ao Sistema Financeiro da Habitação. A forma de intervenção varia conforme a apólice e o estágio processual do caso.",
+      "data_publicacao": "2026-09-20T08:49:00-03:00",
       "url": "https://conjur.com.br/2026-set-20/stj-define-intervencao-da-caixa-em-casos-sobre-seguro-habitacional-no-sfh/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Cessão de Precatórios deverá ser feita por escritura pública em Tabelionato para ter validade judicial",
-      "descricao": "Nota técnica do CNJ e do Banco Central propõe exigir escritura pública para que a cessão de créditos de precatórios produza efeitos perante o Judiciário. O texto também prevê registro eletrônico e rastreabilidade das transferências, com análise prevista pelo CNJ para a sessão de 8 a 16 de outubro.",
+      "titulo": "Cessão de precatórios deverá ser feita por escritura pública em Tabelionato para ter validade judicial",
+      "descricao": "O CNJ e o Banco Central apresentaram uma proposta de regulamentação nacional que prevê escritura pública para que a cessão de precatórios produza efeitos perante o Judiciário. A nota técnica também propõe mecanismos de registro e rastreabilidade; a matéria do CNB/CF relata a proposta apresentada em 6 de outubro.",
       "data_publicacao": "2026-10-07T00:00:00-03:00",
       "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
       "fonte": "Colégio Notarial do Brasil - Conselho Federal (CNB/CF)"
     },
     {
-      "titulo": "Lei nº 15.509/2026 fixa em cinco anos prazo prescricional para sanções administrativas a notários e registradores",
-      "descricao": "A Lei nº 15.509/2026 estabeleceu prazo de cinco anos para a prescrição de sanções administrativas aplicadas a notários e registradores. A matéria do CNB/CF remete ao texto legal publicado em 21 de setembro.",
+      "titulo": "Lei nº 15.509/2026 fixa prazo prescricional de cinco anos para sanções a notários e registradores",
+      "descricao": "A Lei nº 15.509/2026 estabeleceu prazo de cinco anos para a prescrição de sanções administrativas aplicáveis a notários e registradores. O CNB/CF publicou a informação com referência à lei sancionada em 21 de setembro de 2026.",
       "data_publicacao": "2026-09-22T00:00:00-03:00",
       "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
       "fonte": "Colégio Notarial do Brasil - Conselho Federal (CNB/CF)"
     },
     {
-      "titulo": "Entenda como o pagamento prévio do ITCMD descomplica a partilha de bens",
-      "descricao": "O CNJ alterou a Resolução nº 35/2007 para permitir a lavratura de inventário extrajudicial antes do pagamento do ITCMD, que continua devido conforme a legislação de cada estado. A decisão atendeu a pedido do CNB/CF e prevê que o tabelião registre a ciência das partes e comunique a lavratura ao Fisco.",
+      "titulo": "CNJ permite inventário extrajudicial sem pagamento prévio do ITCMD",
+      "descricao": "Em pedido de providências do CNB/CF, o CNJ decidiu que a escritura pública de inventário extrajudicial pode ser lavrada sem o pagamento prévio do ITCMD. O imposto continua devido conforme as leis de cada estado, e a regra prevê comunicação ao Fisco após a lavratura.",
       "data_publicacao": "2026-09-21T00:00:00-03:00",
       "url": "https://www.cnj.jus.br/entenda-como-o-pagamento-previo-do-itcmd-descomplica-a-partilha-de-bens/",
-      "fonte": "Conselho Nacional de Justiça"
-    },
-    {
-      "titulo": "CN-CNJ determina divulgação nacional da ampliação dos prazos para adequação das Serventias Extrajudiciais às normas de segurança da informação",
-      "descricao": "A Corregedoria Nacional de Justiça determinou a divulgação nacional dos prazos e das obrigações de segurança da informação para serviços notariais e de registro. A ampliação dos prazos não elimina a necessidade de planejar e implantar as medidas progressivamente.",
-      "data_publicacao": "2026-10-15T00:00:00-03:00",
-      "url": "https://www.irib.org.br/cn-cnj-determina-divulgacao-nacional-da-ampliacao-dos-prazos-para-adequacao-das-serventias-extrajudiciais-as-normas-de-seguranca-da-informacao/",
-      "fonte": "IRIB"
+      "fonte": "Conselho Nacional de Justiça (pedido do CNB/CF)"
     }
   ]
 }
