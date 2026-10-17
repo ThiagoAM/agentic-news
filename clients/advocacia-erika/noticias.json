@@ -1,89 +1,89 @@
 {
-  "data-busca": "2026-10-16T10:00:56-03:00",
+  "data-busca": "2026-10-17T10:06:22-03:00",
   "noticias": [
     {
-      "titulo": "CN-CNJ determina divulgação nacional da ampliação dos prazos para adequação das Serventias Extrajudiciais às normas de segurança da informação",
-      "descricao": "A Corregedoria Nacional de Justiça determinou a divulgação dos prazos e das obrigações de segurança da informação aplicáveis às serventias extrajudiciais. A orientação destaca que a ampliação dos prazos não elimina a necessidade de planejar e implantar as medidas de forma progressiva.",
+      "titulo": "CN-CNJ determina divulgação nacional da ampliação dos prazos de segurança da informação para serventias",
+      "descricao": "A Corregedoria Nacional de Justiça determinou uma campanha nacional sobre as obrigações e os prazos de segurança da informação para serviços notariais e de registro. A orientação prevê planejamento e implantação progressiva das medidas, com prazos que variam conforme a classe da serventia.",
       "data_publicacao": "2026-10-15T00:00:00-03:00",
       "url": "https://www.irib.org.br/cn-cnj-determina-divulgacao-nacional-da-ampliacao-dos-prazos-para-adequacao-das-serventias-extrajudiciais-as-normas-de-seguranca-da-informacao/",
       "fonte": "IRIB"
     },
     {
-      "titulo": "Decisão que proíbe os Municípios de fixar alíquotas do IPTU com base na área do imóvel produz efeitos a partir de 12 de agosto de 2026",
-      "descricao": "O STF modulou os efeitos da tese do Tema 1.455 e fixou 12 de agosto de 2026 como marco para a proibição de alíquotas de IPTU definidas pela área do imóvel. Segundo a decisão, cobranças e pagamentos anteriores e processos ainda pendentes ficam preservados.",
-      "data_publicacao": "2026-10-14T00:00:00-03:00",
-      "url": "https://www.irib.org.br/decisao-que-proibe-os-municipios-de-fixar-alquotas-do-iptu-com-base-na-area-do-imovel-produz-efeitos-a-partir-de-12-de-agosto-de-2026/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "PMCMV: 2,7 milhões de unidades foram contratadas desde 2023",
-      "descricao": "O Minha Casa, Minha Vida alcançou 2,7 milhões de unidades contratadas desde 2023, segundo dados divulgados pelo Ministério das Cidades e repercutidos pelo IRIB. A meta federal informada é chegar a 3 milhões de contratações até o fim de 2026.",
-      "data_publicacao": "2026-10-13T00:00:00-03:00",
-      "url": "https://www.irib.org.br/pmcmv-27-milhoes-de-unidades-foram-contratadas-desde-2023/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "Agência Brasil publica matéria sobre importância do reconhecimento de união estável",
-      "descricao": "A reportagem da Agência Brasil aborda como a falta de formalização da união estável pode dificultar o acesso do companheiro sobrevivente ao inventário e à herança. O texto reúne alternativas de comprovação da relação e apresenta a escritura pública ou o contrato como meios de reduzir incertezas sucessórias.",
-      "data_publicacao": "2026-10-13T00:00:00-03:00",
-      "url": "https://www.irib.org.br/agencia-brasil-publica-materia-sobre-importancia-do-reconhecimento-de-uniao-estavel/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "Dispensa de assinatura de vizinhos para corrigir limites de terras rurais é mantida pelo CNJ",
-      "descricao": "O corregedor nacional de Justiça manteve a dispensa da assinatura de vizinhos para a retificação de limites de imóveis rurais, ao negar pedido de liminar no CNJ. A notícia também registra que a certificação técnica do georreferenciamento não equivale, por si só, ao reconhecimento do domínio.",
-      "data_publicacao": "2026-10-09T00:00:00-03:00",
-      "url": "https://www.irib.org.br/dispensa-de-assinatura-de-vizinhos-para-corrigir-limites-de-terras-rurais-e-mantida-pelo-cnj/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "Emolumentos de Cartórios Extrajudiciais somente podem ser atualizados por lei",
-      "descricao": "O CNJ decidiu que faixas de valores, bases quantitativas e critérios de progressividade dos emolumentos extrajudiciais só podem ser alterados por lei. O conselho considerou que esses valores têm natureza tributária de taxa e afastou mudanças por ato administrativo ou deliberação correcional.",
-      "data_publicacao": "2026-10-09T00:00:00-03:00",
-      "url": "https://www.irib.org.br/emolumentos-de-cartorios-extrajudiciais-somente-podem-ser-atualizados-por-lei/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "Transações Imobiliárias Digitais: integração entre Registros de Imóveis e entidades financeiras será testada a partir de fevereiro de 2027",
-      "descricao": "O ONR, o Registro de Imóveis do Brasil e instituições financeiras firmaram acordo para desenvolver e testar soluções digitais para transações imobiliárias financiadas. Os testes devem começar em fevereiro de 2027 e buscam conectar os processos registrais às instituições participantes.",
-      "data_publicacao": "2026-10-08T00:00:00-03:00",
-      "url": "https://www.irib.org.br/transacoes-imobiliarias-digitais-integracao-entre-registros-de-imoveis-e-entidades-financeiras-sera-testada-a-partir-de-fevereiro-de-2027/",
-      "fonte": "IRIB"
-    },
-    {
       "titulo": "STJ define critérios para valor de indenização em desapropriações",
-      "descricao": "A 1ª Seção do STJ acolheu teses que estabelecem marcos temporais para avaliar imóveis em desapropriações, com critérios distintos conforme a modalidade. O colegiado também previu ajuste quando o atraso for atribuível ao poder público, e suspendeu a análise do resultado nos casos concretos.",
+      "descricao": "A Primeira Seção do STJ acolheu critérios para definir a data de referência do valor de imóveis em diferentes modalidades de desapropriação. As teses também tratam de atrasos causados pelo poder público, enquanto a análise dos casos concretos ficou suspensa.",
       "data_publicacao": "2026-10-15T00:00:00-03:00",
       "url": "https://www.migalhas.com.br/quentes/466583/stj-define-criterios-para-valor-de-indenizacao-em-desapropriacoes",
       "fonte": "Migalhas"
     },
     {
+      "titulo": "STF define alcance da decisão sobre alíquotas de IPTU baseadas na área do imóvel",
+      "descricao": "O STF fixou 12 de agosto de 2026, data da publicação da ata do julgamento do Tema 1.455, como marco para os efeitos da decisão sobre alíquotas de IPTU calculadas pela área do imóvel. Cobranças e pagamentos anteriores, além de processos administrativos e judiciais ainda pendentes, foram preservados.",
+      "data_publicacao": "2026-10-13T18:00:00-03:00",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-define-alcance-de-decisao-sobre-aliquotas-de-iptu/",
+      "fonte": "Supremo Tribunal Federal"
+    },
+    {
       "titulo": "Inadimplemento leva a ressarcimento de comprador de imóvel",
-      "descricao": "A 5ª Vara Cível de Santo André determinou a restituição integral de valores pagos por compradores após a interrupção das obras e a falta de um cronograma confiável para sua conclusão. A decisão reconheceu inadimplemento antecipado da incorporadora e afastou a retenção pretendida.",
+      "descricao": "A 5ª Vara Cível de Santo André determinou a restituição integral dos valores pagos por compradores após a interrupção das obras e a falta de previsão confiável para a entrega. A decisão reconheceu inadimplemento antecipado da incorporadora.",
       "data_publicacao": "2026-10-14T00:00:00-03:00",
       "url": "https://www.registrodeimoveis.org.br/inadimplemento-leva-a-ressarcimento-de-comprador-de-imovel",
       "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "STJ julga limite para retenção em rescisão de compra de imóvel",
-      "descricao": "A 2ª Seção do STJ vai uniformizar os limites de retenção em rescisões de contratos de compra e venda, considerando a data do contrato e o tipo de imóvel. Os recursos especiais e agravos sobre as questões abrangidas foram suspensos enquanto os temas repetitivos são analisados.",
+      "titulo": "Minha Casa, Minha Vida alcança 2,7 milhões de unidades contratadas desde 2023",
+      "descricao": "Dados apresentados pelo Ministério das Cidades indicam que o programa contratou 2,7 milhões de unidades desde 2023 e alcança 95% dos municípios brasileiros. A meta informada pelo governo federal é chegar a 3 milhões de contratações até o fim de 2026.",
       "data_publicacao": "2026-10-13T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/stj-julga-limite-para-retencao-em-rescisao-de-compra-de-imovel",
-      "fonte": "Registro de Imóveis do Brasil"
+      "url": "https://www.irib.org.br/pmcmv-27-milhoes-de-unidades-foram-contratadas-desde-2023/",
+      "fonte": "IRIB"
     },
     {
-      "titulo": "TJMG nega pedido de reintegração de posse de imóvel em Betim",
-      "descricao": "O TJMG rejeitou o pedido de reintegração de um terreno público em Betim que havia sido desapropriado para outra finalidade, mas permaneceu ocupado por uma família por décadas. A decisão apontou que a medida não transforma os moradores em proprietários nem reconhece usucapião do bem público.",
-      "data_publicacao": "2026-10-07T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/tjmg-nega-pedido-de-reintegracao-de-posse-de-imovel-em-betim",
-      "fonte": "Registro de Imóveis do Brasil"
+      "titulo": "Agência Brasil aborda a importância do reconhecimento da união estável",
+      "descricao": "A reportagem explica que a falta de formalização da união estável pode dificultar o acesso do companheiro sobrevivente ao inventário e à herança. O texto apresenta a escritura pública ou o contrato como meios de reduzir incertezas sobre a relação e seus efeitos sucessórios.",
+      "data_publicacao": "2026-10-13T00:00:00-03:00",
+      "url": "https://www.irib.org.br/agencia-brasil-publica-materia-sobre-importancia-do-reconhecimento-de-uniao-estavel/",
+      "fonte": "IRIB, com informações da Agência Brasil"
     },
     {
-      "titulo": "Família obtém autorização para permanecer em imóvel público",
-      "descricao": "A Justiça de Aparecida de Goiânia autorizou uma família residente há décadas em área pública a permanecer no imóvel por meio de concessão de uso especial para fins de moradia. A decisão considerou atendidos os requisitos legais e manteve a permanência até o reconhecimento definitivo do direito.",
-      "data_publicacao": "2026-10-06T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/familia-obtem-autorizacao-para-permanecer-em-imovel-publico",
-      "fonte": "Registro de Imóveis do Brasil"
+      "titulo": "CNJ mantém dispensa de assinatura de vizinhos para corrigir limites de terras rurais",
+      "descricao": "O corregedor nacional de Justiça indeferiu pedido liminar que questionava a dispensa da anuência de vizinhos na retificação de limites de imóveis rurais. A notícia ressalta que a certificação técnica do georreferenciamento não reconhece, por si só, o domínio nem comprova os limites jurídicos da matrícula.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://www.irib.org.br/dispensa-de-assinatura-de-vizinhos-para-corrigir-limites-de-terras-rurais-e-mantida-pelo-cnj/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Emolumentos de cartórios extrajudiciais somente podem ser atualizados por lei",
+      "descricao": "O CNJ decidiu por unanimidade que faixas de valores e critérios de progressividade dos emolumentos extrajudiciais só podem ser alterados por lei. A decisão afastou mudanças por ato administrativo de tribunal ou deliberação correcional.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://www.irib.org.br/emolumentos-de-cartorios-extrajudiciais-somente-podem-ser-atualizados-por-lei/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Integração entre registros de imóveis e bancos será testada a partir de fevereiro de 2027",
+      "descricao": "O ONR, o Registro de Imóveis do Brasil e instituições financeiras firmaram acordo para desenvolver e testar soluções digitais para transações imobiliárias financiadas. Os testes devem começar em fevereiro de 2027 e incluem o processamento eletrônico de informações sobre imóveis e garantias.",
+      "data_publicacao": "2026-10-08T00:00:00-03:00",
+      "url": "https://www.irib.org.br/transacoes-imobiliarias-digitais-integracao-entre-registros-de-imoveis-e-entidades-financeiras-sera-testada-a-partir-de-fevereiro-de-2027/",
+      "fonte": "IRIB, com informações do Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "STJ reconhece relevância de discussão sobre honorários em cobranças de condomínio",
+      "descricao": "A Segunda Seção do STJ reconheceu a relevância da controvérsia sobre a cobrança, do condômino, de honorários contratuais gastos pelo condomínio em ação judicial de cobrança. O mérito ainda será julgado presencialmente, e recursos sobre a questão foram suspensos enquanto o tribunal prepara uma tese.",
+      "data_publicacao": "2026-10-07T12:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/07102026-cobranca-de-honorarios-por-condominios-stj-define-primeira-relevancia-reconhecida-em-sessao-virtual.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Informativo do STJ destaca tributação de operações com fundos imobiliários",
+      "descricao": "A Primeira Turma do STJ decidiu que ganhos de capital de fundos imobiliários na alienação ou no resgate de cotas de outros fundos imobiliários estão sujeitos ao imposto de renda. O tribunal incluiu o julgamento entre os destaques da edição 903 do Informativo de Jurisprudência.",
+      "data_publicacao": "2026-10-06T07:10:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/06102026-informativo-destaca-imposto-de-renda-em-operacoes-com-fundos-imobiliarios--.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Ocupação prolongada de imóvel por herdeiro não basta para usucapião",
+      "descricao": "A Quarta Turma do STJ rejeitou pedido de usucapião de imóvel de herança ocupado por uma filha e seu companheiro por décadas. O colegiado afirmou que a moradia prolongada não basta sem prova clara de posse como proprietários e sem oposição dos demais herdeiros.",
+      "data_publicacao": "2026-09-30T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30092026-Ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao.aspx",
+      "fonte": "Superior Tribunal de Justiça"
     }
   ]
 }
