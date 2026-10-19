@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-18T10:03:43-03:00",
+  "noticias": [
+    {
+      "titulo": "Prefeitura orienta moradores de Cidade Beira Mar a atualizar cadastro de imóveis",
+      "descricao": "A Prefeitura orienta proprietários de Cidade Beira Mar que construíram, ampliaram ou modificaram imóveis a atualizar o cadastro municipal. Nesta etapa, o procedimento é voltado exclusivamente aos moradores do bairro.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14712",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura promove qualificação de equipe de engenharia",
+      "descricao": "A Secretaria de Infraestrutura Urbana e Obras Públicas capacitou engenheiros municipais em análise e dimensionamento de pavimentos flexíveis. A formação também apresentou uma ferramenta local para apoiar cálculos e padronizar projetos de infraestrutura viária.",
+      "data_publicacao": "2026-10-15T14:35:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-promove-qualificacao-de-equipe-de-engenharia/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura e INCRA começam projeto piloto em Cantagalo",
+      "descricao": "A Prefeitura de Rio das Ostras e o INCRA iniciaram um projeto para mapear Cantagalo, separando imóveis rurais dos que podem integrar a Regularização Fundiária Urbana. A iniciativa também pretende orientar o planejamento territorial da região rural do Município.",
+      "data_publicacao": "2026-10-08T11:11:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-e-incra-comecam-projeto-em-cantagalo/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "IPP e Secovi Rio firmam acordo para ampliar dados do mercado imobiliário",
+      "descricao": "O Instituto Pereira Passos e o Secovi Rio firmaram acordo para ampliar o intercâmbio de dados sobre compra, venda, locação e condomínios no Rio de Janeiro. A cooperação busca apoiar estudos sobre as mudanças urbanas e o planejamento municipal, sem anunciar novos indicadores nesta etapa.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://rioemalta.com.br/noticias/ipp-e-secovi-rio-firmam-acordo-para-ampliar-dados-do-mercado-imobiliario-1792150563977",
+      "fonte": "Rio em Alta, com informações do Instituto Pereira Passos"
+    },
+    {
+      "titulo": "Regularize 2026 permite atualizar imóveis em Campos até 31 de outubro",
+      "descricao": "Campos abriu um programa para que proprietários informem construções, ampliações e alterações de uso ainda não registradas no cadastro municipal. A adesão vai até 31 de outubro e não concede perdão de tributos; o ISS da construção segue devido, com opção de parcelamento conforme as regras locais.",
+      "data_publicacao": "2026-10-06T00:00:00-03:00",
+      "url": "https://fazenda.campos.rj.gov.br/2026/10/06/regularize-2026-programa-permite-atualizacao-de-imoveis-e-adesao-vai-ate-31-de-outubro/",
+      "fonte": "Secretaria Municipal de Fazenda de Campos dos Goytacazes"
+    },
+    {
+      "titulo": "Falta de intimação pessoal de devedor mantém anulação de leilão",
+      "descricao": "A Terceira Turma do STJ manteve a anulação de um leilão extrajudicial por falta de intimação pessoal da devedora sobre a data do evento. O colegiado entendeu que e-mails e telegramas, sem prova inequívoca de ciência, não supriram a exigência legal.",
+      "data_publicacao": "2026-10-10T15:51:00-03:00",
+      "url": "https://conjur.com.br/2026-out-10/stj-mantem-anulacao-de-leilao-por-falta-de-intimacao-pessoal-de-devedora/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Condomínio tem o direito de proibir aluguel de curta temporada, afirma STJ",
+      "descricao": "A Quarta Turma do STJ autorizou um condomínio a impedir a locação por curta temporada quando a convenção destina as unidades exclusivamente à moradia. A decisão tratou da alta rotatividade associada a plataformas digitais e aplicou entendimento anterior do tribunal sobre a destinação residencial.",
+      "data_publicacao": "2026-09-29T14:13:00-03:00",
+      "url": "https://conjur.com.br/2026-set-29/aluguel-de-curta-temporada-desvirtua-carater-residencial-em-condominio/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ define intervenção da Caixa em casos sobre seguro habitacional no SFH",
+      "descricao": "A Corte Especial do STJ definiu três formas de intervenção da Caixa em ações sobre seguro habitacional do SFH vinculado à apólice pública, conforme a data do processo e a existência de sentença. A regra pode alterar a competência judicial e o papel da instituição, enquanto contratos de apólice privada seguem sem intervenção da Caixa.",
+      "data_publicacao": "2026-09-20T08:49:00-03:00",
+      "url": "https://conjur.com.br/2026-set-20/stj-define-intervencao-da-caixa-em-casos-sobre-seguro-habitacional-no-sfh/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Cessão de precatórios deverá ser feita por escritura pública em Tabelionato para ter validade judicial",
+      "descricao": "O CNJ e o Banco Central apresentaram proposta para exigir escritura pública na cessão de precatórios, com registro eletrônico das operações e integração dos dados. O CNB/CF participou das discussões; a matéria de 7 de outubro informou que a proposta seria analisada pelo Plenário do CNJ entre os dias 8 e 16.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
+      "fonte": "Colégio Notarial do Brasil - Conselho Federal (CNB/CF)"
+    },
+    {
+      "titulo": "Lei nº 15.509/2026 fixa em cinco anos prazo prescricional para sanções a notários e registradores",
+      "descricao": "A Lei nº 15.509/2026 acrescentou prazo de cinco anos para a prescrição da aplicação de sanções administrativas a notários e registradores. A contagem começa na ocorrência do fato ou, em infrações permanentes, quando cessa a permanência.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "fonte": "Colégio Notarial do Brasil - Conselho Federal (CNB/CF)"
+    },
+    {
+      "titulo": "CNJ dispensa pagamento prévio do ITCMD para lavratura de inventário extrajudicial",
+      "descricao": "A pedido do CNB/CF, o CNJ alterou a Resolução nº 35/2007 para permitir a lavratura da escritura de inventário extrajudicial sem pagamento prévio do ITCMD. O imposto continua devido conforme as leis estaduais, e o tabelião deve comunicar a lavratura ao Fisco quando não houver recolhimento antecipado.",
+      "data_publicacao": "2026-09-21T08:48:00-03:00",
+      "url": "https://www.cnj.jus.br/entenda-como-o-pagamento-previo-do-itcmd-descomplica-a-partilha-de-bens/",
+      "fonte": "Conselho Nacional de Justiça (pedido do CNB/CF)"
+    }
+  ]
+}
