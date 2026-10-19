@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-10-18T10:03:43-03:00",
+  "noticias": [
+    {
+      "titulo": "TJ/GO impede penhora de parte de fazenda maior que limite legal",
+      "descricao": "O TJ/GO protegeu 120 hectares de uma fazenda familiar de 269,2 hectares e manteve a possibilidade de penhora sobre a área excedente. O colegiado admitiu proteção parcial até o limite de quatro módulos fiscais, condicionada à delimitação técnica da parcela produtiva.",
+      "data_publicacao": "2026-10-17T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466337/tj-go-impede-penhora-de-parte-de-fazenda-maior-que-limite-legal",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Justiça rescinde contrato de multipropriedade e manda devolver 90% das parcelas",
+      "descricao": "A Justiça de Suzano rescindiu um contrato de multipropriedade após pedido da compradora e determinou a devolução de 90% das parcelas pagas. A decisão autorizou retenção de 10%, pois a empresa não comprovou despesas excepcionais que justificassem percentual maior.",
+      "data_publicacao": "2026-10-17T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/amp/quentes/466330/justica-rescinde-multipropriedade-e-manda-devolver-90-das-parcelas",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "CN-CNJ determina divulgação nacional da ampliação dos prazos de segurança da informação para serventias",
+      "descricao": "A Corregedoria Nacional de Justiça determinou uma campanha nacional sobre as obrigações e os prazos de segurança da informação em serviços notariais e de registro. A orientação prevê implementação progressiva das medidas e informa prazos finais que variam conforme a classe da serventia, entre 2028 e 2029.",
+      "data_publicacao": "2026-10-15T00:00:00-03:00",
+      "url": "https://www.irib.org.br/cn-cnj-determina-divulgacao-nacional-da-ampliacao-dos-prazos-para-adequacao-das-serventias-extrajudiciais-as-normas-de-seguranca-da-informacao/",
+      "fonte": "IRIB, com informações do CNJ"
+    },
+    {
+      "titulo": "STF define alcance de decisão sobre alíquota de IPTU com base na área do imóvel",
+      "descricao": "O STF definiu que a vedação ao cálculo da alíquota de IPTU pela área do imóvel produz efeitos desde 12 de agosto de 2026. A modulação preservou cobranças e pagamentos anteriores, além de processos administrativos e judiciais que ainda estavam pendentes nessa data.",
+      "data_publicacao": "2026-10-13T18:00:00-03:00",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-define-alcance-de-decisao-sobre-aliquotas-de-iptu/",
+      "fonte": "Supremo Tribunal Federal"
+    },
+    {
+      "titulo": "Condenadas a reparar vícios em condomínio, empresas devem antecipar custo de perícia",
+      "descricao": "O TJ/GO determinou que empresas já condenadas por vícios de construção antecipem os honorários da perícia que calculará o custo dos reparos. A desembargadora entendeu que a prova técnica quantifica obrigação reconhecida em sentença e deve ser custeada pelas devedoras.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466461/condenadas-a-reparar-vicios-em-condominio-empresas-devem-antecipar-custo-de-pericia",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "STJ analisa usucapião em imóvel de sociedade de economia mista",
+      "descricao": "A Terceira Turma do STJ iniciou julgamento sobre a possibilidade de usucapião de terreno da Cehab/RJ que não estaria sendo usado atualmente pelo poder público. A relatora votou para afastar a aquisição pela existência de potencial destinação pública, e o julgamento foi suspenso após pedido de vista.",
+      "data_publicacao": "2026-10-13T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466415/stj-analisa-usucapiao-em-imovel-de-sociedade-de-economia-mista",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "STF forma maioria favorável à imunidade do ITBI na integralização de capital social",
+      "descricao": "No Tema 1.348, o voto de Alexandre de Moraes levou a seis votos a dois a posição favorável à imunidade do ITBI na integralização de imóveis ao capital de empresas com atividade imobiliária. Na data da publicação, o julgamento virtual ainda estava previsto para terminar em 19 de outubro; a imunidade permanece limitada ao capital integralizado e não cobre simulação ou fraude.",
+      "data_publicacao": "2026-10-13T15:32:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/466325/stf-forma-maioria-a-imunidade-do-itbi-na-integralizacao-de-capital",
+      "fonte": "Migalhas, conferido no STF"
+    },
+    {
+      "titulo": "Repetitivo definirá limites de retenção em rescisão de contratos imobiliários antes e depois da Lei do Distrato",
+      "descricao": "O STJ afetou os Temas 1.464 e 1.465 para uniformizar os limites e as bases de cálculo da retenção em contratos imobiliários rescindidos pelo comprador. A suspensão alcança recursos especiais e agravos em recurso especial pendentes, e a discussão distingue contratos anteriores e posteriores à Lei do Distrato.",
+      "data_publicacao": "2026-10-08T07:40:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08102026-Repetitivo-definira-limites-de-retencao-em-rescisao-de-contratos-imobiliarios-antes-e-depois-da-Lei-do-Distrato.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Cobrança de honorários por condomínios: STJ define primeira relevância reconhecida em sessão virtual",
+      "descricao": "O STJ reconheceu relevância na controvérsia sobre a cobrança de honorários contratuais de advogados em ações de condomínio contra condôminos inadimplentes. O reconhecimento abre análise sob o novo regime de precedentes, mas ainda não resolve o mérito da cobrança.",
+      "data_publicacao": "2026-10-07T12:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/07102026-cobranca-de-honorarios-por-condominios-stj-define-primeira-relevancia-reconhecida-em-sessao-virtual.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Informativo destaca imposto de renda em operações com fundos imobiliários",
+      "descricao": "O STJ destacou entendimento de que ganhos de capital obtidos por um fundo de investimento imobiliário ao alienar ou resgatar cotas de outro FII estão sujeitos ao Imposto de Renda. A orientação consta do Informativo de Jurisprudência 903 e foi firmada no julgamento do REsp 2.211.684.",
+      "data_publicacao": "2026-10-06T07:10:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/06102026-informativo-destaca-imposto-de-renda-em-operacoes-com-fundos-imobiliarios--.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Ocupação prolongada de imóvel por herdeiro não basta para usucapião",
+      "descricao": "A Quarta Turma do STJ decidiu que morar por décadas em imóvel da família não comprova, por si só, posse como proprietário para fins de usucapião. O colegiado destacou que a pretensão exige prova clara de posse exclusiva e dos demais requisitos legais, sem oposição dos outros titulares.",
+      "data_publicacao": "2026-09-30T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30092026-Ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Secovi-SP e SindusCon-SP apresentam pesquisa do mercado imobiliário do Interior e do Litoral",
+      "descricao": "Pesquisa de 42 municípios do Interior paulista e da Baixada Santista apontou queda de 12% nos lançamentos e de 3% nas vendas de imóveis verticais no primeiro semestre de 2026. O levantamento também indicou preço médio de R$ 637 mil para essas unidades e de R$ 289 mil para as do Minha Casa, Minha Vida.",
+      "data_publicacao": "2026-09-26T00:00:00-03:00",
+      "url": "https://secovi.com.br/secovi-sp-e-sinduscon-sp-apresentam-pesquisa-do-mercado-imobiliario-do-interior-e-do-litoral/",
+      "fonte": "Secovi-SP e SindusCon-SP"
+    }
+  ]
+}
