@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-10-19T10:06:12-03:00",
+  "data-busca": "2026-10-20T10:12:28-03:00",
   "noticias": [
     {
-      "titulo": "Rio das Ostras participa de reunião para fortalecer o turismo regional",
-      "descricao": "Representantes de Rio das Ostras e da Região dos Lagos discutiram ações conjuntas de divulgação, participação na ABAV Expo 2027 e novas conexões com mercados internacionais. A reunião também tratou de medir a conversão do interesse turístico em visitas aos municípios.",
-      "data_publicacao": "2026-10-16T09:45:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-participa-de-reuniao-para-fortalecer-o-turismo-regional/",
+      "titulo": "Polo Cederj inicia aplicação das avaliações presenciais em Rio das Ostras",
+      "descricao": "O Polo Cederj local iniciou as avaliações presenciais do Grupo 1 para Gestão de Turismo, Biblioteconomia e Design Gráfico; as provas do Grupo 2 estão previstas para 31 de outubro e 1º de novembro. O vestibular gratuito de 2027 oferece 7.165 vagas no estado, incluindo 25 para Gestão de Turismo e 30 para Design Gráfico no polo riostrense.",
+      "data_publicacao": "2026-10-20T09:14:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/polo-cederj-inicia-aplicacao-das-avaliacoes-presenciais/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Ações do SAAE não param em Rio das Ostras",
-      "descricao": "O SAAE realizou limpeza de caixas-ralo e poços de visita em São Cristóvão e Ouro Verde, além de iniciar a substituição de manilhas em Parque Zabulão. As intervenções ocorreram em diferentes pontos da rede municipal de drenagem e esgoto.",
-      "data_publicacao": "2026-10-15T11:08:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/saae-faz-acoes-em-diversas-localidades-em-rio-das-ostras/",
+      "titulo": "TRF1 mantém pensão por morte retroativa em razão de filhos menores incapazes",
+      "descricao": "A 2ª Turma do TRF1 manteve decisão para que o INSS pague pensão por morte à companheira do segurado desde a data do falecimento, embora o pedido administrativo tenha sido feito anos depois. O colegiado considerou que a presença de filhos menores absolutamente incapazes impede que o atraso da mãe prejudique os direitos deles.",
+      "data_publicacao": "2026-10-20T07:49:00-03:00",
+      "url": "https://conjur.com.br/2026-out-20/filhos-menores-incapazes-justificam-pensao-retroativa-por-morte/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ConJur aponta lacunas de regulamentação no Marco Legal dos Seguros",
+      "descricao": "Reportagem analisa pontos da Lei 15.040/2024 ainda sem regras infralegais detalhadas, como a definição de riscos complexos, despesas de salvamento em seguros de pessoas e prazo para aviso de sinistro. Especialistas consultados dizem que normas da Susep podem uniformizar procedimentos, sem alterar obrigações estabelecidas pela lei.",
+      "data_publicacao": "2026-10-19T08:53:00-03:00",
+      "url": "https://conjur.com.br/2026-out-19/lei-de-seguros-carece-de-regulamentacao-e-gera-debate-sobre-judicializacao/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Rio das Ostras lança portal para inscrições em editais culturais",
+      "descricao": "A Fundação Rio das Ostras de Cultura lançou um portal para agentes culturais criarem perfis, consultarem editais abertos e acompanharem o status das inscrições. A ferramenta também permite reutilizar documentos já enviados no perfil em novas seleções.",
+      "data_publicacao": "2026-10-16T09:31:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/nova-plataforma-simplifica-o-acesso-aos-editais-culturais/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Curso de cerâmica da Fundição realiza queima de peças",
-      "descricao": "Quatro turmas da Fundição de Artes e Ofícios concluíram a primeira queima após produzir 216 peças no curso municipal de cerâmica. Os alunos seguem para a etapa de criação autoral, com exposição prevista para o início de 2027.",
-      "data_publicacao": "2026-10-16T12:31:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/curso-de-ceramica-da-fundicao-realiza-queima-de-pecas/",
+      "titulo": "Prefeitura de Rio das Ostras qualifica equipe de engenharia para projetos de pavimentação",
+      "descricao": "A Secretaria Municipal de Obras promoveu capacitação sobre análise e dimensionamento de pavimentos flexíveis para engenheiros da Prefeitura. A equipe também recebeu treinamento em uma ferramenta desenvolvida internamente para apoiar cálculos, padronizar procedimentos e organizar parâmetros dos projetos de urbanização.",
+      "data_publicacao": "2026-10-15T14:35:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-promove-qualificacao-de-equipe-de-engenharia/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Avenida Chile, no Centro do Rio, entra em estudo para projeto de revitalização",
-      "descricao": "A Prefeitura do Rio estuda melhorias de infraestrutura para a Avenida Chile e seu entorno, com possível combinação de investimentos públicos e privados. O planejamento coincide com a retomada gradual das atividades na sede da Petrobras e a expectativa de maior circulação no Centro.",
-      "data_publicacao": "2026-10-15T11:24:00-03:00",
-      "url": "https://diariodorio.com/rio-de-janeiro/2026/10/15/avenida-chile-no-centro-do-rio-entra-em-estudo-para-projeto-de-revitalizacao.html",
-      "fonte": "Diário do Rio"
-    },
-    {
-      "titulo": "Contratos no Edifício Bolsa do Rio e no AQWA Corporate puxam recuperação do mercado de escritórios do Centro",
-      "descricao": "O Coren-RJ ocupou cerca de 5,2 mil m² no Edifício Bolsa do Rio, enquanto o Cepel se instalou no AQWA Corporate. A pesquisa citada na matéria apontou vacância de 23,5% nos escritórios AAA, AA e A no terceiro trimestre, o menor nível desde 2014.",
-      "data_publicacao": "2026-10-15T12:38:00-03:00",
-      "url": "https://diariodorio.com/economia/mercado-imobiliario/2026/10/15/contratos-no-edificio-bolsa-do-rio-e-no-aqwa-corporate-puxam-recuperacao-do-mercado-de-escritorios-do-centro.html",
-      "fonte": "Diário do Rio"
-    },
-    {
-      "titulo": "Falta de intimação pessoal de devedor mantém anulação de leilão",
-      "descricao": "A Terceira Turma do STJ manteve a anulação de leilão extrajudicial, ao entender que e-mails e telegramas não comprovaram ciência pessoal da devedora. O julgamento reafirmou a exigência legal de intimação pessoal antes da alienação fiduciária do imóvel.",
-      "data_publicacao": "2026-10-10T15:51:00-03:00",
-      "url": "https://conjur.com.br/2026-out-10/stj-mantem-anulacao-de-leilao-por-falta-de-intimacao-pessoal-de-devedora/",
+      "titulo": "STJ não vê risco ao interesse público em jogo do Vasco no Maracanã",
+      "descricao": "O presidente do STJ não conheceu pedido da concessionária do Maracanã para suspender a decisão do TJ-RJ que autorizou a partida do Vasco no estádio. A presidência entendeu que não foram demonstrados os requisitos legais para a suspensão nem risco grave à ordem, à segurança ou à economia públicas.",
+      "data_publicacao": "2026-10-15T14:53:00-03:00",
+      "url": "https://conjur.com.br/2026-out-15/nao-ha-lesao-ao-interesse-publico-em-jogo-do-vasco-no-maracana-diz-stj/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "STJ impede uso de ACP por prefeitura para pedir demolição de casas irregulares",
-      "descricao": "A Primeira Turma do STJ rejeitou recurso municipal e considerou inadequado usar ação civil pública para buscar a demolição de imóvel em loteamento com procedimento de regularização em andamento. O acórdão destacou que a via coletiva não pode substituir a análise da política habitacional e das condições técnicas da área.",
-      "data_publicacao": "2026-10-15T09:45:00-03:00",
-      "url": "https://conjur.com.br/2026-out-15/stj-barra-municipio-de-usar-acp-para-evitar-regularizacao-fundiaria/",
-      "fonte": "ConJur"
+      "titulo": "Delegacia da JUCERJA em Niterói passa a operar com processos digitais",
+      "descricao": "A unidade da Junta Comercial do Estado do Rio de Janeiro em Niterói deixou de receber processos físicos a partir de 13 de outubro. O atendimento presencial permanece, com computadores e profissionais disponíveis para orientar os usuários na etapa inicial dos serviços digitais.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://www.jucerja.rj.gov.br/Informacoes/NoticiaSelecionada/455",
+      "fonte": "JUCERJA"
     },
     {
-      "titulo": "Pagamento habitual de aluguel por empresa indica adesão a contrato verbal",
-      "descricao": "A 6ª Turma Cível do TJDFT considerou que pagamentos reiterados feitos por uma empresa ao locador demonstraram sua adesão à relação locatícia verbal. O colegiado manteve a rescisão e a cobrança de aluguéis e contas de energia em atraso.",
-      "data_publicacao": "2026-10-08T21:59:00-03:00",
-      "url": "https://conjur.com.br/2026-out-08/pagar-aluguel-de-locacao-verbal-de-terceiro-atrai-responsabilidade-assumida/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "CNB/CF apresenta balanço de ações e resultados em reunião com as Seccionais Estaduais",
-      "descricao": "Em reunião com dirigentes de todo o país, o CNB/CF apresentou resultados e frentes de trabalho nas áreas jurídica, de relações governamentais e de tecnologia. A entidade informou que o e-Notariado implantou 72 entregas entre janeiro e setembro e ampliou a emissão automatizada de certidões.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
+      "titulo": "CNJ e Banco Central propõem escritura pública para cessões de precatórios",
+      "descricao": "Proposta de regulamentação nacional apresentada em outubro prevê escritura pública para que a cessão de precatórios produza efeitos perante o Judiciário, além de registro eletrônico e rastreabilidade das transferências. O CNB/CF participou das discussões; a notícia original informou que o texto ainda seria analisado pelo plenário virtual do CNJ.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
       "fonte": "Colégio Notarial do Brasil – Conselho Federal"
     },
     {
-      "titulo": "Metragem superior a 250 m² leva STJ a afastar usucapião",
-      "descricao": "A Quarta Turma do STJ concluiu que o limite de 250 m² da usucapião familiar se aplica ao imóvel como um todo, e não apenas à fração que se pretende adquirir. O colegiado negou pedido relativo a bem urbano de 360 m².",
-      "data_publicacao": "2026-10-14T00:00:00-03:00",
-      "url": "https://cnbpr.org.br/metragem-superior-a-250-m%C2%B2-leva-stj-a-afastar-usucapiao/",
-      "fonte": "Colégio Notarial do Brasil – Seção Paraná"
+      "titulo": "Turismo movimenta R$ 22,5 bilhões na cidade do Rio até agosto",
+      "descricao": "Estudo da Prefeitura do Rio estima que o turismo movimentou R$ 22,5 bilhões entre janeiro e agosto de 2026, período em que a cidade recebeu 8,5 milhões de visitantes. O fluxo cresceu 5% ante o mesmo intervalo de 2025, e turistas brasileiros responderam por R$ 15,2 bilhões dos gastos registrados.",
+      "data_publicacao": "2026-09-30T15:30:00-03:00",
+      "url": "https://prefeitura.rio/desenvolvimento-economico/turismo-impulsiona-a-economia-na-cidade-do-rio-e-movimenta-r-225-bilhoes-no-acumulado-ate-agosto/",
+      "fonte": "Prefeitura da Cidade do Rio de Janeiro"
     },
     {
-      "titulo": "Rádio Decidendi discute limites de arbitramento do imposto sobre transmissões por herança e doação",
-      "descricao": "O episódio aborda o Tema 1.371 do STJ, que definiu quando as administrações tributárias podem arbitrar a base de cálculo do ITCMD. A decisão repetitiva trata da aplicação do artigo 148 do Código Tributário Nacional quando os documentos apresentados forem omissos ou não merecerem fé.",
-      "data_publicacao": "2026-10-14T00:00:00-03:00",
-      "url": "https://cnbpr.org.br/radio-decidendi-discute-limites-de-arbitramento-do-imposto-sobre-transmissoes-de-bens-por-heranca-e-doacao/",
-      "fonte": "Colégio Notarial do Brasil – Seção Paraná (fonte: STJ)"
+      "titulo": "Lei fixa em cinco anos prazo prescricional para sanções a notários e registradores",
+      "descricao": "A Lei 15.509/2026 estabeleceu prazo de cinco anos para a aplicação de sanções administrativas a notários e registradores. Pela regra divulgada pelo CNB/CF, a contagem começa na ocorrência do fato e, em infrações permanentes, quando a irregularidade cessa.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal"
+    },
+    {
+      "titulo": "CNB/CF apresenta balanço de projetos nacionais do setor notarial",
+      "descricao": "Em reunião com representantes das seccionais, o CNB/CF apresentou resultados de projetos jurídicos, institucionais e tecnológicos. A entidade informou que o e-Notariado implantou 72 entregas entre janeiro e setembro, automatizou 80% das certidões da Busca Testamento e reduziu em 83,3% o número de cartórios bloqueados por atraso na Censec.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal"
     }
   ]
 }
