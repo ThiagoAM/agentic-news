@@ -1,0 +1,96 @@
+{
+  "data-busca": "2026-10-19T10:06:12-03:00",
+  "noticias": [
+    {
+      "titulo": "STJ impede uso de ACP por prefeitura para pedir demolição de casas irregulares",
+      "descricao": "A Primeira Turma do STJ rejeitou recurso de São José dos Campos e considerou inadequado usar ação civil pública para buscar a demolição de imóvel em loteamento com procedimento de regularização em andamento. O acórdão apontou que a via coletiva não pode encobrir a ausência de política habitacional e de avaliação técnica prévia.",
+      "data_publicacao": "2026-10-15T09:45:00-03:00",
+      "url": "https://conjur.com.br/2026-out-15/stj-barra-municipio-de-usar-acp-para-evitar-regularizacao-fundiaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Aluguel recebido por área comum deve ser repartido entre condôminos",
+      "descricao": "A 20ª Câmara Cível do TJMG entendeu que os valores de locação de área comum pertencem aos condôminos proporcionalmente às frações ideais. A apelação ajustou a liquidação para considerar o período de titularidade, a ocorrência das locações e a prescrição.",
+      "data_publicacao": "2026-10-14T08:23:00-03:00",
+      "url": "https://conjur.com.br/2026-out-14/aluguel-recebido-por-area-comum-deve-ser-repartido-entre-condominos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Rejeição de manutenção de posse de imóvel não gera ordem automática de desocupação",
+      "descricao": "O TJMG suspendeu a desocupação compulsória porque a sentença que rejeitou pedido de manutenção de posse não continha ordem expressa de entrega do bem. A decisão destacou que o cumprimento exige título judicial que ampare a retirada do imóvel.",
+      "data_publicacao": "2026-10-12T07:42:00-03:00",
+      "url": "https://conjur.com.br/2026-out-12/embargada-rejeicao-de-posse-nao-gera-ordem-automatica-de-desocupacao-do-imovel/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Falta de intimação pessoal de devedor mantém anulação de leilão",
+      "descricao": "A Terceira Turma do STJ manteve a anulação de leilão extrajudicial, ao entender que e-mails e telegramas não comprovaram ciência pessoal da devedora. O julgamento reafirmou a exigência legal de intimação pessoal antes da alienação fiduciária do imóvel.",
+      "data_publicacao": "2026-10-10T15:51:00-03:00",
+      "url": "https://conjur.com.br/2026-out-10/stj-mantem-anulacao-de-leilao-por-falta-de-intimacao-pessoal-de-devedora/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Pagamento habitual de aluguel por empresa indica adesão a contrato verbal",
+      "descricao": "A 6ª Turma Cível do TJDFT considerou que pagamentos reiterados feitos por uma empresa ao locador demonstraram sua adesão à relação locatícia verbal. O colegiado manteve a rescisão e a cobrança de aluguéis e contas de energia em atraso.",
+      "data_publicacao": "2026-10-08T21:59:00-03:00",
+      "url": "https://conjur.com.br/2026-out-08/pagar-aluguel-de-locacao-verbal-de-terceiro-atrai-responsabilidade-assumida/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Atraso em construção de imóvel leva à devolução integral de valores pagos",
+      "descricao": "Juízo cível de Santo André reconheceu inadimplemento antecipado de incorporadora após paralisação prolongada da obra e falta de novo cronograma comprovado. A sentença determinou a devolução integral das quantias pagas pelos compradores, sem retenção por culpa da empresa.",
+      "data_publicacao": "2026-10-03T08:23:00-03:00",
+      "url": "https://conjur.com.br/2026-out-03/atraso-de-obras-e-ausencia-de-plano-de-retorno-gera-inadimplemento-antecipado/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Metragem superior a 250 m² leva STJ a afastar usucapião",
+      "descricao": "A Quarta Turma do STJ concluiu que o limite de 250 m² da usucapião familiar se aplica ao imóvel como um todo, e não apenas à fração que se pretende adquirir. O colegiado negou pedido relativo a bem urbano de 360 m².",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://cnbpr.org.br/metragem-superior-a-250-m%C2%B2-leva-stj-a-afastar-usucapiao/",
+      "fonte": "Colégio Notarial do Brasil – Seção Paraná"
+    },
+    {
+      "titulo": "Lei nº 15.509/2026 fixa prazo de cinco anos para sanções administrativas a notários e registradores",
+      "descricao": "A Lei 15.509/2026 estabeleceu prazo de cinco anos para a aplicação de sanções administrativas a notários e registradores, contado da ocorrência do fato. Em infrações permanentes, a contagem começa quando a irregularidade cessa.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://cnbpr.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "fonte": "Colégio Notarial do Brasil – Seção Paraná"
+    },
+    {
+      "titulo": "CNB/CF apresenta balanço de ações e resultados em reunião com as Seccionais Estaduais",
+      "descricao": "Em reunião com dirigentes de todo o país, o CNB/CF apresentou resultados e frentes de trabalho nas áreas jurídica, de relações governamentais e de tecnologia. A entidade informou que o e-Notariado implantou 72 entregas entre janeiro e setembro e ampliou a emissão automatizada de certidões.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal"
+    },
+    {
+      "titulo": "União estável não formalizada: como provar e entrar no inventário",
+      "descricao": "A reportagem explica que a união estável pode ser reconhecida sem escritura, mas o sobrevivente pode precisar comprovar a convivência para participar do inventário. Também aborda o direito real de habitação no imóvel da família e a possibilidade de reconhecimento no inventário extrajudicial quando há consenso entre os herdeiros.",
+      "data_publicacao": "2026-10-12T08:30:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/uniao-estavel-nao-formalizada-como-provar-e-entrar-no-inventario",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Regularize 2026 permite atualizar imóveis em Campos até 31 de outubro",
+      "descricao": "O programa municipal permite atualizar o cadastro de imóveis em Campos, incluindo construções, ampliações e mudanças de uso, com adesão até 31 de outubro. A prefeitura esclarece que a iniciativa não concede anistia nem desconto de tributos e mantém devido o ISS da construção, com possibilidade de parcelamento.",
+      "data_publicacao": "2026-10-06T00:00:00-03:00",
+      "url": "https://fazenda.campos.rj.gov.br/2026/10/06/regularize-2026-programa-permite-atualizacao-de-imoveis-e-adesao-vai-ate-31-de-outubro/",
+      "fonte": "Secretaria Municipal de Fazenda de Campos dos Goytacazes"
+    },
+    {
+      "titulo": "Avenida Chile, no Centro do Rio, entra em estudo para projeto de revitalização",
+      "descricao": "A Prefeitura do Rio estuda melhorias de infraestrutura para a Avenida Chile e seu entorno, com possível combinação de investimentos públicos e privados. O planejamento coincide com a retomada gradual das atividades na sede da Petrobras e a expectativa de aumento da circulação no Centro.",
+      "data_publicacao": "2026-10-15T11:24:00-03:00",
+      "url": "https://diariodorio.com/rio-de-janeiro/2026/10/15/avenida-chile-no-centro-do-rio-entra-em-estudo-para-projeto-de-revitalizacao.html",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Contratos no Edifício Bolsa do Rio e no AQWA Corporate puxam recuperação do mercado de escritórios do Centro",
+      "descricao": "Contratos do Coren-RJ no Edifício Bolsa do Rio e do Cepel no AQWA Corporate acompanharam o aumento da absorção líquida de escritórios no terceiro trimestre. Pesquisa da Newmark apontou vacância de 23,5% nos segmentos AAA, AA e A na cidade, o menor índice desde 2014.",
+      "data_publicacao": "2026-10-15T12:38:00-03:00",
+      "url": "https://diariodorio.com/economia/mercado-imobiliario/2026/10/15/contratos-no-edificio-bolsa-do-rio-e-no-aqwa-corporate-puxam-recuperacao-do-mercado-de-escritorios-do-centro.html",
+      "fonte": "Diário do Rio"
+    }
+  ]
+}
