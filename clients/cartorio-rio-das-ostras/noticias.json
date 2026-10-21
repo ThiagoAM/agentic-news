@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-10-20T10:12:28-03:00",
+  "data-busca": "2026-10-21T10:15:41-03:00",
   "noticias": [
     {
-      "titulo": "Polo Cederj inicia aplicação das avaliações presenciais em Rio das Ostras",
-      "descricao": "O Polo Cederj local iniciou as avaliações presenciais do Grupo 1 para Gestão de Turismo, Biblioteconomia e Design Gráfico; as provas do Grupo 2 estão previstas para 31 de outubro e 1º de novembro. O vestibular gratuito de 2027 oferece 7.165 vagas no estado, incluindo 25 para Gestão de Turismo e 30 para Design Gráfico no polo riostrense.",
-      "data_publicacao": "2026-10-20T09:14:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/polo-cederj-inicia-aplicacao-das-avaliacoes-presenciais/",
+      "titulo": "TJRJ transfere os XIV e XVI Juizados Cíveis para o Fórum de Jacarepaguá",
+      "descricao": "O TJRJ informou que os juizados passarão a funcionar no Fórum Desembargador José Murta Ribeiro, na Taquara, a partir de 9 de novembro. O atendimento presencial ficará suspenso de 30 de outubro a 6 de novembro, período em que os serviços serão prestados remotamente e os prazos processuais permanecerão em vigor.",
+      "data_publicacao": "2026-10-19T19:16:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/portal-conhecimento/noticias/noticia/-/visualizar-conteudo/5736540/407000387",
+      "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Prefeitura e INCRA vão mapear imóveis rurais e urbanos em Cantagalo",
+      "descricao": "O projeto piloto pretende distinguir propriedades rurais de imóveis que, pela ocupação, passaram a ter natureza urbana e podem ser encaminhados à regularização fundiária municipal. O cronograma de execução ainda será definido entre a Prefeitura e o INCRA.",
+      "data_publicacao": "2026-10-08T11:11:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-e-incra-comecam-projeto-em-cantagalo/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "TRF1 mantém pensão por morte retroativa em razão de filhos menores incapazes",
-      "descricao": "A 2ª Turma do TRF1 manteve decisão para que o INSS pague pensão por morte à companheira do segurado desde a data do falecimento, embora o pedido administrativo tenha sido feito anos depois. O colegiado considerou que a presença de filhos menores absolutamente incapazes impede que o atraso da mãe prejudique os direitos deles.",
-      "data_publicacao": "2026-10-20T07:49:00-03:00",
-      "url": "https://conjur.com.br/2026-out-20/filhos-menores-incapazes-justificam-pensao-retroativa-por-morte/",
-      "fonte": "ConJur"
+      "titulo": "Moradores da Cidade Beira Mar são orientados a atualizar cadastro imobiliário",
+      "descricao": "A orientação municipal é dirigida a proprietários que construíram, ampliaram ou alteraram imóveis no bairro e precisam atualizar seus dados cadastrais. Nesta primeira etapa, a atualização se aplica exclusivamente à Cidade Beira Mar.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/Noticias.php?noticia=14712",
+      "fonte": "Portal Rio das Ostras"
     },
     {
-      "titulo": "ConJur aponta lacunas de regulamentação no Marco Legal dos Seguros",
-      "descricao": "Reportagem analisa pontos da Lei 15.040/2024 ainda sem regras infralegais detalhadas, como a definição de riscos complexos, despesas de salvamento em seguros de pessoas e prazo para aviso de sinistro. Especialistas consultados dizem que normas da Susep podem uniformizar procedimentos, sem alterar obrigações estabelecidas pela lei.",
-      "data_publicacao": "2026-10-19T08:53:00-03:00",
-      "url": "https://conjur.com.br/2026-out-19/lei-de-seguros-carece-de-regulamentacao-e-gera-debate-sobre-judicializacao/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Rio das Ostras lança portal para inscrições em editais culturais",
-      "descricao": "A Fundação Rio das Ostras de Cultura lançou um portal para agentes culturais criarem perfis, consultarem editais abertos e acompanharem o status das inscrições. A ferramenta também permite reutilizar documentos já enviados no perfil em novas seleções.",
-      "data_publicacao": "2026-10-16T09:31:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/nova-plataforma-simplifica-o-acesso-aos-editais-culturais/",
+      "titulo": "Banco de Empregos de Rio das Ostras abre 494 vagas",
+      "descricao": "A Prefeitura informou 494 oportunidades em diferentes perfis, incluindo vendas, pintura e assistência administrativa. As inscrições são gratuitas e presenciais no Centro de Cidadania, e os requisitos variam conforme a vaga.",
+      "data_publicacao": "2026-10-19T08:56:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-494-vagas-nesta-segunda/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Prefeitura de Rio das Ostras qualifica equipe de engenharia para projetos de pavimentação",
-      "descricao": "A Secretaria Municipal de Obras promoveu capacitação sobre análise e dimensionamento de pavimentos flexíveis para engenheiros da Prefeitura. A equipe também recebeu treinamento em uma ferramenta desenvolvida internamente para apoiar cálculos, padronizar procedimentos e organizar parâmetros dos projetos de urbanização.",
-      "data_publicacao": "2026-10-15T14:35:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/prefeitura-promove-qualificacao-de-equipe-de-engenharia/",
+      "titulo": "Rio das Ostras inicia plantio de milho e feijão em Cantagalo",
+      "descricao": "A Prefeitura iniciou o cultivo em áreas rurais cedidas por produtores, com assistência técnica e apoio de máquinas. Parte da produção de feijão, com sementes fornecidas pela Pesagro-Rio, poderá abastecer próximos ciclos de plantio no Município.",
+      "data_publicacao": "2026-10-06T09:15:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-plantio-de-milho-e-feijao-em-cantagalo/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "STJ não vê risco ao interesse público em jogo do Vasco no Maracanã",
-      "descricao": "O presidente do STJ não conheceu pedido da concessionária do Maracanã para suspender a decisão do TJ-RJ que autorizou a partida do Vasco no estádio. A presidência entendeu que não foram demonstrados os requisitos legais para a suspensão nem risco grave à ordem, à segurança ou à economia públicas.",
-      "data_publicacao": "2026-10-15T14:53:00-03:00",
-      "url": "https://conjur.com.br/2026-out-15/nao-ha-lesao-ao-interesse-publico-em-jogo-do-vasco-no-maracana-diz-stj/",
+      "titulo": "Liminar do TJRJ suspende novas obras amparadas por lei acima do plano diretor do Rio",
+      "descricao": "O Órgão Especial do TJRJ suspendeu, para novas construções, uma lei municipal que permitia legalizar obras acima dos índices do plano diretor mediante contrapartida. A liminar apontou ausência de estudos técnicos e participação popular; por ora, não alcança obras já realizadas.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-23/lei/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Delegacia da JUCERJA em Niterói passa a operar com processos digitais",
-      "descricao": "A unidade da Junta Comercial do Estado do Rio de Janeiro em Niterói deixou de receber processos físicos a partir de 13 de outubro. O atendimento presencial permanece, com computadores e profissionais disponíveis para orientar os usuários na etapa inicial dos serviços digitais.",
-      "data_publicacao": "2026-10-09T00:00:00-03:00",
-      "url": "https://www.jucerja.rj.gov.br/Informacoes/NoticiaSelecionada/455",
-      "fonte": "JUCERJA"
+      "titulo": "STJ admite que convenção residencial vede locação de curta temporada",
+      "descricao": "A Quarta Turma do STJ entendeu que a convenção de condomínio com destinação exclusivamente residencial pode impedir a oferta frequente de unidades para estadias curtas. A tese vinculante sobre o tema ainda será definida pela Segunda Seção em recurso repetitivo.",
+      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-29/aluguel-de-curta-temporada-desvirtua-carater-residencial-em-condominio/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "CNJ e Banco Central propõem escritura pública para cessões de precatórios",
-      "descricao": "Proposta de regulamentação nacional apresentada em outubro prevê escritura pública para que a cessão de precatórios produza efeitos perante o Judiciário, além de registro eletrônico e rastreabilidade das transferências. O CNB/CF participou das discussões; a notícia original informou que o texto ainda seria analisado pelo plenário virtual do CNJ.",
-      "data_publicacao": "2026-10-07T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
-      "fonte": "Colégio Notarial do Brasil – Conselho Federal"
+      "titulo": "Artigo da ConJur discute a lista de não incidência de IBS e CBS em operações imobiliárias",
+      "descricao": "O artigo sustenta que as hipóteses de não incidência previstas no artigo 6º da Lei Complementar 214/2025 não seriam exaustivas e discute a atuação da PGFN na interpretação da norma. O autor ressalta que a cobrança de ITBI ou ITCMD, por si só, não afasta automaticamente IBS e CBS; trata-se de análise opinativa.",
+      "data_publicacao": "2026-09-26T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-26/reforma-tributaria-quem-define-os-limites-da-incidencia-do-ibs-e-da-cbs/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Turismo movimenta R$ 22,5 bilhões na cidade do Rio até agosto",
-      "descricao": "Estudo da Prefeitura do Rio estima que o turismo movimentou R$ 22,5 bilhões entre janeiro e agosto de 2026, período em que a cidade recebeu 8,5 milhões de visitantes. O fluxo cresceu 5% ante o mesmo intervalo de 2025, e turistas brasileiros responderam por R$ 15,2 bilhões dos gastos registrados.",
-      "data_publicacao": "2026-09-30T15:30:00-03:00",
-      "url": "https://prefeitura.rio/desenvolvimento-economico/turismo-impulsiona-a-economia-na-cidade-do-rio-e-movimenta-r-225-bilhoes-no-acumulado-ate-agosto/",
-      "fonte": "Prefeitura da Cidade do Rio de Janeiro"
+      "titulo": "Artigo analisa quitação de pacto comissório rural não registrada na matrícula",
+      "descricao": "Texto republicado pelo CNB/RJ examina um caso anonimizado em que uma escritura de quitação permaneceu no acervo notarial sem assinatura do tabelião e não chegou ao Registro de Imóveis. O artigo diferencia a existência do documento, sua regularidade formal e seus efeitos registrais, observando que o pagamento não cancela automaticamente o ônus inscrito na matrícula.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://cnbrj.org.br/pacto-comissorio-no-imovel-rural-quando-a-quitacao-existe-no-acervo-mas-nao-alcanca-a-matricula/",
+      "fonte": "Colégio Notarial do Brasil – Seção Rio de Janeiro (CNB/RJ)"
     },
     {
-      "titulo": "Lei fixa em cinco anos prazo prescricional para sanções a notários e registradores",
-      "descricao": "A Lei 15.509/2026 estabeleceu prazo de cinco anos para a aplicação de sanções administrativas a notários e registradores. Pela regra divulgada pelo CNB/CF, a contagem começa na ocorrência do fato e, em infrações permanentes, quando a irregularidade cessa.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
-      "fonte": "Colégio Notarial do Brasil – Conselho Federal"
+      "titulo": "Artigo aponta custo proporcionalmente maior do Provimento 213 para cartórios menores",
+      "descricao": "O autor analisa como exigências tecnológicas iguais dentro da Classe 2 do Provimento CNJ 213/2026 podem pesar de forma diferente em serventias com receitas distintas. O texto compara requisitos de segurança e defende ajustes na classificação e nos mecanismos de revisão previstos na norma.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://cnbrj.org.br/artigo-prov-213-cnj-tecnologia-onera-mais-cartorios-menores-na-classe-2-por-pedro-rocha-passos-filho/",
+      "fonte": "Colégio Notarial do Brasil – Seção Rio de Janeiro (CNB/RJ)"
     },
     {
-      "titulo": "CNB/CF apresenta balanço de projetos nacionais do setor notarial",
-      "descricao": "Em reunião com representantes das seccionais, o CNB/CF apresentou resultados de projetos jurídicos, institucionais e tecnológicos. A entidade informou que o e-Notariado implantou 72 entregas entre janeiro e setembro, automatizou 80% das certidões da Busca Testamento e reduziu em 83,3% o número de cartórios bloqueados por atraso na Censec.",
-      "data_publicacao": "2026-09-22T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
-      "fonte": "Colégio Notarial do Brasil – Conselho Federal"
+      "titulo": "CNB/RJ convoca associados para assembleia sobre orçamento de 2027",
+      "descricao": "Edital convoca os associados do Colégio Notarial do Brasil – Seção Rio de Janeiro para assembleia geral em 9 de novembro, na sede da entidade. A pauta prevê discutir e votar o orçamento de 2027; a segunda chamada ocorrerá às 11h30 se não houver quórum na primeira convocação.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://cnbrj.org.br/edital-assembleia-geral-ordinaria/",
+      "fonte": "Colégio Notarial do Brasil – Seção Rio de Janeiro (CNB/RJ)"
     }
   ]
 }

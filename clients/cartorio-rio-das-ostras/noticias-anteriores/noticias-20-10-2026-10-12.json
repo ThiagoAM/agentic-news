@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-20T10:12:28-03:00",
+  "noticias": [
+    {
+      "titulo": "Polo Cederj inicia aplicação das avaliações presenciais em Rio das Ostras",
+      "descricao": "O Polo Cederj local iniciou as avaliações presenciais do Grupo 1 para Gestão de Turismo, Biblioteconomia e Design Gráfico; as provas do Grupo 2 estão previstas para 31 de outubro e 1º de novembro. O vestibular gratuito de 2027 oferece 7.165 vagas no estado, incluindo 25 para Gestão de Turismo e 30 para Design Gráfico no polo riostrense.",
+      "data_publicacao": "2026-10-20T09:14:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/polo-cederj-inicia-aplicacao-das-avaliacoes-presenciais/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "TRF1 mantém pensão por morte retroativa em razão de filhos menores incapazes",
+      "descricao": "A 2ª Turma do TRF1 manteve decisão para que o INSS pague pensão por morte à companheira do segurado desde a data do falecimento, embora o pedido administrativo tenha sido feito anos depois. O colegiado considerou que a presença de filhos menores absolutamente incapazes impede que o atraso da mãe prejudique os direitos deles.",
+      "data_publicacao": "2026-10-20T07:49:00-03:00",
+      "url": "https://conjur.com.br/2026-out-20/filhos-menores-incapazes-justificam-pensao-retroativa-por-morte/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ConJur aponta lacunas de regulamentação no Marco Legal dos Seguros",
+      "descricao": "Reportagem analisa pontos da Lei 15.040/2024 ainda sem regras infralegais detalhadas, como a definição de riscos complexos, despesas de salvamento em seguros de pessoas e prazo para aviso de sinistro. Especialistas consultados dizem que normas da Susep podem uniformizar procedimentos, sem alterar obrigações estabelecidas pela lei.",
+      "data_publicacao": "2026-10-19T08:53:00-03:00",
+      "url": "https://conjur.com.br/2026-out-19/lei-de-seguros-carece-de-regulamentacao-e-gera-debate-sobre-judicializacao/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Rio das Ostras lança portal para inscrições em editais culturais",
+      "descricao": "A Fundação Rio das Ostras de Cultura lançou um portal para agentes culturais criarem perfis, consultarem editais abertos e acompanharem o status das inscrições. A ferramenta também permite reutilizar documentos já enviados no perfil em novas seleções.",
+      "data_publicacao": "2026-10-16T09:31:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/nova-plataforma-simplifica-o-acesso-aos-editais-culturais/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura de Rio das Ostras qualifica equipe de engenharia para projetos de pavimentação",
+      "descricao": "A Secretaria Municipal de Obras promoveu capacitação sobre análise e dimensionamento de pavimentos flexíveis para engenheiros da Prefeitura. A equipe também recebeu treinamento em uma ferramenta desenvolvida internamente para apoiar cálculos, padronizar procedimentos e organizar parâmetros dos projetos de urbanização.",
+      "data_publicacao": "2026-10-15T14:35:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-promove-qualificacao-de-equipe-de-engenharia/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "STJ não vê risco ao interesse público em jogo do Vasco no Maracanã",
+      "descricao": "O presidente do STJ não conheceu pedido da concessionária do Maracanã para suspender a decisão do TJ-RJ que autorizou a partida do Vasco no estádio. A presidência entendeu que não foram demonstrados os requisitos legais para a suspensão nem risco grave à ordem, à segurança ou à economia públicas.",
+      "data_publicacao": "2026-10-15T14:53:00-03:00",
+      "url": "https://conjur.com.br/2026-out-15/nao-ha-lesao-ao-interesse-publico-em-jogo-do-vasco-no-maracana-diz-stj/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Delegacia da JUCERJA em Niterói passa a operar com processos digitais",
+      "descricao": "A unidade da Junta Comercial do Estado do Rio de Janeiro em Niterói deixou de receber processos físicos a partir de 13 de outubro. O atendimento presencial permanece, com computadores e profissionais disponíveis para orientar os usuários na etapa inicial dos serviços digitais.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://www.jucerja.rj.gov.br/Informacoes/NoticiaSelecionada/455",
+      "fonte": "JUCERJA"
+    },
+    {
+      "titulo": "CNJ e Banco Central propõem escritura pública para cessões de precatórios",
+      "descricao": "Proposta de regulamentação nacional apresentada em outubro prevê escritura pública para que a cessão de precatórios produza efeitos perante o Judiciário, além de registro eletrônico e rastreabilidade das transferências. O CNB/CF participou das discussões; a notícia original informou que o texto ainda seria analisado pelo plenário virtual do CNJ.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal"
+    },
+    {
+      "titulo": "Turismo movimenta R$ 22,5 bilhões na cidade do Rio até agosto",
+      "descricao": "Estudo da Prefeitura do Rio estima que o turismo movimentou R$ 22,5 bilhões entre janeiro e agosto de 2026, período em que a cidade recebeu 8,5 milhões de visitantes. O fluxo cresceu 5% ante o mesmo intervalo de 2025, e turistas brasileiros responderam por R$ 15,2 bilhões dos gastos registrados.",
+      "data_publicacao": "2026-09-30T15:30:00-03:00",
+      "url": "https://prefeitura.rio/desenvolvimento-economico/turismo-impulsiona-a-economia-na-cidade-do-rio-e-movimenta-r-225-bilhoes-no-acumulado-ate-agosto/",
+      "fonte": "Prefeitura da Cidade do Rio de Janeiro"
+    },
+    {
+      "titulo": "Lei fixa em cinco anos prazo prescricional para sanções a notários e registradores",
+      "descricao": "A Lei 15.509/2026 estabeleceu prazo de cinco anos para a aplicação de sanções administrativas a notários e registradores. Pela regra divulgada pelo CNB/CF, a contagem começa na ocorrência do fato e, em infrações permanentes, quando a irregularidade cessa.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/lei-no-15-509-2026-fixa-em-cinco-anos-prazo-prescricional-para-sancoes-administrativas-a-notarios-e-registradores/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal"
+    },
+    {
+      "titulo": "CNB/CF apresenta balanço de projetos nacionais do setor notarial",
+      "descricao": "Em reunião com representantes das seccionais, o CNB/CF apresentou resultados de projetos jurídicos, institucionais e tecnológicos. A entidade informou que o e-Notariado implantou 72 entregas entre janeiro e setembro, automatizou 80% das certidões da Busca Testamento e reduziu em 83,3% o número de cartórios bloqueados por atraso na Censec.",
+      "data_publicacao": "2026-09-22T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-balanco-de-acoes-e-resultados-em-reuniao-com-as-seccionais-estaduais/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal"
+    }
+  ]
+}
