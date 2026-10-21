@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-10-20T09:57:10-03:00",
+  "noticias": [
+    {
+      "titulo": "Goiás supera mil imóveis regularizados pelo programa Meu Imóvel é Legal",
+      "descricao": "O Governo de Goiás informou que o programa Meu Imóvel é Legal já expediu mais de mil Certidões de Regularização Fundiária em Goiânia, encaminhadas aos cartórios para registro. Sete mutirões formalizaram 1.234 processos na capital, e a iniciativa também alcançou municípios vizinhos.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://goias.gov.br/administracao/governo-de-goias-supera-marca-de-1-mil-imoveis-regularizados-pelo-programa-meu-imovel-e-legal/",
+      "fonte": "Governo de Goiás – Sead"
+    },
+    {
+      "titulo": "Minas Gerais entrega escrituras de regularização a 970 famílias em Diamantina",
+      "descricao": "O programa Minas Reurb entregou 970 escrituras a famílias dos bairros Cidade Nova e Maria Orminda, em Diamantina, nos dias 29 e 30 de setembro. Segundo o governo estadual, os títulos beneficiam cerca de 2,9 mil moradores e facilitam o reconhecimento formal da propriedade e a transmissão dos imóveis.",
+      "data_publicacao": "2026-10-06T00:00:00-03:00",
+      "url": "https://desenvolvimento.mg.gov.br/noticias/governo-minas-escrituras-propriedade-diamantina",
+      "fonte": "Governo de Minas Gerais – Sede-MG"
+    },
+    {
+      "titulo": "TJMG reconhece usucapião de imóvel ocupado por mulher após separação",
+      "descricao": "A 20ª Câmara Cível do TJMG reconheceu a usucapião especial urbana de uma residência de 164,35 m² ocupada exclusivamente pela moradora desde 2008, após o fim da união estável. O colegiado considerou que o cuidado e a manutenção do lar podem demonstrar posse com ânimo de dona e que o pagamento do IPTU pelo proprietário registral, isoladamente, não afasta esse requisito.",
+      "data_publicacao": "2026-10-02T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/02/migalhas-tj-mg-reconhece-usucapiao-de-mulher-que-ficou-em-imovel-apos-separacao/",
+      "fonte": "CNB/SP Institucional, com informações do Migalhas"
+    },
+    {
+      "titulo": "STJ vai uniformizar limites de retenção em distratos imobiliários",
+      "descricao": "A Segunda Seção do STJ afetou recursos repetitivos para definir percentuais e bases de cálculo da retenção em contratos de compra e venda de imóveis, incluindo contratos anteriores à Lei do Distrato e a compra de lotes ou terrenos. A suspensão alcança processos com recurso especial ou agravo em recurso especial, e a afetação ainda não define o resultado de mérito.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466255/stf-definira-limites-de-retencao-na-rescisao-de-compra-de-imoveis",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Lei 14.382/22 restringe competência residual de cartórios de registro de imóveis",
+      "descricao": "Artigo jurídico analisa como a Lei 14.382/22 limitou a competência residual dos cartórios de origem depois de mudanças nas circunscrições imobiliárias. A interpretação pode exigir abertura de matrícula na serventia atualmente competente e tem sido objeto de divergências entre cartórios e corregedorias.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/466265/competencia-residual-mitigada--a-figura-criada-pela-lei-14-382-22-para-assegurar-a-competencia-dos-novos-cartorios-de-registros-de-imoveis",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "TJGO protege parcialmente pequena propriedade rural contra penhora",
+      "descricao": "O TJGO reconheceu a impenhorabilidade de 120 hectares de uma fazenda de 269,2 hectares, por considerar comprovado o uso familiar da área dentro do limite de quatro módulos fiscais. Os 149,2 hectares excedentes poderão ser penhorados, e a delimitação deverá considerar a continuidade da atividade produtiva e as normas agrárias, ambientais e registrais.",
+      "data_publicacao": "2026-10-17T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466337/tj-go-impede-penhora-de-parte-de-fazenda-maior-que-limite-legal?s=&s=LI",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Justiça rescinde contrato de multipropriedade e determina devolução de 90%",
+      "descricao": "A Justiça de Suzano/SP rescindiu um contrato de compra de cotas imobiliárias em regime de multipropriedade e determinou a restituição de 90% das parcelas pagas. A decisão permitiu retenção de 10% para despesas da vendedora e afastou cobranças posteriores à manifestação de desistência da consumidora.",
+      "data_publicacao": "2026-10-17T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/amp/quentes/466330/justica-rescinde-multipropriedade-e-manda-devolver-90-das-parcelas",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "TJSP condena MRV por defeito que comprometeu uso de banheiro em apartamento novo",
+      "descricao": "A 10ª Câmara de Direito Privado do TJSP condenou a MRV a pagar R$ 10 mil por danos morais após resíduo de madeira obstruir a tubulação sanitária de um apartamento novo e prejudicar o uso do único banheiro. O colegiado manteve também a indenização de R$ 1.853,45 por danos materiais e considerou afetadas condições essenciais de higiene e habitabilidade.",
+      "data_publicacao": "2026-10-18T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466447/mrv-e-condenada-apos-madeira-entupir-tubulacao-de-apartamento-novo",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Empresas condenadas por vícios de construção devem adiantar custo de perícia",
+      "descricao": "O TJGO determinou que duas empresas já condenadas a reparar problemas construtivos em um condomínio antecipem os honorários da perícia que calculará o custo dos reparos. A relatora aplicou entendimento do STJ para a liquidação de uma obrigação já reconhecida, independentemente de o condomínio ter solicitado a apuração.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466461/x",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "FGV registra alta de 0,28% nos aluguéis residenciais em setembro",
+      "descricao": "O IVAR da FGV subiu 0,28% em setembro, enquanto a variação acumulada em 12 meses desacelerou de 5,09% para 5,08%. No Rio de Janeiro, os aluguéis avançaram 0,45% no mês e 5,77% em 12 meses, ante 6,37% em agosto.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://portal.fgv.br/noticias/ivar-setembro-2026",
+      "fonte": "FGV IBRE"
+    },
+    {
+      "titulo": "Panorama de outubro mostra alta nas vendas de imóveis novos e recuo no médio e alto padrão",
+      "descricao": "Atualização publicada em 16 de outubro pelo Portal Portas aponta crescimento de 5,4% nas vendas de imóveis novos no primeiro semestre de 2026, com o Minha Casa, Minha Vida respondendo por metade do total. O levantamento também registra recuo de 3,2% no segmento médio e alto padrão e reúne dados de crédito, preços residenciais e locação.",
+      "data_publicacao": "2026-10-16T10:04:00-03:00",
+      "url": "https://portas.com.br/dados-inteligencia/mercado-imobiliario-2026/",
+      "fonte": "Portas – Dados & Inteligência"
+    },
+    {
+      "titulo": "Artigo discute designação cadastral na qualificação registral imobiliária",
+      "descricao": "Em coluna publicada no Migalhas Notariais e Registrais, Sérgio Jacomino examina como a identificação cadastral interage com a matrícula e a qualificação de títulos imobiliários. O texto aborda o uso do Cadastro Imobiliário Brasileiro e do Sinter e cita decisões segundo as quais divergências cadastrais, em certas situações, não bastam para impedir um registro.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/coluna/migalhas-notariais-e-registrais/466580/oficina-notarial-e-registral-a-designacao-cadastral-como-elemento?s=&s=LI",
+      "fonte": "Migalhas Notariais e Registrais"
+    }
+  ]
+}
