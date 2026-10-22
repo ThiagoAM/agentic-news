@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-21T10:07:43-03:00",
+  "noticias": [
+    {
+      "titulo": "STF reconhece imunidade de ITBI na integralização de imóveis por empresas imobiliárias",
+      "descricao": "No Tema 1.348, o STF decidiu que a imunidade de ITBI na transferência de imóveis para integralização de capital também alcança sociedades com atividade preponderantemente imobiliária. A proteção permanece limitada ao valor efetivamente destinado ao capital social, e os municípios podem apurar fraude ou simulação.",
+      "data_publicacao": "2026-10-20T08:07:00-03:00",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/stf-garante-imunidade-de-itbi-a-empresas-imobiliarias.shtml",
+      "fonte": "Folha – C-Level"
+    },
+    {
+      "titulo": "STJ mantém registro imobiliário em disputa sobre loteamento de Palmas",
+      "descricao": "A Terceira Turma do STJ manteve decisão do TJTO que preservou registros de imóveis questionados em disputa sobre o loteamento Taquaruçu Canela, em Palmas. A relatora destacou que a invalidação de registros exige provas robustas, pois pode atingir toda a cadeia dominial.",
+      "data_publicacao": "2026-10-20T15:58:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466890/stj-mantem-registro-de-imovel-em-disputa-ligada-a-criacao-do-tocantins",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "STJ protege terceiro de boa-fé em negócio questionado como doação simulada",
+      "descricao": "A Terceira Turma do STJ decidiu que a nulidade de um negócio simulado não pode prejudicar direitos de terceiro de boa-fé que não participou da negociação. O caso discutia uma compra e venda apontada como possível doação disfarçada, e o colegiado manteve a conclusão de que a recorrida era terceira de boa-fé.",
+      "data_publicacao": "2026-10-20T17:22:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466897/stj-nulidade-de-doacao-simulada-nao-atinge-terceiro-de-boa-fe",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "STJ afasta retroatividade de separação total de bens em união estável",
+      "descricao": "A Terceira Turma do STJ entendeu que uma escritura posterior não pode aplicar retroativamente a separação total de bens quando isso restringe direitos patrimoniais já constituídos por um dos companheiros. A regra geral, segundo a relatora, é que a mudança do regime produza efeitos apenas para o futuro.",
+      "data_publicacao": "2026-10-20T16:26:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466894/stj-barra-retroatividade-de-separacao-de-bens-em-uniao-estavel",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Espólio pode exercer opção de compra de quotas contratada pelo fundador da Unip",
+      "descricao": "Por maioria, a Terceira Turma do STJ reconheceu que o espólio de João Carlos Di Genio pode exercer opção de compra de quotas sociais contratada pelo empresário em vida. O colegiado considerou patrimonial o direito previsto em contratos que estendiam seus efeitos aos herdeiros e sucessores.",
+      "data_publicacao": "2026-10-20T18:42:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466906/stj-permite-que-espolio-de-fundador-da-unip-compre-quotas-sociais",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Especialista aponta expansão da alienação fiduciária no crédito imobiliário",
+      "descricao": "Em entrevista ao Migalhas, o advogado Melhim Chalhub afirmou que a alienação fiduciária substituiu gradualmente a hipoteca e hoje garante mais de 10 milhões de financiamentos habitacionais. Ele também destacou que a execução extrajudicial pode ocorrer diretamente no registro de imóveis, conforme a legislação aplicável.",
+      "data_publicacao": "2026-10-20T14:58:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466866/alienacao-fiduciaria-praticamente-substituiu-hipoteca-diz-chalhub",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "STJ mantém anulação de procurações usadas para renúncia de herança",
+      "descricao": "A Terceira Turma do STJ manteve a anulação de procurações usadas para que irmãos renunciassem à herança em favor de um deles, após o reconhecimento de vício de consentimento. A invalidade também atingiu a escritura extrajudicial de inventário e partilha feita com base nesses documentos.",
+      "data_publicacao": "2026-10-07T14:54:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466027/stj-invalida-procuracoes-que-fizeram-irmaos-renunciar-a-heranca",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Agência Brasil aborda prova de união estável e direitos no inventário",
+      "descricao": "Reportagem da Agência Brasil explica que a união estável pode ser reconhecida mesmo sem escritura, desde que a convivência familiar seja comprovada por elementos como residência comum, dependência financeira e contratos compartilhados. O texto também trata da possibilidade de reconhecimento no inventário e do direito real de habitação do sobrevivente.",
+      "data_publicacao": "2026-10-12T08:30:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/uniao-estavel-nao-formalizada-como-provar-e-entrar-no-inventario",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Artigo examina IBS e CBS na locação de imóveis por holdings patrimoniais",
+      "descricao": "Análise publicada no Migalhas discute como a reforma tributária afeta a locação de imóveis por holdings e diferencia o enquadramento de pessoas físicas e jurídicas. O texto também aborda créditos tributários e possíveis efeitos do uso de imóveis da holding por sócios ou familiares, sujeitos à regulamentação aplicável.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/465622/ibs-e-cbs-os-impactos-na-locacao-por-holding-patrimoniais",
+      "fonte": "Migalhas – Migalhas de Peso"
+    },
+    {
+      "titulo": "STJ afasta usucapião de imóvel de herança ocupado por descendente",
+      "descricao": "A Quarta Turma do STJ decidiu que morar por muitos anos em imóvel da família não basta para obter usucapião quando não há demonstração clara de posse como proprietário. No caso, o imóvel integrava herança ainda não partilhada e outros herdeiros se opuseram ao pedido.",
+      "data_publicacao": "2026-09-30T07:15:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30092026-Ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ discute legitimidade de herdeira para contestar execução contra pais falecidos",
+      "descricao": "A Terceira Turma do STJ iniciou julgamento sobre se uma herdeira pode apresentar embargos em nome próprio em execução originalmente movida contra os pais falecidos, antes da abertura do inventário. Houve divergência entre os ministros e o julgamento foi suspenso por pedido de vista, sem decisão final divulgada na reportagem.",
+      "data_publicacao": "2026-10-07T14:01:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466020/filha-pode-embargar-execucao-movida-contra-pais-falecidos-stj-julga",
+      "fonte": "Migalhas"
+    }
+  ]
+}
