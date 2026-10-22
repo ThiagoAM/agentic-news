@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-21T10:15:41-03:00",
+  "noticias": [
+    {
+      "titulo": "TJRJ transfere os XIV e XVI Juizados Cíveis para o Fórum de Jacarepaguá",
+      "descricao": "O TJRJ informou que os juizados passarão a funcionar no Fórum Desembargador José Murta Ribeiro, na Taquara, a partir de 9 de novembro. O atendimento presencial ficará suspenso de 30 de outubro a 6 de novembro, período em que os serviços serão prestados remotamente e os prazos processuais permanecerão em vigor.",
+      "data_publicacao": "2026-10-19T19:16:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/portal-conhecimento/noticias/noticia/-/visualizar-conteudo/5736540/407000387",
+      "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "Prefeitura e INCRA vão mapear imóveis rurais e urbanos em Cantagalo",
+      "descricao": "O projeto piloto pretende distinguir propriedades rurais de imóveis que, pela ocupação, passaram a ter natureza urbana e podem ser encaminhados à regularização fundiária municipal. O cronograma de execução ainda será definido entre a Prefeitura e o INCRA.",
+      "data_publicacao": "2026-10-08T11:11:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-e-incra-comecam-projeto-em-cantagalo/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Moradores da Cidade Beira Mar são orientados a atualizar cadastro imobiliário",
+      "descricao": "A orientação municipal é dirigida a proprietários que construíram, ampliaram ou alteraram imóveis no bairro e precisam atualizar seus dados cadastrais. Nesta primeira etapa, a atualização se aplica exclusivamente à Cidade Beira Mar.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/Noticias.php?noticia=14712",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Banco de Empregos de Rio das Ostras abre 494 vagas",
+      "descricao": "A Prefeitura informou 494 oportunidades em diferentes perfis, incluindo vendas, pintura e assistência administrativa. As inscrições são gratuitas e presenciais no Centro de Cidadania, e os requisitos variam conforme a vaga.",
+      "data_publicacao": "2026-10-19T08:56:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-494-vagas-nesta-segunda/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras inicia plantio de milho e feijão em Cantagalo",
+      "descricao": "A Prefeitura iniciou o cultivo em áreas rurais cedidas por produtores, com assistência técnica e apoio de máquinas. Parte da produção de feijão, com sementes fornecidas pela Pesagro-Rio, poderá abastecer próximos ciclos de plantio no Município.",
+      "data_publicacao": "2026-10-06T09:15:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-plantio-de-milho-e-feijao-em-cantagalo/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Liminar do TJRJ suspende novas obras amparadas por lei acima do plano diretor do Rio",
+      "descricao": "O Órgão Especial do TJRJ suspendeu, para novas construções, uma lei municipal que permitia legalizar obras acima dos índices do plano diretor mediante contrapartida. A liminar apontou ausência de estudos técnicos e participação popular; por ora, não alcança obras já realizadas.",
+      "data_publicacao": "2026-09-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-23/lei/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ admite que convenção residencial vede locação de curta temporada",
+      "descricao": "A Quarta Turma do STJ entendeu que a convenção de condomínio com destinação exclusivamente residencial pode impedir a oferta frequente de unidades para estadias curtas. A tese vinculante sobre o tema ainda será definida pela Segunda Seção em recurso repetitivo.",
+      "data_publicacao": "2026-09-29T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-29/aluguel-de-curta-temporada-desvirtua-carater-residencial-em-condominio/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo da ConJur discute a lista de não incidência de IBS e CBS em operações imobiliárias",
+      "descricao": "O artigo sustenta que as hipóteses de não incidência previstas no artigo 6º da Lei Complementar 214/2025 não seriam exaustivas e discute a atuação da PGFN na interpretação da norma. O autor ressalta que a cobrança de ITBI ou ITCMD, por si só, não afasta automaticamente IBS e CBS; trata-se de análise opinativa.",
+      "data_publicacao": "2026-09-26T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-set-26/reforma-tributaria-quem-define-os-limites-da-incidencia-do-ibs-e-da-cbs/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo analisa quitação de pacto comissório rural não registrada na matrícula",
+      "descricao": "Texto republicado pelo CNB/RJ examina um caso anonimizado em que uma escritura de quitação permaneceu no acervo notarial sem assinatura do tabelião e não chegou ao Registro de Imóveis. O artigo diferencia a existência do documento, sua regularidade formal e seus efeitos registrais, observando que o pagamento não cancela automaticamente o ônus inscrito na matrícula.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://cnbrj.org.br/pacto-comissorio-no-imovel-rural-quando-a-quitacao-existe-no-acervo-mas-nao-alcanca-a-matricula/",
+      "fonte": "Colégio Notarial do Brasil – Seção Rio de Janeiro (CNB/RJ)"
+    },
+    {
+      "titulo": "Artigo aponta custo proporcionalmente maior do Provimento 213 para cartórios menores",
+      "descricao": "O autor analisa como exigências tecnológicas iguais dentro da Classe 2 do Provimento CNJ 213/2026 podem pesar de forma diferente em serventias com receitas distintas. O texto compara requisitos de segurança e defende ajustes na classificação e nos mecanismos de revisão previstos na norma.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://cnbrj.org.br/artigo-prov-213-cnj-tecnologia-onera-mais-cartorios-menores-na-classe-2-por-pedro-rocha-passos-filho/",
+      "fonte": "Colégio Notarial do Brasil – Seção Rio de Janeiro (CNB/RJ)"
+    },
+    {
+      "titulo": "CNB/RJ convoca associados para assembleia sobre orçamento de 2027",
+      "descricao": "Edital convoca os associados do Colégio Notarial do Brasil – Seção Rio de Janeiro para assembleia geral em 9 de novembro, na sede da entidade. A pauta prevê discutir e votar o orçamento de 2027; a segunda chamada ocorrerá às 11h30 se não houver quórum na primeira convocação.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://cnbrj.org.br/edital-assembleia-geral-ordinaria/",
+      "fonte": "Colégio Notarial do Brasil – Seção Rio de Janeiro (CNB/RJ)"
+    }
+  ]
+}

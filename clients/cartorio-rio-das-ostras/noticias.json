@@ -1,82 +1,89 @@
 {
-  "data-busca": "2026-10-21T10:15:41-03:00",
+  "data-busca": "2026-10-22T10:03:33-03:00",
   "noticias": [
     {
-      "titulo": "TJRJ transfere os XIV e XVI Juizados Cíveis para o Fórum de Jacarepaguá",
-      "descricao": "O TJRJ informou que os juizados passarão a funcionar no Fórum Desembargador José Murta Ribeiro, na Taquara, a partir de 9 de novembro. O atendimento presencial ficará suspenso de 30 de outubro a 6 de novembro, período em que os serviços serão prestados remotamente e os prazos processuais permanecerão em vigor.",
-      "data_publicacao": "2026-10-19T19:16:00-03:00",
-      "url": "https://www.tjrj.jus.br/web/portal-conhecimento/noticias/noticia/-/visualizar-conteudo/5736540/407000387",
+      "titulo": "Regularização fundiária retoma cadastros de imóveis no Âncora",
+      "descricao": "Equipes de Rio das Ostras e do ITERJ fazem, de 21 a 24 de outubro, uma nova conferência dos cadastros de ocupantes no Âncora para concluir a etapa que antecede a emissão de títulos de propriedade. O trecho desta ação fica entre a Rodovia Amaral Peixoto e a Rua das Camélias.",
+      "data_publicacao": "2026-10-21T12:07:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/cadastradores-da-regularizacao-fundiaria-estao-no-ancora-ate-sabado-24/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Centro de Cidadania do Âncora passa a receber mensagens por WhatsApp",
+      "descricao": "O Centro de Cidadania de Rio das Ostras passou a atender dúvidas e pedidos de informação também pelo WhatsApp no número (22) 2771-2735, sem deixar de receber ligações. A unidade, localizada na Rua das Casuarinas, reúne serviços municipais e estaduais, inclusive atendimento de regularização fundiária, e funciona das 8h às 17h.",
+      "data_publicacao": "2026-10-21T11:53:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/centro-de-cidadania-conta-com-whatsapp-para-melhor-atender-a-populacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Polo Cederj de Rio das Ostras aplica avaliações presenciais e mantém inscrições abertas",
+      "descricao": "O Polo Cederj iniciou as avaliações presenciais AP2 do primeiro grupo para estudantes de Gestão de Turismo, Biblioteconomia e Design Gráfico, com as provas do segundo grupo previstas para 31 de outubro e 1º de novembro. As inscrições para o Vestibular Cederj 2027/1 seguem até 29 de outubro, com 55 vagas reservadas a moradores de Rio das Ostras nesses dois cursos.",
+      "data_publicacao": "2026-10-20T09:14:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/polo-cederj-inicia-aplicacao-das-avaliacoes-presenciais/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Artesãos de Rio das Ostras visitam o Museu do Pontal em atividade cultural",
+      "descricao": "Uma visita guiada ao Museu do Pontal reuniu artesãos, alunos de mentoria artística e estudantes de cerâmica de Rio das Ostras. A atividade integrou o projeto estadual Pé na Estrada com a Cultura, voltado a ampliar o acesso a espaços de arte e patrimônio.",
+      "data_publicacao": "2026-10-20T15:20:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/artesaos-de-rio-das-ostras-visitam-o-museu-do-pontal/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Artigo do ConJur atribui ao incorporador o custo de individualizar matrícula",
+      "descricao": "Artigo do ConJur interpreta decisão da Terceira Turma do STJ sobre quem deve arcar com a abertura de matrícula individual de unidade imobiliária e sustenta que esse custo cabe ao incorporador. O texto ressalta que o acórdão não é vinculante e distingue essa despesa dos custos de escritura e registro do título de transferência.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-20/stj-fixa-que-taxa-de-individualizacao-de-matricula-e-onus-do-incorporador/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ fixa marcos temporais para avaliação de imóveis em desapropriações",
+      "descricao": "A Primeira Seção do STJ definiu limites para o marco de avaliação do imóvel: até um ano do ajuizamento em desapropriações por utilidade pública ou interesse social e até 90 dias na reforma agrária; na desapropriação indireta, considera-se a data do apossamento. A tese se aplica às perícias com perito nomeado após o acórdão e trata do cálculo da indenização, conforme a notícia do ConJur.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-19/stj-estabelece-travas-para-avaliar-preco-atual-em-expropriacoes-de-terrenos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "DER-RJ amplia conservação para 24 rodovias estaduais",
+      "descricao": "O DER-RJ informou que dez novas rodovias passaram a receber reparos no pavimento, elevando para 24 o total de estradas estaduais com serviços de conservação em andamento. As intervenções incluem manutenção do asfalto e recuperação da sinalização em diferentes regiões do estado.",
+      "data_publicacao": "2026-10-15T12:23:00-03:00",
+      "url": "https://www.der.rj.gov.br/detalhe_noticia.asp?ident=1042",
+      "fonte": "DER-RJ"
+    },
+    {
+      "titulo": "TJRJ transfere ponto facultativo do Dia do Servidor para 30 de outubro",
+      "descricao": "O Tribunal de Justiça do Rio de Janeiro terá expediente normal em 28 de outubro e transferirá para sexta-feira, 30 de outubro, o ponto facultativo do Dia do Servidor Público, com suspensão das atividades e dos prazos processuais. A mudança consta do Aviso 290/2026 e segue o Decreto estadual 50.525, de 13 de outubro.",
+      "data_publicacao": "2026-10-15T19:03:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/portal-conhecimento/noticias/noticia/-/visualizar-conteudo/5736540/406979295",
       "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro"
     },
     {
-      "titulo": "Prefeitura e INCRA vão mapear imóveis rurais e urbanos em Cantagalo",
-      "descricao": "O projeto piloto pretende distinguir propriedades rurais de imóveis que, pela ocupação, passaram a ter natureza urbana e podem ser encaminhados à regularização fundiária municipal. O cronograma de execução ainda será definido entre a Prefeitura e o INCRA.",
-      "data_publicacao": "2026-10-08T11:11:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/prefeitura-e-incra-comecam-projeto-em-cantagalo/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Moradores da Cidade Beira Mar são orientados a atualizar cadastro imobiliário",
-      "descricao": "A orientação municipal é dirigida a proprietários que construíram, ampliaram ou alteraram imóveis no bairro e precisam atualizar seus dados cadastrais. Nesta primeira etapa, a atualização se aplica exclusivamente à Cidade Beira Mar.",
-      "data_publicacao": "2026-10-14T00:00:00-03:00",
-      "url": "https://www.riodasostras.com.br/noticias/Noticias.php?noticia=14712",
-      "fonte": "Portal Rio das Ostras"
-    },
-    {
-      "titulo": "Banco de Empregos de Rio das Ostras abre 494 vagas",
-      "descricao": "A Prefeitura informou 494 oportunidades em diferentes perfis, incluindo vendas, pintura e assistência administrativa. As inscrições são gratuitas e presenciais no Centro de Cidadania, e os requisitos variam conforme a vaga.",
-      "data_publicacao": "2026-10-19T08:56:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-494-vagas-nesta-segunda/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Rio das Ostras inicia plantio de milho e feijão em Cantagalo",
-      "descricao": "A Prefeitura iniciou o cultivo em áreas rurais cedidas por produtores, com assistência técnica e apoio de máquinas. Parte da produção de feijão, com sementes fornecidas pela Pesagro-Rio, poderá abastecer próximos ciclos de plantio no Município.",
-      "data_publicacao": "2026-10-06T09:15:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-plantio-de-milho-e-feijao-em-cantagalo/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Liminar do TJRJ suspende novas obras amparadas por lei acima do plano diretor do Rio",
-      "descricao": "O Órgão Especial do TJRJ suspendeu, para novas construções, uma lei municipal que permitia legalizar obras acima dos índices do plano diretor mediante contrapartida. A liminar apontou ausência de estudos técnicos e participação popular; por ora, não alcança obras já realizadas.",
-      "data_publicacao": "2026-09-23T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-23/lei/",
+      "titulo": "STJ mantém anulação de leilão de imóvel por falta de intimação pessoal",
+      "descricao": "A Terceira Turma do STJ decidiu que e-mail ou telegrama não substitui a intimação pessoal do devedor fiduciante antes do leilão extrajudicial de imóvel. O credor precisa comprovar que o devedor teve ciência inequívoca da data, conforme o artigo 27, parágrafo 2-A, da Lei 9.514/1997.",
+      "data_publicacao": "2026-10-10T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-10/stj-mantem-anulacao-de-leilao-por-falta-de-intimacao-pessoal-de-devedora/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "STJ admite que convenção residencial vede locação de curta temporada",
-      "descricao": "A Quarta Turma do STJ entendeu que a convenção de condomínio com destinação exclusivamente residencial pode impedir a oferta frequente de unidades para estadias curtas. A tese vinculante sobre o tema ainda será definida pela Segunda Seção em recurso repetitivo.",
-      "data_publicacao": "2026-09-29T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-29/aluguel-de-curta-temporada-desvirtua-carater-residencial-em-condominio/",
-      "fonte": "ConJur"
+      "titulo": "Proposta nacional prevê escritura pública para cessão de precatórios",
+      "descricao": "Uma proposta do CNJ e do Banco Central prevê que a cessão de créditos de precatórios seja formalizada por escritura pública para produzir efeitos perante o Judiciário, acompanhada de registro eletrônico e mecanismos de rastreabilidade. O Colégio Notarial do Brasil – Conselho Federal participou da elaboração, e a nota técnica ainda aguardava análise do CNJ quando a notícia foi publicada.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
+      "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Artigo da ConJur discute a lista de não incidência de IBS e CBS em operações imobiliárias",
-      "descricao": "O artigo sustenta que as hipóteses de não incidência previstas no artigo 6º da Lei Complementar 214/2025 não seriam exaustivas e discute a atuação da PGFN na interpretação da norma. O autor ressalta que a cobrança de ITBI ou ITCMD, por si só, não afasta automaticamente IBS e CBS; trata-se de análise opinativa.",
-      "data_publicacao": "2026-09-26T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-set-26/reforma-tributaria-quem-define-os-limites-da-incidencia-do-ibs-e-da-cbs/",
-      "fonte": "ConJur"
+      "titulo": "Jornada Notarial 2026 terá foco em segurança nas transações imobiliárias",
+      "descricao": "A Jornada Notarial 2026 está prevista para 7 de novembro como mobilização nacional de Tabelionatos de Notas e seccionais, com o tema de segurança jurídica em compra, venda, doações e inventários. A iniciativa conta com apoio do CNB/CF e prevê atividades públicas de orientação sobre instrumentos notariais e transações patrimoniais.",
+      "data_publicacao": "2026-10-01T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/01/jornada-notarial-2026-seguranca-juridica-nas-transacoes-imobiliarias/",
+      "fonte": "CNB/SP"
     },
     {
-      "titulo": "Artigo analisa quitação de pacto comissório rural não registrada na matrícula",
-      "descricao": "Texto republicado pelo CNB/RJ examina um caso anonimizado em que uma escritura de quitação permaneceu no acervo notarial sem assinatura do tabelião e não chegou ao Registro de Imóveis. O artigo diferencia a existência do documento, sua regularidade formal e seus efeitos registrais, observando que o pagamento não cancela automaticamente o ônus inscrito na matrícula.",
-      "data_publicacao": "2026-10-16T00:00:00-03:00",
-      "url": "https://cnbrj.org.br/pacto-comissorio-no-imovel-rural-quando-a-quitacao-existe-no-acervo-mas-nao-alcanca-a-matricula/",
-      "fonte": "Colégio Notarial do Brasil – Seção Rio de Janeiro (CNB/RJ)"
-    },
-    {
-      "titulo": "Artigo aponta custo proporcionalmente maior do Provimento 213 para cartórios menores",
-      "descricao": "O autor analisa como exigências tecnológicas iguais dentro da Classe 2 do Provimento CNJ 213/2026 podem pesar de forma diferente em serventias com receitas distintas. O texto compara requisitos de segurança e defende ajustes na classificação e nos mecanismos de revisão previstos na norma.",
-      "data_publicacao": "2026-10-16T00:00:00-03:00",
-      "url": "https://cnbrj.org.br/artigo-prov-213-cnj-tecnologia-onera-mais-cartorios-menores-na-classe-2-por-pedro-rocha-passos-filho/",
-      "fonte": "Colégio Notarial do Brasil – Seção Rio de Janeiro (CNB/RJ)"
-    },
-    {
-      "titulo": "CNB/RJ convoca associados para assembleia sobre orçamento de 2027",
-      "descricao": "Edital convoca os associados do Colégio Notarial do Brasil – Seção Rio de Janeiro para assembleia geral em 9 de novembro, na sede da entidade. A pauta prevê discutir e votar o orçamento de 2027; a segunda chamada ocorrerá às 11h30 se não houver quórum na primeira convocação.",
-      "data_publicacao": "2026-10-19T00:00:00-03:00",
-      "url": "https://cnbrj.org.br/edital-assembleia-geral-ordinaria/",
-      "fonte": "Colégio Notarial do Brasil – Seção Rio de Janeiro (CNB/RJ)"
+      "titulo": "STJ afirma que longa ocupação familiar não basta para usucapião de imóvel herdado",
+      "descricao": "A Quarta Turma do STJ negou a usucapião extraordinária a um casal que ocupava há décadas um imóvel integrante de herança com a tolerância de familiares. O colegiado destacou que a duração da moradia não substitui a prova de posse exclusiva com intenção de dono e sem oposição dos demais herdeiros.",
+      "data_publicacao": "2026-09-30T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/09/30/jurinews-ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao-decide-stj/",
+      "fonte": "CNB/SP"
     }
   ]
 }
