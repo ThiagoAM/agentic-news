@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-22T10:03:33-03:00",
+  "noticias": [
+    {
+      "titulo": "Artigo analisa a forma da carta de sentença arbitral para atos levados ao registro",
+      "descricao": "Coluna de Migalhas Notariais e Registrais discute se a carta de sentença arbitral é formalmente adequada para atos que chegam ao Registro de Imóveis, como adjudicação, inventário e usucapião. O autor aponta que a controvérsia sobre a formação do título segue em análise no Conselho Nacional de Justiça.",
+      "data_publicacao": "2026-10-21T13:36:00-03:00",
+      "url": "https://www.migalhas.com.br/coluna/migalhas-notariais-e-registrais/466861/oficina-notarial-e-registral-carta-de-sentenca-arbitral",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Artigo aponta barreiras de estruturação ao financiamento de incorporadoras",
+      "descricao": "Em artigo publicado na seção Bússola, o CEO Diego Siqueira afirma que a queda da Selic não elimina custos de governança, informação e estruturação que dificultam o acesso de incorporadoras ao capital. A matéria cita dados da Abecip sobre o crédito do SBPE no primeiro semestre e as regras do Regime FÁCIL para empresas de menor porte.",
+      "data_publicacao": "2026-10-20T15:00:00-03:00",
+      "url": "https://exame.com/bussola/por-que-a-queda-dos-juros-nao-garante-financiamento-as-incorporadoras/",
+      "fonte": "Exame"
+    },
+    {
+      "titulo": "Encontro Notarial Sul debate inovação e desafios da atividade extrajudicial",
+      "descricao": "O Colégio Notarial do Brasil e a OAB realizaram o Encontro Notarial Sul em Curitiba nos dias 16 e 17 de outubro, dentro do II Congresso Internacional de Direito Notarial e Registral. A programação reuniu notários, advogados, magistrados e especialistas para tratar de provas digitais, atos internacionais, instrumentos notariais e Reforma Tributária.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/encontro-notarial-sul-encerra-programacao-em-curitiba-com-debates-sobre-inovacao-seguranca-juridica-e-novos-desafios-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STJ fixa marcos temporais para avaliação de imóveis em desapropriações",
+      "descricao": "A Primeira Seção do STJ estabeleceu que, em desapropriações por utilidade pública ou interesse social, o marco para avaliação do imóvel não deve superar um ano do ajuizamento; na reforma agrária, o limite é de 90 dias. Para desapropriação indireta, a avaliação considera a data do apossamento, conforme a notícia publicada pelo ConJur.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-19/stj-estabelece-travas-para-avaliar-preco-atual-em-expropriacoes-de-terrenos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo examina o cadastro imobiliário na qualificação registral em São Paulo",
+      "descricao": "Sérgio Jacomino analisa decisão do Conselho Superior da Magistratura paulista sobre a inscrição cadastral de imóvel como elemento da qualificação registral, à luz da implantação do Cadastro Imobiliário Brasileiro. O texto também aborda a coordenação entre registros, cadastros municipais e Sinter e ressalta que a aplicação depende dos prazos legais de cada município.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/coluna/migalhas-notariais-e-registrais/466580/oficina-notarial-e-registral-a-designacao-cadastral-como-elemento",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Pesquisa Nacional de Bens passa a consultar registros de imóveis em todo o país",
+      "descricao": "A Pesquisa Nacional de Bens do RI Digital passou a permitir consultas por CPF ou CNPJ nos registros de imóveis dos 26 estados e do Distrito Federal, ampliando a cobertura anterior, segundo a ANOREG-RS. A primeira resposta pode sair em menos de um minuto, mas a entidade ressalta que um resultado positivo deve ser confirmado por certidão ou pesquisa qualificada.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://anoregrs.org.br/2026/10/16/cartorios-lancam-ferramenta-que-permite-pesquisar-imoveis-no-rio-grande-do-sul/",
+      "fonte": "ANOREG-RS"
+    },
+    {
+      "titulo": "Secovi-SP registra 10.813 vendas de imóveis residenciais novos em agosto",
+      "descricao": "A pesquisa mensal do Secovi-SP apontou a comercialização de 10.813 unidades residenciais novas na cidade de São Paulo em agosto de 2026. No período de setembro de 2025 a agosto de 2026, foram vendidas 121,1 mil unidades, segundo dados coletados junto a incorporadoras associadas.",
+      "data_publicacao": "2026-10-15T00:00:00-03:00",
+      "url": "https://secovi.com.br/pesquisa-mensal-do-mercado-imobiliario-agosto-2026/",
+      "fonte": "Secovi-SP"
+    },
+    {
+      "titulo": "Lei estabelece prazo prescricional para sanções disciplinares a notários e registradores",
+      "descricao": "A Lei 15.509/2026 acrescentou à Lei dos Cartórios prazo de cinco anos para a aplicação de sanções disciplinares, contado da ocorrência do fato ou, em infrações permanentes, do fim da permanência. Em análise, a coluna de Migalhas observa que a nova lei não detalha causas de suspensão, interrupção ou prescrição intercorrente.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/coluna/migalhas-notariais-e-registrais/466357/prescricao-disciplinar-no-extrajudicial-a-consolidacao-de-um-regime",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Rio Grande do Sul exige documento municipal para registro de incorporações imobiliárias",
+      "descricao": "O Provimento 51/2026-CGJ acrescentou às regras registrais gaúchas a exigência de alvará, licença ou documento municipal equivalente que aprove o projeto e autorize a obra para o registro de incorporações imobiliárias. A norma admite documento eletrônico verificável e prevê entrada em vigor 12 meses após sua publicação.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://anoregrs.org.br/2026/10/09/provimento-no-51-2026-cgj-altera-cnnr-para-tratar-da-exigencia-de-alvara-de-construcao-para-o-registro-de-incorporacoes-imobiliarias/",
+      "fonte": "ANOREG-RS"
+    },
+    {
+      "titulo": "STJ mantém anulação de procurações e partilha fundada em renúncia à herança",
+      "descricao": "A Terceira Turma do STJ manteve a anulação de procurações usadas para que irmãos renunciassem à herança em favor de um deles, após o reconhecimento de vício na manifestação de vontade. A invalidação alcançou a escritura pública de inventário e partilha baseada nesses documentos, e os herdeiros deverão fazer novo inventário.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://anoregrs.org.br/2026/10/09/stj-invalida-procuracoes-que-fizeram-irmaos-renunciar-a-heranca/",
+      "fonte": "ANOREG-RS"
+    },
+    {
+      "titulo": "Financiamento imobiliário pelo SBPE cresce em agosto, enquanto crédito livre recua",
+      "descricao": "Os financiamentos imobiliários com recursos do SBPE somaram R$ 16,97 bilhões em agosto, alta anual de 46,6%, segundo dados da Abecip divulgados pelo SindusCon-SP. No mesmo mês, o crédito imobiliário com recursos livres caiu 63,3% em relação a agosto de 2025, para R$ 1,31 bilhão.",
+      "data_publicacao": "2026-10-06T16:37:39-03:00",
+      "url": "https://sindusconsp.com.br/financiamentos-imobiliarios-crescem-em-agosto/",
+      "fonte": "SindusCon-SP"
+    }
+  ]
+}
