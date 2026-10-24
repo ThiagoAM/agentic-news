@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-23T10:01:44-03:00",
+  "noticias": [
+    {
+      "titulo": "Operação travada no cartório: a suscitação de dúvida na revisão de exigências registrais",
+      "descricao": "Artigo publicado no Migalhas explica como a dúvida registral permite submeter ao juízo competente uma exigência feita após a qualificação de um título. O texto delimita o procedimento administrativo e aponta que controvérsias que dependem de prova ampla ou definição de domínio exigem a via judicial contenciosa.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/467046/operacao-travada-no-cartorio-a-suscitacao-de-duvida-na-revisao",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "STJ mantém registro de imóvel em disputa ligada à criação do Tocantins",
+      "descricao": "A Terceira Turma manteve decisão do TJTO sobre matrículas de terrenos em Palmas, após disputa envolvendo a cadeia dominial de um loteamento. A relatora destacou que registros imobiliários têm presunção relativa de veracidade, afastável por prova robusta de irregularidade.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/stj-mantem-registro-de-imovel-em-disputa-ligada-a-criacao-do-tocantins/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "Projeto propõe incluir caução locatícia entre os direitos reais mediante registro",
+      "descricao": "O Projeto de Lei 3.367/2024 propõe acrescentar ao Código Civil a caução locatícia registrada na matrícula do imóvel como direito real. A proposta aguarda designação de relator na Comissão de Constituição, Justiça e Cidadania do Senado e ainda não está em vigor.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/pl-altera-o-codigo-civil-para-incluir-a-caucao-locaticia-como-direito-real-desde-que-registrada-no-registro-de-imoveis/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "TJPR mantém indisponibilidades judiciais em nova matrícula aberta por usucapião",
+      "descricao": "Informativo do Registro de Imóveis do Brasil – Seção Paraná relata decisão do TJPR segundo a qual o reconhecimento da usucapião não autoriza o cancelamento, pelo registrador, de ordens judiciais ainda válidas. As restrições devem permanecer na matrícula até que os juízos responsáveis determinem sua baixa.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://ribpr.org.br/noticias/view/informativo-de-jurisprudencia-de-agosto-destaca-decisao-sobre-usucapiao-e-indisponibilidade",
+      "fonte": "RIB-PR"
+    },
+    {
+      "titulo": "Filho e noivado não bastam para comprovar união estável após a morte, decide STJ",
+      "descricao": "A Terceira Turma rejeitou pedido de reconhecimento de união estável pós-morte porque, nas circunstâncias analisadas, filho em comum e noivado não demonstraram intenção atual de constituir família nem publicidade da relação como conjugal. O colegiado manteve a decisão do TJSP com base nas provas do caso.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/filho-e-noivado-nao-bastam-para-comprovar-uniao-estavel-pos-morte-decide-terceira-turma/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "TJSP considera fundamentada impugnação da União e encerra usucapião extrajudicial",
+      "descricao": "O Tribunal manteve a interrupção de um procedimento extrajudicial após a União apontar que parte do imóvel estaria em área de terreno de marinha e apresentar documentação sobre seu interesse. A controvérsia foi remetida às vias ordinárias por exigir apuração incompatível com o procedimento administrativo.",
+      "data_publicacao": "2026-10-21T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/jurisprudencia-tjsp-impugnacao-fundamentada-da-uniao-sobre-terreno-de-marinha-impede-usucapiao-extrajudicial/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "TJMG mantém recusa de escritura lavrada após a morte do outorgante",
+      "descricao": "Em procedimento de dúvida registral, o TJMG manteve a recusa de registro de escritura de compra e venda assinada por procurador após a morte do proprietário. O tribunal considerou extinto o mandato e observou que a herança se transmite aos herdeiros com a abertura da sucessão.",
+      "data_publicacao": "2026-10-21T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/jurisprudencia-tjmg-morte-do-outorgante-extingue-mandato-e-impede-registro-de-escritura-lavrada-posteriormente-por-procurador/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "TJSC admite complementar perícia para viabilizar registro de área desapropriada",
+      "descricao": "O TJSC autorizou a complementação de perícia após o trânsito em julgado para individualizar registralmente área objeto de desapropriação indireta. A medida pode incluir memorial descritivo, representação georreferenciada e ART, desde que preserve o conteúdo da decisão definitiva.",
+      "data_publicacao": "2026-10-21T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/jurisprudencia-tjsc-complementacao-de-pericia-apos-o-transito-em-julgado-permite-regularizar-o-registro-de-area-desapropriada-sem-violar-a-coisa-julgada/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "STJ fixa o registro como marco para prescrição de ação contra doação inoficiosa",
+      "descricao": "A jurisprudência do STJ considera o registro do ato imobiliário o marco inicial da prescrição para questionar doação inoficiosa, por tornar a transmissão oponível a terceiros. Para reduzir disposições testamentárias, o tribunal considera que a pretensão só pode surgir após a abertura da sucessão.",
+      "data_publicacao": "2026-10-21T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/jurisprudencia-stj-prescricao-de-acao-contra-doacao-inoficiosa-comeca-com-o-registro-do-ato-enquanto-a-reducao-de-testamento-pressupoe-a-abertura-da-sucessao/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "TJDFT exige registro do título antes de averbar penhora de direitos aquisitivos",
+      "descricao": "O TJDFT manteve a recusa de averbação de penhora sobre direitos aquisitivos quando a escritura de compra e venda ainda não constava da matrícula em nome do executado. Embora a penhora desses direitos seja admitida no processo, o tribunal apontou que a prática registral depende da continuidade da cadeia dominial.",
+      "data_publicacao": "2026-10-21T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/jurisprudencia-tjdft-averbacao-de-penhora-de-direitos-aquisitivos-exige-previo-registro-do-titulo-para-respeitar-a-continuidade-registral/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "Empréstimo com garantia de imóvel cresce 30,9% no primeiro semestre",
+      "descricao": "O home equity movimentou R$ 6,67 bilhões entre janeiro e junho de 2026, alta de 30,9% ante o mesmo período do ano anterior, segundo dados da Abecip citados pelo InfoMoney. Especialistas ouvidos pela reportagem ressaltam que o imóvel pode ser executado em caso de inadimplência e que custo total, prazo e capacidade de pagamento precisam ser avaliados.",
+      "data_publicacao": "2026-10-22T06:00:00-03:00",
+      "url": "https://www.infomoney.com.br/minhas-financas/emprestimo-com-garantia-de-imovel-cresce-31-quando-vale-a-pena-contratar/",
+      "fonte": "InfoMoney"
+    }
+  ]
+}

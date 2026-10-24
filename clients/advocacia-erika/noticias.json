@@ -1,82 +1,89 @@
 {
-  "data-busca": "2026-10-23T10:01:44-03:00",
+  "data-busca": "2026-10-24T18:38:52-03:00",
   "noticias": [
     {
-      "titulo": "Operação travada no cartório: a suscitação de dúvida na revisão de exigências registrais",
-      "descricao": "Artigo publicado no Migalhas explica como a dúvida registral permite submeter ao juízo competente uma exigência feita após a qualificação de um título. O texto delimita o procedimento administrativo e aponta que controvérsias que dependem de prova ampla ou definição de domínio exigem a via judicial contenciosa.",
+      "titulo": "Projeto de Cachoeira do Sul já titulou 1.058 lotes em ação de regularização fundiária",
+      "descricao": "A iniciativa integrada do Registro de Imóveis e do poder público começou com diagnóstico territorial e capacitação para enfrentar o passivo fundiário do município. No primeiro semestre de 2026, o projeto havia titulado 1.058 lotes, aberto 567 matrículas e regularizado 151 imóveis, 76 deles em nome de mulheres.",
+      "data_publicacao": "2026-10-24T08:15:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/registro-que-transforma-exemplo-em-regularizacao-no-rs",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "STJ suspende processos sobre locação por curta temporada em condomínios",
+      "descricao": "A Segunda Seção afetou os recursos especiais 2.272.537 e 2.272.536 ao Tema 1.443 e determinou a suspensão nacional dos processos sobre a matéria. O tribunal vai decidir se a destinação residencial prevista na convenção basta para impedir locações por plataformas como Airbnb sem proibição expressa, questão que já teve entendimento anterior no STJ.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://abadi.com.br/airbnb-afetacao-de-repetitivo-sobre-locacao-de-curta-temporada-em-condominios-suspende-processos-em-todo-o-pais/",
+      "fonte": "ABADI"
+    },
+    {
+      "titulo": "TJMS reconhece nulidade de venda de imóveis feita com procurações falsas",
+      "descricao": "Em ação anulatória envolvendo imóveis antes declarados de utilidade pública, o Tribunal de Justiça de Mato Grosso do Sul tratou como absolutamente nula a venda realizada com procurações falsas. A apelação foi provida após o colegiado afastar a extinção do processo e aplicar a teoria da causa madura, sem reconhecer prejuízo pela falta de oitiva prévia das partes.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://www.irib.org.br/compra-e-venda-escritura-publica-procuracao-falsa-venda-a-non-domino-nulidade-absoluta/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "TJPR adota sistema integrado de gestão de cartórios desenvolvido pelo TJTO",
+      "descricao": "Uma parceria entre os tribunais do Paraná e do Tocantins levou o Sistema de Gestão Integrada das Serventias Extrajudiciais aos cartórios paranaenses. A ferramenta reúne dados das serventias e de seus profissionais em ambiente digital para apoiar uma fiscalização mais ágil e preventiva.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://www.irib.org.br/parceria-entre-tjpr-e-tjto-permite-implantacao-do-gise-no-estado-do-parana/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "CJF confirma criação de fórum para prevenção e resolução de conflitos fundiários",
+      "descricao": "O Colegiado do Conselho da Justiça Federal referendou os Provimentos CG/CJF 6/2026 e 12/2026, que instituem o Fórum Fundiário da Justiça Federal. O órgão permanente terá caráter consultivo e de articulação entre instituições que atuam em conflitos ligados, entre outros temas, à moradia, ao desenvolvimento urbano e rural e à regularização de terras.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://www.irib.org.br/criacao-do-forum-fundiario-da-justica-federal-e-referendado-por-colegiado-do-cjf/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Artigo discute liquidez na execução de garantias imobiliárias ligadas a limites de crédito",
+      "descricao": "Artigo de Lívia Márcia Borges e Eduardo Assis Alves, repercutido pelo IRIB, sustenta que a excussão de alienação fiduciária imobiliária vinculada a limite de crédito exige liquidez da obrigação. Os autores comparam os regimes legais aplicáveis às garantias de operações empresariais, comerciais e rurais.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://www.irib.org.br/alienacao-fiduciaria-e-limite-de-credito-a-excussao-exige-liquidez/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Migalhas explica uso da suscitação de dúvida para contestar exigência registral",
+      "descricao": "Artigo publicado no Migalhas descreve a dúvida registral como via administrativa para submeter ao Judiciário uma exigência de qualificação do Registro de Imóveis. O texto delimita seu uso para controvérsias jurídicas e formais sobre o título e distingue situações que dependem de prova ampla ou definição de domínio, reservadas à via contenciosa.",
       "data_publicacao": "2026-10-22T00:00:00-03:00",
       "url": "https://www.migalhas.com.br/depeso/467046/operacao-travada-no-cartorio-a-suscitacao-de-duvida-na-revisao",
       "fonte": "Migalhas"
     },
     {
-      "titulo": "STJ mantém registro de imóvel em disputa ligada à criação do Tocantins",
-      "descricao": "A Terceira Turma manteve decisão do TJTO sobre matrículas de terrenos em Palmas, após disputa envolvendo a cadeia dominial de um loteamento. A relatora destacou que registros imobiliários têm presunção relativa de veracidade, afastável por prova robusta de irregularidade.",
+      "titulo": "STJ fixa marcos temporais para avaliar imóveis em desapropriações",
+      "descricao": "No Tema 1.432, a Primeira Seção do STJ definiu referências diferentes para a avaliação de terrenos conforme o tipo de expropriação. O prazo é de até 90 dias nas desapropriações para reforma agrária e de até um ano em casos de utilidade pública ou interesse social; na desapropriação indireta, considera-se a data do apossamento.",
       "data_publicacao": "2026-10-22T00:00:00-03:00",
-      "url": "https://www.anoreg.org.br/site/stj-mantem-registro-de-imovel-em-disputa-ligada-a-criacao-do-tocantins/",
-      "fonte": "ANOREG/BR"
+      "url": "https://www.registrodeimoveis.org.br/stj-define-prazos-para-precificacao-em-caso-de-expropriacao?fe=2",
+      "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "Projeto propõe incluir caução locatícia entre os direitos reais mediante registro",
-      "descricao": "O Projeto de Lei 3.367/2024 propõe acrescentar ao Código Civil a caução locatícia registrada na matrícula do imóvel como direito real. A proposta aguarda designação de relator na Comissão de Constituição, Justiça e Cidadania do Senado e ainda não está em vigor.",
+      "titulo": "TRF4 afasta usucapião de imóvel situado em parque nacional",
+      "descricao": "O Tribunal Regional Federal da 4ª Região manteve a improcedência de pedido de usucapião de área rural inserida no Parque Nacional da Serra Geral. A prova técnica apontou sobreposição integral ao parque federal, e o colegiado considerou que o imóvel é bem público insuscetível de aquisição por usucapião.",
       "data_publicacao": "2026-10-22T00:00:00-03:00",
-      "url": "https://www.anoreg.org.br/site/pl-altera-o-codigo-civil-para-incluir-a-caucao-locaticia-como-direito-real-desde-que-registrada-no-registro-de-imoveis/",
-      "fonte": "ANOREG/BR"
+      "url": "https://www.irib.org.br/usucapiao-imovel-situado-em-unidade-de-conservacao-federal-natureza-de-bem-publico-imprescritibilidade/",
+      "fonte": "IRIB"
     },
     {
-      "titulo": "TJPR mantém indisponibilidades judiciais em nova matrícula aberta por usucapião",
-      "descricao": "Informativo do Registro de Imóveis do Brasil – Seção Paraná relata decisão do TJPR segundo a qual o reconhecimento da usucapião não autoriza o cancelamento, pelo registrador, de ordens judiciais ainda válidas. As restrições devem permanecer na matrícula até que os juízos responsáveis determinem sua baixa.",
+      "titulo": "Inadimplência do pró-soluto preocupa incorporadoras do Minha Casa, Minha Vida",
+      "descricao": "Incorporadoras do programa têm parcelado diretamente a parte do preço não coberta pelo crédito bancário, assumindo risco maior de atraso e inadimplência. O Registro de Imóveis do Brasil informa que estimativas de mercado situam a carteira ativa do pró-soluto em até R$ 25 bilhões e apontam inadimplência de cinco a dez vezes a do crédito tradicional quando a chave já foi entregue.",
       "data_publicacao": "2026-10-22T00:00:00-03:00",
-      "url": "https://ribpr.org.br/noticias/view/informativo-de-jurisprudencia-de-agosto-destaca-decisao-sobre-usucapiao-e-indisponibilidade",
-      "fonte": "RIB-PR"
+      "url": "https://www.registrodeimoveis.org.br/inadimplencia-preocupa-incorporadoras-do-mcmv",
+      "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "Filho e noivado não bastam para comprovar união estável após a morte, decide STJ",
-      "descricao": "A Terceira Turma rejeitou pedido de reconhecimento de união estável pós-morte porque, nas circunstâncias analisadas, filho em comum e noivado não demonstraram intenção atual de constituir família nem publicidade da relação como conjugal. O colegiado manteve a decisão do TJSP com base nas provas do caso.",
-      "data_publicacao": "2026-10-22T00:00:00-03:00",
-      "url": "https://www.anoreg.org.br/site/filho-e-noivado-nao-bastam-para-comprovar-uniao-estavel-pos-morte-decide-terceira-turma/",
-      "fonte": "ANOREG/BR"
-    },
-    {
-      "titulo": "TJSP considera fundamentada impugnação da União e encerra usucapião extrajudicial",
-      "descricao": "O Tribunal manteve a interrupção de um procedimento extrajudicial após a União apontar que parte do imóvel estaria em área de terreno de marinha e apresentar documentação sobre seu interesse. A controvérsia foi remetida às vias ordinárias por exigir apuração incompatível com o procedimento administrativo.",
+      "titulo": "STF reconhece imunidade de ITBI para empresas imobiliárias na integralização de capital",
+      "descricao": "Ao julgar o Tema 1.348, o Plenário do Supremo Tribunal Federal entendeu que a imunidade de ITBI na transferência de imóveis para integralização de capital social também alcança empresas com atividade predominantemente imobiliária. O entendimento ressalva casos de fraude ou simulação.",
       "data_publicacao": "2026-10-21T00:00:00-03:00",
-      "url": "https://www.anoreg.org.br/site/jurisprudencia-tjsp-impugnacao-fundamentada-da-uniao-sobre-terreno-de-marinha-impede-usucapiao-extrajudicial/",
-      "fonte": "ANOREG/BR"
+      "url": "https://www.irib.org.br/para-stf-empresas-imobiliarias-tem-imunidade-de-itbi-ao-integralizar-capital/",
+      "fonte": "IRIB"
     },
     {
-      "titulo": "TJMG mantém recusa de escritura lavrada após a morte do outorgante",
-      "descricao": "Em procedimento de dúvida registral, o TJMG manteve a recusa de registro de escritura de compra e venda assinada por procurador após a morte do proprietário. O tribunal considerou extinto o mandato e observou que a herança se transmite aos herdeiros com a abertura da sucessão.",
-      "data_publicacao": "2026-10-21T00:00:00-03:00",
-      "url": "https://www.anoreg.org.br/site/jurisprudencia-tjmg-morte-do-outorgante-extingue-mandato-e-impede-registro-de-escritura-lavrada-posteriormente-por-procurador/",
-      "fonte": "ANOREG/BR"
-    },
-    {
-      "titulo": "TJSC admite complementar perícia para viabilizar registro de área desapropriada",
-      "descricao": "O TJSC autorizou a complementação de perícia após o trânsito em julgado para individualizar registralmente área objeto de desapropriação indireta. A medida pode incluir memorial descritivo, representação georreferenciada e ART, desde que preserve o conteúdo da decisão definitiva.",
-      "data_publicacao": "2026-10-21T00:00:00-03:00",
-      "url": "https://www.anoreg.org.br/site/jurisprudencia-tjsc-complementacao-de-pericia-apos-o-transito-em-julgado-permite-regularizar-o-registro-de-area-desapropriada-sem-violar-a-coisa-julgada/",
-      "fonte": "ANOREG/BR"
-    },
-    {
-      "titulo": "STJ fixa o registro como marco para prescrição de ação contra doação inoficiosa",
-      "descricao": "A jurisprudência do STJ considera o registro do ato imobiliário o marco inicial da prescrição para questionar doação inoficiosa, por tornar a transmissão oponível a terceiros. Para reduzir disposições testamentárias, o tribunal considera que a pretensão só pode surgir após a abertura da sucessão.",
-      "data_publicacao": "2026-10-21T00:00:00-03:00",
-      "url": "https://www.anoreg.org.br/site/jurisprudencia-stj-prescricao-de-acao-contra-doacao-inoficiosa-comeca-com-o-registro-do-ato-enquanto-a-reducao-de-testamento-pressupoe-a-abertura-da-sucessao/",
-      "fonte": "ANOREG/BR"
-    },
-    {
-      "titulo": "TJDFT exige registro do título antes de averbar penhora de direitos aquisitivos",
-      "descricao": "O TJDFT manteve a recusa de averbação de penhora sobre direitos aquisitivos quando a escritura de compra e venda ainda não constava da matrícula em nome do executado. Embora a penhora desses direitos seja admitida no processo, o tribunal apontou que a prática registral depende da continuidade da cadeia dominial.",
-      "data_publicacao": "2026-10-21T00:00:00-03:00",
-      "url": "https://www.anoreg.org.br/site/jurisprudencia-tjdft-averbacao-de-penhora-de-direitos-aquisitivos-exige-previo-registro-do-titulo-para-respeitar-a-continuidade-registral/",
-      "fonte": "ANOREG/BR"
-    },
-    {
-      "titulo": "Empréstimo com garantia de imóvel cresce 30,9% no primeiro semestre",
-      "descricao": "O home equity movimentou R$ 6,67 bilhões entre janeiro e junho de 2026, alta de 30,9% ante o mesmo período do ano anterior, segundo dados da Abecip citados pelo InfoMoney. Especialistas ouvidos pela reportagem ressaltam que o imóvel pode ser executado em caso de inadimplência e que custo total, prazo e capacidade de pagamento precisam ser avaliados.",
-      "data_publicacao": "2026-10-22T06:00:00-03:00",
-      "url": "https://www.infomoney.com.br/minhas-financas/emprestimo-com-garantia-de-imovel-cresce-31-quando-vale-a-pena-contratar/",
-      "fonte": "InfoMoney"
+      "titulo": "CNB/CF apresenta uso de inteligência artificial no e-Notariado em debate internacional",
+      "descricao": "Em encontro da União Internacional do Notariado na Albânia, o CNB/CF apresentou ferramentas de inteligência artificial integradas ao e-Notariado e discutiu seu uso com representantes de 93 países. Entre as aplicações descritas estão a estruturação de dados de escrituras para encaminhamento ao registro imobiliário e a auditoria de atos, com decisão final mantida pelo notário.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil"
     }
   ]
 }
