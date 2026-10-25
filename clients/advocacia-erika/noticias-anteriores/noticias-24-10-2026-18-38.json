@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-10-24T18:38:52-03:00",
+  "noticias": [
+    {
+      "titulo": "Projeto de Cachoeira do Sul já titulou 1.058 lotes em ação de regularização fundiária",
+      "descricao": "A iniciativa integrada do Registro de Imóveis e do poder público começou com diagnóstico territorial e capacitação para enfrentar o passivo fundiário do município. No primeiro semestre de 2026, o projeto havia titulado 1.058 lotes, aberto 567 matrículas e regularizado 151 imóveis, 76 deles em nome de mulheres.",
+      "data_publicacao": "2026-10-24T08:15:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/registro-que-transforma-exemplo-em-regularizacao-no-rs",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "STJ suspende processos sobre locação por curta temporada em condomínios",
+      "descricao": "A Segunda Seção afetou os recursos especiais 2.272.537 e 2.272.536 ao Tema 1.443 e determinou a suspensão nacional dos processos sobre a matéria. O tribunal vai decidir se a destinação residencial prevista na convenção basta para impedir locações por plataformas como Airbnb sem proibição expressa, questão que já teve entendimento anterior no STJ.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://abadi.com.br/airbnb-afetacao-de-repetitivo-sobre-locacao-de-curta-temporada-em-condominios-suspende-processos-em-todo-o-pais/",
+      "fonte": "ABADI"
+    },
+    {
+      "titulo": "TJMS reconhece nulidade de venda de imóveis feita com procurações falsas",
+      "descricao": "Em ação anulatória envolvendo imóveis antes declarados de utilidade pública, o Tribunal de Justiça de Mato Grosso do Sul tratou como absolutamente nula a venda realizada com procurações falsas. A apelação foi provida após o colegiado afastar a extinção do processo e aplicar a teoria da causa madura, sem reconhecer prejuízo pela falta de oitiva prévia das partes.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://www.irib.org.br/compra-e-venda-escritura-publica-procuracao-falsa-venda-a-non-domino-nulidade-absoluta/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "TJPR adota sistema integrado de gestão de cartórios desenvolvido pelo TJTO",
+      "descricao": "Uma parceria entre os tribunais do Paraná e do Tocantins levou o Sistema de Gestão Integrada das Serventias Extrajudiciais aos cartórios paranaenses. A ferramenta reúne dados das serventias e de seus profissionais em ambiente digital para apoiar uma fiscalização mais ágil e preventiva.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://www.irib.org.br/parceria-entre-tjpr-e-tjto-permite-implantacao-do-gise-no-estado-do-parana/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "CJF confirma criação de fórum para prevenção e resolução de conflitos fundiários",
+      "descricao": "O Colegiado do Conselho da Justiça Federal referendou os Provimentos CG/CJF 6/2026 e 12/2026, que instituem o Fórum Fundiário da Justiça Federal. O órgão permanente terá caráter consultivo e de articulação entre instituições que atuam em conflitos ligados, entre outros temas, à moradia, ao desenvolvimento urbano e rural e à regularização de terras.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://www.irib.org.br/criacao-do-forum-fundiario-da-justica-federal-e-referendado-por-colegiado-do-cjf/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Artigo discute liquidez na execução de garantias imobiliárias ligadas a limites de crédito",
+      "descricao": "Artigo de Lívia Márcia Borges e Eduardo Assis Alves, repercutido pelo IRIB, sustenta que a excussão de alienação fiduciária imobiliária vinculada a limite de crédito exige liquidez da obrigação. Os autores comparam os regimes legais aplicáveis às garantias de operações empresariais, comerciais e rurais.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://www.irib.org.br/alienacao-fiduciaria-e-limite-de-credito-a-excussao-exige-liquidez/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Migalhas explica uso da suscitação de dúvida para contestar exigência registral",
+      "descricao": "Artigo publicado no Migalhas descreve a dúvida registral como via administrativa para submeter ao Judiciário uma exigência de qualificação do Registro de Imóveis. O texto delimita seu uso para controvérsias jurídicas e formais sobre o título e distingue situações que dependem de prova ampla ou definição de domínio, reservadas à via contenciosa.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/467046/operacao-travada-no-cartorio-a-suscitacao-de-duvida-na-revisao",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "STJ fixa marcos temporais para avaliar imóveis em desapropriações",
+      "descricao": "No Tema 1.432, a Primeira Seção do STJ definiu referências diferentes para a avaliação de terrenos conforme o tipo de expropriação. O prazo é de até 90 dias nas desapropriações para reforma agrária e de até um ano em casos de utilidade pública ou interesse social; na desapropriação indireta, considera-se a data do apossamento.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/stj-define-prazos-para-precificacao-em-caso-de-expropriacao?fe=2",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "TRF4 afasta usucapião de imóvel situado em parque nacional",
+      "descricao": "O Tribunal Regional Federal da 4ª Região manteve a improcedência de pedido de usucapião de área rural inserida no Parque Nacional da Serra Geral. A prova técnica apontou sobreposição integral ao parque federal, e o colegiado considerou que o imóvel é bem público insuscetível de aquisição por usucapião.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.irib.org.br/usucapiao-imovel-situado-em-unidade-de-conservacao-federal-natureza-de-bem-publico-imprescritibilidade/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Inadimplência do pró-soluto preocupa incorporadoras do Minha Casa, Minha Vida",
+      "descricao": "Incorporadoras do programa têm parcelado diretamente a parte do preço não coberta pelo crédito bancário, assumindo risco maior de atraso e inadimplência. O Registro de Imóveis do Brasil informa que estimativas de mercado situam a carteira ativa do pró-soluto em até R$ 25 bilhões e apontam inadimplência de cinco a dez vezes a do crédito tradicional quando a chave já foi entregue.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/inadimplencia-preocupa-incorporadoras-do-mcmv",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "STF reconhece imunidade de ITBI para empresas imobiliárias na integralização de capital",
+      "descricao": "Ao julgar o Tema 1.348, o Plenário do Supremo Tribunal Federal entendeu que a imunidade de ITBI na transferência de imóveis para integralização de capital social também alcança empresas com atividade predominantemente imobiliária. O entendimento ressalva casos de fraude ou simulação.",
+      "data_publicacao": "2026-10-21T00:00:00-03:00",
+      "url": "https://www.irib.org.br/para-stf-empresas-imobiliarias-tem-imunidade-de-itbi-ao-integralizar-capital/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "CNB/CF apresenta uso de inteligência artificial no e-Notariado em debate internacional",
+      "descricao": "Em encontro da União Internacional do Notariado na Albânia, o CNB/CF apresentou ferramentas de inteligência artificial integradas ao e-Notariado e discutiu seu uso com representantes de 93 países. Entre as aplicações descritas estão a estruturação de dados de escrituras para encaminhamento ao registro imobiliário e a auditoria de atos, com decisão final mantida pelo notário.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}
