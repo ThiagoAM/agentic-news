@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-25T09:57:54-03:00",
+  "noticias": [
+    {
+      "titulo": "Projeto Reurb Moc e Região regularizou mais de 7,5 mil unidades em Minas Gerais",
+      "descricao": "O programa do 2º Registro de Imóveis de Montes Claros, ampliado para Mirabela e Patis, foi selecionado como finalista do Prêmio Registro que Transforma. Até o início de outubro de 2026, contabilizava 7.556 unidades regularizadas, 1.945 títulos registrados e mais de 13 mil pessoas beneficiadas.",
+      "data_publicacao": "2026-10-24T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/registro-que-transforma-reurb-moc-e-regiao",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Pesquisa Nacional de Bens amplia consulta de vínculos com imóveis para todo o país",
+      "descricao": "A Pesquisa Nacional de Bens passou a localizar registros relacionados a CPFs e CNPJs em mais de 3,6 mil cartórios de Registro de Imóveis, por meio do RI Digital. Um resultado positivo não confirma, por si só, a propriedade atual; certidão digital ou Pesquisa Qualificada permitem identificar o vínculo.",
+      "data_publicacao": "2026-10-24T15:50:00-03:00",
+      "url": "https://www.infomoney.com.br/minhas-financas/cartorios-lancam-ferramenta-que-permite-pesquisar-imoveis-no-pais/",
+      "fonte": "InfoMoney"
+    },
+    {
+      "titulo": "STJ suspende processos sobre locação de curta temporada em condomínios",
+      "descricao": "A Segunda Seção do STJ determinou a suspensão nacional dos processos que discutem locações de curta temporada em unidades de condomínios residenciais. O Tema 1.443 examinará se a convenção residencial basta para impedir a locação por plataformas digitais ou se é necessária uma proibição expressa.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://abadi.com.br/airbnb-afetacao-de-repetitivo-sobre-locacao-de-curta-temporada-em-condominios-suspende-processos-em-todo-o-pais/",
+      "fonte": "ABADI"
+    },
+    {
+      "titulo": "TJMS declara nula venda de imóveis realizada com procurações falsas",
+      "descricao": "O Tribunal de Justiça de Mato Grosso do Sul reconheceu a nulidade absoluta da venda feita sem manifestação de vontade dos proprietários, mediante procurações falsas. Ao julgar a apelação, o colegiado também aplicou a teoria da causa madura e afastou a alegação de nulidade processual sem demonstração de prejuízo.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://www.irib.org.br/compra-e-venda-escritura-publica-procuracao-falsa-venda-a-non-domino-nulidade-absoluta/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "TJPR implanta sistema integrado de gestão dos cartórios extrajudiciais",
+      "descricao": "Uma parceria entre os tribunais do Paraná e do Tocantins levou o Sistema de Gestão Integrada das Serventias Extrajudiciais aos cartórios paranaenses. A ferramenta reúne dados das serventias e de seus profissionais em ambiente digital para apoiar a gestão e a fiscalização preventiva.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://www.irib.org.br/parceria-entre-tjpr-e-tjto-permite-implantacao-do-gise-no-estado-do-parana/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "CJF confirma criação de fórum para prevenção e resolução de conflitos fundiários",
+      "descricao": "O colegiado do Conselho da Justiça Federal referendou os Provimentos CG/CJF 6/2026 e 12/2026, que instituem o Fórum Fundiário da Justiça Federal. O órgão permanente terá função consultiva e de articulação entre instituições que atuam na prevenção e na resolução de conflitos fundiários.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://www.irib.org.br/criacao-do-forum-fundiario-da-justica-federal-e-referendado-por-colegiado-do-cjf/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "STJ fixa marcos temporais para avaliar imóveis em desapropriações",
+      "descricao": "No Tema 1.432, a Primeira Seção do STJ definiu prazos diferentes para a avaliação de terrenos conforme a modalidade de desapropriação. O prazo é de até 90 dias nas desapropriações para reforma agrária e de até um ano nas hipóteses de utilidade pública ou interesse social; na desapropriação indireta, considera-se a data do apossamento.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/stj-define-prazos-para-precificacao-em-caso-de-expropriacao?fe=2",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "TRF4 afasta usucapião de imóvel localizado em parque nacional",
+      "descricao": "O Tribunal Regional Federal da 4ª Região manteve a rejeição do pedido de usucapião de imóvel rural inserido no Parque Nacional da Serra Geral. O colegiado considerou que se trata de bem público, insuscetível de aquisição por usucapião.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.irib.org.br/usucapiao-imovel-situado-em-unidade-de-conservacao-federal-natureza-de-bem-publico-imprescritibilidade/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Financiamento pró-soluto aumenta exposição a inadimplência no Minha Casa, Minha Vida",
+      "descricao": "Incorporadoras do programa têm parcelado diretamente a parte do preço que não é coberta pelo financiamento bancário, assumindo maior exposição a atrasos e inadimplência. Estimativas de mercado citadas pelo Registro de Imóveis do Brasil situam a carteira ativa desse modelo em até R$ 25 bilhões.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/inadimplencia-preocupa-incorporadoras-do-mcmv",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "STF reconhece imunidade de ITBI para empresas imobiliárias na integralização de capital",
+      "descricao": "Ao julgar o Tema 1.348, o Plenário do Supremo Tribunal Federal entendeu que a imunidade de ITBI na transferência de imóveis para integralização de capital social também alcança empresas com atividade predominantemente imobiliária. O entendimento ressalva casos de fraude ou simulação.",
+      "data_publicacao": "2026-10-21T00:00:00-03:00",
+      "url": "https://www.irib.org.br/para-stf-empresas-imobiliarias-tem-imunidade-de-itbi-ao-integralizar-capital/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "CNB/CF apresenta uso de inteligência artificial no e-Notariado em encontro internacional",
+      "descricao": "Em encontro da União Internacional do Notariado na Albânia, o CNB/CF apresentou ferramentas de inteligência artificial integradas ao e-Notariado, entre elas a leitura e estruturação de dados de escrituras e a auditoria de atos. A entidade ressaltou que a tecnologia apoia o trabalho notarial, mantendo a conferência e a decisão final a cargo do notário.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}
