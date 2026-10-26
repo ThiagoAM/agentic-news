@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-25T10:04:06-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras retoma conferência cadastral para regularização fundiária no Âncora",
+      "descricao": "Entre 21 e 24 de outubro, equipes do ITERJ e da Secretaria Municipal de Urbanismo fizeram nova etapa de conferência cadastral no Âncora para avançar na emissão de títulos de propriedade. A ação revisou dados de moradores em quadras entre a Rodovia Amaral Peixoto e a Rua das Camélias.",
+      "data_publicacao": "2026-10-22T11:49:00-03:00",
+      "url": "https://odia.ig.com.br/rio-das-ostras/2026/10/7314872-rio-das-ostras-faz-nova-busca-por-moradores-no-ancora.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Fundação de Cultura de Rio das Ostras lança três novos editais",
+      "descricao": "A Fundação Rio das Ostras de Cultura publicou editais para o Auto de Natal 2026, uma oficina de grafite e novos alunos do Centro de Formação Artística. As inscrições estão previstas para começar em 3 e 11 de novembro, conforme cada seleção.",
+      "data_publicacao": "2026-10-22T14:34:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/fundacao-rio-das-ostras-de-cultura-lanca-novos-editais/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras amplia ações de patrolamento e apoio à drenagem",
+      "descricao": "A Prefeitura intensificou trabalhos de patrolamento e apoio à drenagem em Cantagalo, Colinas, Cidade Beira-Mar, Âncora e Terra Firme para melhorar as condições de circulação e o escoamento das águas. As ações também incluem um trecho da Rodovia Amaral Peixoto na região de Mar do Norte.",
+      "data_publicacao": "2026-10-23T13:43:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-intensifica-acoes-de-patrolamento-e-apoio-a-drenagem/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Detran-RJ vai isentar multas por atraso na transferência de veículos",
+      "descricao": "O Detran-RJ informou que não aplicará multas a proprietários que ultrapassaram o prazo de 30 dias para transferir veículos por causa da paralisação dos servidores. A medida abrange quem já tinha agendamento e quem não conseguiu marcar o serviço durante o período.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://www.detran.rj.gov.br/noticias/detran-rj-vai-isentar-multas-por-atraso-na-transferencia-de-veiculos.html",
+      "fonte": "Detran-RJ"
+    },
+    {
+      "titulo": "Projeto no Rio prevê requalificação de praça e novos espaços culturais na Pequena África",
+      "descricao": "O BNDES e a Prefeitura do Rio anunciaram novas etapas do Distrito Cultural Pequena África, com investimento inicial estimado em R$ 23 milhões. A primeira intervenção será na Praça dos Estivadores; a biblioteca, o conservatório e o espaço de capacitação e comércio previstos ainda dependem da captação dos recursos necessários.",
+      "data_publicacao": "2026-10-21T14:52:00-03:00",
+      "url": "https://odia.ig.com.br/rio-de-janeiro/2026/10/7314612-pequena-africa-tera-praca-revitalizada-e-novos-espacos-culturais-no-rio.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "ConJur discute contraditório antes de nova penhora sugerida por núcleo patrimonial do CNJ",
+      "descricao": "Artigo analisa os limites do Provimento 255 da Corregedoria Nacional e sustenta que núcleos de pesquisa patrimonial não afastam o contraditório exigido pelo STJ. Em execução já garantida, o autor defende avaliação do bem e oportunidade para manifestação do executado antes de nova penhora, ressalvadas as medidas sobre ativos financeiros.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/o-provimento-255-da-corregedoria-do-cnj-e-a-jurisprudencia-do-stj-os-rumos-dos-processos-de-execucao-no-brasil/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ConJur analisa limites para cancelar alienação fiduciária após quitação à incorporadora",
+      "descricao": "Artigo discute decisão da Quarta Turma do STJ que afastou a aplicação automática da Súmula 308 à alienação fiduciária e sustenta que pagar o preço à incorporadora não garante, por si só, o cancelamento do gravame. O texto recomenda que contratos definam critérios para liberar cada unidade e prazos para a anuência do credor.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/alienacao-fiduciaria-e-sumula-308-do-stj-a-restricao-jurisprudencial-em-debate/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ define marcos para avaliar imóveis em desapropriações",
+      "descricao": "No Tema 1.432, o STJ estabeleceu referências temporais distintas para o cálculo do valor de imóveis desapropriados: até 90 dias para reforma agrária e até um ano em casos de utilidade pública ou interesse social. Na desapropriação indireta, a perícia deve reconstruir o valor de mercado na data em que o Estado tomou a posse.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-19/stj-estabelece-travas-para-avaliar-preco-atual-em-expropriacoes-de-terrenos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB/CF apresenta uso de inteligência artificial no e-Notariado em debate internacional",
+      "descricao": "O Colégio Notarial do Brasil apresentou ferramentas de inteligência artificial integradas ao e-Notariado em encontro da União Internacional do Notariado na Albânia. Entre as aplicações citadas estão a estruturação de dados de escrituras para encaminhamento ao registro de imóveis e a auditoria de atos, com a decisão final mantida pelo notário.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "CNB/CF"
+    },
+    {
+      "titulo": "Artigo do CNB/SP aborda governança familiar após a sucessão do fundador",
+      "descricao": "O texto examina como a extinção do usufruto pode transferir o poder de voto e a gestão de empresas familiares aos herdeiros, criando impasses se os instrumentos societários não preveem regras de decisão. O autor discute o papel de acordos de sócios, protocolos familiares e conselhos, dentro dos limites do direito sucessório brasileiro.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/23/artigo-heranca-e-poder-como-organizar-o-controle-entre-os-herdeiros-apos-a-sucessao-por-rafael-albuquerque/",
+      "fonte": "CNB/SP"
+    },
+    {
+      "titulo": "CNB/SP repercute entendimento do STJ sobre prescrição de doação inoficiosa e testamento",
+      "descricao": "O resumo publicado pelo CNB/SP aponta que o STJ considera o registro do título imobiliário o marco inicial para a prescrição de pedido de invalidação ou redução de doação inoficiosa. Para questionar a redução de disposições testamentárias, o prazo só pode começar após a morte, quando o testamento passa a produzir efeitos.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/22/anoreg-br-jurisprudencia-stj-prescricao-de-acao-contra-doacao-inoficiosa-comeca-com-o-registro-do-ato-enquanto-a-reducao-de-testamento-pressupoe-a-abertura-da-sucessao/",
+      "fonte": "CNB/SP"
+    }
+  ]
+}
