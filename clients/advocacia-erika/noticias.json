@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-10-26T10:10:34-03:00",
+  "data-busca": "2026-10-27T10:04:38-03:00",
   "noticias": [
     {
-      "titulo": "STJ mantém impenhorável imóvel doado em fraude à execução quando segue como moradia familiar",
-      "descricao": "A Corte Especial do STJ manteve a impenhorabilidade de imóvel transferido no curso de execução que continuou servindo de moradia à família. No EREsp 1.668.243, o colegiado considerou que a ineficácia da alienação, por si só, não altera a destinação residencial do bem.",
-      "data_publicacao": "2026-10-23T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-23/fraude-a-execucao-nao-afasta-impenhorabilidade-se-imovel-segue-de-familia/",
-      "fonte": "ConJur"
+      "titulo": "Primeira Seção fixa critérios para valor de indenização em desapropriações",
+      "descricao": "A Primeira Seção do STJ definiu parâmetros para escolher a data de referência do valor de indenização em desapropriações, com limites diferentes conforme a modalidade. O colegiado também previu ajustes quando a demora da perícia for atribuível ao poder público e modulou os efeitos do precedente.",
+      "data_publicacao": "2026-10-26T00:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26102026-Primeira-Secao-fixa-criterios-para-valor-de-indenizacao-em-desapropriacoes--colegiado-modula-efeitos.aspx",
+      "fonte": "STJ"
     },
     {
-      "titulo": "STJ barra efeito retroativo de separação total definida em escritura de união estável",
-      "descricao": "A 3ª Turma entendeu que escritura posterior não pode aplicar separação total aos bens adquiridos antes quando a mudança restringe direitos patrimoniais de um dos companheiros. A relatora afirmou que a alteração do regime produz efeitos para o futuro, salvo retroatividade que amplie garantias sem prejudicar terceiros.",
-      "data_publicacao": "2026-10-20T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/466894/stj-barra-retroatividade-de-separacao-de-bens-em-uniao-estavel",
+      "titulo": "Justiça afasta IR sobre valorização de bens transmitidos por herança",
+      "descricao": "A 13ª Vara Federal de Porto Alegre concedeu segurança a um espólio e seus sucessores para afastar o IR sobre a diferença entre o valor histórico e o valor de mercado de bens transmitidos em herança. A sentença considerou que a transmissão não gera acréscimo patrimonial para o espólio e apontou que a valorização já integrou a base do ITCMD no caso analisado.",
+      "data_publicacao": "2026-10-26T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/467268/justica-afasta-ir-sobre-valorizacao-de-bens-transmitidos-por-heranca",
       "fonte": "Migalhas"
     },
     {
-      "titulo": "STJ afasta reconhecimento de união estável pós-morte baseado apenas em filho e noivado",
-      "descricao": "A Terceira Turma manteve a classificação de namoro qualificado porque as provas não demonstraram intenção atual e publicidade de constituição familiar. O colegiado ressaltou que coabitação e colaboração patrimonial não são requisitos isolados, mas as circunstâncias daquele caso não sustentaram o reconhecimento post mortem.",
-      "data_publicacao": "2026-10-21T00:00:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21102026-Filho-e-noivado-nao-bastam-para-comprovar-uniao-estavel-pos-morte--decide-Terceira-Turma.aspx",
-      "fonte": "Superior Tribunal de Justiça"
+      "titulo": "Busca de imóveis por CPF e CNPJ chega a todo o Brasil",
+      "descricao": "A Pesquisa Nacional de Bens do RI Digital passou a cobrir os cartórios de registro de imóveis dos 26 estados e do Distrito Federal, conectando buscas a mais de 3,6 mil unidades. Um resultado positivo indica vínculo atual ou passado com uma matrícula e não comprova, por si só, a propriedade atual.",
+      "data_publicacao": "2026-10-26T00:00:00-03:00",
+      "url": "https://paraibabusiness.com.br/busca-de-imoveis-por-cpf-e-cnpj-chega-a-todo-o-brasil/",
+      "fonte": "Paraíba Business"
     },
     {
-      "titulo": "STJ exige prova robusta para anular registro imobiliário em disputa de matrículas",
-      "descricao": "A 3ª Turma manteve decisão do TJ/TO que reconheceu como anterior um título aquisitivo em disputa de sobreposição de matrículas em Palmas. O colegiado afirmou que o registro tem presunção relativa de veracidade e sua invalidação exige prova robusta, pois pode atingir toda a cadeia dominial.",
-      "data_publicacao": "2026-10-20T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/466890",
-      "fonte": "Migalhas"
-    },
-    {
-      "titulo": "Nu-proprietário pode pedir despejo se o usufrutuário anuiu à locação",
-      "descricao": "O STJ reconheceu legitimidade para ação de despejo por falta de pagamento ao nu-proprietário que celebrou a locação com anuência expressa do usufrutuário. A decisão considerou incompatível com a boa-fé objetiva o locatário alegar ilegitimidade de quem constou do contrato.",
-      "data_publicacao": "2026-10-21T00:00:00-03:00",
-      "url": "https://www.anoreg.org.br/site/jurisprudencia-stj-nu-proprietario-pode-ajuizar-acao-de-despejo-quando-a-locacao-conta-com-anuencia-do-usufrutuario/",
-      "fonte": "ANOREG/BR"
-    },
-    {
-      "titulo": "Venda de imóvel dos pais ao filho depende de autorização judicial quando há irmão menor",
-      "descricao": "Em Santa Catarina, a Vara da Família supriu judicialmente o consentimento de filho menor para a venda de imóvel ao irmão maior, condicionada ao valor mínimo da avaliação judicial. A decisão exige alvará após o trânsito em julgado e prestação de contas do preço efetivamente praticado.",
-      "data_publicacao": "2026-10-23T00:00:00-03:00",
-      "url": "https://jurinews.com.br/destaques-ultimas/venda-de-casa-entre-pai-e-filho-depende-de-autorizacao-judicial-e-aceite-de-irmao-menor",
-      "fonte": "JuriNews"
-    },
-    {
-      "titulo": "Doações de imóveis avançam com mudanças previstas no ITCMD",
-      "descricao": "Dados do Colégio Notarial do Brasil citados na reportagem indicam ao menos 185 mil escrituras de doação de imóveis no país em 2025, alta de 6,5% sobre 2024; em São Paulo, foram 83.136. A progressividade do ITCMD e a mudança da base de cálculo de participações societárias levaram famílias a reavaliar o momento e a estrutura das transferências patrimoniais.",
-      "data_publicacao": "2026-10-22T00:00:00-03:00",
-      "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/heranca-blindada-como-familias-de-alta-renda-protegem-o-patrimonio-ao-antecipar-a-sucessao/",
-      "fonte": "Estadão"
-    },
-    {
-      "titulo": "Distratos de imóveis de médio e alto padrão atingem maior patamar desde 2020",
-      "descricao": "Levantamento da Abrainc aponta que distratos corresponderam a 21% das vendas brutas desses segmentos no primeiro semestre de 2026, a maior proporção desde 2020. A reportagem relaciona o cenário a juros, crédito imobiliário e endividamento e informa taxa de 10,5% no segmento econômico nos seis meses considerados.",
-      "data_publicacao": "2026-10-20T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/distratos-imobiliarios-alcancam-maior-patamar-desde-2020",
+      "titulo": "Novas regras estimulam tomada de crédito imobiliário",
+      "descricao": "Levantamento DataZAP com 673 entrevistados aponta que as novas regras de crédito imobiliário aumentaram a intenção de financiamento para 60% dos participantes, enquanto 34% disseram não ter mudado sua intenção. A mudança no direcionamento dos recursos da poupança para o crédito habitacional deve entrar em vigor integralmente em janeiro de 2027.",
+      "data_publicacao": "2026-10-26T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/novas-regras-estimulam-tomada-de-credito-imobiliario",
       "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "Penhora de imóvel alienado fiduciariamente deve atingir direitos aquisitivos do devedor",
-      "descricao": "A 15ª Câmara Cível do TJRS limitou a constrição aos direitos aquisitivos do fiduciante, pois o domínio pleno pertence ao credor fiduciário. Também determinou que o credor seja oficiado para apurar o saldo e as parcelas amortizadas antes de atos expropriatórios.",
+      "titulo": "STF reconhece imunidade de ITBI para empresas do setor imobiliário",
+      "descricao": "No Tema 1.348, o STF decidiu que a imunidade do ITBI na integralização de imóveis ao capital social também alcança empresas de atividade imobiliária. A tese, aplicável a casos semelhantes, limita a imunidade ao capital efetivamente integralizado e ressalva situações de fraude ou simulação.",
       "data_publicacao": "2026-10-21T00:00:00-03:00",
-      "url": "https://www.irib.org.br/penhora-imovel-gravado-com-alienacao-fiduciaria-devedor-fiduciante-direitos-aquisitivos-constricao-publicidade-registral/",
-      "fonte": "IRIB"
+      "url": "https://noticias.stf.jus.br/postsnoticias/imunidade-de-itbi-na-integralizacao-de-capital-vale-tambem-para-empresas-do-setor-imobiliario-decide-stf/",
+      "fonte": "STF"
     },
     {
-      "titulo": "Penhor rural em CPR tem eficácia contra terceiros com registro no Livro 3",
-      "descricao": "A 4ª Turma do STJ entendeu que o registro da Cédula de Produto Rural no Livro 3 produz eficácia contra terceiros e preferência ao credor, sem averbação na matrícula do imóvel onde está a safra. O acórdão distinguiu o penhor rural, que recai sobre bens móveis, das garantias imobiliárias como a hipoteca.",
-      "data_publicacao": "2026-10-19T00:00:00-03:00",
-      "url": "https://www.irib.org.br/cedula-de-produto-rural-penhor-rural-registro-em-livro-auxiliar-eficacia-erga-omnes-matricula-averbacao-desnecessidade/",
-      "fonte": "IRIB"
+      "titulo": "STF veda leilão de imóvel rural familiar ofertado em garantia",
+      "descricao": "O ministro André Mendonça, do STF, invalidou a autorização para leiloar uma pequena propriedade rural familiar oferecida em alienação fiduciária. A decisão considerou que a proteção constitucional da pequena propriedade trabalhada pela família não é afastada pela oferta do imóvel como garantia.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/stf-veda-leilao-de-imovel-rural-familiar-ofertado-em-garantia?fe=2",
+      "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "CSM/SP diferencia preço de cessão hereditária e monte partível em escritura de inventário",
-      "descricao": "O Conselho Superior da Magistratura de São Paulo manteve a recusa de registro de escritura com divergências entre acervo, quinhões, preço da cessão onerosa e frações ideais. O colegiado observou que o preço pode divergir do valor do quinhão, mas não pode ser incorporado ao monte partível de modo contraditório.",
-      "data_publicacao": "2026-10-19T00:00:00-03:00",
-      "url": "https://www.26notas.com.br/blog/?p=21247",
-      "fonte": "26º Notas/SP"
+      "titulo": "Incorporadora é condenada a ressarcir compradora de lote",
+      "descricao": "A 1ª Vara Cível de Senador Canedo (GO) determinou que uma incorporadora restitua de uma só vez valores pagos por uma compradora de lote, após anular cláusulas de capitalização mensal de juros e de cobrança de tributos antes da posse. A sentença considerou, no contrato analisado, que a empresa não integrava o Sistema Financeiro Nacional e não podia aplicar capitalização mensal.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/incorporadora-e-condenada-a-ressarcir-compradora-de-lote",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Projeto propõe registrar caução locatícia como direito real",
+      "descricao": "O Projeto de Lei 3.367/2024 propõe incluir a caução locatícia registrada na matrícula entre os direitos reais previstos no Código Civil. A proposta aguarda designação de relator na Comissão de Constituição e Justiça do Senado e continua em tramitação.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://anoregrs.org.br/2026/10/22/pl-altera-o-codigo-civil-para-incluir-a-caucao-locaticia-como-direito-real-desde-que-registrada-no-registro-de-imoveis/",
+      "fonte": "ANOREG/RS"
+    },
+    {
+      "titulo": "Jornada de regularização lança guia sobre matrícula imobiliária",
+      "descricao": "A 1ª Jornada de Regularização de Imóveis em Minas Gerais começou com o lançamento de um guia prático sobre leitura e interpretação da matrícula imobiliária. O material descreve as funções de advogados, tabeliães e registradores e reúne orientações para identificar pendências documentais e registrais.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://cnbmg.org.br/1a-jornada-de-regularizacao-de-imoveis-e-aberta-com-lancamento-de-colecao-sobre-seguranca-juridica-imobiliaria/",
+      "fonte": "CNB/MG"
+    },
+    {
+      "titulo": "STJ afasta IPTU sobre mais de mil lotes em área de preservação",
+      "descricao": "A Segunda Turma do STJ manteve o afastamento do IPTU sobre 1.161 lotes no Parque Estadual de Itaberaba, em Guarulhos, diante de restrições que impedem construção, ocupação e exploração econômica. O colegiado negou provimento ao recurso do município e preservou a decisão do TJSP no caso concreto.",
+      "data_publicacao": "2026-10-06T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/amp/quentes/465995/stj-afasta-iptu-sobre-mais-de-mil-lotes-em-area-de-preservacao",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Imóveis comerciais movimentam R$ 12,2 bilhões no terceiro trimestre",
+      "descricao": "Operações de compra e venda de imóveis comerciais totalizaram R$ 12,2 bilhões no Brasil no terceiro trimestre de 2026, em 41 transações, segundo dados da Cushman & Wakefield citados pelo Estadão. Galpões logísticos responderam por 45% do volume, enquanto varejo e escritórios somaram 32% e 23%, respectivamente.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://portas.com.br/noticias/imoveis-comerciais-movimentam-r-122-bilhoes-no-terceiro-trimestre/",
+      "fonte": "Portas"
     }
   ]
 }

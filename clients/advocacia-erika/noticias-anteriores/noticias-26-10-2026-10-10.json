@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-26T10:10:34-03:00",
+  "noticias": [
+    {
+      "titulo": "STJ mantém impenhorável imóvel doado em fraude à execução quando segue como moradia familiar",
+      "descricao": "A Corte Especial do STJ manteve a impenhorabilidade de imóvel transferido no curso de execução que continuou servindo de moradia à família. No EREsp 1.668.243, o colegiado considerou que a ineficácia da alienação, por si só, não altera a destinação residencial do bem.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/fraude-a-execucao-nao-afasta-impenhorabilidade-se-imovel-segue-de-familia/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ barra efeito retroativo de separação total definida em escritura de união estável",
+      "descricao": "A 3ª Turma entendeu que escritura posterior não pode aplicar separação total aos bens adquiridos antes quando a mudança restringe direitos patrimoniais de um dos companheiros. A relatora afirmou que a alteração do regime produz efeitos para o futuro, salvo retroatividade que amplie garantias sem prejudicar terceiros.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466894/stj-barra-retroatividade-de-separacao-de-bens-em-uniao-estavel",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "STJ afasta reconhecimento de união estável pós-morte baseado apenas em filho e noivado",
+      "descricao": "A Terceira Turma manteve a classificação de namoro qualificado porque as provas não demonstraram intenção atual e publicidade de constituição familiar. O colegiado ressaltou que coabitação e colaboração patrimonial não são requisitos isolados, mas as circunstâncias daquele caso não sustentaram o reconhecimento post mortem.",
+      "data_publicacao": "2026-10-21T00:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21102026-Filho-e-noivado-nao-bastam-para-comprovar-uniao-estavel-pos-morte--decide-Terceira-Turma.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ exige prova robusta para anular registro imobiliário em disputa de matrículas",
+      "descricao": "A 3ª Turma manteve decisão do TJ/TO que reconheceu como anterior um título aquisitivo em disputa de sobreposição de matrículas em Palmas. O colegiado afirmou que o registro tem presunção relativa de veracidade e sua invalidação exige prova robusta, pois pode atingir toda a cadeia dominial.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466890",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Nu-proprietário pode pedir despejo se o usufrutuário anuiu à locação",
+      "descricao": "O STJ reconheceu legitimidade para ação de despejo por falta de pagamento ao nu-proprietário que celebrou a locação com anuência expressa do usufrutuário. A decisão considerou incompatível com a boa-fé objetiva o locatário alegar ilegitimidade de quem constou do contrato.",
+      "data_publicacao": "2026-10-21T00:00:00-03:00",
+      "url": "https://www.anoreg.org.br/site/jurisprudencia-stj-nu-proprietario-pode-ajuizar-acao-de-despejo-quando-a-locacao-conta-com-anuencia-do-usufrutuario/",
+      "fonte": "ANOREG/BR"
+    },
+    {
+      "titulo": "Venda de imóvel dos pais ao filho depende de autorização judicial quando há irmão menor",
+      "descricao": "Em Santa Catarina, a Vara da Família supriu judicialmente o consentimento de filho menor para a venda de imóvel ao irmão maior, condicionada ao valor mínimo da avaliação judicial. A decisão exige alvará após o trânsito em julgado e prestação de contas do preço efetivamente praticado.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://jurinews.com.br/destaques-ultimas/venda-de-casa-entre-pai-e-filho-depende-de-autorizacao-judicial-e-aceite-de-irmao-menor",
+      "fonte": "JuriNews"
+    },
+    {
+      "titulo": "Doações de imóveis avançam com mudanças previstas no ITCMD",
+      "descricao": "Dados do Colégio Notarial do Brasil citados na reportagem indicam ao menos 185 mil escrituras de doação de imóveis no país em 2025, alta de 6,5% sobre 2024; em São Paulo, foram 83.136. A progressividade do ITCMD e a mudança da base de cálculo de participações societárias levaram famílias a reavaliar o momento e a estrutura das transferências patrimoniais.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/heranca-blindada-como-familias-de-alta-renda-protegem-o-patrimonio-ao-antecipar-a-sucessao/",
+      "fonte": "Estadão"
+    },
+    {
+      "titulo": "Distratos de imóveis de médio e alto padrão atingem maior patamar desde 2020",
+      "descricao": "Levantamento da Abrainc aponta que distratos corresponderam a 21% das vendas brutas desses segmentos no primeiro semestre de 2026, a maior proporção desde 2020. A reportagem relaciona o cenário a juros, crédito imobiliário e endividamento e informa taxa de 10,5% no segmento econômico nos seis meses considerados.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/distratos-imobiliarios-alcancam-maior-patamar-desde-2020",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Penhora de imóvel alienado fiduciariamente deve atingir direitos aquisitivos do devedor",
+      "descricao": "A 15ª Câmara Cível do TJRS limitou a constrição aos direitos aquisitivos do fiduciante, pois o domínio pleno pertence ao credor fiduciário. Também determinou que o credor seja oficiado para apurar o saldo e as parcelas amortizadas antes de atos expropriatórios.",
+      "data_publicacao": "2026-10-21T00:00:00-03:00",
+      "url": "https://www.irib.org.br/penhora-imovel-gravado-com-alienacao-fiduciaria-devedor-fiduciante-direitos-aquisitivos-constricao-publicidade-registral/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Penhor rural em CPR tem eficácia contra terceiros com registro no Livro 3",
+      "descricao": "A 4ª Turma do STJ entendeu que o registro da Cédula de Produto Rural no Livro 3 produz eficácia contra terceiros e preferência ao credor, sem averbação na matrícula do imóvel onde está a safra. O acórdão distinguiu o penhor rural, que recai sobre bens móveis, das garantias imobiliárias como a hipoteca.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://www.irib.org.br/cedula-de-produto-rural-penhor-rural-registro-em-livro-auxiliar-eficacia-erga-omnes-matricula-averbacao-desnecessidade/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "CSM/SP diferencia preço de cessão hereditária e monte partível em escritura de inventário",
+      "descricao": "O Conselho Superior da Magistratura de São Paulo manteve a recusa de registro de escritura com divergências entre acervo, quinhões, preço da cessão onerosa e frações ideais. O colegiado observou que o preço pode divergir do valor do quinhão, mas não pode ser incorporado ao monte partível de modo contraditório.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://www.26notas.com.br/blog/?p=21247",
+      "fonte": "26º Notas/SP"
+    }
+  ]
+}
