@@ -1,82 +1,89 @@
 {
-  "data-busca": "2026-10-26T10:17:01-03:00",
+  "data-busca": "2026-10-27T10:16:45-03:00",
   "noticias": [
     {
-      "titulo": "Rio das Ostras abre 20 vagas para formação em ROV",
-      "descricao": "Uma parceria do Município com a Seagems oferece 20 vagas no Programa Piloto de ROV Trainee, com 187 horas de formação teórica e prática. As inscrições são em 26 e 27 de outubro pelo aplicativo Colab; o edital na edição 2029 do Jornal Oficial contém os critérios do processo.",
-      "data_publicacao": "2026-10-25T10:28:00-03:00",
-      "url": "https://odia.ig.com.br/rio-das-ostras/2026/10/7315866-rio-das-ostras-abre-20-vagas-para-formacao-em-rov.html",
-      "fonte": "O Dia"
-    },
-    {
-      "titulo": "Rio das Ostras promove semana de práticas pedagógicas inclusivas",
-      "descricao": "A Secretaria Municipal de Educação realiza em 26 e 27 de outubro uma semana voltada a alunos da Educação Especial da rede municipal. A programação, organizada pela Coordenação de Educação Inclusiva, ocorre no Espaço da COEDI em dois turnos e propõe troca de experiências pedagógicas.",
-      "data_publicacao": "2026-10-23T00:00:00-03:00",
-      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14768",
+      "titulo": "4ª Mostra de Talentos das Pessoas Idosas será realizada nesta quinta",
+      "descricao": "A 4ª Mostra de Talentos das Pessoas Idosas de Rio das Ostras está marcada para 29 de outubro, às 14h, no Teatro Municipal Joel Barcellos. O evento é organizado pelo Conselho Municipal dos Direitos da Pessoa Idosa, com apoio da Secretaria Municipal de Desenvolvimento e Assistência Social.",
+      "data_publicacao": "2026-10-26T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/Noticias.php?noticia=14781",
       "fonte": "Portal Rio das Ostras"
     },
     {
-      "titulo": "Sala do Empreendedor de Rio das Ostras recebe reconhecimento do Sebrae/RJ",
-      "descricao": "A unidade municipal recebeu o Troféu Sala do Empreendedor Inspiração na categoria Município Destaque, durante encontro regional realizado em Cabo Frio. Também foram concedidos certificados pelo volume de inscrições de empreendedores em atividades e pela avaliação do atendimento.",
-      "data_publicacao": "2026-10-22T11:57:00-03:00",
-      "url": "https://odia.ig.com.br/rio-das-ostras/2026/10/7314875-qualidade-no-atendimento-garante-premio-a-sala-do-empreendedor.html",
-      "fonte": "O Dia"
+      "titulo": "CastraMóvel atenderá em Maria Turri e no Parque das Flores",
+      "descricao": "A unidade móvel de Saúde Animal de Rio das Ostras atenderá nos bairros Maria Turri e Parque das Flores nos dias 27 e 28 de outubro, a partir das 8h. A ação prevê castrações previamente agendadas e orientações veterinárias gratuitas, sujeitas à disponibilidade de vagas e aos critérios do serviço municipal.",
+      "data_publicacao": "2026-10-26T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/maria-turri-e-parque-das-flores-recebe-castramovel-nesta-semana/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Estado do Rio lança editais culturais de R$ 2,7 milhões para 77 propostas",
-      "descricao": "O pacote estadual Na Batida do RJ prevê R$ 2,725 milhões para apoiar 77 propostas de Funk e Hip Hop, entre oficinas, produções musicais, videoclipes e eventos. As inscrições ficam abertas até 9 de novembro pela plataforma Desenvolve Cultura.",
-      "data_publicacao": "2026-10-21T00:00:00-03:00",
-      "url": "https://cultura.rj.gov.br/estado-lanca-pacote-de-editais-de-r-27-milhoes-para-apoiar-culturas-populares-com-77-propostas-ligadas-ao-funk-e-ao-hip-hop/",
-      "fonte": "Secretaria de Estado de Cultura e Economia Criativa do RJ"
+      "titulo": "Banco de Empregos de Rio das Ostras anuncia 519 vagas",
+      "descricao": "O Banco de Empregos municipal informou que havia 519 oportunidades abertas em 26 de outubro, em áreas como atendimento, entregas, refrigeração, transporte, cozinha, comércio e serviços gerais. As inscrições eram gratuitas e presenciais no Centro de Cidadania, conforme os requisitos publicados pela Prefeitura.",
+      "data_publicacao": "2026-10-26T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-519-vagas-2/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "BNDES e Prefeitura do Rio avançam em projeto cultural para a Pequena África",
-      "descricao": "A primeira intervenção anunciada é a requalificação da Praça dos Estivadores, com R$ 2 milhões previstos pela Prefeitura. O plano mais amplo prevê parcerias para a Biblioteca Machado de Assis, o Conservatório da Música Preta Brasileira e a Fábrica, com investimentos ainda a captar.",
-      "data_publicacao": "2026-10-21T12:12:00-03:00",
-      "url": "https://agenciadenoticias.bndes.gov.br/noticia/BNDES-e-Prefeitura-do-RJ-avancam-na-consolidacao-do-Distrito-Cultural-Pequena-Africa",
-      "fonte": "Agência BNDES de Notícias"
+      "titulo": "Prefeitura estima mais 10 mil visitantes no feriadão em Rio das Ostras",
+      "descricao": "A Secretaria de Desenvolvimento Econômico e Turismo estima que o período de 30 de outubro a 2 de novembro leve cerca de 10 mil visitantes adicionais a Rio das Ostras. A projeção considera a transferência do ponto facultativo do Dia do Servidor e o movimento esperado em hospedagem, alimentação, comércio e outros serviços locais.",
+      "data_publicacao": "2026-10-26T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/feriados-do-servidor-e-finados-devem-atrair-10-mil-visitantes/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "ConJur: individualização da matrícula deve ser custeada pelo incorporador, sustenta artigo",
-      "descricao": "O artigo sustenta que a abertura da matrícula individualizada é custo do incorporador e que a cláusula de repasse ao comprador é nula. O texto ressalva que o acórdão da 3ª Turma do STJ não foi julgado como repetitivo e que há divergência no TJSP.",
+      "titulo": "Agendamento da CIN no Detran-RJ passa a exigir conta Gov.br",
+      "descricao": "Desde 26 de outubro, os agendamentos para emitir ou renovar a Carteira de Identidade Nacional no Rio de Janeiro exigem autenticação pela conta Gov.br no portal do Detran-RJ. A mudança busca vincular a vaga ao próprio cidadão e reduzir a intermediação irregular do serviço.",
       "data_publicacao": "2026-10-20T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-20/stj-fixa-que-taxa-de-individualizacao-de-matricula-e-onus-do-incorporador/",
-      "fonte": "ConJur"
+      "url": "https://ofluminense.com.br/agendamento-cin-gov-br-detran-rj/",
+      "fonte": "O Fluminense"
     },
     {
-      "titulo": "ConJur: artigo recomenda aguardar repetitivo do STJ sobre locação por temporada",
-      "descricao": "O artigo defende que síndicos e assembleias não proíbam a locação por temporada com base em precedente não vinculante enquanto o STJ julga a matéria em repetitivo. Segundo o autor, a suspensão de recursos especiais mantém aplicáveis as regras vigentes de cada condomínio até a fixação da tese.",
-      "data_publicacao": "2026-10-23T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-23/o-gato-de-schrodinger-e-a-locacao-por-temporada-no-stj-a-corte-suspende-a-proibicao-nao/",
-      "fonte": "ConJur"
+      "titulo": "Rio de Janeiro cria Programa CNH Social para pessoas de baixa renda",
+      "descricao": "Decreto estadual instituiu o Programa CNH Social, com gratuidade prevista para primeira habilitação, inclusão ou mudança de categoria e cursos especializados para inscritos no CadÚnico. O Detran-RJ ainda precisa regulamentar critérios e vagas, e prevê iniciar a iniciativa em 2027.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://www.detran.rj.gov.br/noticias/estado-do-rio-cria-programa-cnh-social-para-oferecer-habilitacao-gratuita-as-pessoas-de-baixa-renda.html",
+      "fonte": "Detran-RJ"
     },
     {
-      "titulo": "ConJur: artigo discute contraditório para penhoras sugeridas por núcleos patrimoniais do CNJ",
-      "descricao": "O autor sustenta que os Núcleos de Pesquisa Patrimonial do Provimento CNJ 255 não dispensam o contraditório quando uma execução já garantida recebe sugestão de nova penhora. Na interpretação apresentada, é necessário avaliar o bem constrito e ouvir o executado por três dias; a norma entra em vigor em fevereiro de 2027.",
-      "data_publicacao": "2026-10-23T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-23/o-provimento-255-da-corregedoria-do-cnj-e-a-jurisprudencia-do-stj-os-rumos-dos-processos-de-execucao-no-brasil/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Doações de imóveis avançam com mudanças previstas no ITCMD",
-      "descricao": "Reportagem reproduzida pelo CNB/SP informa que o Colégio Notarial do Brasil contabilizou ao menos 185 mil escrituras de doação de imóveis no País em 2025, alta de 6,5% sobre 2024. A progressividade nacional do ITCMD e a nova base de cálculo para participações societárias estão levando famílias a reavaliar o planejamento sucessório antes das regras entrarem em vigor.",
-      "data_publicacao": "2026-10-22T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/10/22/estadao-heranca-blindada-como-familias-de-alta-renda-protegem-o-patrimonio-ao-antecipar-a-sucessao/",
-      "fonte": "CNB/SP"
-    },
-    {
-      "titulo": "CNB/SP repercute decisão do STJ que impede regime de bens retroativo em união estável",
-      "descricao": "A 3ª Turma entendeu que escritura posterior não pode aplicar separação total aos bens adquiridos antes quando a mudança restringe direitos patrimoniais de um dos companheiros. A notícia do CNB/SP registra que a alteração do regime produz efeitos para o futuro, salvo retroatividade que amplie garantias sem prejudicar terceiros.",
+      "titulo": "STF reconhece imunidade de ITBI para imobiliárias na integralização de capital",
+      "descricao": "No Tema 1.348, o STF decidiu que a imunidade do ITBI na integralização de imóveis ao capital social não depende da atividade imobiliária predominante da empresa. A tese mantém o limite do valor efetivamente integralizado e ressalva situações de fraude ou simulação.",
       "data_publicacao": "2026-10-21T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/10/21/migalhas-stj-barra-retroatividade-de-separacao-de-bens-em-uniao-estavel/",
-      "fonte": "CNB/SP"
+      "url": "https://conjur.com.br/2026-out-21/stf-garante-imunidade-de-itbi-a-imobiliarias-na-integralizacao-de-capital/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "CNB/SP: bem do fiador pode ter proteção mesmo em locação comercial",
-      "descricao": "Artigo publicado pelo CNB/SP explica que a penhorabilidade do bem de família do fiador em locação comercial foi reconhecida pelo STF, mas aponta exceções relevantes. Entre elas, a fiança sem outorga conjugal pode ser ineficaz e o imóvel dado em caução não se equipara automaticamente à fiança.",
+      "titulo": "STJ decide que VGBL em acumulação não integra a partilha após a morte",
+      "descricao": "A Corte Especial do STJ concluiu, por maioria, que valores de VGBL na fase de acumulação, no caso analisado, não integram a partilha e devem ser destinados à beneficiária indicada no contrato. O julgamento do REsp 1.676.801 buscou uniformizar entendimentos divergentes sobre a natureza dos recursos.",
+      "data_publicacao": "2026-10-24T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-24/vgbl-em-acumulacao-nao-integra-partilha-aos-herdeiros-decide-stj/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ discute manutenção de fiança bancária após acordo da Oi com a Anatel",
+      "descricao": "A 1ª Turma do STJ começou a analisar se uma carta de fiança bancária permanece válida após acordo tributário entre a Oi e a Anatel, e suspendeu o julgamento para exame do mérito. A controvérsia envolve a manutenção da dívida e da garantia, além da aplicação das regras especiais para transações fiscais.",
       "data_publicacao": "2026-10-23T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/10/23/artigo-o-bem-de-familia-do-fiador-na-locacao-comercial-o-que-permanece-protegido-por-juliana-prado-galvao-machado/",
-      "fonte": "CNB/SP"
+      "url": "https://conjur.com.br/2026-out-23/stj-volta-a-julgar-se-transacao-fiscal-desobriga-banco-fiador-da-divida/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Jornada de Regularização lança guia sobre leitura da matrícula imobiliária",
+      "descricao": "A 1ª Jornada de Regularização de Imóveis em Minas Gerais lançou um guia prático sobre leitura e interpretação da matrícula imobiliária. A publicação reúne orientações sobre análise documental e sobre as atribuições de advogados, tabeliães e registradores na formalização de negócios imobiliários.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://cnbmg.org.br/1a-jornada-de-regularizacao-de-imoveis-e-aberta-com-lancamento-de-colecao-sobre-seguranca-juridica-imobiliaria/",
+      "fonte": "CNB/MG"
+    },
+    {
+      "titulo": "Painel da Jornada aborda regularização extrajudicial de imóveis rurais",
+      "descricao": "Especialistas da 1ª Jornada de Regularização de Imóveis discutiram diagnóstico de matrículas, retificação de registros, parcelamento do solo e alternativas extrajudiciais para propriedades rurais. O painel também apresentou documentos e verificações registrais relevantes para a formalização de negócios com imóveis rurais.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://cnbmg.org.br/painel-da-1a-jornada-de-regularizacao-de-imoveis-debate-estrategias-para-regularizar-propriedades-rurais/",
+      "fonte": "CNB/MG"
+    },
+    {
+      "titulo": "CNB/CF relata proposta de escritura pública para cessões de precatórios",
+      "descricao": "O CNJ e o Banco Central apresentaram proposta nacional que prevê escritura pública e registro eletrônico para dar rastreabilidade às cessões de precatórios perante os tribunais. O processo da nota técnica teve pedido de vista registrado pelo CNJ em 16 de outubro; não foi localizada decisão final ou norma em vigor na consulta realizada.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
+      "fonte": "CNB/CF"
     }
   ]
 }
