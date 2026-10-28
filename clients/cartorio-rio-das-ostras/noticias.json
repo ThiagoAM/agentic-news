@@ -1,89 +1,82 @@
 {
-  "data-busca": "2026-10-27T10:16:45-03:00",
+  "data-busca": "2026-10-28T10:04:39-03:00",
   "noticias": [
     {
-      "titulo": "4ª Mostra de Talentos das Pessoas Idosas será realizada nesta quinta",
-      "descricao": "A 4ª Mostra de Talentos das Pessoas Idosas de Rio das Ostras está marcada para 29 de outubro, às 14h, no Teatro Municipal Joel Barcellos. O evento é organizado pelo Conselho Municipal dos Direitos da Pessoa Idosa, com apoio da Secretaria Municipal de Desenvolvimento e Assistência Social.",
-      "data_publicacao": "2026-10-26T00:00:00-03:00",
-      "url": "https://www.riodasostras.com.br/noticias/Noticias.php?noticia=14781",
+      "titulo": "Fundação de Cultura promove conversa com artistas e moradores",
+      "descricao": "A presidente da Fundação Rio das Ostras de Cultura anunciou atendimento aberto a artistas, representantes do setor e moradores nesta quarta-feira, 28 de outubro. O encontro ocorrerá no prédio da Onda, no Centro, das 14h às 21h, para receber sugestões e demandas culturais.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/Noticias.php?noticia=14787",
       "fonte": "Portal Rio das Ostras"
     },
     {
-      "titulo": "CastraMóvel atenderá em Maria Turri e no Parque das Flores",
-      "descricao": "A unidade móvel de Saúde Animal de Rio das Ostras atenderá nos bairros Maria Turri e Parque das Flores nos dias 27 e 28 de outubro, a partir das 8h. A ação prevê castrações previamente agendadas e orientações veterinárias gratuitas, sujeitas à disponibilidade de vagas e aos critérios do serviço municipal.",
-      "data_publicacao": "2026-10-26T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/maria-turri-e-parque-das-flores-recebe-castramovel-nesta-semana/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Banco de Empregos de Rio das Ostras anuncia 519 vagas",
-      "descricao": "O Banco de Empregos municipal informou que havia 519 oportunidades abertas em 26 de outubro, em áreas como atendimento, entregas, refrigeração, transporte, cozinha, comércio e serviços gerais. As inscrições eram gratuitas e presenciais no Centro de Cidadania, conforme os requisitos publicados pela Prefeitura.",
-      "data_publicacao": "2026-10-26T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-519-vagas-2/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Prefeitura estima mais 10 mil visitantes no feriadão em Rio das Ostras",
-      "descricao": "A Secretaria de Desenvolvimento Econômico e Turismo estima que o período de 30 de outubro a 2 de novembro leve cerca de 10 mil visitantes adicionais a Rio das Ostras. A projeção considera a transferência do ponto facultativo do Dia do Servidor e o movimento esperado em hospedagem, alimentação, comércio e outros serviços locais.",
-      "data_publicacao": "2026-10-26T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/feriados-do-servidor-e-finados-devem-atrair-10-mil-visitantes/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Agendamento da CIN no Detran-RJ passa a exigir conta Gov.br",
-      "descricao": "Desde 26 de outubro, os agendamentos para emitir ou renovar a Carteira de Identidade Nacional no Rio de Janeiro exigem autenticação pela conta Gov.br no portal do Detran-RJ. A mudança busca vincular a vaga ao próprio cidadão e reduzir a intermediação irregular do serviço.",
-      "data_publicacao": "2026-10-20T00:00:00-03:00",
-      "url": "https://ofluminense.com.br/agendamento-cin-gov-br-detran-rj/",
-      "fonte": "O Fluminense"
-    },
-    {
-      "titulo": "Rio de Janeiro cria Programa CNH Social para pessoas de baixa renda",
-      "descricao": "Decreto estadual instituiu o Programa CNH Social, com gratuidade prevista para primeira habilitação, inclusão ou mudança de categoria e cursos especializados para inscritos no CadÚnico. O Detran-RJ ainda precisa regulamentar critérios e vagas, e prevê iniciar a iniciativa em 2027.",
-      "data_publicacao": "2026-10-16T00:00:00-03:00",
-      "url": "https://www.detran.rj.gov.br/noticias/estado-do-rio-cria-programa-cnh-social-para-oferecer-habilitacao-gratuita-as-pessoas-de-baixa-renda.html",
-      "fonte": "Detran-RJ"
-    },
-    {
-      "titulo": "STF reconhece imunidade de ITBI para imobiliárias na integralização de capital",
-      "descricao": "No Tema 1.348, o STF decidiu que a imunidade do ITBI na integralização de imóveis ao capital social não depende da atividade imobiliária predominante da empresa. A tese mantém o limite do valor efetivamente integralizado e ressalva situações de fraude ou simulação.",
-      "data_publicacao": "2026-10-21T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-21/stf-garante-imunidade-de-itbi-a-imobiliarias-na-integralizacao-de-capital/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "STJ decide que VGBL em acumulação não integra a partilha após a morte",
-      "descricao": "A Corte Especial do STJ concluiu, por maioria, que valores de VGBL na fase de acumulação, no caso analisado, não integram a partilha e devem ser destinados à beneficiária indicada no contrato. O julgamento do REsp 1.676.801 buscou uniformizar entendimentos divergentes sobre a natureza dos recursos.",
-      "data_publicacao": "2026-10-24T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-24/vgbl-em-acumulacao-nao-integra-partilha-aos-herdeiros-decide-stj/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "STJ discute manutenção de fiança bancária após acordo da Oi com a Anatel",
-      "descricao": "A 1ª Turma do STJ começou a analisar se uma carta de fiança bancária permanece válida após acordo tributário entre a Oi e a Anatel, e suspendeu o julgamento para exame do mérito. A controvérsia envolve a manutenção da dívida e da garantia, além da aplicação das regras especiais para transações fiscais.",
+      "titulo": "Rio das Ostras projeta obras de drenagem para Costazul",
+      "descricao": "A Secretaria Municipal de Obras concluiu o projeto de ampliação da drenagem pluvial em parte de Costazul, com previsão de 1,3 quilômetro de galerias e 24 novos poços de visita. A etapa seguinte será iniciar os trâmites de licitação; as intervenções ainda não começaram.",
       "data_publicacao": "2026-10-23T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-23/stj-volta-a-julgar-se-transacao-fiscal-desobriga-banco-fiador-da-divida/",
-      "fonte": "ConJur"
+      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14766",
+      "fonte": "Portal Rio das Ostras"
     },
     {
-      "titulo": "Jornada de Regularização lança guia sobre leitura da matrícula imobiliária",
-      "descricao": "A 1ª Jornada de Regularização de Imóveis em Minas Gerais lançou um guia prático sobre leitura e interpretação da matrícula imobiliária. A publicação reúne orientações sobre análise documental e sobre as atribuições de advogados, tabeliães e registradores na formalização de negócios imobiliários.",
+      "titulo": "Rio das Ostras divulga locais da vacinação antirrábica de novembro",
+      "descricao": "A campanha municipal de vacinação antirrábica para cães e gatos a partir de três meses ocorrerá nos sábados 7, 14, 21 e 28 de novembro, em diferentes bairros. O atendimento será gratuito, das 9h às 17h, nos pontos informados pela Vigilância em Saúde.",
       "data_publicacao": "2026-10-22T00:00:00-03:00",
-      "url": "https://cnbmg.org.br/1a-jornada-de-regularizacao-de-imoveis-e-aberta-com-lancamento-de-colecao-sobre-seguranca-juridica-imobiliaria/",
-      "fonte": "CNB/MG"
+      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14759",
+      "fonte": "Portal Rio das Ostras"
     },
     {
-      "titulo": "Painel da Jornada aborda regularização extrajudicial de imóveis rurais",
-      "descricao": "Especialistas da 1ª Jornada de Regularização de Imóveis discutiram diagnóstico de matrículas, retificação de registros, parcelamento do solo e alternativas extrajudiciais para propriedades rurais. O painel também apresentou documentos e verificações registrais relevantes para a formalização de negócios com imóveis rurais.",
+      "titulo": "Rio movimenta quase R$ 50 bilhões em imóveis de janeiro a agosto",
+      "descricao": "Levantamento baseado na arrecadação do ITBI estima que as transações imobiliárias na capital fluminense somaram quase R$ 50 bilhões nos oito primeiros meses de 2026, 12% acima do mesmo período de 2025. O estudo também aponta que o preço médio do metro quadrado subiu 8% acima da inflação nos 12 meses anteriores.",
+      "data_publicacao": "2026-10-06T00:00:00-03:00",
+      "url": "https://diariodorio.com/economia/mercado-imobiliario/2026/10/06/rio-movimenta-quase-rs-50-bilhoes-em-imoveis-nos-primeiros-oito-meses-de-2026.html",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Sobrados históricos da Rua da Carioca podem receber apartamentos compactos",
+      "descricao": "A reportagem informa que cerca de cinco imóveis centenários estão em negociação para projetos residenciais nos pavimentos superiores, incluindo unidades para locação de curta temporada. O conjunto arquitetônico da Rua da Carioca é protegido desde 1985, e os empreendimentos ainda dependem das negociações e dos requisitos aplicáveis.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://diariodorio.com/economia/mercado-imobiliario/2026/10/14/rua-da-carioca-pode-ganhar-apartamentos-de-short-stay-em-sobrados-centenarios.html",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "STJ mantém proteção de imóvel familiar que segue como moradia após doação",
+      "descricao": "A Corte Especial do STJ decidiu que a impenhorabilidade do bem de família pode ser mantida quando o imóvel doado permanece como residência do núcleo familiar, mesmo após o reconhecimento de fraude à execução. O resumo da decisão publicado pelo ConJur destaca que a destinação residencial do imóvel permaneceu inalterada.",
       "data_publicacao": "2026-10-23T00:00:00-03:00",
-      "url": "https://cnbmg.org.br/painel-da-1a-jornada-de-regularizacao-de-imoveis-debate-estrategias-para-regularizar-propriedades-rurais/",
-      "fonte": "CNB/MG"
+      "url": "https://conjur.com.br/2026-out-23/fraude-a-execucao-nao-afasta-impenhorabilidade-se-imovel-segue-de-familia/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "CNB/CF relata proposta de escritura pública para cessões de precatórios",
-      "descricao": "O CNJ e o Banco Central apresentaram proposta nacional que prevê escritura pública e registro eletrônico para dar rastreabilidade às cessões de precatórios perante os tribunais. O processo da nota técnica teve pedido de vista registrado pelo CNJ em 16 de outubro; não foi localizada decisão final ou norma em vigor na consulta realizada.",
-      "data_publicacao": "2026-10-07T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
-      "fonte": "CNB/CF"
+      "titulo": "ConJur analisa critério temporal para indenizações por desapropriação",
+      "descricao": "A Primeira Seção do STJ definiu marcos para avaliar imóveis desapropriados: até um ano após o ajuizamento em desapropriações por utilidade pública ou interesse social e até 90 dias nas destinadas à reforma agrária; na desapropriação indireta, vale a data do apossamento. As teses se aplicam às perícias determinadas a partir da publicação do acórdão.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-19/stj-estabelece-travas-para-avaliar-preco-atual-em-expropriacoes-de-terrenos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo no ConJur discute quem deve pagar a individualização de matrícula",
+      "descricao": "Análise publicada no ConJur examina decisão da Terceira Turma do STJ que atribuiu ao incorporador o custo de criação da matrícula individual da unidade. O autor sustenta que a cláusula que transfere essa taxa ao comprador pode ser nula e ressalta que a decisão citada não tem efeito vinculante.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-20/stj-fixa-que-taxa-de-individualizacao-de-matricula-e-onus-do-incorporador/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB/CF apresenta usos de inteligência artificial no e-Notariado",
+      "descricao": "Em painel internacional, o CNB/CF apresentou aplicações de inteligência artificial no e-Notariado para extrair dados de escrituras, apoiar buscas na central de testamentos e estruturar informações enviadas ao registro de imóveis. A entidade destacou que o notário verifica os dados e toma a decisão, com proteção de informações desde a concepção dos sistemas.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal"
+    },
+    {
+      "titulo": "CNB/SP recebe artigos sobre desafios da atividade notarial e registral",
+      "descricao": "O CNB/SP e a Revista de Direito Notarial abriram chamada para uma edição especial com textos sobre proteção do consumidor, atividade econômica e novas tecnologias. A submissão está aberta a profissionais do Direito até 30 de novembro, e os trabalhos passarão por avaliação editorial.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/20/cnb-sp-abre-chamada-de-artigos-para-edicao-especial-da-revista-de-direito-notarial-rdn/",
+      "fonte": "CNB/SP"
+    },
+    {
+      "titulo": "Jornada Notarial 2026 terá foco na segurança de transações imobiliárias",
+      "descricao": "A iniciativa nacional do CNB reunirá tabelionatos e seccionais em ações de orientação sobre compra, venda, doação e partilha de imóveis, com destaque para a Conta Notarial. A edição está prevista para 7 de novembro, e os cartórios participantes podem organizar atividades voltadas ao público.",
+      "data_publicacao": "2026-10-01T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/01/jornada-notarial-2026-seguranca-juridica-nas-transacoes-imobiliarias/",
+      "fonte": "CNB/SP"
     }
   ]
 }
