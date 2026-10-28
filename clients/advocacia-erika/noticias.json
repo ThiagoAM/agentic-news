@@ -1,82 +1,89 @@
 {
-  "data-busca": "2026-10-27T10:04:38-03:00",
+  "data-busca": "2026-10-28T10:04:39-03:00",
   "noticias": [
     {
-      "titulo": "Primeira Seção fixa critérios para valor de indenização em desapropriações",
-      "descricao": "A Primeira Seção do STJ definiu parâmetros para escolher a data de referência do valor de indenização em desapropriações, com limites diferentes conforme a modalidade. O colegiado também previu ajustes quando a demora da perícia for atribuível ao poder público e modulou os efeitos do precedente.",
-      "data_publicacao": "2026-10-26T00:00:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26102026-Primeira-Secao-fixa-criterios-para-valor-de-indenizacao-em-desapropriacoes--colegiado-modula-efeitos.aspx",
+      "titulo": "STJ: imóvel transferido a netos sem prova de pagamento deve ser levado à colação",
+      "descricao": "No Informativo 907, a Quarta Turma entendeu que a escritura de compra e venda sem prova do pagamento pode configurar doação indireta, sujeita à colação no inventário. A dispensa depende de declaração expressa de que a liberalidade saiu da parte disponível do patrimônio.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFINFJ?edicao=0907",
       "fonte": "STJ"
     },
     {
-      "titulo": "Justiça afasta IR sobre valorização de bens transmitidos por herança",
-      "descricao": "A 13ª Vara Federal de Porto Alegre concedeu segurança a um espólio e seus sucessores para afastar o IR sobre a diferença entre o valor histórico e o valor de mercado de bens transmitidos em herança. A sentença considerou que a transmissão não gera acréscimo patrimonial para o espólio e apontou que a valorização já integrou a base do ITCMD no caso analisado.",
+      "titulo": "Câmara analisa programa para simplificar regularização rural",
+      "descricao": "O PL 2.979/2026 propõe priorizar pequenos e médios produtores e usar dados geoespaciais e sistemas automatizados na análise do Cadastro Ambiental Rural. O texto ainda tramita na Câmara; seus prazos e mecanismos são previsões da proposta, não regras vigentes.",
       "data_publicacao": "2026-10-26T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/467268/justica-afasta-ir-sobre-valorizacao-de-bens-transmitidos-por-heranca",
-      "fonte": "Migalhas"
+      "url": "https://www.camara.leg.br/noticias/1310183-projeto-cria-programa-para-simplificar-regularizacao-ambiental-e-fundiaria-de-imoveis-rurais",
+      "fonte": "Agência Câmara"
     },
     {
-      "titulo": "Busca de imóveis por CPF e CNPJ chega a todo o Brasil",
-      "descricao": "A Pesquisa Nacional de Bens do RI Digital passou a cobrir os cartórios de registro de imóveis dos 26 estados e do Distrito Federal, conectando buscas a mais de 3,6 mil unidades. Um resultado positivo indica vínculo atual ou passado com uma matrícula e não comprova, por si só, a propriedade atual.",
-      "data_publicacao": "2026-10-26T00:00:00-03:00",
-      "url": "https://paraibabusiness.com.br/busca-de-imoveis-por-cpf-e-cnpj-chega-a-todo-o-brasil/",
-      "fonte": "Paraíba Business"
+      "titulo": "Projeto propõe registrar direitos digitais ligados a imóveis",
+      "descricao": "O PL 3.024/2026 propõe que a criação, transferência, alteração ou cancelamento de representações digitais de direitos imobiliários dependam de registro ou averbação na matrícula. A proposta, que também prevê um limite provisório para emolumentos, segue para análise das comissões da Câmara.",
+      "data_publicacao": "2026-10-06T00:00:00-03:00",
+      "url": "https://www.camara.leg.br/noticias/1309531-projeto-regulamenta-registro-digital-de-direitos-sobre-imoveis",
+      "fonte": "Agência Câmara"
     },
     {
-      "titulo": "Novas regras estimulam tomada de crédito imobiliário",
-      "descricao": "Levantamento DataZAP com 673 entrevistados aponta que as novas regras de crédito imobiliário aumentaram a intenção de financiamento para 60% dos participantes, enquanto 34% disseram não ter mudado sua intenção. A mudança no direcionamento dos recursos da poupança para o crédito habitacional deve entrar em vigor integralmente em janeiro de 2027.",
-      "data_publicacao": "2026-10-26T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/novas-regras-estimulam-tomada-de-credito-imobiliario",
-      "fonte": "Registro de Imóveis do Brasil"
+      "titulo": "STJ: ocupação familiar prolongada não basta para usucapião de imóvel herdado",
+      "descricao": "A Quarta Turma rejeitou o pedido de um casal que ocupava havia 29 anos um imóvel do acervo hereditário, pois a moradia no contexto familiar não demonstrou posse com intenção de dono. O tribunal ressalvou que a usucapião entre herdeiros é possível em situações excepcionais, quando todos os requisitos legais forem comprovados.",
+      "data_publicacao": "2026-09-30T00:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30092026-Ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao.aspx",
+      "fonte": "STJ"
     },
     {
-      "titulo": "STF reconhece imunidade de ITBI para empresas do setor imobiliário",
-      "descricao": "No Tema 1.348, o STF decidiu que a imunidade do ITBI na integralização de imóveis ao capital social também alcança empresas de atividade imobiliária. A tese, aplicável a casos semelhantes, limita a imunidade ao capital efetivamente integralizado e ressalva situações de fraude ou simulação.",
-      "data_publicacao": "2026-10-21T00:00:00-03:00",
-      "url": "https://noticias.stf.jus.br/postsnoticias/imunidade-de-itbi-na-integralizacao-de-capital-vale-tambem-para-empresas-do-setor-imobiliario-decide-stf/",
+      "titulo": "STJ vai uniformizar critérios de retenção em distratos imobiliários",
+      "descricao": "A Segunda Seção afetou temas repetitivos para definir percentuais e bases de cálculo da retenção em contratos de imóveis anteriores à Lei do Distrato e em contratos posteriores envolvendo lotes. Recursos especiais e agravos sobre essas questões foram suspensos nas instâncias de segundo grau e no STJ.",
+      "data_publicacao": "2026-10-08T00:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08102026-Repetitivo-definira-limites-de-retencao-em-rescisao-de-contratos-imobiliarios-antes-e-depois-da-Lei-do-Distrato.aspx",
+      "fonte": "STJ"
+    },
+    {
+      "titulo": "STF fixa marco para os efeitos da tese sobre alíquotas de IPTU por área",
+      "descricao": "O Plenário definiu 12 de agosto de 2026, data de publicação da ata do julgamento, como início dos efeitos da tese que veda calcular alíquotas de IPTU com base na área do imóvel. Foram preservadas as cobranças e pagamentos anteriores, além de processos administrativos e ações judiciais ainda pendentes naquela data.",
+      "data_publicacao": "2026-10-13T00:00:00-03:00",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-define-alcance-de-decisao-sobre-aliquotas-de-iptu/",
       "fonte": "STF"
     },
     {
-      "titulo": "STF veda leilão de imóvel rural familiar ofertado em garantia",
-      "descricao": "O ministro André Mendonça, do STF, invalidou a autorização para leiloar uma pequena propriedade rural familiar oferecida em alienação fiduciária. A decisão considerou que a proteção constitucional da pequena propriedade trabalhada pela família não é afastada pela oferta do imóvel como garantia.",
+      "titulo": "Campinas aprova mudança no cálculo da outorga onerosa",
+      "descricao": "A Câmara Municipal aprovou, com emenda, o PLC 42/2026, que altera regras de parcelamento, ocupação e uso do solo, incluindo o coeficiente de aproveitamento e o cálculo da outorga do direito de construir. A mudança também prevê condições e descontos específicos para determinados empreendimentos e protocolos.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://secovi.com.br/campinas-aprova-nova-regra-de-outorga-onerosa-ponto-central-para-a-retomada-de-lancamentos-no-setor/",
+      "fonte": "SECOVI-SP"
+    },
+    {
+      "titulo": "TJPR mantém indisponibilidades após nova matrícula por usucapião",
+      "descricao": "Informativo registral do Paraná relata decisão do TJPR que manteve averbações de indisponibilidade na nova matrícula aberta após reconhecimento de usucapião. O tribunal entendeu que o registrador não pode cancelar por iniciativa própria ordens judiciais ainda vigentes.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.ribpr.org.br/noticias/view/informativo-de-jurisprudencia-de-agosto-destaca-decisao-sobre-usucapiao-e-indisponibilidade",
+      "fonte": "RIB-PR"
+    },
+    {
+      "titulo": "Projeto Resolva ajuda usuários a concluir registros em Londrina",
+      "descricao": "O 1º Registro de Imóveis de Londrina orienta usuários cujos protocolos foram cancelados por exigências não cumpridas, sem flexibilizar os requisitos legais. Em 2025, a iniciativa contatou interessados em 1.027 títulos, levou à retomada de 673 procedimentos e à conclusão de 553 registros.",
       "data_publicacao": "2026-10-23T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/stf-veda-leilao-de-imovel-rural-familiar-ofertado-em-garantia?fe=2",
+      "url": "https://www.registrodeimoveis.org.br/registro-que-transforma-projeto-resolva-orienta-populacao",
       "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "Incorporadora é condenada a ressarcir compradora de lote",
-      "descricao": "A 1ª Vara Cível de Senador Canedo (GO) determinou que uma incorporadora restitua de uma só vez valores pagos por uma compradora de lote, após anular cláusulas de capitalização mensal de juros e de cobrança de tributos antes da posse. A sentença considerou, no contrato analisado, que a empresa não integrava o Sistema Financeiro Nacional e não podia aplicar capitalização mensal.",
-      "data_publicacao": "2026-10-23T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/incorporadora-e-condenada-a-ressarcir-compradora-de-lote",
-      "fonte": "Registro de Imóveis do Brasil"
+      "titulo": "STJ afasta retroatividade de decisão sobre separação de bens após os 70 anos",
+      "descricao": "A Terceira Turma entendeu que a tese do STF que permite afastar a separação obrigatória por idade não altera retroativamente o regime patrimonial de união estável encerrada antes da decisão. O colegiado também considerou a ausência de inventário e partilha do casamento anterior na análise do regime aplicável ao caso.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://ibdfam.org.br/noticias/stj-afasta-aplicacao-retroativa-de-decisao-do-stf-sobre-separacao-de-bens-para-maiores-de-70-anos",
+      "fonte": "IBDFAM"
     },
     {
-      "titulo": "Projeto propõe registrar caução locatícia como direito real",
-      "descricao": "O Projeto de Lei 3.367/2024 propõe incluir a caução locatícia registrada na matrícula entre os direitos reais previstos no Código Civil. A proposta aguarda designação de relator na Comissão de Constituição e Justiça do Senado e continua em tramitação.",
-      "data_publicacao": "2026-10-22T00:00:00-03:00",
-      "url": "https://anoregrs.org.br/2026/10/22/pl-altera-o-codigo-civil-para-incluir-a-caucao-locaticia-como-direito-real-desde-que-registrada-no-registro-de-imoveis/",
-      "fonte": "ANOREG/RS"
+      "titulo": "Estoque de imóveis novos de médio e alto padrão recua 22% em um ano",
+      "descricao": "Dados de relatório de outubro do BB Investimentos indicam que as vendas superaram os lançamentos em 15,2% no acumulado de 12 meses até o primeiro semestre de 2026, enquanto o estoque disponível caiu 22% na comparação anual. O levantamento reúne informações da Abrainc e da Fipe e aponta juros elevados entre os fatores que mantêm incorporadoras cautelosas.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://www.autimob.com.br/noticias/mercado-imobiliario/vendas-superam-lancamentos-e-estoque-de-medio-e-alto-padrao-cai-22-em-um-ano",
+      "fonte": "AutImob"
     },
     {
-      "titulo": "Jornada de regularização lança guia sobre matrícula imobiliária",
-      "descricao": "A 1ª Jornada de Regularização de Imóveis em Minas Gerais começou com o lançamento de um guia prático sobre leitura e interpretação da matrícula imobiliária. O material descreve as funções de advogados, tabeliães e registradores e reúne orientações para identificar pendências documentais e registrais.",
-      "data_publicacao": "2026-10-22T00:00:00-03:00",
-      "url": "https://cnbmg.org.br/1a-jornada-de-regularizacao-de-imoveis-e-aberta-com-lancamento-de-colecao-sobre-seguranca-juridica-imobiliaria/",
-      "fonte": "CNB/MG"
-    },
-    {
-      "titulo": "STJ afasta IPTU sobre mais de mil lotes em área de preservação",
-      "descricao": "A Segunda Turma do STJ manteve o afastamento do IPTU sobre 1.161 lotes no Parque Estadual de Itaberaba, em Guarulhos, diante de restrições que impedem construção, ocupação e exploração econômica. O colegiado negou provimento ao recurso do município e preservou a decisão do TJSP no caso concreto.",
-      "data_publicacao": "2026-10-06T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/amp/quentes/465995/stj-afasta-iptu-sobre-mais-de-mil-lotes-em-area-de-preservacao",
-      "fonte": "Migalhas"
-    },
-    {
-      "titulo": "Imóveis comerciais movimentam R$ 12,2 bilhões no terceiro trimestre",
-      "descricao": "Operações de compra e venda de imóveis comerciais totalizaram R$ 12,2 bilhões no Brasil no terceiro trimestre de 2026, em 41 transações, segundo dados da Cushman & Wakefield citados pelo Estadão. Galpões logísticos responderam por 45% do volume, enquanto varejo e escritórios somaram 32% e 23%, respectivamente.",
-      "data_publicacao": "2026-10-16T00:00:00-03:00",
-      "url": "https://portas.com.br/noticias/imoveis-comerciais-movimentam-r-122-bilhoes-no-terceiro-trimestre/",
-      "fonte": "Portas"
+      "titulo": "Encontro Notarial Sul debateu inovação e efeitos da Reforma Tributária",
+      "descricao": "No evento realizado em 16 e 17 de outubro, o CNB/CF e a OAB reuniram profissionais para discutir provas digitais, atos internacionais, inventários extrajudiciais e mudanças tributárias ligadas a ITCMD e ITBI. A programação também abordou a atuação conjunta entre Notariado e Advocacia em procedimentos extrajudiciais.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/encontro-notarial-sul-encerra-programacao-em-curitiba-com-debates-sobre-inovacao-seguranca-juridica-e-novos-desafios-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
     }
   ]
 }
