@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-28T10:04:39-03:00",
+  "noticias": [
+    {
+      "titulo": "Fundação de Cultura promove conversa com artistas e moradores",
+      "descricao": "A presidente da Fundação Rio das Ostras de Cultura anunciou atendimento aberto a artistas, representantes do setor e moradores nesta quarta-feira, 28 de outubro. O encontro ocorrerá no prédio da Onda, no Centro, das 14h às 21h, para receber sugestões e demandas culturais.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/Noticias.php?noticia=14787",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras projeta obras de drenagem para Costazul",
+      "descricao": "A Secretaria Municipal de Obras concluiu o projeto de ampliação da drenagem pluvial em parte de Costazul, com previsão de 1,3 quilômetro de galerias e 24 novos poços de visita. A etapa seguinte será iniciar os trâmites de licitação; as intervenções ainda não começaram.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14766",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras divulga locais da vacinação antirrábica de novembro",
+      "descricao": "A campanha municipal de vacinação antirrábica para cães e gatos a partir de três meses ocorrerá nos sábados 7, 14, 21 e 28 de novembro, em diferentes bairros. O atendimento será gratuito, das 9h às 17h, nos pontos informados pela Vigilância em Saúde.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14759",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Rio movimenta quase R$ 50 bilhões em imóveis de janeiro a agosto",
+      "descricao": "Levantamento baseado na arrecadação do ITBI estima que as transações imobiliárias na capital fluminense somaram quase R$ 50 bilhões nos oito primeiros meses de 2026, 12% acima do mesmo período de 2025. O estudo também aponta que o preço médio do metro quadrado subiu 8% acima da inflação nos 12 meses anteriores.",
+      "data_publicacao": "2026-10-06T00:00:00-03:00",
+      "url": "https://diariodorio.com/economia/mercado-imobiliario/2026/10/06/rio-movimenta-quase-rs-50-bilhoes-em-imoveis-nos-primeiros-oito-meses-de-2026.html",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Sobrados históricos da Rua da Carioca podem receber apartamentos compactos",
+      "descricao": "A reportagem informa que cerca de cinco imóveis centenários estão em negociação para projetos residenciais nos pavimentos superiores, incluindo unidades para locação de curta temporada. O conjunto arquitetônico da Rua da Carioca é protegido desde 1985, e os empreendimentos ainda dependem das negociações e dos requisitos aplicáveis.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://diariodorio.com/economia/mercado-imobiliario/2026/10/14/rua-da-carioca-pode-ganhar-apartamentos-de-short-stay-em-sobrados-centenarios.html",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "STJ mantém proteção de imóvel familiar que segue como moradia após doação",
+      "descricao": "A Corte Especial do STJ decidiu que a impenhorabilidade do bem de família pode ser mantida quando o imóvel doado permanece como residência do núcleo familiar, mesmo após o reconhecimento de fraude à execução. O resumo da decisão publicado pelo ConJur destaca que a destinação residencial do imóvel permaneceu inalterada.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/fraude-a-execucao-nao-afasta-impenhorabilidade-se-imovel-segue-de-familia/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ConJur analisa critério temporal para indenizações por desapropriação",
+      "descricao": "A Primeira Seção do STJ definiu marcos para avaliar imóveis desapropriados: até um ano após o ajuizamento em desapropriações por utilidade pública ou interesse social e até 90 dias nas destinadas à reforma agrária; na desapropriação indireta, vale a data do apossamento. As teses se aplicam às perícias determinadas a partir da publicação do acórdão.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-19/stj-estabelece-travas-para-avaliar-preco-atual-em-expropriacoes-de-terrenos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo no ConJur discute quem deve pagar a individualização de matrícula",
+      "descricao": "Análise publicada no ConJur examina decisão da Terceira Turma do STJ que atribuiu ao incorporador o custo de criação da matrícula individual da unidade. O autor sustenta que a cláusula que transfere essa taxa ao comprador pode ser nula e ressalta que a decisão citada não tem efeito vinculante.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-20/stj-fixa-que-taxa-de-individualizacao-de-matricula-e-onus-do-incorporador/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB/CF apresenta usos de inteligência artificial no e-Notariado",
+      "descricao": "Em painel internacional, o CNB/CF apresentou aplicações de inteligência artificial no e-Notariado para extrair dados de escrituras, apoiar buscas na central de testamentos e estruturar informações enviadas ao registro de imóveis. A entidade destacou que o notário verifica os dados e toma a decisão, com proteção de informações desde a concepção dos sistemas.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal"
+    },
+    {
+      "titulo": "CNB/SP recebe artigos sobre desafios da atividade notarial e registral",
+      "descricao": "O CNB/SP e a Revista de Direito Notarial abriram chamada para uma edição especial com textos sobre proteção do consumidor, atividade econômica e novas tecnologias. A submissão está aberta a profissionais do Direito até 30 de novembro, e os trabalhos passarão por avaliação editorial.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/20/cnb-sp-abre-chamada-de-artigos-para-edicao-especial-da-revista-de-direito-notarial-rdn/",
+      "fonte": "CNB/SP"
+    },
+    {
+      "titulo": "Jornada Notarial 2026 terá foco na segurança de transações imobiliárias",
+      "descricao": "A iniciativa nacional do CNB reunirá tabelionatos e seccionais em ações de orientação sobre compra, venda, doação e partilha de imóveis, com destaque para a Conta Notarial. A edição está prevista para 7 de novembro, e os cartórios participantes podem organizar atividades voltadas ao público.",
+      "data_publicacao": "2026-10-01T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/01/jornada-notarial-2026-seguranca-juridica-nas-transacoes-imobiliarias/",
+      "fonte": "CNB/SP"
+    }
+  ]
+}
