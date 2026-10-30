@@ -1,0 +1,96 @@
+{
+  "data-busca": "2026-10-29T10:06:13-03:00",
+  "noticias": [
+    {
+      "titulo": "Operação travada no cartório de registro de imóveis: a suscitação de dúvida como instrumento de revisão das exigências registrais",
+      "descricao": "O artigo explica como a dúvida registral permite submeter ao juízo competente uma exigência formalizada em nota devolutiva. Também delimita os casos em que a medida não substitui retificação, inventário, usucapião ou ação contenciosa.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/467046/",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "CNB/CF apresenta experiência brasileira em painel internacional sobre IA na Albânia",
+      "descricao": "O Colégio Notarial do Brasil apresentou o uso de inteligência artificial integrado ao e-Notariado em encontro internacional que reuniu representantes de 93 países. A entidade destacou que a tecnologia pode auxiliar o trabalho, mantendo a decisão e a intervenção jurídica com o notário.",
+      "data_publicacao": "2026-10-21T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/21/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "CNB/SP Institucional"
+    },
+    {
+      "titulo": "Encontro Notarial Sul encerra programação com debates sobre inovação e segurança jurídica",
+      "descricao": "O evento do CNB/CF e da OAB reuniu profissionais para discutir provas digitais, atos internacionais, inventários extrajudiciais e efeitos da reforma tributária. Os painéis também trataram de autocuratela, cessão de precatórios e cooperação entre notariado e advocacia.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/encontro-notarial-sul-encerra-programacao-em-curitiba-com-debates-sobre-inovacao-seguranca-juridica-e-novos-desafios-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Cessão de precatórios deverá ser feita por escritura pública para ter validade judicial",
+      "descricao": "Proposta de regulamentação apresentada pelo CNJ e pelo Banco Central prevê escritura pública para que a cessão produza efeitos perante o Judiciário. O modelo prevê a identificação das partes, do crédito, do preço, do deságio e de cessões anteriores.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://cnbpb.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
+      "fonte": "CNB/PB"
+    },
+    {
+      "titulo": "STF fixa imunidade de ITBI na integralização de capital, independentemente da atividade imobiliária",
+      "descricao": "No Tema 1.348, o Supremo reconheceu que a imunidade do ITBI na integralização de capital independe da atividade preponderante da empresa e fica limitada ao valor do capital integralizado. A tese ressalva a possibilidade de apuração de simulação ou fraude à lei.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6929423",
+      "fonte": "Supremo Tribunal Federal"
+    },
+    {
+      "titulo": "STJ define responsabilidade de credor fiduciário em atraso ou vício de obra",
+      "descricao": "A Segunda Seção decidiu que o banco que atua apenas como agente financeiro e credor fiduciário da incorporação não responde, por si só, por atraso ou vícios da obra. A fiscalização vinculada à liberação do financiamento não basta para presumir participação na execução do empreendimento.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&aplicacao=informativo&b=INFJ&i=25&l=25&livre=T&p=true&t=",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Holding familiar após a reforma tributária",
+      "descricao": "O artigo analisa os efeitos de ITCMD e ITBI na organização de patrimônio por meio de holding familiar. Destaca que a escolha da estrutura deve considerar liquidez dos herdeiros, composição dos bens, governança e efeitos fiscais.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/466493/holding-familiar-apos-a-reforma-tributaria",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Holding familiar e tributação: novos cuidados no planejamento sucessório",
+      "descricao": "A análise aborda operações de integralização de imóveis e transmissão de quotas a herdeiros, com atenção às regras de ITBI e ITCMD. O texto ressalta a importância de compatibilizar a estrutura societária com os objetivos patrimoniais e as normas tributárias aplicáveis.",
+      "data_publicacao": "2026-10-01T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/465605/holding-familiar-e-tributacao-cuidados-no-planejamento-sucessorio",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "STJ estabelece travas temporais para cálculo do preço em expropriação de terrenos",
+      "descricao": "A Primeira Seção definiu referências temporais para avaliar imóveis em desapropriações: até um ano após o ajuizamento nas hipóteses comuns e até 90 dias na reforma agrária. Na desapropriação indireta, o preço deve corresponder à data do apossamento, com correção e juros previstos em lei.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-19/stj-estabelece-travas-para-avaliar-preco-atual-em-expropriacoes-de-terrenos/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Pesquisa Nacional de Bens passa a alcançar todo o país",
+      "descricao": "A ferramenta do RI Digital passou a consultar dados de mais de 3.600 cartórios de imóveis, ampliando a pesquisa por CPF ou CNPJ para todo o Brasil. O Registro de Imóveis do Brasil informa que a consulta localiza vínculos registrais, mas não substitui certidão sobre a situação atual do imóvel.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/pesquisa-nacional-de-bens-passa-a-alcancar-todo-o-pais",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Registro de Imóveis do Brasil divulga finalistas do Prêmio Registro que Transforma",
+      "descricao": "Foram selecionados projetos de cartórios em sete áreas, entre elas regularização fundiária, inovação tecnológica, educação registral e sustentabilidade. A premiação ocorreu em 28 de outubro durante o encontro nacional de registradores de imóveis.",
+      "data_publicacao": "2026-10-02T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/finalistas-premio-registro-que-transforma-2026",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "STJ avalia se condomínio pode cobrar honorários contratuais junto às cotas em atraso",
+      "descricao": "O STJ reconheceu a relevância da controvérsia sobre a inclusão de honorários contratuais pagos pelo condomínio na cobrança de cotas inadimplidas. A questão será examinada sob o rito da relevância em recurso especial.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-14/o-primeiro-tema-sob-o-rito-da-relevancia-e-a-pergunta-que-a-lei-15-484-deixou-sem-resposta/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Imobiliária e seguradora respondem por fraude de inquilina, decide TJ-MG",
+      "descricao": "O Tribunal de Justiça de Minas Gerais manteve a condenação de uma imobiliária e de uma seguradora por prejuízos ligados à verificação de documentos e ao seguro-fiança de uma locação. A decisão reconheceu a incidência do Código de Defesa do Consumidor na relação analisada.",
+      "data_publicacao": "2026-10-01T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-01/imobiliaria-deve-indenizar-proprietaria-de-imovel-por-fraude-de-inquilinos/",
+      "fonte": "Consultor Jurídico"
+    }
+  ]
+}
