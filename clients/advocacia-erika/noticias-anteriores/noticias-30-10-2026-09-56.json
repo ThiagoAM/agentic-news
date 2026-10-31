@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-30T09:56:59-03:00",
+  "noticias": [
+    {
+      "titulo": "STF reconhece imunidade de ITBI na integralização de capital, inclusive por empresas imobiliárias",
+      "descricao": "No Tema 1.348, o STF reconheceu a imunidade do ITBI na integralização de capital independentemente da atividade preponderante da empresa, limitada ao valor do capital integralizado. A tese ressalva a possibilidade de fiscalização de simulação ou fraude à lei.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6929423",
+      "fonte": "Supremo Tribunal Federal"
+    },
+    {
+      "titulo": "STJ fixa critérios temporais para avaliação de imóveis desapropriados",
+      "descricao": "A Primeira Seção definiu marcos para a avaliação judicial de imóveis desapropriados: em regra, até um ano do ajuizamento e, na reforma agrária, até 90 dias. Na desapropriação indireta, a perícia considera o preço na data do apossamento, com correção e juros previstos em lei.",
+      "data_publicacao": "2026-10-26T00:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26102026-Primeira-Secao-fixa-criterios-para-valor-de-indenizacao-em-desapropriacoes--colegiado-modula-efeitos.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ afasta responsabilidade automática do credor fiduciário por atraso ou vício da obra",
+      "descricao": "A Segunda Seção definiu que o banco que atua apenas como agente financeiro e credor fiduciário não responde, por si só, por atraso ou vícios da obra. A fiscalização vinculada à liberação do financiamento não basta para presumir participação na execução do empreendimento.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270907%27.cod.",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Operação travada no cartório: suscitação de dúvida revisa exigências registrais",
+      "descricao": "O artigo explica como a dúvida registral permite submeter ao juízo competente uma exigência formalizada em nota devolutiva. Também delimita situações em que esse procedimento não substitui ação contenciosa ou produção ampla de provas.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/467046/operacao-travada-no-cartorio-a-suscitacao-de-duvida-na-revisao",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Holding familiar após a reforma tributária",
+      "descricao": "O artigo examina impactos de ITCMD e ITBI no planejamento sucessório por meio de holdings familiares, incluindo a liquidez necessária para herdeiros e custos de regularização patrimonial. Também discute limites e riscos da estrutura diante das regras tributárias.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/466493/holding-familiar-apos-a-reforma-tributaria",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "CNB/CF apresenta experiência brasileira com IA notarial em painel internacional",
+      "descricao": "O Colégio Notarial do Brasil – Conselho Federal apresentou em Tirana o uso de inteligência artificial integrado ao e-Notariado. A entidade relatou aplicações em atendimento e auditoria de atos notariais, em encontro que reuniu representantes de 93 países.",
+      "data_publicacao": "2026-10-21T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Nota técnica orienta municípios sobre obrigações fiscais de cartórios na transição para o IBS",
+      "descricao": "A Nota Técnica CTAT 08/2026 recomenda adaptações nos sistemas municipais para emissão individualizada de documentos fiscais por ato notarial ou registral até o fim de 2026. O texto também aborda o cadastro dos titulares e a integração de dados imobiliários durante a transição tributária.",
+      "data_publicacao": "2026-10-26T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/26/contabeis-nota-tecnica-orienta-municipios-sobre-obrigacoes-fiscais-dos-cartorios-e-transicao-para-o-ibs/",
+      "fonte": "CNB/SP Institucional"
+    },
+    {
+      "titulo": "Encontro Notarial Sul debate inovação e segurança jurídica na atividade extrajudicial",
+      "descricao": "Notários, advogados, magistrados e especialistas se reuniram em Curitiba para discutir provas digitais, atos internacionais, inventários extrajudiciais e reforma tributária. Realizado pelo CNB/CF e pela OAB, o encontro também tratou da proteção patrimonial e da cooperação entre notariado e advocacia.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/encontro-notarial-sul-encerra-programacao-em-curitiba-com-debates-sobre-inovacao-seguranca-juridica-e-novos-desafios-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Cessão de precatórios deverá ser formalizada por escritura pública para produzir efeitos judiciais",
+      "descricao": "Proposta de regulamentação apresentada pelo CNJ e pelo Banco Central prevê escritura pública para que a cessão de créditos de precatórios produza efeitos perante o Judiciário. O instrumento deverá identificar partes, crédito, valor, deságio, pagamento e cessões anteriores.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://cnbpb.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
+      "fonte": "CNB/PB"
+    },
+    {
+      "titulo": "Pesquisa Nacional de Bens passa a alcançar cartórios de todo o país",
+      "descricao": "A ferramenta do RI Digital ampliou a pesquisa patrimonial por CPF ou CNPJ e passou a alcançar mais de 3.600 cartórios de registro de imóveis. Segundo o Operador Nacional do Sistema de Registro Eletrônico de Imóveis, a base reúne dados de cerca de 90 milhões de matrículas.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/pesquisa-nacional-de-bens-passa-a-alcancar-todo-o-pais",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "STJ mantém proteção do bem de família quando imóvel doado continua como moradia",
+      "descricao": "A matéria relata a manutenção da impenhorabilidade de um imóvel doado quando ele permanece como residência da família. A análise considera a destinação habitacional e as circunstâncias concretas antes de afastar a proteção patrimonial.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/fraude-a-execucao-nao-afasta-impenhorabilidade-se-imovel-segue-de-familia/",
+      "fonte": "Consultor Jurídico"
+    }
+  ]
+}
