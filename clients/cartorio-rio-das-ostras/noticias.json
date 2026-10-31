@@ -1,82 +1,89 @@
 {
-  "data-busca": "2026-10-30T09:56:59-03:00",
+  "data-busca": "2026-10-31T10:03:12-03:00",
   "noticias": [
     {
-      "titulo": "Prefeitura orienta sobre mudança na emissão de NFS-e",
-      "descricao": "A partir de 1º de novembro, microempresas, empresas de pequeno porte e MEIs do Simples em Rio das Ostras deverão emitir a NFS-e pelo padrão nacional, e o emissor municipal será bloqueado. A alteração atende à Resolução CGSN nº 191/2026.",
-      "data_publicacao": "2026-10-28T00:00:00-03:00",
-      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14798",
-      "fonte": "Portal Rio das Ostras"
+      "titulo": "Rio das Ostras informa mudança na emissão de NFS-e para empresas do Simples",
+      "descricao": "A partir de 1º de novembro, ME e EPP optantes pelo Simples Nacional deverão emitir a NFS-e no padrão nacional, pelo emissor web ou por API. O sistema municipal deixará de emitir notas para ME, EPP e MEI, conforme mudança vinculada à Resolução 191/2026 do Comitê Gestor do Simples Nacional.",
+      "data_publicacao": "2026-10-28T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-orienta-sobre-mudanca-na-emissao-de-nfs-e/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Palestras sobre primeiro emprego reúnem estudantes em Rio das Ostras",
-      "descricao": "Cerca de 230 estudantes do Colégio Estadual Cinamomo participaram de orientações sobre currículos, entrevistas, estágio e aprendizagem profissional. A atividade foi conduzida pelo CIEE com apoio da Assessoria Municipal de Políticas Públicas para Juventudes.",
-      "data_publicacao": "2026-10-29T00:00:00-03:00",
-      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14805",
-      "fonte": "Portal Rio das Ostras"
+      "titulo": "Arrecadação de ISS na Zona Especial de Negócios cresce 63%",
+      "descricao": "A Prefeitura informou que a arrecadação de ISS das empresas da ZEN ficou mais de 63% acima do resultado de 2024, diferença estimada em R$ 62 milhões. O polo reúne atividades ligadas à cadeia de petróleo e gás, e o Município cita a aproximação entre empresas, fornecedores e trabalhadores locais como uma das iniciativas econômicas.",
+      "data_publicacao": "2026-10-28T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/arrecadacao-da-zona-especial-de-negocios-aumenta-mais-de-60/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Rio das Ostras promove ações voltadas à Educação Inclusiva",
-      "descricao": "A rede municipal realizou atividades de troca de experiências e acolhimento sobre Educação Inclusiva nos dias 26 e 27 de outubro. A iniciativa da Coordenação de Educação Inclusiva abordou a participação e as oportunidades de aprendizagem dos estudantes.",
-      "data_publicacao": "2026-10-28T00:00:00-03:00",
-      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14796",
-      "fonte": "Portal Rio das Ostras"
+      "titulo": "Rio das Ostras acompanha feira de emprego e qualificação do setor de transporte",
+      "descricao": "Representantes municipais participaram da Feira Emprega Transporte 2026, em Campos dos Goytacazes, que reuniu empresas de transporte, logística, atividade portuária e serviços. A agenda teve oportunidades de trabalho, orientação para currículos e palestras, e foi apresentada pela Prefeitura como forma de conhecer iniciativas aplicáveis às políticas locais de emprego.",
+      "data_publicacao": "2026-10-28T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-participa-da-feira-de-transporte/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Rota 116 prevê 120 mil veículos durante o feriado de Finados",
-      "descricao": "A concessionária estima que cerca de 120 mil veículos utilizem a RJ-116 durante o feriado prolongado de Finados. A agência reguladora informa que a manutenção e a revitalização da sinalização podem exigir operações Pare e Siga em trechos da rodovia.",
-      "data_publicacao": "2026-10-29T00:00:00-03:00",
+      "titulo": "Banco de Empregos de Rio das Ostras divulga 519 vagas",
+      "descricao": "A Prefeitura informou que havia 519 oportunidades disponíveis no Banco de Empregos em 26 de outubro, incluindo funções de atendimento, transporte, refrigeração, cozinha e vendas. As inscrições eram presenciais no Centro de Cidadania, no Âncora, com atendimento de segunda a sexta-feira.",
+      "data_publicacao": "2026-10-26T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-519-vagas-2/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rota 116 estima 120 mil veículos no feriado de Finados",
+      "descricao": "A concessionária prevê cerca de 120 mil veículos na RJ-116 durante o feriado prolongado de Finados. A Agetransp informou que a via passa por serviços de manutenção, drenagem, sinalização, pontos de parada, poda e monitoramento geotécnico.",
+      "data_publicacao": "2026-10-29T12:00:00-03:00",
       "url": "https://www.agetransp.rj.gov.br/noticias/rota-116-preve-120-mil-veiculos-durante-o-feriado-de-finados",
       "fonte": "Agetransp"
     },
     {
-      "titulo": "TJRJ transfere comemoração do Dia do Servidor para 30 de outubro",
-      "descricao": "O Tribunal de Justiça do Estado do Rio de Janeiro terá expediente normal em 28 de outubro e suspenderá atividades e prazos processuais no dia 30, transferido para a comemoração do Dia do Servidor. A mudança foi comunicada pelo Aviso nº 290/2026 e acompanha o decreto estadual.",
-      "data_publicacao": "2026-10-15T00:00:00-03:00",
-      "url": "https://www.tjrj.jus.br/web/portal-conhecimento/noticias/noticia/-/visualizar-conteudo/5736540/406979295",
-      "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro"
+      "titulo": "Detran-RJ informa calendário de atendimento no feriado prolongado",
+      "descricao": "As unidades de atendimento e o teleatendimento do Detran-RJ não funcionariam na sexta-feira, 30 de outubro, por causa do ponto facultativo estadual. O serviço estava previsto para retornar na terça-feira, 3 de novembro, após o feriado de Finados.",
+      "data_publicacao": "2026-10-29T12:00:00-03:00",
+      "url": "https://www.detran.rj.gov.br/noticias/detran-rj-orienta-usuarios-sobre-o-funcionamento-no-feriado-prolongado.html",
+      "fonte": "Detran-RJ"
     },
     {
-      "titulo": "STJ define referências temporais para avaliar imóveis em desapropriações",
-      "descricao": "A Primeira Seção estabeleceu parâmetros para escolher a data de referência do valor de imóveis desapropriados, com prazos distintos conforme a modalidade. Na desapropriação indireta, a perícia considera o preço de mercado na data do apossamento administrativo.",
-      "data_publicacao": "2026-10-19T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-19/stj-estabelece-travas-para-avaliar-preco-atual-em-expropriacoes-de-terrenos/",
-      "fonte": "Consultor Jurídico"
+      "titulo": "STF conclui julgamento sobre imunidade de ITBI em aporte de imóveis",
+      "descricao": "O STF firmou no Tema 1.348 que a imunidade de ITBI na integralização de capital independe da atividade imobiliária preponderante da empresa. O julgamento mantém a limitação ao valor efetivamente destinado ao capital social e ressalva a possibilidade de apuração de simulação ou fraude.",
+      "data_publicacao": "2026-10-28T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-28/imunidade-de-itbi-reduz-custos-e-da-previsibilidade-ao-setor-imobiliario-avaliam-especialistas/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "STJ examina cobrança de honorários contratuais junto às cotas condominiais",
-      "descricao": "O STJ reconheceu a relevância da questão sobre incluir honorários contratuais pagos pelo condomínio na cobrança de cotas inadimplidas. A controvérsia será examinada em recurso especial sob o rito da relevância.",
-      "data_publicacao": "2026-10-14T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-14/o-primeiro-tema-sob-o-rito-da-relevancia-e-a-pergunta-que-a-lei-15-484-deixou-sem-resposta/",
-      "fonte": "Consultor Jurídico"
+      "titulo": "Artigo analisa ITBI e fundos imobiliários após o Tema 1.348",
+      "descricao": "O artigo do ConJur examina se a imunidade reconhecida pelo STF para a integralização de capital também pode alcançar fundos imobiliários. O próprio texto esclarece que o Tema 1.348 não decidiu essa questão e que a jurisprudência ainda não assegura a tese para fundos.",
+      "data_publicacao": "2026-10-27T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-27/a-imunidade-do-itbi-e-os-fundos-imobiliarios-depois-do-tema-1-348/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "STJ mantém proteção do bem de família quando imóvel doado continua como moradia",
-      "descricao": "A matéria relata que a fraude à execução não afasta automaticamente a impenhorabilidade quando o imóvel doado continua servindo de residência à família. A análise considera a destinação habitacional e as circunstâncias concretas do caso.",
-      "data_publicacao": "2026-10-23T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-23/fraude-a-execucao-nao-afasta-impenhorabilidade-se-imovel-segue-de-familia/",
-      "fonte": "Consultor Jurídico"
+      "titulo": "STJ reconhece restituição integral em contrato de lote com cobranças abusivas",
+      "descricao": "Em caso sobre lote, decisão divulgada pelo ConJur aplicou o Código de Defesa do Consumidor porque o contrato fiduciário não foi registrado e não havia mora formal. A sentença considerou irregular a capitalização mensal de juros pela incorporadora fora do Sistema Financeiro Nacional e determinou a devolução integral dos pagamentos.",
+      "data_publicacao": "2026-10-29T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-29/capitalizacao-mensal-de-incorporadora-sem-sfn-gera-restituicao-integral/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Nota técnica orienta municípios sobre obrigações fiscais de cartórios na transição para o IBS",
-      "descricao": "A Nota Técnica CTAT 08/2026 recomenda adaptar sistemas municipais para emitir documentos fiscais individualizados por ato notarial ou registral até o fim de 2026. O texto também aborda identificação dos titulares e integração de dados imobiliários durante a transição tributária.",
-      "data_publicacao": "2026-10-26T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/10/26/contabeis-nota-tecnica-orienta-municipios-sobre-obrigacoes-fiscais-dos-cartorios-e-transicao-para-o-ibs/",
-      "fonte": "CNB/SP Institucional"
+      "titulo": "CNB debate inventário, usucapião e prova digital em encontro notarial",
+      "descricao": "O Encontro Notarial Sul reuniu profissionais do notariado, advocacia e Judiciário em painéis sobre temas extrajudiciais. Entre os assuntos estiveram ata notarial para usucapião, limites de exigência de certidões, reserva de bens para credores do espólio e cadeia de custódia digital.",
+      "data_publicacao": "2026-10-19T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/encontro-notarial-sul-encerra-programacao-em-curitiba-com-debates-sobre-inovacao-seguranca-juridica-e-novos-desafios-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "CNB/CF apresenta uso brasileiro de IA notarial em painel internacional",
-      "descricao": "O Colégio Notarial do Brasil apresentou a experiência do e-Notariado com inteligência artificial em encontro da União Internacional do Notariado, em Tirana. A apresentação abordou aplicações da tecnologia no atendimento e na auditoria de atos notariais.",
-      "data_publicacao": "2026-10-21T00:00:00-03:00",
+      "titulo": "CNB apresenta aplicações de IA do e-Notariado em fórum internacional",
+      "descricao": "O CNB/CF apresentou ferramentas de IA aplicadas ou em teste no e-Notariado a representantes de 93 países. Entre os exemplos estão extração de dados de escrituras, preparação de informações estruturadas para registro e auditoria de atos, com a conferência humana mantida no fluxo descrito.",
+      "data_publicacao": "2026-10-20T12:00:00-03:00",
       "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Cessão de precatórios deverá ser formalizada por escritura pública",
-      "descricao": "Proposta de regulamentação do CNJ e do Banco Central prevê escritura pública para que a cessão de créditos de precatórios produza efeitos perante o Judiciário. O instrumento deverá identificar as partes, o crédito, os valores e eventuais cessões anteriores.",
-      "data_publicacao": "2026-10-16T00:00:00-03:00",
-      "url": "https://cnbpb.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
-      "fonte": "CNB/PB"
+      "titulo": "Proposta prevê escritura pública para cessão judicial de precatórios",
+      "descricao": "O CNJ e o Banco Central apresentaram proposta que prevê escritura pública como requisito para a cessão de precatórios produzir efeitos perante o Judiciário. O plano inclui registro eletrônico e controles de rastreabilidade, mas ainda dependia da análise do CNJ e de regulamentação complementar.",
+      "data_publicacao": "2026-10-07T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
+      "fonte": "Colégio Notarial do Brasil"
     }
   ]
 }

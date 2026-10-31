@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-30T09:56:59-03:00",
+  "noticias": [
+    {
+      "titulo": "Prefeitura orienta sobre mudança na emissão de NFS-e",
+      "descricao": "A partir de 1º de novembro, microempresas, empresas de pequeno porte e MEIs do Simples em Rio das Ostras deverão emitir a NFS-e pelo padrão nacional, e o emissor municipal será bloqueado. A alteração atende à Resolução CGSN nº 191/2026.",
+      "data_publicacao": "2026-10-28T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14798",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Palestras sobre primeiro emprego reúnem estudantes em Rio das Ostras",
+      "descricao": "Cerca de 230 estudantes do Colégio Estadual Cinamomo participaram de orientações sobre currículos, entrevistas, estágio e aprendizagem profissional. A atividade foi conduzida pelo CIEE com apoio da Assessoria Municipal de Políticas Públicas para Juventudes.",
+      "data_publicacao": "2026-10-29T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14805",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras promove ações voltadas à Educação Inclusiva",
+      "descricao": "A rede municipal realizou atividades de troca de experiências e acolhimento sobre Educação Inclusiva nos dias 26 e 27 de outubro. A iniciativa da Coordenação de Educação Inclusiva abordou a participação e as oportunidades de aprendizagem dos estudantes.",
+      "data_publicacao": "2026-10-28T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14796",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Rota 116 prevê 120 mil veículos durante o feriado de Finados",
+      "descricao": "A concessionária estima que cerca de 120 mil veículos utilizem a RJ-116 durante o feriado prolongado de Finados. A agência reguladora informa que a manutenção e a revitalização da sinalização podem exigir operações Pare e Siga em trechos da rodovia.",
+      "data_publicacao": "2026-10-29T00:00:00-03:00",
+      "url": "https://www.agetransp.rj.gov.br/noticias/rota-116-preve-120-mil-veiculos-durante-o-feriado-de-finados",
+      "fonte": "Agetransp"
+    },
+    {
+      "titulo": "TJRJ transfere comemoração do Dia do Servidor para 30 de outubro",
+      "descricao": "O Tribunal de Justiça do Estado do Rio de Janeiro terá expediente normal em 28 de outubro e suspenderá atividades e prazos processuais no dia 30, transferido para a comemoração do Dia do Servidor. A mudança foi comunicada pelo Aviso nº 290/2026 e acompanha o decreto estadual.",
+      "data_publicacao": "2026-10-15T00:00:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/portal-conhecimento/noticias/noticia/-/visualizar-conteudo/5736540/406979295",
+      "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "STJ define referências temporais para avaliar imóveis em desapropriações",
+      "descricao": "A Primeira Seção estabeleceu parâmetros para escolher a data de referência do valor de imóveis desapropriados, com prazos distintos conforme a modalidade. Na desapropriação indireta, a perícia considera o preço de mercado na data do apossamento administrativo.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-19/stj-estabelece-travas-para-avaliar-preco-atual-em-expropriacoes-de-terrenos/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "STJ examina cobrança de honorários contratuais junto às cotas condominiais",
+      "descricao": "O STJ reconheceu a relevância da questão sobre incluir honorários contratuais pagos pelo condomínio na cobrança de cotas inadimplidas. A controvérsia será examinada em recurso especial sob o rito da relevância.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-14/o-primeiro-tema-sob-o-rito-da-relevancia-e-a-pergunta-que-a-lei-15-484-deixou-sem-resposta/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "STJ mantém proteção do bem de família quando imóvel doado continua como moradia",
+      "descricao": "A matéria relata que a fraude à execução não afasta automaticamente a impenhorabilidade quando o imóvel doado continua servindo de residência à família. A análise considera a destinação habitacional e as circunstâncias concretas do caso.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/fraude-a-execucao-nao-afasta-impenhorabilidade-se-imovel-segue-de-familia/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "Nota técnica orienta municípios sobre obrigações fiscais de cartórios na transição para o IBS",
+      "descricao": "A Nota Técnica CTAT 08/2026 recomenda adaptar sistemas municipais para emitir documentos fiscais individualizados por ato notarial ou registral até o fim de 2026. O texto também aborda identificação dos titulares e integração de dados imobiliários durante a transição tributária.",
+      "data_publicacao": "2026-10-26T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/26/contabeis-nota-tecnica-orienta-municipios-sobre-obrigacoes-fiscais-dos-cartorios-e-transicao-para-o-ibs/",
+      "fonte": "CNB/SP Institucional"
+    },
+    {
+      "titulo": "CNB/CF apresenta uso brasileiro de IA notarial em painel internacional",
+      "descricao": "O Colégio Notarial do Brasil apresentou a experiência do e-Notariado com inteligência artificial em encontro da União Internacional do Notariado, em Tirana. A apresentação abordou aplicações da tecnologia no atendimento e na auditoria de atos notariais.",
+      "data_publicacao": "2026-10-21T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Cessão de precatórios deverá ser formalizada por escritura pública",
+      "descricao": "Proposta de regulamentação do CNJ e do Banco Central prevê escritura pública para que a cessão de créditos de precatórios produza efeitos perante o Judiciário. O instrumento deverá identificar as partes, o crédito, os valores e eventuais cessões anteriores.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://cnbpb.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
+      "fonte": "CNB/PB"
+    }
+  ]
+}
