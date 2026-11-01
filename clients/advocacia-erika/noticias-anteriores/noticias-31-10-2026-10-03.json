@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-10-31T10:03:12-03:00",
+  "noticias": [
+    {
+      "titulo": "STJ delimita a aplicação da Lei do Distrato em contratos imobiliários",
+      "descricao": "O STJ cadastrou dois temas repetitivos para definir percentuais e bases de cálculo de valores retidos na rescisão de contratos de compra e venda de imóveis. Um tema trata de contratos anteriores à Lei do Distrato e outro de lotes firmados após sua vigência.",
+      "data_publicacao": "2026-10-08T12:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08102026-Repetitivo-definira-limites-de-retencao-em-rescisao-de-contratos-imobiliarios-antes-e-depois-da-Lei-do-Distrato.aspx",
+      "fonte": "STJ"
+    },
+    {
+      "titulo": "STJ mantém registro imobiliário em disputa sobre matrículas em Palmas",
+      "descricao": "A Terceira Turma manteve decisão que reconheceu a validade da cadeia registral de imóveis no loteamento Taquaruçu Canela, em Palmas. A relatora destacou que a presunção de validade dos registros só deve ser afastada por prova robusta, diante do impacto que uma anulação pode ter sobre titulares sucessivos.",
+      "data_publicacao": "2026-10-20T12:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466890/stj-mantem-registro-de-imovel-em-disputa-ligada-a-criacao-do-tocantins",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "CNB apresenta uso de IA integrado ao e-Notariado em encontro internacional",
+      "descricao": "O Colégio Notarial do Brasil apresentou a representantes de 93 países ferramentas de IA usadas ou em teste no e-Notariado. Entre os usos relatados estão extração de dados de escrituras, geração de informações estruturadas para encaminhamento ao registro de imóveis e apoio à auditoria de atos.",
+      "data_publicacao": "2026-10-20T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STF conclui julgamento sobre imunidade de ITBI na integralização de capital",
+      "descricao": "No Tema 1.348, o STF firmou que a imunidade de ITBI na integralização de bens ao capital social independe da atividade imobiliária preponderante da empresa, ressalvadas simulação ou fraude. O alcance para fundos imobiliários, que não são pessoas jurídicas, permanece em debate no artigo; o texto ressalta que o tema ainda não foi decidido para esses fundos.",
+      "data_publicacao": "2026-10-27T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-27/a-imunidade-do-itbi-e-os-fundos-imobiliarios-depois-do-tema-1-348/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STF define alcance da imunidade de ITBI em aportes imobiliários",
+      "descricao": "O julgamento do Tema 1.348 terminou por 8 votos a 2, reconhecendo que a atividade imobiliária da sociedade, por si só, não afasta a imunidade na integralização de capital. A decisão mantém a limitação ao valor efetivamente destinado ao capital social e admite apuração de simulação ou fraude.",
+      "data_publicacao": "2026-10-28T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-28/imunidade-de-itbi-reduz-custos-e-da-previsibilidade-ao-setor-imobiliario-avaliam-especialistas/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ exige prova de pagamento para afastar colação de imóvel em inventário",
+      "descricao": "No Informativo 907, o STJ reafirmou que herdeiros por representação também devem levar à colação bens recebidos por liberalidade, salvo dispensa expressa do doador. A transferência de imóvel formalizada como compra e venda, sem comprovação do pagamento, pode ser tratada como doação indireta para preservar a igualdade entre sucessores.",
+      "data_publicacao": "2026-10-27T12:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270907%27.cod.",
+      "fonte": "STJ"
+    },
+    {
+      "titulo": "STJ invalida procurações usadas para renúncia de herança",
+      "descricao": "A Terceira Turma manteve a anulação de procurações usadas para que irmãos renunciassem à herança em favor de um deles, reconhecendo vício de consentimento. A invalidade também alcançou a escritura pública de inventário e partilha feita com base nesses documentos, exigindo novo inventário.",
+      "data_publicacao": "2026-10-07T12:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466027/stj-invalida-procuracoes-que-fizeram-irmaos-renunciar-a-heranca",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "CNB debate prova digital e inventário extrajudicial em encontro no Sul",
+      "descricao": "O Encontro Notarial Sul reuniu notários, advogados e magistrados para discutir temas de atuação extrajudicial. A programação incluiu ata notarial em usucapião, cadeia de custódia de provas digitais, credores do espólio e reserva de bens no inventário extrajudicial.",
+      "data_publicacao": "2026-10-19T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/encontro-notarial-sul-encerra-programacao-em-curitiba-com-debates-sobre-inovacao-seguranca-juridica-e-novos-desafios-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ propõe escritura pública para cessão de precatórios",
+      "descricao": "Uma proposta do CNJ e do Banco Central prevê que a cessão de créditos de precatórios seja formalizada por escritura pública para produzir efeitos perante o Judiciário. O modelo ainda depende de análise e regulamentação, e pretende criar mecanismos de registro e rastreabilidade das transferências.",
+      "data_publicacao": "2026-10-07T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ dispensa ITCMD prévio para lavrar inventário extrajudicial",
+      "descricao": "A Resolução CNJ 695/2026 permite lavrar escritura de inventário e partilha sem comprovar o pagamento prévio do ITCMD, mantendo a obrigação tributária e a comunicação ao Fisco. Análise publicada no Migalhas destaca a fundamentação e os limites da mudança para a atividade notarial.",
+      "data_publicacao": "2026-10-05T12:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/465571/",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Imobiliária deve restituir valores por cláusulas abusivas em contrato de lote",
+      "descricao": "Em decisão noticiada pelo ConJur, juiz aplicou o Código de Defesa do Consumidor a contrato de lote com alienação fiduciária não registrado no cartório de imóveis e sem mora formal da compradora. A sentença considerou indevida a capitalização mensal de juros pela vendedora fora do Sistema Financeiro Nacional e determinou a restituição integral dos valores pagos.",
+      "data_publicacao": "2026-10-29T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-29/capitalizacao-mensal-de-incorporadora-sem-sfn-gera-restituicao-integral/",
+      "fonte": "ConJur"
+    }
+  ]
+}
