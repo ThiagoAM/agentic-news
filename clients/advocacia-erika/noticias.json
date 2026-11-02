@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-11-01T10:01:38-03:00",
+  "data-busca": "2026-11-02T10:00:02-03:00",
   "noticias": [
     {
-      "titulo": "Capitalização mensal em contrato de loteamento leva à restituição integral",
-      "descricao": "A Justiça de Goiás reconheceu que a falta de registro da alienação fiduciária e de constituição em mora afastava o rito especial invocado pela incorporadora. A sentença aplicou o Código de Defesa do Consumidor e determinou a devolução integral dos valores pagos, diante de cláusulas consideradas abusivas.",
-      "data_publicacao": "2026-10-29T12:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-29/capitalizacao-mensal-de-incorporadora-sem-sfn-gera-restituicao-integral/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "STF reconhece imunidade de ITBI na integralização de capital por imobiliárias",
-      "descricao": "O Supremo concluiu que a imunidade de ITBI na integralização de bens ao capital social independe da atividade imobiliária predominante da empresa. A tese mantém o limite do valor efetivamente destinado ao capital e admite apuração de simulação ou fraude.",
-      "data_publicacao": "2026-10-28T12:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-28/imunidade-de-itbi-reduz-custos-e-da-previsibilidade-ao-setor-imobiliario-avaliam-especialistas/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Tema 1.348 do STF e a imunidade de ITBI para fundos imobiliários",
-      "descricao": "O artigo examina os efeitos do julgamento do STF sobre integralização de imóveis em fundos de investimento imobiliário. A decisão afastou o obstáculo ligado à atividade imobiliária, mas a discussão sobre a personalidade jurídica dos fundos continua distinta e sem solução expressa no Tema 1.348.",
-      "data_publicacao": "2026-10-27T12:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-27/a-imunidade-do-itbi-e-os-fundos-imobiliarios-depois-do-tema-1-348/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Justiça afasta IR sobre valorização de bens transmitidos por herança",
-      "descricao": "A Justiça Federal do Rio Grande do Sul afastou a cobrança de imposto de renda sobre a diferença entre o valor histórico dos bens e o valor de mercado usado na transmissão aos sucessores. A decisão considerou que a transferência não gera acréscimo patrimonial para o espólio e que a valorização já havia integrado a base do ITCMD.",
-      "data_publicacao": "2026-10-26T12:00:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/467268/justica-afasta-ir-sobre-valorizacao-de-bens-transmitidos-por",
+      "titulo": "STJ afeta ao rito repetitivo controvérsia sobre resolução de contrato imobiliário sem registro",
+      "descricao": "A Segunda Seção do STJ vai definir se a resolução de compra e venda de imóvel com alienação fiduciária não registrada segue a Lei 9.514/1997 ou o Código de Defesa do Consumidor. O Tema 1.420 reúne recursos envolvendo lotes e deverá esclarecer os efeitos da falta de registro sobre a relação contratual.",
+      "data_publicacao": "2026-10-08T12:00:00-03:00",
+      "url": "https://www.migalhas.com.br/coluna/migalhas-edilicias/466925/alienacao-imobiliaria-nao-registrada-reflexoes-do-tema-1-420",
       "fonte": "Migalhas"
     },
     {
-      "titulo": "STJ mantém registro imobiliário em disputa sobre matrículas em Palmas",
-      "descricao": "A Terceira Turma do STJ manteve decisão que reconheceu a validade de registros de imóveis no loteamento Taquaruçu Canela, em Palmas. A relatora destacou que a presunção de validade registral só deve ser afastada por prova robusta, considerando os efeitos de uma anulação sobre titulares sucessivos.",
-      "data_publicacao": "2026-10-20T12:00:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/466890/",
+      "titulo": "Dúvida registral permite revisar exigências que impedem o ingresso de título no registro de imóveis",
+      "descricao": "Artigo explica como a suscitação de dúvida pode submeter ao Judiciário a legalidade de uma exigência registral não aceita ou impossível de cumprir. O procedimento tem objeto delimitado e não substitui outras medidas para resolver controvérsias sobre o imóvel.",
+      "data_publicacao": "2026-10-22T12:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/467046/operacao-travada-no-cartorio-a-suscitacao-de-duvida-na-revisao",
       "fonte": "Migalhas"
     },
     {
-      "titulo": "STJ reúne critérios para reconhecimento da usucapião",
-      "descricao": "O levantamento apresenta decisões do STJ sobre posse prolongada, imóveis herdados, contratos de compra e venda e bens públicos. Entre os casos recentes, o tribunal afastou usucapião de imóvel hereditário quando a ocupação familiar não demonstrou, por si só, posse com intenção de dono.",
-      "data_publicacao": "2026-10-19T12:00:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/466770/usucapiao-veja-quando-stj-admite-ou-afasta-direito-a-propriedade",
+      "titulo": "Artigo analisa limites da competência residual dos cartórios de registro de imóveis",
+      "descricao": "O texto examina a mudança promovida pela Lei 14.382/2022 nas regras de competência entre serventias imobiliárias. A análise discute quando o cartório de origem ainda pode praticar atos em imóveis transferidos para outra circunscrição.",
+      "data_publicacao": "2026-10-09T12:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/466265/summary_large_image",
       "fonte": "Migalhas"
     },
     {
-      "titulo": "STJ reafirma dever de colação de bens recebidos por herdeiros",
-      "descricao": "No Informativo 907, o STJ examinou se netos que sucedem por representação devem levar à colação bens recebidos por liberalidade. A formalização da transferência como compra e venda não afasta a apuração quando não há prova de pagamento, salvo dispensa expressa do doador.",
-      "data_publicacao": "2026-10-27T12:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270907%27.cod.",
-      "fonte": "STJ"
+      "titulo": "STJ discute efeitos da quitação de imóvel diante de alienação fiduciária em favor de banco",
+      "descricao": "Artigo publicado no ConJur examina a posição da Quarta Turma do STJ sobre a aplicação da Súmula 308 à alienação fiduciária e a divergência ainda existente entre turmas. A análise destaca que o pagamento à incorporadora não garante, por si só, o cancelamento do gravame registrado pelo credor.",
+      "data_publicacao": "2026-10-23T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/alienacao-fiduciaria-e-sumula-308-do-stj-a-restricao-jurisprudencial-em-debate/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "CNB apresenta aplicações de inteligência artificial integradas ao e-Notariado",
-      "descricao": "Em painel internacional na Albânia, o CNB/CF apresentou ferramentas de inteligência artificial aplicadas ou em teste na plataforma e-Notariado. Os exemplos incluíram extração de dados de escrituras, preparação de informações estruturadas para registros e apoio à auditoria de atos.",
-      "data_publicacao": "2026-10-20T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
-      "fonte": "Colégio Notarial do Brasil"
+      "titulo": "STJ mantém proteção de bem de família quando imóvel continua servindo de moradia",
+      "descricao": "A Corte Especial do STJ decidiu que a impenhorabilidade pode ser preservada quando o imóvel doado continua sendo a residência da família, mesmo reconhecida fraude à execução. O julgamento uniformiza a proteção conforme a destinação habitacional do bem.",
+      "data_publicacao": "2026-10-23T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/fraude-a-execucao-nao-afasta-impenhorabilidade-se-imovel-segue-de-familia/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Encontro Notarial Sul debate inovação e segurança jurídica",
-      "descricao": "O encontro realizado pelo CNB/CF e pela OAB reuniu notários, registradores, advogados e magistrados para discutir desafios da atividade extrajudicial. A programação abordou provas digitais, atos internacionais, inventário extrajudicial e impactos da reforma tributária.",
-      "data_publicacao": "2026-10-19T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/encontro-notarial-sul-encerra-programacao-em-curitiba-com-debates-sobre-inovacao-seguranca-juridica-e-novos-desafios-da-atividade-extrajudicial/",
-      "fonte": "Colégio Notarial do Brasil"
+      "titulo": "Artigo discute locação por temporada enquanto STJ prepara julgamento repetitivo",
+      "descricao": "O texto sustenta que condomínios devem preservar a situação vigente até que o STJ defina, em recurso repetitivo, quando a convenção residencial pode restringir locações de curta duração. A controvérsia envolve a interpretação das regras condominiais e dos precedentes aplicáveis.",
+      "data_publicacao": "2026-10-23T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/o-gato-de-schrodinger-e-a-locacao-por-temporada-no-stj-a-corte-suspende-a-proibicao-nao/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "CNJ e Banco Central propõem escritura pública para cessão de precatórios",
-      "descricao": "Proposta apresentada ao CNJ e ao Banco Central prevê escritura pública como etapa para que a cessão de precatórios produza efeitos perante o Judiciário. O modelo também prevê registro eletrônico e mecanismos de rastreabilidade; as medidas ainda dependiam de análise e regulamentação complementar.",
+      "titulo": "CNB participa de proposta para formalizar cessões de precatórios por escritura pública",
+      "descricao": "Proposta apresentada pelo CNJ e pelo Banco Central prevê escritura pública para que cessões de precatórios produzam efeitos perante o Judiciário. O modelo também contempla registro eletrônico e rastreabilidade das transferências, mas ainda dependia de análise normativa quando divulgado.",
       "data_publicacao": "2026-10-07T12:00:00-03:00",
       "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "STF forma maioria por imunidade de ITBI para empresas imobiliárias",
-      "descricao": "Durante o julgamento do Tema 1.348, seis ministros votaram pelo reconhecimento da imunidade na integralização de imóveis ao capital social de empresas imobiliárias. A discussão ainda estava em curso naquela data; o relator limitou o benefício ao capital efetivamente integralizado e ressalvou fraude ou simulação.",
-      "data_publicacao": "2026-10-12T12:00:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/466315/stf-forma-ma",
-      "fonte": "Migalhas"
+      "titulo": "Encontro Notarial Sul debate provas digitais, inventários e reforma tributária",
+      "descricao": "O encontro promovido pelo CNB/CF e pela OAB reuniu profissionais para discutir inovação, atos internacionais, inventários extrajudiciais e impactos da reforma tributária. Os painéis também trataram de ITCMD e ITBI e de novas ferramentas para a atividade notarial.",
+      "data_publicacao": "2026-10-19T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/encontro-notarial-sul-encerra-programacao-em-curitiba-com-debates-sobre-inovacao-seguranca-juridica-e-novos-desafios-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB apresenta uso de inteligência artificial integrada ao e-Notariado em encontro internacional",
+      "descricao": "O CNB/CF apresentou a experiência brasileira com ferramentas de inteligência artificial integradas ao e-Notariado em reunião da União Internacional do Notariado. A entidade destacou que a tecnologia apoia tarefas notariais, mantendo a intervenção profissional como parte da segurança dos atos.",
+      "data_publicacao": "2026-10-20T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "BNDES e Prefeitura do Rio avançam em projeto de requalificação urbana na Pequena África",
+      "descricao": "O projeto prevê a primeira intervenção de requalificação urbana na Praça dos Estivadores e parcerias para equipamentos culturais na região. O investimento inicial estimado é de R$ 23 milhões, com recursos públicos e privados.",
+      "data_publicacao": "2026-10-21T12:12:00-03:00",
+      "url": "https://agenciadenoticias.bndes.gov.br/noticia/BNDES-e-Prefeitura-do-RJ-avancam-na-consolidacao-do-Distrito-Cultural-Pequena-Africa",
+      "fonte": "Agência BNDES de Notícias"
+    },
+    {
+      "titulo": "Nova gestão do Galeão prevê investimentos comerciais e ampliação de conexões",
+      "descricao": "A nova etapa da concessão do aeroporto inclui previsão de cerca de R$ 1 bilhão em investimentos privados em empreendimentos comerciais nos próximos três anos. O plano busca ampliar rotas e conexões, com reflexos esperados para o turismo e a economia do Rio de Janeiro.",
+      "data_publicacao": "2026-10-13T15:15:00-03:00",
+      "url": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/10/nova-gestao-do-galeao-mira-ampliacao-da-conectividade-aerea-e-atracao-de-novos-empreendimentos-comerciais",
+      "fonte": "Ministério de Portos e Aeroportos"
     }
   ]
 }
