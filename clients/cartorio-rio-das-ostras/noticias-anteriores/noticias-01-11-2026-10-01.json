@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-01T10:01:38-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras orienta ME e EPP sobre emissão da NFS-e nacional",
+      "descricao": "A partir de 1º de novembro, microempresas e empresas de pequeno porte do Simples Nacional devem emitir a nota de serviço pelo padrão nacional, via emissor web ou API. A Prefeitura informou que o sistema municipal deixará de emitir documentos para essas empresas e para MEIs.",
+      "data_publicacao": "2026-10-28T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-orienta-sobre-mudanca-na-emissao-de-nfs-e/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Arrecadação da Zona Especial de Negócios cresce mais de 63%",
+      "descricao": "A Prefeitura informou que o ISS arrecadado das empresas da Zona Especial de Negócios aumentou mais de 63% em comparação com 2024, com impacto estimado em R$ 62 milhões. O resultado foi divulgado pela Secretaria Municipal de Desenvolvimento Econômico e Turismo.",
+      "data_publicacao": "2026-10-28T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/arrecadacao-da-zona-especial-de-negocios-aumenta-mais-de-60/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras participa de feira de empregabilidade e qualificação",
+      "descricao": "Representantes municipais acompanharam o Contrata Transporte 2026, em Campos dos Goytacazes, evento voltado a oportunidades e qualificação profissional no setor de transportes. A programação incluiu orientação para currículos, palestras e divulgação de bolsas de estudo.",
+      "data_publicacao": "2026-10-28T12:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-participa-da-feira-de-transporte/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rota 116 prevê 120 mil veículos no feriado de Finados",
+      "descricao": "A concessionária estima que cerca de 120 mil veículos circulem pela RJ-116 durante o feriado prolongado de Finados. A Agetransp informou que a concessionária programou intervenções em diferentes pontos da rodovia, que conecta municípios fluminenses da Região Serrana e do interior.",
+      "data_publicacao": "2026-10-29T12:00:00-03:00",
+      "url": "https://www.agetransp.rj.gov.br/noticias/rota-116-preve-120-mil-veiculos-durante-o-feriado-de-finados",
+      "fonte": "Agetransp"
+    },
+    {
+      "titulo": "Detran-RJ informa funcionamento das unidades durante feriado prolongado",
+      "descricao": "O Detran-RJ comunicou que unidades e teleatendimento não funcionariam na sexta-feira, 30 de outubro, em razão do ponto facultativo estadual. O atendimento estava previsto para retornar na terça-feira, 3 de novembro, após o feriado de Finados.",
+      "data_publicacao": "2026-10-29T12:00:00-03:00",
+      "url": "https://www.detran.rj.gov.br/noticias/detran-rj-orienta-usuarios-sobre-o-funcionamento-no-feriado-prolongado.html",
+      "fonte": "Detran-RJ"
+    },
+    {
+      "titulo": "Contrato imobiliário sem registro e juros abusivos levam à restituição integral",
+      "descricao": "A Justiça de Goiás aplicou o Código de Defesa do Consumidor em disputa sobre promessa de compra e venda de lote. Sem registro da garantia fiduciária nem constituição formal em mora, a sentença afastou o rito especial e determinou a devolução integral dos valores pagos.",
+      "data_publicacao": "2026-10-29T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-29/capitalizacao-mensal-de-incorporadora-sem-sfn-gera-restituicao-integral/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STF define imunidade de ITBI na integralização de capital por imobiliárias",
+      "descricao": "O STF concluiu que a imunidade de ITBI na integralização de bens ao capital social independe da atividade imobiliária predominante da empresa. O entendimento preserva o limite do valor destinado ao capital social e permite apuração de simulação ou fraude.",
+      "data_publicacao": "2026-10-28T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-28/imunidade-de-itbi-reduz-custos-e-da-previsibilidade-ao-setor-imobiliario-avaliam-especialistas/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Tema 1.348 do STF e a imunidade de ITBI para fundos imobiliários",
+      "descricao": "O artigo analisa os efeitos do Tema 1.348 para fundos de investimento imobiliário. O julgamento afastou a restrição baseada na atividade imobiliária predominante, mas não resolveu a questão distinta de os fundos não possuírem personalidade jurídica.",
+      "data_publicacao": "2026-10-27T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-27/a-imunidade-do-itbi-e-os-fundos-imobiliarios-depois-do-tema-1-348/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ e Banco Central propõem escritura pública para cessão de precatórios",
+      "descricao": "Proposta apresentada ao CNJ e ao Banco Central prevê escritura pública como etapa para que a cessão de precatórios produza efeitos perante o Judiciário. O CNB/CF participou da formulação do modelo, que também prevê mecanismos de registro eletrônico e rastreabilidade.",
+      "data_publicacao": "2026-10-07T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Encontro Notarial Sul debate inovação e segurança jurídica",
+      "descricao": "Realizado pelo CNB/CF e pela OAB, o encontro reuniu profissionais do Notariado, Registro, Advocacia e Judiciário. Os painéis trataram de provas digitais, atos internacionais, inventário extrajudicial e mudanças ligadas à Reforma Tributária.",
+      "data_publicacao": "2026-10-19T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/encontro-notarial-sul-encerra-programacao-em-curitiba-com-debates-sobre-inovacao-seguranca-juridica-e-novos-desafios-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB apresenta ferramentas de inteligência artificial do e-Notariado",
+      "descricao": "O CNB/CF apresentou a representantes de 93 países ferramentas de inteligência artificial aplicadas ou em teste no e-Notariado. Entre os usos relatados estão extração de dados de escrituras, produção de informações estruturadas para registro e apoio à auditoria de atos.",
+      "data_publicacao": "2026-10-20T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}
