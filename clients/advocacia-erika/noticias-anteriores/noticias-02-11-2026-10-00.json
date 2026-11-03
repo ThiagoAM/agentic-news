@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-02T10:00:02-03:00",
+  "noticias": [
+    {
+      "titulo": "STJ afeta ao rito repetitivo controvérsia sobre resolução de contrato imobiliário sem registro",
+      "descricao": "A Segunda Seção do STJ vai definir se a resolução de compra e venda de imóvel com alienação fiduciária não registrada segue a Lei 9.514/1997 ou o Código de Defesa do Consumidor. O Tema 1.420 reúne recursos envolvendo lotes e deverá esclarecer os efeitos da falta de registro sobre a relação contratual.",
+      "data_publicacao": "2026-10-08T12:00:00-03:00",
+      "url": "https://www.migalhas.com.br/coluna/migalhas-edilicias/466925/alienacao-imobiliaria-nao-registrada-reflexoes-do-tema-1-420",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Dúvida registral permite revisar exigências que impedem o ingresso de título no registro de imóveis",
+      "descricao": "Artigo explica como a suscitação de dúvida pode submeter ao Judiciário a legalidade de uma exigência registral não aceita ou impossível de cumprir. O procedimento tem objeto delimitado e não substitui outras medidas para resolver controvérsias sobre o imóvel.",
+      "data_publicacao": "2026-10-22T12:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/467046/operacao-travada-no-cartorio-a-suscitacao-de-duvida-na-revisao",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Artigo analisa limites da competência residual dos cartórios de registro de imóveis",
+      "descricao": "O texto examina a mudança promovida pela Lei 14.382/2022 nas regras de competência entre serventias imobiliárias. A análise discute quando o cartório de origem ainda pode praticar atos em imóveis transferidos para outra circunscrição.",
+      "data_publicacao": "2026-10-09T12:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/466265/summary_large_image",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "STJ discute efeitos da quitação de imóvel diante de alienação fiduciária em favor de banco",
+      "descricao": "Artigo publicado no ConJur examina a posição da Quarta Turma do STJ sobre a aplicação da Súmula 308 à alienação fiduciária e a divergência ainda existente entre turmas. A análise destaca que o pagamento à incorporadora não garante, por si só, o cancelamento do gravame registrado pelo credor.",
+      "data_publicacao": "2026-10-23T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/alienacao-fiduciaria-e-sumula-308-do-stj-a-restricao-jurisprudencial-em-debate/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ mantém proteção de bem de família quando imóvel continua servindo de moradia",
+      "descricao": "A Corte Especial do STJ decidiu que a impenhorabilidade pode ser preservada quando o imóvel doado continua sendo a residência da família, mesmo reconhecida fraude à execução. O julgamento uniformiza a proteção conforme a destinação habitacional do bem.",
+      "data_publicacao": "2026-10-23T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/fraude-a-execucao-nao-afasta-impenhorabilidade-se-imovel-segue-de-familia/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo discute locação por temporada enquanto STJ prepara julgamento repetitivo",
+      "descricao": "O texto sustenta que condomínios devem preservar a situação vigente até que o STJ defina, em recurso repetitivo, quando a convenção residencial pode restringir locações de curta duração. A controvérsia envolve a interpretação das regras condominiais e dos precedentes aplicáveis.",
+      "data_publicacao": "2026-10-23T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/o-gato-de-schrodinger-e-a-locacao-por-temporada-no-stj-a-corte-suspende-a-proibicao-nao/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB participa de proposta para formalizar cessões de precatórios por escritura pública",
+      "descricao": "Proposta apresentada pelo CNJ e pelo Banco Central prevê escritura pública para que cessões de precatórios produzam efeitos perante o Judiciário. O modelo também contempla registro eletrônico e rastreabilidade das transferências, mas ainda dependia de análise normativa quando divulgado.",
+      "data_publicacao": "2026-10-07T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cessao-de-precatorios-devera-ser-feita-por-escritura-publica-em-tabelionato-para-ter-validade-judicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Encontro Notarial Sul debate provas digitais, inventários e reforma tributária",
+      "descricao": "O encontro promovido pelo CNB/CF e pela OAB reuniu profissionais para discutir inovação, atos internacionais, inventários extrajudiciais e impactos da reforma tributária. Os painéis também trataram de ITCMD e ITBI e de novas ferramentas para a atividade notarial.",
+      "data_publicacao": "2026-10-19T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/encontro-notarial-sul-encerra-programacao-em-curitiba-com-debates-sobre-inovacao-seguranca-juridica-e-novos-desafios-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB apresenta uso de inteligência artificial integrada ao e-Notariado em encontro internacional",
+      "descricao": "O CNB/CF apresentou a experiência brasileira com ferramentas de inteligência artificial integradas ao e-Notariado em reunião da União Internacional do Notariado. A entidade destacou que a tecnologia apoia tarefas notariais, mantendo a intervenção profissional como parte da segurança dos atos.",
+      "data_publicacao": "2026-10-20T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "BNDES e Prefeitura do Rio avançam em projeto de requalificação urbana na Pequena África",
+      "descricao": "O projeto prevê a primeira intervenção de requalificação urbana na Praça dos Estivadores e parcerias para equipamentos culturais na região. O investimento inicial estimado é de R$ 23 milhões, com recursos públicos e privados.",
+      "data_publicacao": "2026-10-21T12:12:00-03:00",
+      "url": "https://agenciadenoticias.bndes.gov.br/noticia/BNDES-e-Prefeitura-do-RJ-avancam-na-consolidacao-do-Distrito-Cultural-Pequena-Africa",
+      "fonte": "Agência BNDES de Notícias"
+    },
+    {
+      "titulo": "Nova gestão do Galeão prevê investimentos comerciais e ampliação de conexões",
+      "descricao": "A nova etapa da concessão do aeroporto inclui previsão de cerca de R$ 1 bilhão em investimentos privados em empreendimentos comerciais nos próximos três anos. O plano busca ampliar rotas e conexões, com reflexos esperados para o turismo e a economia do Rio de Janeiro.",
+      "data_publicacao": "2026-10-13T15:15:00-03:00",
+      "url": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/10/nova-gestao-do-galeao-mira-ampliacao-da-conectividade-aerea-e-atracao-de-novos-empreendimentos-comerciais",
+      "fonte": "Ministério de Portos e Aeroportos"
+    }
+  ]
+}
