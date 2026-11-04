@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-03T10:21:39-03:00",
+  "noticias": [
+    {
+      "titulo": "Arrecadação da Zona Especial de Negócios aumenta mais de 60%",
+      "descricao": "A Prefeitura informou que o ISS das empresas instaladas na Zona Especial de Negócios subiu 63% em relação a 2024, com impacto de cerca de R$ 62 milhões. A área concentra atividades ligadas a petróleo e gás e o município relaciona o resultado a oportunidades para fornecedores e trabalhadores locais.",
+      "data_publicacao": "2026-10-28T11:04:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/arrecadacao-da-zona-especial-de-negocios-aumenta-mais-de-60/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura projeta obras em Costazul para solucionar alagamentos",
+      "descricao": "A Secretaria de Obras concluiu um projeto de drenagem para parte de Costazul, com previsão de 1.300 metros de galerias, 24 poços de visita e pavimentação em trechos da Rua Beija-Flor. O próximo passo informado é iniciar os trâmites licitatórios; as obras ainda não começaram.",
+      "data_publicacao": "2026-10-22T15:32:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-projeta-obras-em-costazul-para-solucionar-alagamentos/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras participa do Contrata Transporte",
+      "descricao": "Representantes do Desenvolvimento Econômico de Rio das Ostras acompanharam a Feira Emprega Transporte 2026, realizada em Campos dos Goytacazes, com empresas de transporte, logística e serviços, além de atividades de qualificação. O município informou que a participação buscou conhecer iniciativas aplicáveis às políticas locais de emprego e renda.",
+      "data_publicacao": "2026-10-28T10:11:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-participa-da-feira-de-transporte/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Nova grade do Ramal Belford Roxo, aos domingos, tem fiscalização da Agetransp",
+      "descricao": "A nova programação dominical do ramal passou a prever 28 viagens, com intervalo médio de 50 minutos e últimas partidas às 17h20 da Central e às 16h48 no sentido inverso. A Agetransp informou que fiscaliza o trajeto para verificar o cumprimento da grade contratual.",
+      "data_publicacao": "2026-10-20T14:10:00-03:00",
+      "url": "https://www.agetransp.rj.gov.br/noticias/nova-grade-do-ramal-belford-roxo-aos-domingos-tem-fiscalizacao-da-agetransp",
+      "fonte": "Agetransp"
+    },
+    {
+      "titulo": "Agetransp realiza inspeção em Oficina da TrensRJ",
+      "descricao": "A agência reguladora realizou inspeção técnica na Oficina Deodoro da TrensRJ para verificar a manutenção de componentes usados na circulação dos trens. A fiscalização examinou sistemas de rodagem, tração, operação, captação de energia e ar-condicionado.",
+      "data_publicacao": "2026-10-23T09:10:00-03:00",
+      "url": "https://www.agetransp.rj.gov.br/noticias/agetransp-realiza-inspecao-em-oficina-da-trensrj",
+      "fonte": "Agetransp"
+    },
+    {
+      "titulo": "Imunidade de ITBI na integralização alcança empresa imobiliária, decide STF",
+      "descricao": "No Tema 1.348, o STF reconheceu que a imunidade de ITBI na integralização de capital pode alcançar sociedades cuja atividade principal seja compra, venda, locação ou arrendamento de imóveis. O entendimento se limita ao valor destinado ao capital e não cobre operações simuladas ou fraudulentas.",
+      "data_publicacao": "2026-10-28T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-28/imunidade-de-itbi-reduz-custos-e-da-previsibilidade-ao-setor-imobiliario-avaliam-especialistas/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Relator no STJ vota contra usucapião de nome de domínio, e vista suspende julgamento",
+      "descricao": "O relator da 4ª Turma entendeu que o registro de um nome de domínio não gera posse autônoma nem direito real que permita sua usucapião. O julgamento foi suspenso após pedido de vista, sem decisão final.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-14/stj-avalia-se-cabe-usucapiao-de-nome-de-dominio-na-internet/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CBS na venda de imóvel: análise de seus aspectos relevantes",
+      "descricao": "Artigo examina as regras da CBS para alienação de imóveis, incluindo alíquota reduzida e redutor de ajuste da base de cálculo. O texto aponta dúvidas sobre custos de imóveis concluídos antes de 2027 e afirma que parte da aplicação ainda depende de regulamentação.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-09/cbs-na-venda-de-imovel-analise-de-seus-aspectos-relevantes/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Estadão: Herança blindada: como famílias de alta renda protegem o patrimônio ao antecipar a sucessão",
+      "descricao": "Reportagem publicada pelo CNB/SP informa que mudanças nacionais no ITCMD previstas pela LC 227/2026 influenciam planos de sucessão e antecipação de doações. Dados do Colégio Notarial citados na matéria indicam ao menos 185 mil escrituras públicas de doação de imóveis em 2025, enquanto a reportagem aborda cláusulas de usufruto e seus efeitos sobre o patrimônio.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/22/estadao-heranca-blindada-como-familias-de-alta-renda-protegem-o-patrimonio-ao-antecipar-a-sucessao/",
+      "fonte": "CNB/SP"
+    },
+    {
+      "titulo": "CNB/CF apresenta experiência brasileira em painel internacional sobre IA na Albânia",
+      "descricao": "O Colégio Notarial do Brasil apresentou ferramentas de inteligência artificial integradas ao e-Notariado em painel internacional com representantes de 93 países. A apresentação tratou de leitura documental, automação de dados e apoio a serviços notariais, com a decisão final mantida pelo profissional.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Diretor do CNB/CF é nomeado vice-presidente da Comissão de Assuntos Americanos da UINL",
+      "descricao": "Ubiratan Guimarães, diretor e ex-presidente do CNB/CF, foi nomeado vice-presidente da Comissão de Assuntos Americanos da União Internacional do Notariado. A função envolve cooperação e intercâmbio entre os notariados do continente em temas de modernização e segurança jurídica.",
+      "data_publicacao": "2026-10-30T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/diretor-do-cnb-cf-ubiratan-guimaraes-e-nomeado-vice-presidente-da-comissao-de-assuntos-americanos-da-uinl/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}
