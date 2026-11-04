@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-11-03T10:07:02-03:00",
+  "data-busca": "2026-11-04T09:59:02-03:00",
   "noticias": [
     {
-      "titulo": "Imunidade de ITBI na integralização alcança empresa imobiliária, decide STF",
-      "descricao": "No Tema 1.348, o STF reconheceu que a imunidade de ITBI na integralização de capital pode alcançar sociedades cuja atividade principal seja compra, venda, locação ou arrendamento de imóveis. O entendimento se limita ao valor destinado ao capital e não cobre operações simuladas ou fraudulentas.",
-      "data_publicacao": "2026-10-28T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-28/imunidade-de-itbi-reduz-custos-e-da-previsibilidade-ao-setor-imobiliario-avaliam-especialistas/",
-      "fonte": "ConJur"
+      "titulo": "STF afasta ITBI em imóvel integralizado por empresa imobiliária",
+      "descricao": "O STF fixou, em repercussão geral, que a imunidade de ITBI na integralização de capital não depende da atividade preponderante da empresa. A proteção limita-se ao valor efetivamente incorporado ao capital e não alcança operações com simulação ou fraude.",
+      "data_publicacao": "2026-10-21T16:36:00-03:00",
+      "url": "https://noticias.stf.jus.br/postsnoticias/imunidade-de-itbi-na-integralizacao-de-capital-vale-tambem-para-empresas-do-setor-imobiliario-decide-stf/",
+      "fonte": "Supremo Tribunal Federal"
     },
     {
-      "titulo": "Relator no STJ vota contra usucapião de nome de domínio, e vista suspende julgamento",
-      "descricao": "O relator da 4ª Turma entendeu que o registro de um nome de domínio não gera posse autônoma nem direito real que permita sua usucapião. O julgamento foi suspenso após pedido de vista, sem decisão final.",
-      "data_publicacao": "2026-10-14T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-14/stj-avalia-se-cabe-usucapiao-de-nome-de-dominio-na-internet/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Afastar separação obrigatória na união estável exige escritura em vida, defende artigo",
-      "descricao": "Artigo analisa decisão do STJ sobre regime de bens em união estável e sustenta que o afastamento da separação obrigatória exige escritura pública firmada em vida. O texto também discute efeitos patrimoniais e sucessórios quando a união se encerra com a morte de um dos conviventes.",
-      "data_publicacao": "2026-10-21T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-21/autonomia-que-chegou-tarde-modulacao-do-tema-1-236-stf-e-causa-suspensiva-na-uniao-estavel/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Na falência, credor fiduciário não consolida propriedade em cartório, defende artigo",
-      "descricao": "Artigo discute o tratamento de imóveis dados em garantia durante a falência e sustenta que o credor fiduciário deve pedir restituição no juízo falimentar, sem consolidar a propriedade em cartório após a quebra. O texto também diferencia essa situação do imóvel hipotecado, que pode integrar a massa falida.",
-      "data_publicacao": "2026-10-27T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-27/hipoteca-e-alienacao-fiduciaria-na-falencia-a-mesma-divida-dois-destinos/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "CBS na venda de imóvel: análise de seus aspectos relevantes",
-      "descricao": "Artigo examina as regras da CBS para alienação de imóveis, incluindo a alíquota reduzida e o redutor de ajuste da base de cálculo. O texto aponta dúvidas sobre os custos de imóveis concluídos antes de 2027 e afirma que parte da aplicação ainda depende de regulamentação.",
-      "data_publicacao": "2026-10-09T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-09/cbs-na-venda-de-imovel-analise-de-seus-aspectos-relevantes/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Informativo 907 do STJ aborda colação de imóvel transferido a netos por escritura de compra e venda",
-      "descricao": "O Informativo 907 resume entendimento de que a transferência de imóvel a netos por escritura de compra e venda, sem prova do pagamento, pode configurar doação indireta sujeita à colação. Para dispensar a colação, é necessária declaração expressa de que a liberalidade sai da parte disponível do patrimônio.",
-      "data_publicacao": "2026-10-27T00:00:00-03:00",
-      "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022717",
+      "titulo": "STJ fixa critérios para avaliação de imóveis desapropriados",
+      "descricao": "A Primeira Seção estabeleceu referências temporais para avaliar imóveis em desapropriações, com prazos distintos para utilidade pública e reforma agrária. Nas desapropriações indiretas, a perícia deve estimar o valor na data do apossamento administrativo, observadas as regras definidas pelo colegiado.",
+      "data_publicacao": "2026-10-26T06:50:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/26102026-primeira-secao-fixa-criterios-para-valor-de-indenizacao-em-desapropriacoes--colegiado-modula-efeitos.aspx",
       "fonte": "Superior Tribunal de Justiça"
     },
     {
-      "titulo": "Oficina notarial e registral: designação cadastral na qualificação de imóveis",
-      "descricao": "Artigo examina o papel dos dados cadastrais fiscais na qualificação registral e sua integração com o Cadastro Imobiliário Brasileiro e o Sinter. A análise aponta limites para exigir dados que ainda não estejam disponíveis nos cadastros municipais.",
-      "data_publicacao": "2026-10-16T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/coluna/migalhas-notariais-e-registrais/466580/oficina-notarial-e-registral-a-designacao-cadastral-como-elemento",
+      "titulo": "STJ afasta responsabilidade de banco por atraso na obra quando atua só como financiador",
+      "descricao": "O STJ decidiu que o agente financeiro que atua apenas como credor fiduciário não responde por atraso ou defeitos da construção. A fiscalização vinculada à liberação de parcelas não transfere, por si só, as obrigações da incorporadora ou da construtora.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022709",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Imóvel vendido a netos sem prova de pagamento deve ser levado à colação, diz STJ",
+      "descricao": "O STJ entendeu que a transferência de imóvel por escritura de compra e venda, sem comprovação do pagamento, pode configurar doação indireta sujeita à colação no inventário. A regra também alcança netos que sucedem por representação; a dispensa exige declaração expressa do doador.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022711",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ mantém registro imobiliário em disputa de matrículas sobrepostas",
+      "descricao": "Ao analisar uma disputa sobre imóveis em Palmas, o STJ considerou válida a cadeia dominial examinada pelo tribunal estadual e deu prioridade ao registro mais antigo entre cadeias hígidas. A anulação de atos registrais depende de prova robusta de irregularidade.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022694",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Proprietário registral pode responder por IPTU após cessão particular do imóvel",
+      "descricao": "O STJ decidiu que a cessão particular da posse, mesmo comunicada ao município, não afasta por si só o vínculo do proprietário que ainda consta no Registro de Imóveis nem sua legitimidade para responder pelo IPTU. A legislação municipal pode definir o sujeito passivo, mas a transferência da propriedade depende do registro do título.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022708",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ admite ação de sonegados antes do fim do inventário em caso de resistência",
+      "descricao": "O STJ reconheceu interesse para ajuizar ação de sonegados contra herdeiros antes do encerramento do inventário quando houver oposição inequívoca à colação dos bens. O caso envolvia quinze imóveis que o inventariante afirmava terem sido adquiridos com recursos do falecido.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022736",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "TJDFT afasta ITCD sobre acréscimo de usufruto ao cônjuge sobrevivente",
+      "descricao": "O TJDFT entendeu que o direito de acrescer, previsto em usufruto vitalício em favor do cônjuge sobrevivente, mantém um direito real já constituído e não representa nova transmissão patrimonial. Por isso, determinou a averbação sem exigir recolhimento de ITCD.",
+      "data_publicacao": "2026-10-07T00:00:00-03:00",
+      "url": "https://jurisdf.tjdft.jus.br/acordaos/2f8aeebc-58d8-4104-91ac-82bfb68addf4",
+      "fonte": "Tribunal de Justiça do Distrito Federal e dos Territórios"
+    },
+    {
+      "titulo": "TJGO reconhece usucapião de imóvel mesmo sem quitação integral do contrato",
+      "descricao": "A 7ª Câmara Cível do TJGO reconheceu usucapião de imóvel em Goiânia apesar de o compromisso de compra e venda não ter sido integralmente pago. A decisão considerou a permanência prolongada da família, a construção de uma casa, o pagamento de IPTU e a falta de ação judicial do vendedor após notificação extrajudicial.",
+      "data_publicacao": "2026-10-28T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/familia-conquista-usucapiao-apos-ter-se-tornado-inadimplente",
+      "fonte": "Registro de Imóveis do Brasil, com informações do Rota Jurídica"
+    },
+    {
+      "titulo": "Justiça suspende expropriação de pequena propriedade rural familiar",
+      "descricao": "Em decisão liminar, a Justiça suspendeu a consolidação fiduciária e eventual expropriação de um sítio oferecido em garantia, diante de documentos que apontavam exploração familiar. A divergência entre os registros sobre a área do imóvel deverá ser esclarecida no processo, sem decisão definitiva sobre a validade da garantia.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/03/direito-news-juiza-suspende-execucao-de-garantia-sobre-pequena-propriedade-familiar/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "STJ vai definir limites de retenção em distratos de imóveis",
+      "descricao": "A Segunda Seção afetou recursos repetitivos para definir percentuais e bases de cálculo da retenção em distratos por culpa do comprador, considerando contratos anteriores à Lei do Distrato e lotes adquiridos após sua vigência. Os recursos especiais e agravos sobre esses temas foram suspensos, mas o mérito ainda será julgado.",
+      "data_publicacao": "2026-10-09T16:56:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466255/stj-definira-limites-de-retencao-na-rescisao-de-compra-de-imovel",
       "fonte": "Migalhas"
-    },
-    {
-      "titulo": "Nordeste supera Sul em gestão de patrimônio; advogada alerta para riscos",
-      "descricao": "Dados da Anbima citados na reportagem apontam R$ 60,5 bilhões sob gestão no Nordeste no primeiro semestre de 2026, acima do volume registrado no Sul. O texto relaciona o crescimento do mercado à organização societária e ao planejamento sucessório de empresas familiares.",
-      "data_publicacao": "2026-10-16T15:09:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/466680/stf-julga-efeitos-da-tese-que-garantiu-piso-do-magisterio-a-professores-temporarios",
-      "fonte": "Migalhas"
-    },
-    {
-      "titulo": "Estadão: Herança blindada: como famílias de alta renda protegem o patrimônio ao antecipar a sucessão",
-      "descricao": "Reportagem descreve como mudanças nacionais no ITCMD previstas pela LC 227/2026 influenciam planos de sucessão e antecipação de doações. A matéria aborda cláusulas de usufruto e alerta que restrições à venda de imóveis podem trazer riscos conforme as características do patrimônio.",
-      "data_publicacao": "2026-10-22T00:00:00-03:00",
-      "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/heranca-blindada-como-familias-de-alta-renda-protegem-o-patrimonio-ao-antecipar-a-sucessao/",
-      "fonte": "Estadão"
-    },
-    {
-      "titulo": "STJ mantém registro de imóvel em disputa ligada à criação do Tocantins",
-      "descricao": "A 3ª Turma do STJ manteve registro de terrenos em disputa sobre matrículas no loteamento Taquaruçu Canela, em Palmas. A relatora destacou que a anulação de registros exige prova robusta de irregularidade e observância da continuidade registral.",
-      "data_publicacao": "2026-10-20T15:58:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/466890/stj-mantem-registro-de-imovel-em-disputa-ligada-a-criacao-do-tocantins",
-      "fonte": "Migalhas"
-    },
-    {
-      "titulo": "Diretor do CNB/CF é nomeado vice-presidente da Comissão de Assuntos Americanos da UINL",
-      "descricao": "Ubiratan Guimarães, diretor e ex-presidente do CNB/CF, foi nomeado vice-presidente da Comissão de Assuntos Americanos da União Internacional do Notariado. A função envolve cooperação e intercâmbio entre os notariados do continente em temas de modernização e segurança jurídica.",
-      "data_publicacao": "2026-10-30T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/diretor-do-cnb-cf-ubiratan-guimaraes-e-nomeado-vice-presidente-da-comissao-de-assuntos-americanos-da-uinl/",
-      "fonte": "Colégio Notarial do Brasil"
     }
   ]
 }

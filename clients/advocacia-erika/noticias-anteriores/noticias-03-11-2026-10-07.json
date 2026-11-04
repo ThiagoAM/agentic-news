@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-03T10:07:02-03:00",
+  "noticias": [
+    {
+      "titulo": "Imunidade de ITBI na integralização alcança empresa imobiliária, decide STF",
+      "descricao": "No Tema 1.348, o STF reconheceu que a imunidade de ITBI na integralização de capital pode alcançar sociedades cuja atividade principal seja compra, venda, locação ou arrendamento de imóveis. O entendimento se limita ao valor destinado ao capital e não cobre operações simuladas ou fraudulentas.",
+      "data_publicacao": "2026-10-28T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-28/imunidade-de-itbi-reduz-custos-e-da-previsibilidade-ao-setor-imobiliario-avaliam-especialistas/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Relator no STJ vota contra usucapião de nome de domínio, e vista suspende julgamento",
+      "descricao": "O relator da 4ª Turma entendeu que o registro de um nome de domínio não gera posse autônoma nem direito real que permita sua usucapião. O julgamento foi suspenso após pedido de vista, sem decisão final.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-14/stj-avalia-se-cabe-usucapiao-de-nome-de-dominio-na-internet/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Afastar separação obrigatória na união estável exige escritura em vida, defende artigo",
+      "descricao": "Artigo analisa decisão do STJ sobre regime de bens em união estável e sustenta que o afastamento da separação obrigatória exige escritura pública firmada em vida. O texto também discute efeitos patrimoniais e sucessórios quando a união se encerra com a morte de um dos conviventes.",
+      "data_publicacao": "2026-10-21T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-21/autonomia-que-chegou-tarde-modulacao-do-tema-1-236-stf-e-causa-suspensiva-na-uniao-estavel/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Na falência, credor fiduciário não consolida propriedade em cartório, defende artigo",
+      "descricao": "Artigo discute o tratamento de imóveis dados em garantia durante a falência e sustenta que o credor fiduciário deve pedir restituição no juízo falimentar, sem consolidar a propriedade em cartório após a quebra. O texto também diferencia essa situação do imóvel hipotecado, que pode integrar a massa falida.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-27/hipoteca-e-alienacao-fiduciaria-na-falencia-a-mesma-divida-dois-destinos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CBS na venda de imóvel: análise de seus aspectos relevantes",
+      "descricao": "Artigo examina as regras da CBS para alienação de imóveis, incluindo a alíquota reduzida e o redutor de ajuste da base de cálculo. O texto aponta dúvidas sobre os custos de imóveis concluídos antes de 2027 e afirma que parte da aplicação ainda depende de regulamentação.",
+      "data_publicacao": "2026-10-09T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-09/cbs-na-venda-de-imovel-analise-de-seus-aspectos-relevantes/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Informativo 907 do STJ aborda colação de imóvel transferido a netos por escritura de compra e venda",
+      "descricao": "O Informativo 907 resume entendimento de que a transferência de imóvel a netos por escritura de compra e venda, sem prova do pagamento, pode configurar doação indireta sujeita à colação. Para dispensar a colação, é necessária declaração expressa de que a liberalidade sai da parte disponível do patrimônio.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022717",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Oficina notarial e registral: designação cadastral na qualificação de imóveis",
+      "descricao": "Artigo examina o papel dos dados cadastrais fiscais na qualificação registral e sua integração com o Cadastro Imobiliário Brasileiro e o Sinter. A análise aponta limites para exigir dados que ainda não estejam disponíveis nos cadastros municipais.",
+      "data_publicacao": "2026-10-16T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/coluna/migalhas-notariais-e-registrais/466580/oficina-notarial-e-registral-a-designacao-cadastral-como-elemento",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Nordeste supera Sul em gestão de patrimônio; advogada alerta para riscos",
+      "descricao": "Dados da Anbima citados na reportagem apontam R$ 60,5 bilhões sob gestão no Nordeste no primeiro semestre de 2026, acima do volume registrado no Sul. O texto relaciona o crescimento do mercado à organização societária e ao planejamento sucessório de empresas familiares.",
+      "data_publicacao": "2026-10-16T15:09:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466680/stf-julga-efeitos-da-tese-que-garantiu-piso-do-magisterio-a-professores-temporarios",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Estadão: Herança blindada: como famílias de alta renda protegem o patrimônio ao antecipar a sucessão",
+      "descricao": "Reportagem descreve como mudanças nacionais no ITCMD previstas pela LC 227/2026 influenciam planos de sucessão e antecipação de doações. A matéria aborda cláusulas de usufruto e alerta que restrições à venda de imóveis podem trazer riscos conforme as características do patrimônio.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/heranca-blindada-como-familias-de-alta-renda-protegem-o-patrimonio-ao-antecipar-a-sucessao/",
+      "fonte": "Estadão"
+    },
+    {
+      "titulo": "STJ mantém registro de imóvel em disputa ligada à criação do Tocantins",
+      "descricao": "A 3ª Turma do STJ manteve registro de terrenos em disputa sobre matrículas no loteamento Taquaruçu Canela, em Palmas. A relatora destacou que a anulação de registros exige prova robusta de irregularidade e observância da continuidade registral.",
+      "data_publicacao": "2026-10-20T15:58:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466890/stj-mantem-registro-de-imovel-em-disputa-ligada-a-criacao-do-tocantins",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Diretor do CNB/CF é nomeado vice-presidente da Comissão de Assuntos Americanos da UINL",
+      "descricao": "Ubiratan Guimarães, diretor e ex-presidente do CNB/CF, foi nomeado vice-presidente da Comissão de Assuntos Americanos da União Internacional do Notariado. A função envolve cooperação e intercâmbio entre os notariados do continente em temas de modernização e segurança jurídica.",
+      "data_publicacao": "2026-10-30T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/diretor-do-cnb-cf-ubiratan-guimaraes-e-nomeado-vice-presidente-da-comissao-de-assuntos-americanos-da-uinl/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}
