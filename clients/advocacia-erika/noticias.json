@@ -1,81 +1,81 @@
 {
-  "data-busca": "2026-11-04T09:59:02-03:00",
+  "data-busca": "2026-11-05T10:00:39-03:00",
   "noticias": [
     {
-      "titulo": "STF afasta ITBI em imóvel integralizado por empresa imobiliária",
-      "descricao": "O STF fixou, em repercussão geral, que a imunidade de ITBI na integralização de capital não depende da atividade preponderante da empresa. A proteção limita-se ao valor efetivamente incorporado ao capital e não alcança operações com simulação ou fraude.",
-      "data_publicacao": "2026-10-21T16:36:00-03:00",
-      "url": "https://noticias.stf.jus.br/postsnoticias/imunidade-de-itbi-na-integralizacao-de-capital-vale-tambem-para-empresas-do-setor-imobiliario-decide-stf/",
-      "fonte": "Supremo Tribunal Federal"
+      "titulo": "Justiça limita multa por rescisão de contrato imobiliário",
+      "descricao": "A 6ª Vara Cível de Londrina limitou a retenção na rescisão da compra de um terreno a 10% do valor já pago, e não do preço total do imóvel. A decisão considerou que não foi demonstrado dano patrimonial adicional que justificasse uma retenção maior.",
+      "data_publicacao": "2026-11-04T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/justica-limita-multa-por-rescisao-de-contrato-imobiliario",
+      "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "STJ fixa critérios para avaliação de imóveis desapropriados",
-      "descricao": "A Primeira Seção estabeleceu referências temporais para avaliar imóveis em desapropriações, com prazos distintos para utilidade pública e reforma agrária. Nas desapropriações indiretas, a perícia deve estimar o valor na data do apossamento administrativo, observadas as regras definidas pelo colegiado.",
-      "data_publicacao": "2026-10-26T06:50:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/26102026-primeira-secao-fixa-criterios-para-valor-de-indenizacao-em-desapropriacoes--colegiado-modula-efeitos.aspx",
+      "titulo": "Ex-cônjuge que mora com os filhos no imóvel do outro não precisa pagar aluguel",
+      "descricao": "A Terceira Turma do STJ afastou a cobrança de aluguel quando um ex-cônjuge ocupa imóvel particular do outro com os filhos em comum. A relatora entendeu que a moradia dos filhos beneficia ambos os genitores e não configura uso exclusivo nem enriquecimento sem causa.",
+      "data_publicacao": "2026-11-04T07:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-Ex-conjuge-que-mora-com-os-filhos-no-imovel-do-outro-nao-precisa-pagar-aluguel.aspx",
       "fonte": "Superior Tribunal de Justiça"
     },
     {
-      "titulo": "STJ afasta responsabilidade de banco por atraso na obra quando atua só como financiador",
-      "descricao": "O STJ decidiu que o agente financeiro que atua apenas como credor fiduciário não responde por atraso ou defeitos da construção. A fiscalização vinculada à liberação de parcelas não transfere, por si só, as obrigações da incorporadora ou da construtora.",
-      "data_publicacao": "2026-10-27T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022709",
-      "fonte": "Superior Tribunal de Justiça"
+      "titulo": "Severidade reduz ritmo de vendas do Minha Casa, Minha Vida",
+      "descricao": "Dados do Secovi-SP indicam que a venda sobre oferta do programa caiu de 13% em julho para 11,5% em agosto, enquanto estoques e distratos avançaram. A matéria relaciona o resultado ao maior rigor da Caixa na análise de crédito e a atrasos na contratação e liberação de recursos.",
+      "data_publicacao": "2026-11-04T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/severidade-reduz-ritmo-de-vendas-do-minha-casa-minha-vida",
+      "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "Imóvel vendido a netos sem prova de pagamento deve ser levado à colação, diz STJ",
-      "descricao": "O STJ entendeu que a transferência de imóvel por escritura de compra e venda, sem comprovação do pagamento, pode configurar doação indireta sujeita à colação no inventário. A regra também alcança netos que sucedem por representação; a dispensa exige declaração expressa do doador.",
-      "data_publicacao": "2026-10-27T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022711",
-      "fonte": "Superior Tribunal de Justiça"
-    },
-    {
-      "titulo": "STJ mantém registro imobiliário em disputa de matrículas sobrepostas",
-      "descricao": "Ao analisar uma disputa sobre imóveis em Palmas, o STJ considerou válida a cadeia dominial examinada pelo tribunal estadual e deu prioridade ao registro mais antigo entre cadeias hígidas. A anulação de atos registrais depende de prova robusta de irregularidade.",
+      "titulo": "STJ decide que banco não responde por atraso na entrega de imóvel",
+      "descricao": "A Segunda Seção do STJ entendeu que o banco que financia a obra e acompanha sua execução não responde, por esse fato, perante compradores pelo atraso na entrega. O julgamento distinguiu a fiscalização ligada à liberação do crédito da participação da instituição na construção.",
       "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022694",
-      "fonte": "Superior Tribunal de Justiça"
+      "url": "https://www.registrodeimoveis.org.br/stj-decide-banco-nao-responde-por-atraso-em-entrega-de-imovel",
+      "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "Proprietário registral pode responder por IPTU após cessão particular do imóvel",
-      "descricao": "O STJ decidiu que a cessão particular da posse, mesmo comunicada ao município, não afasta por si só o vínculo do proprietário que ainda consta no Registro de Imóveis nem sua legitimidade para responder pelo IPTU. A legislação municipal pode definir o sujeito passivo, mas a transferência da propriedade depende do registro do título.",
-      "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022708",
-      "fonte": "Superior Tribunal de Justiça"
-    },
-    {
-      "titulo": "STJ admite ação de sonegados antes do fim do inventário em caso de resistência",
-      "descricao": "O STJ reconheceu interesse para ajuizar ação de sonegados contra herdeiros antes do encerramento do inventário quando houver oposição inequívoca à colação dos bens. O caso envolvia quinze imóveis que o inventariante afirmava terem sido adquiridos com recursos do falecido.",
+      "titulo": "STJ admite ação de sonegados antes do encerramento do inventário",
+      "descricao": "O STJ reconheceu interesse processual para ajuizar ação de sonegados contra herdeiros quando há oposição inequívoca à inclusão dos bens apontados como ocultados, mesmo antes do fim do inventário. O caso tratava de imóveis que o inventariante afirmava terem sido adquiridos com recursos do falecido.",
       "data_publicacao": "2026-11-03T00:00:00-03:00",
       "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022736",
       "fonte": "Superior Tribunal de Justiça"
     },
     {
-      "titulo": "TJDFT afasta ITCD sobre acréscimo de usufruto ao cônjuge sobrevivente",
-      "descricao": "O TJDFT entendeu que o direito de acrescer, previsto em usufruto vitalício em favor do cônjuge sobrevivente, mantém um direito real já constituído e não representa nova transmissão patrimonial. Por isso, determinou a averbação sem exigir recolhimento de ITCD.",
-      "data_publicacao": "2026-10-07T00:00:00-03:00",
-      "url": "https://jurisdf.tjdft.jus.br/acordaos/2f8aeebc-58d8-4104-91ac-82bfb68addf4",
-      "fonte": "Tribunal de Justiça do Distrito Federal e dos Territórios"
+      "titulo": "TJ/SP afasta ITBI na integralização de capital de imobiliária",
+      "descricao": "A 15ª Câmara de Direito Público do TJ/SP afastou, por unanimidade, o ITBI sobre a transferência de imóvel para integralizar o capital social de uma empresa imobiliária. O colegiado aplicou o Tema 1.348 do STF e distinguiu essa hipótese das reorganizações societárias sujeitas a outra ressalva constitucional.",
+      "data_publicacao": "2026-10-29T14:13:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/467511/tj-sp-afasta-itbi-na-integralizacao-de-capital-de-imobiliaria%29",
+      "fonte": "Migalhas"
     },
     {
-      "titulo": "TJGO reconhece usucapião de imóvel mesmo sem quitação integral do contrato",
-      "descricao": "A 7ª Câmara Cível do TJGO reconheceu usucapião de imóvel em Goiânia apesar de o compromisso de compra e venda não ter sido integralmente pago. A decisão considerou a permanência prolongada da família, a construção de uma casa, o pagamento de IPTU e a falta de ação judicial do vendedor após notificação extrajudicial.",
+      "titulo": "Filho tem direito a valores deixados pelo pai falecido mesmo sem inventário",
+      "descricao": "A Vara de Sucessões e Registros Públicos de Joinville autorizou o levantamento de saldo bancário em favor da filha menor, após comprovação do parentesco e da inexistência de outros herdeiros ou bens sujeitos a inventário. O juízo aplicou a Lei 6.858/1980, que admite alvará em determinadas situações sem abertura de inventário.",
       "data_publicacao": "2026-10-28T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/familia-conquista-usucapiao-apos-ter-se-tornado-inadimplente",
-      "fonte": "Registro de Imóveis do Brasil, com informações do Rota Jurídica"
+      "url": "https://cnbpr.org.br/filho-tem-direito-a-valores-deixados-pelo-pai-falecido-mesmo-sem-inventario/",
+      "fonte": "Colégio Notarial do Brasil – Seção Paraná"
     },
     {
-      "titulo": "Justiça suspende expropriação de pequena propriedade rural familiar",
-      "descricao": "Em decisão liminar, a Justiça suspendeu a consolidação fiduciária e eventual expropriação de um sítio oferecido em garantia, diante de documentos que apontavam exploração familiar. A divergência entre os registros sobre a área do imóvel deverá ser esclarecida no processo, sem decisão definitiva sobre a validade da garantia.",
-      "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/11/03/direito-news-juiza-suspende-execucao-de-garantia-sobre-pequena-propriedade-familiar/",
-      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+      "titulo": "STJ exige colação de imóveis transferidos a herdeiros por representação",
+      "descricao": "A Quarta Turma do STJ afirmou que descendentes que herdam por representação também devem levar à colação doações que incidam sobre a legítima, salvo dispensa expressa do doador. No caso, a transferência de imóvel formalizada como compra e venda, sem prova de pagamento, foi tratada como doação indireta.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022717",
+      "fonte": "Superior Tribunal de Justiça"
     },
     {
-      "titulo": "STJ vai definir limites de retenção em distratos de imóveis",
-      "descricao": "A Segunda Seção afetou recursos repetitivos para definir percentuais e bases de cálculo da retenção em distratos por culpa do comprador, considerando contratos anteriores à Lei do Distrato e lotes adquiridos após sua vigência. Os recursos especiais e agravos sobre esses temas foram suspensos, mas o mérito ainda será julgado.",
-      "data_publicacao": "2026-10-09T16:56:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/466255/stj-definira-limites-de-retencao-na-rescisao-de-compra-de-imovel",
+      "titulo": "Justiça afasta IR sobre valorização de bens transmitidos por herança",
+      "descricao": "A 13ª Vara Federal de Porto Alegre afastou, em mandado de segurança preventivo, o IR sobre a diferença entre valores históricos e de mercado de bens transmitidos a herdeiros. O juiz considerou que a sucessão não gera acréscimo patrimonial para o espólio e que a valorização já havia composto a base do ITCMD.",
+      "data_publicacao": "2026-10-26T16:42:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/467268/justica-afasta-ir-sobre-valorizacao-de-bens-transmitidos-por-heranca/",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Ferramenta digital passa a permitir busca de imóveis por CPF ou CNPJ em todo o Brasil",
+      "descricao": "A Pesquisa Nacional de Bens passou a consultar registros de mais de 3.600 cartórios dos 26 estados e do Distrito Federal, com buscas baseadas em CPF ou CNPJ. Segundo o ONR, os resultados localizam vínculos registrais e podem ser aprofundados por certidões ou pesquisa qualificada.",
+      "data_publicacao": "2026-10-15T00:00:00-03:00",
+      "url": "https://www.onr.org.br/ferramenta-digital-passa-a-permitir-buscar-imoveis-por-cpf-ou-cnpj-em-todo-o-brasil/",
+      "fonte": "Operador Nacional do Sistema de Registro Eletrônico de Imóveis"
+    },
+    {
+      "titulo": "STF afasta leilão de pequena propriedade rural familiar dada em garantia",
+      "descricao": "O ministro André Mendonça cassou decisão do TJ/RO que autorizava o leilão extrajudicial de imóvel rural familiar oferecido em alienação fiduciária. A decisão aplica o Tema 961 do STF, mas remete às instâncias de origem a análise dos requisitos de proteção da propriedade no caso concreto.",
+      "data_publicacao": "2026-10-23T09:55:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/467108/moraes-suspende-leilao-de-imovel-rural-familiar-dado-como-garantia",
       "fonte": "Migalhas"
     }
   ]
