@@ -1,82 +1,89 @@
 {
-  "data-busca": "2026-11-05T10:00:39-03:00",
+  "data-busca": "2026-11-06T10:00:12-03:00",
   "noticias": [
     {
-      "titulo": "Cadastro da Regularização Fundiária estendido no Âncora",
-      "descricao": "Equipes do Iterj e da Prefeitura de Rio das Ostras atenderão até 7 de novembro moradores do trecho entre as ruas das Camélias e das Casuarinas para completar cadastros de imóveis no programa municipal. A atualização pode permitir que ocupantes aptos recebam os títulos dos lotes.",
+      "titulo": "Rio das Ostras abre 500 vagas no Banco de Empregos",
+      "descricao": "A Prefeitura informou que o Banco de Empregos oferecia 500 vagas no município em 3 de novembro, em funções de diferentes áreas e níveis de experiência. As inscrições são gratuitas e presenciais no Centro de Cidadania, e a relação completa de requisitos está disponível no portal municipal.",
+      "data_publicacao": "2026-11-03T08:28:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-500-vagas-2/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Festa do Feijão volta ao calendário de Rio das Ostras",
+      "descricao": "A Festa do Feijão será realizada de 20 a 22 de novembro no Espaço Socioambiental Pau-Brasil, em Cantagalo. A iniciativa da Fundação de Cultura e da Secretaria de Pesca e Agropecuária busca valorizar a cultura rural e aproximar moradores e visitantes dos produtores locais.",
+      "data_publicacao": "2026-11-05T12:28:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/festa-do-feijao-marca-retomada-oficial-do-projeto/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município abre 291 vagas em cursos gratuitos de informática",
+      "descricao": "Rio das Ostras abrirá inscrições entre 9 e 12 de novembro para 291 vagas em cursos presenciais de informática, planilhas, Excel, Canva e modelagem 3D. As formações fazem parte do Programa Municipal de Qualificação Profissional e atendem a diferentes faixas etárias e níveis de conhecimento.",
+      "data_publicacao": "2026-11-05T15:10:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-abre-inscricoes-para-vagas-em-cursos-gratuitos-de-informatica/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Regularização fundiária tem etapa de cadastro estendida no Âncora",
+      "descricao": "Equipes da Prefeitura e do Instituto de Terras e Cartografia do Estado do Rio seguem até 7 de novembro no Âncora para atualizar cadastros de imóveis incluídos no programa municipal. A etapa busca permitir que ocupantes aptos recebam títulos de propriedade e contempla o trecho entre as ruas das Camélias e das Casuarinas.",
       "data_publicacao": "2026-11-04T12:39:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/cadastro-da-regularizacao-fundiaria-estende-atendimento-no-ancora-ate-sabado-7/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Prefeitura orienta sobre mudança na emissão de NFS-e",
-      "descricao": "A partir de 1º de novembro, microempresas, empresas de pequeno porte do Simples Nacional e MEIs de Rio das Ostras devem emitir NFS-e pelo Emissor Nacional, e o sistema municipal deixa de atender essas categorias. A mudança segue a Resolução CGSN nº 191/2026 e a padronização nacional do serviço.",
-      "data_publicacao": "2026-10-28T10:03:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/prefeitura-orienta-sobre-mudanca-na-emissao-de-nfs-e/",
-      "fonte": "Prefeitura de Rio das Ostras"
+      "titulo": "Governo fluminense lança editais de R$ 2,7 milhões para culturas populares",
+      "descricao": "A Secretaria de Cultura e Economia Criativa do Estado do Rio lançou editais para selecionar 77 projetos ligados ao Funk e ao Hip Hop, com investimento total de R$ 2,725 milhões. As propostas incluem oficinas, produção musical, videoclipes e eventos em diferentes regiões fluminenses.",
+      "data_publicacao": "2026-10-21T12:00:00-03:00",
+      "url": "https://cultura.rj.gov.br/estado-lanca-pacote-de-editais-de-r-27-milhoes-para-apoiar-culturas-populares-com-77-propostas-ligadas-ao-funk-e-ao-hip-hop/",
+      "fonte": "SECEC-RJ"
     },
     {
-      "titulo": "Festival de Covers terá espaço de autorregulação sensorial",
-      "descricao": "A Prefeitura instalará, de 6 a 8 de novembro, uma tenda de autorregulação sensorial na Lagoa do Iriry para crianças com TEA, TDAH e outras condições durante o Festival de Covers. O espaço terá estímulos reduzidos, recursos de apoio e acompanhamento profissional para acolher desconfortos ou sobrecarga sensorial.",
-      "data_publicacao": "2026-11-04T14:45:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/festival-de-covers-tera-espaco-de-autorregulacao-sensorial/",
-      "fonte": "Prefeitura de Rio das Ostras"
+      "titulo": "Equipamentos culturais do Estado do Rio recebem programação para crianças",
+      "descricao": "A Secretaria de Cultura e Economia Criativa divulgou atividades de outubro em espaços estaduais, incluindo oficinas no Parque Lage, programação na Biblioteca Parque e apresentações no Theatro Municipal. A agenda reuniu opções culturais para crianças e famílias em diferentes pontos do estado.",
+      "data_publicacao": "2026-10-09T12:00:00-03:00",
+      "url": "https://cultura.rj.gov.br/cultura-do-estado-reune-programacao-especial-para-o-dia-das-criancas-em-equipamentos-culturais-do-rio-de-janeiro/",
+      "fonte": "SECEC-RJ"
     },
     {
-      "titulo": "Agetransp fiscaliza ramais da Trens RJ na Central do Brasil",
-      "descricao": "A Agetransp inspecionou registros de partidas e chegadas dos ramais Japeri, Santa Cruz, Deodoro, Belford Roxo e Saracuruna. A vistoria busca consolidar dados operacionais da TrensRJ e acompanhar as medidas após falha em uma subestação que afetou uma composição em 28 de outubro.",
-      "data_publicacao": "2026-11-04T00:11:00-03:00",
-      "url": "https://www.agetransp.rj.gov.br/noticias/central-do-brasil-agetransp-fiscaliza-ramais-da-trens-rj",
-      "fonte": "Agetransp"
+      "titulo": "Promessa de lote sem registro e sem mora segue proteção do CDC, decide Justiça de Goiás",
+      "descricao": "A 1ª Vara Cível de Senador Canedo entendeu que promessa de compra de lote com alienação fiduciária não registrada, sem inadimplência ou mora, permanece submetida ao Código de Defesa do Consumidor. A sentença considerou ilegal a capitalização mensal de juros por incorporadora fora do Sistema Financeiro Nacional e determinou restituição integral em parcela única.",
+      "data_publicacao": "2026-10-29T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-29/capitalizacao-mensal-de-incorporadora-sem-sfn-gera-restituicao-integral/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "TJRJ considera indevida nova cobrança de ITCMD na reversão de doação de imóvel",
-      "descricao": "Artigo do CNB/SP relata decisão do Conselho da Magistratura do TJRJ que dispensa novo ITCMD para averbar a reversão prevista em cláusula de doação após a morte do donatário. O colegiado tratou o ato como cumprimento de condição resolutiva já pactuada, sem nova transmissão de propriedade.",
-      "data_publicacao": "2026-10-26T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/10/26/artigo-o-cartorio-do-rgi-pode-exigir-itcmd-para-averbar-a-reversao-da-doacao-de-um-imovel-por-julio-martins/",
+      "titulo": "Artigo discute responsabilidade ambiental de antigo proprietário de imóvel rural",
+      "descricao": "Artigo publicado na ConJur analisa a obrigação de conservação de áreas de preservação permanente e reserva legal em imóveis rurais. O autor sustenta que a obrigação propter rem é transmitida ao sucessor e discute os limites da responsabilização do alienante conforme o Tema 1.204 do STJ.",
+      "data_publicacao": "2026-10-28T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-28/obrigacao-propter-rem-e-responsabilidade-ambiental-a-conservacao-de-app-e-reserva-legal-e-os-limites-do-tema-1-204-do-stj/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo analisa quitação do imóvel e cancelamento de alienação fiduciária",
+      "descricao": "Análise publicada na ConJur examina a divergência no STJ sobre aplicar a Súmula 308 à alienação fiduciária. O texto aponta que quitar o preço à incorporadora pode não assegurar o cancelamento do gravame e recomenda prever nos contratos procedimentos e prazos para liberação das unidades.",
+      "data_publicacao": "2026-10-23T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/alienacao-fiduciaria-e-sumula-308-do-stj-a-restricao-jurisprudencial-em-debate/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STF reconhece imunidade de ITBI na integralização de imóveis ao capital social",
+      "descricao": "O STF decidiu que a imunidade de ITBI na integralização de bens ao capital social independe da atividade imobiliária preponderante da empresa, com ressalva para simulação ou fraude. A cobertura destaca possíveis efeitos para negócios imobiliários e estruturas patrimoniais e explica que a proteção se limita ao valor destinado à integralização do capital.",
+      "data_publicacao": "2026-10-29T12:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/29/conjur-imunidade-de-itbi-reduz-custos-e-da-previsibilidade-ao-setor-imobiliario/",
       "fonte": "CNB/SP"
     },
     {
-      "titulo": "ACP não é via para demolir casa individual em loteamento em regularização, decide STJ",
-      "descricao": "A Primeira Turma do STJ entendeu inadequado o uso de ação civil pública municipal para pedir a demolição de imóvel individual em loteamento com regularização fundiária em andamento, por não haver direito transindividual em discussão. O caso envolvia morador de baixa renda e zona especial de interesse social.",
-      "data_publicacao": "2026-10-15T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-15/stj-barra-municipio-de-usar-acp-para-evitar-regularizacao-fundiaria/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Imóvel doado em fraude à execução segue bem de família se permanece como moradia, decide STJ",
-      "descricao": "A Corte Especial do STJ decidiu que a doação de imóvel em fraude à execução não elimina automaticamente a impenhorabilidade do bem de família quando ele continua servindo de residência ao núcleo familiar. A análise considera se a proteção já existia antes da transferência e se a destinação residencial foi mantida.",
-      "data_publicacao": "2026-10-23T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-23/fraude-a-execucao-nao-afasta-impenhorabilidade-se-imovel-segue-de-familia/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Intimação por e-mail não substitui ciência pessoal antes de leilão de imóvel, decide STJ",
-      "descricao": "A Terceira Turma do STJ manteve a anulação de leilão extrajudicial ao concluir que e-mails e telegramas, sem prova inequívoca de ciência, não substituem a intimação pessoal do devedor sobre a data da venda. O julgamento aplicou a exigência da Lei nº 9.514/1997 para imóvel dado em alienação fiduciária.",
-      "data_publicacao": "2026-10-10T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-10/stj-mantem-anulacao-de-leilao-por-falta-de-intimacao-pessoal-de-devedora/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Nota técnica orienta municípios sobre obrigações fiscais dos cartórios e transição para o IBS",
-      "descricao": "A Nota Técnica CTAT 08/2026 orienta municípios a permitir a emissão de notas fiscais eletrônicas individualizadas por ato notarial ou de registro, com implantação prevista até o fim de 2026. O documento também trata da identificação fiscal dos delegatários e da integração de cadastros municipais ao Cadastro Imobiliário Brasileiro e a dados do ONR.",
-      "data_publicacao": "2026-10-26T00:00:00-03:00",
+      "titulo": "Nota técnica aborda obrigações fiscais dos cartórios na transição ao IBS",
+      "descricao": "A Confederação Nacional de Municípios publicou orientações para administrações municipais sobre documentos fiscais eletrônicos e serviços notariais e registrais. O material trata também de cadastros de responsáveis e integração de informações imobiliárias durante a transição tributária.",
+      "data_publicacao": "2026-10-26T12:00:00-03:00",
       "url": "https://cnbsp.org.br/2026/10/26/contabeis-nota-tecnica-orienta-municipios-sobre-obrigacoes-fiscais-dos-cartorios-e-transicao-para-o-ibs/",
       "fonte": "CNB/SP"
     },
     {
-      "titulo": "Artigo discute o momento das transferências patrimoniais aos herdeiros",
-      "descricao": "Artigo publicado pelo CNB/SP analisa como o momento de uma transferência patrimonial pode influenciar escolhas dos herdeiros, inclusive a compra de moradia ou a abertura de um negócio. O autor ressalta que eventual antecipação deve considerar a liquidez e a independência financeira dos pais, além das necessidades de cada família.",
-      "data_publicacao": "2026-10-21T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/10/21/artigo-a-heranca-pode-chegar-tarde-demais-por-orlando-bachesque/0/",
-      "fonte": "CNB/SP"
-    },
-    {
-      "titulo": "Desmembramento e averbação da construção podem ser requeridos juntos ao RI, defende artigo",
-      "descricao": "Artigo publicado pelo CNB/SP sustenta que o desmembramento de lote com construção ainda não averbada deve ser requerido junto com a averbação da obra, em pedido único ao Registro de Imóveis. O autor afirma que a abertura de matrículas não deve omitir uma edificação já existente no terreno.",
-      "data_publicacao": "2026-10-29T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/10/29/artigo-como-dividir-meu-terreno-em-dois-e-averbar-minha-casa-tudo-ao-mesmo-tempo-direto-no-cartorio-por-julio-martins/",
-      "fonte": "CNB/SP"
+      "titulo": "Encontro Notarial Sul discute inovação e temas do direito extrajudicial",
+      "descricao": "Promovido pelo Colégio Notarial do Brasil e pela OAB, o encontro realizado em Curitiba abordou temas notariais e registrais, incluindo provas digitais, usucapião extrajudicial e inventário. Os painéis também trataram de mudanças tributárias e de instrumentos para segurança jurídica nas relações patrimoniais.",
+      "data_publicacao": "2026-10-19T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/encontro-notarial-sul-encerra-programacao-em-curitiba-com-debates-sobre-inovacao-seguranca-juridica-e-novos-desafios-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
     }
   ]
 }
