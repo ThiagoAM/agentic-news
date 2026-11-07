@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-11-06T10:00:12-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras abre 500 vagas no Banco de Empregos",
+      "descricao": "A Prefeitura informou que o Banco de Empregos oferecia 500 vagas no município em 3 de novembro, em funções de diferentes áreas e níveis de experiência. As inscrições são gratuitas e presenciais no Centro de Cidadania, e a relação completa de requisitos está disponível no portal municipal.",
+      "data_publicacao": "2026-11-03T08:28:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-500-vagas-2/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Festa do Feijão volta ao calendário de Rio das Ostras",
+      "descricao": "A Festa do Feijão será realizada de 20 a 22 de novembro no Espaço Socioambiental Pau-Brasil, em Cantagalo. A iniciativa da Fundação de Cultura e da Secretaria de Pesca e Agropecuária busca valorizar a cultura rural e aproximar moradores e visitantes dos produtores locais.",
+      "data_publicacao": "2026-11-05T12:28:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/festa-do-feijao-marca-retomada-oficial-do-projeto/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Município abre 291 vagas em cursos gratuitos de informática",
+      "descricao": "Rio das Ostras abrirá inscrições entre 9 e 12 de novembro para 291 vagas em cursos presenciais de informática, planilhas, Excel, Canva e modelagem 3D. As formações fazem parte do Programa Municipal de Qualificação Profissional e atendem a diferentes faixas etárias e níveis de conhecimento.",
+      "data_publicacao": "2026-11-05T15:10:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-abre-inscricoes-para-vagas-em-cursos-gratuitos-de-informatica/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Regularização fundiária tem etapa de cadastro estendida no Âncora",
+      "descricao": "Equipes da Prefeitura e do Instituto de Terras e Cartografia do Estado do Rio seguem até 7 de novembro no Âncora para atualizar cadastros de imóveis incluídos no programa municipal. A etapa busca permitir que ocupantes aptos recebam títulos de propriedade e contempla o trecho entre as ruas das Camélias e das Casuarinas.",
+      "data_publicacao": "2026-11-04T12:39:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/cadastro-da-regularizacao-fundiaria-estende-atendimento-no-ancora-ate-sabado-7/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Governo fluminense lança editais de R$ 2,7 milhões para culturas populares",
+      "descricao": "A Secretaria de Cultura e Economia Criativa do Estado do Rio lançou editais para selecionar 77 projetos ligados ao Funk e ao Hip Hop, com investimento total de R$ 2,725 milhões. As propostas incluem oficinas, produção musical, videoclipes e eventos em diferentes regiões fluminenses.",
+      "data_publicacao": "2026-10-21T12:00:00-03:00",
+      "url": "https://cultura.rj.gov.br/estado-lanca-pacote-de-editais-de-r-27-milhoes-para-apoiar-culturas-populares-com-77-propostas-ligadas-ao-funk-e-ao-hip-hop/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Equipamentos culturais do Estado do Rio recebem programação para crianças",
+      "descricao": "A Secretaria de Cultura e Economia Criativa divulgou atividades de outubro em espaços estaduais, incluindo oficinas no Parque Lage, programação na Biblioteca Parque e apresentações no Theatro Municipal. A agenda reuniu opções culturais para crianças e famílias em diferentes pontos do estado.",
+      "data_publicacao": "2026-10-09T12:00:00-03:00",
+      "url": "https://cultura.rj.gov.br/cultura-do-estado-reune-programacao-especial-para-o-dia-das-criancas-em-equipamentos-culturais-do-rio-de-janeiro/",
+      "fonte": "SECEC-RJ"
+    },
+    {
+      "titulo": "Promessa de lote sem registro e sem mora segue proteção do CDC, decide Justiça de Goiás",
+      "descricao": "A 1ª Vara Cível de Senador Canedo entendeu que promessa de compra de lote com alienação fiduciária não registrada, sem inadimplência ou mora, permanece submetida ao Código de Defesa do Consumidor. A sentença considerou ilegal a capitalização mensal de juros por incorporadora fora do Sistema Financeiro Nacional e determinou restituição integral em parcela única.",
+      "data_publicacao": "2026-10-29T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-29/capitalizacao-mensal-de-incorporadora-sem-sfn-gera-restituicao-integral/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo discute responsabilidade ambiental de antigo proprietário de imóvel rural",
+      "descricao": "Artigo publicado na ConJur analisa a obrigação de conservação de áreas de preservação permanente e reserva legal em imóveis rurais. O autor sustenta que a obrigação propter rem é transmitida ao sucessor e discute os limites da responsabilização do alienante conforme o Tema 1.204 do STJ.",
+      "data_publicacao": "2026-10-28T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-28/obrigacao-propter-rem-e-responsabilidade-ambiental-a-conservacao-de-app-e-reserva-legal-e-os-limites-do-tema-1-204-do-stj/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo analisa quitação do imóvel e cancelamento de alienação fiduciária",
+      "descricao": "Análise publicada na ConJur examina a divergência no STJ sobre aplicar a Súmula 308 à alienação fiduciária. O texto aponta que quitar o preço à incorporadora pode não assegurar o cancelamento do gravame e recomenda prever nos contratos procedimentos e prazos para liberação das unidades.",
+      "data_publicacao": "2026-10-23T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/alienacao-fiduciaria-e-sumula-308-do-stj-a-restricao-jurisprudencial-em-debate/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STF reconhece imunidade de ITBI na integralização de imóveis ao capital social",
+      "descricao": "O STF decidiu que a imunidade de ITBI na integralização de bens ao capital social independe da atividade imobiliária preponderante da empresa, com ressalva para simulação ou fraude. A cobertura destaca possíveis efeitos para negócios imobiliários e estruturas patrimoniais e explica que a proteção se limita ao valor destinado à integralização do capital.",
+      "data_publicacao": "2026-10-29T12:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/29/conjur-imunidade-de-itbi-reduz-custos-e-da-previsibilidade-ao-setor-imobiliario/",
+      "fonte": "CNB/SP"
+    },
+    {
+      "titulo": "Nota técnica aborda obrigações fiscais dos cartórios na transição ao IBS",
+      "descricao": "A Confederação Nacional de Municípios publicou orientações para administrações municipais sobre documentos fiscais eletrônicos e serviços notariais e registrais. O material trata também de cadastros de responsáveis e integração de informações imobiliárias durante a transição tributária.",
+      "data_publicacao": "2026-10-26T12:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/26/contabeis-nota-tecnica-orienta-municipios-sobre-obrigacoes-fiscais-dos-cartorios-e-transicao-para-o-ibs/",
+      "fonte": "CNB/SP"
+    },
+    {
+      "titulo": "Encontro Notarial Sul discute inovação e temas do direito extrajudicial",
+      "descricao": "Promovido pelo Colégio Notarial do Brasil e pela OAB, o encontro realizado em Curitiba abordou temas notariais e registrais, incluindo provas digitais, usucapião extrajudicial e inventário. Os painéis também trataram de mudanças tributárias e de instrumentos para segurança jurídica nas relações patrimoniais.",
+      "data_publicacao": "2026-10-19T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/encontro-notarial-sul-encerra-programacao-em-curitiba-com-debates-sobre-inovacao-seguranca-juridica-e-novos-desafios-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}
