@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-06T10:00:12-03:00",
+  "noticias": [
+    {
+      "titulo": "Promessa de lote sem registro e sem mora segue proteção do CDC, decide Justiça de Goiás",
+      "descricao": "A 1ª Vara Cível de Senador Canedo entendeu que promessa de compra de lote com alienação fiduciária não registrada, sem inadimplência ou mora, permanece submetida ao Código de Defesa do Consumidor. A decisão considerou ilegal a capitalização mensal de juros por incorporadora que não integra o Sistema Financeiro Nacional e determinou restituição integral em parcela única.",
+      "data_publicacao": "2026-10-29T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-29/capitalizacao-mensal-de-incorporadora-sem-sfn-gera-restituicao-integral/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo discute responsabilidade ambiental de antigo proprietário de imóvel rural",
+      "descricao": "Artigo publicado na ConJur analisa a obrigação de conservação de áreas de preservação permanente e reserva legal em imóveis rurais. O autor sustenta que a obrigação propter rem é transmitida ao sucessor e discute os limites da responsabilização do alienante à luz do Tema 1.204 do STJ.",
+      "data_publicacao": "2026-10-28T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-28/obrigacao-propter-rem-e-responsabilidade-ambiental-a-conservacao-de-app-e-reserva-legal-e-os-limites-do-tema-1-204-do-stj/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo analisa efeitos da quitação do imóvel sobre a alienação fiduciária",
+      "descricao": "Análise publicada na ConJur examina a divergência no STJ sobre a aplicação da Súmula 308 à alienação fiduciária de imóvel. O texto aborda por que a quitação do preço à incorporadora pode não bastar para cancelar o gravame e recomenda que contratos prevejam critérios e prazos para liberação das unidades.",
+      "data_publicacao": "2026-10-23T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/alienacao-fiduciaria-e-sumula-308-do-stj-a-restricao-jurisprudencial-em-debate/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo aborda conversão de edifícios comerciais e regras condominiais em São Paulo",
+      "descricao": "Artigo jurídico sustenta que a conversão de edifícios comerciais em bairros consolidados pode ocorrer sem incentivo público quando não há aumento da área computável licenciada. A análise destaca a mudança legal do quórum condominial para alteração de destinação e recomenda verificar a convenção registrada e as frações ideais antes da aquisição.",
+      "data_publicacao": "2026-10-22T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-22/conversao-de-edificios-ja-conta-com-regime-juridico-proprio-e-dispensa-incentivo-publico/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ fixa marcos temporais para avaliação de imóveis em desapropriações",
+      "descricao": "Em julgamento repetitivo, a Primeira Seção do STJ definiu prazos para a avaliação do preço em desapropriações por utilidade pública ou interesse social e em casos de reforma agrária. Para desapropriação indireta, o valor deve considerar a data do apossamento; as teses se aplicam a perícias com perito nomeado após o acórdão.",
+      "data_publicacao": "2026-10-19T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-19/stj-estabelece-travas-para-avaliar-preco-atual-em-expropriacoes-de-terrenos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STF reconhece imunidade de ITBI na integralização de imóveis ao capital social",
+      "descricao": "O STF decidiu que a imunidade de ITBI na integralização de bens ao capital social independe da atividade imobiliária preponderante da empresa, ressalvadas simulação ou fraude. A cobertura detalha possíveis efeitos para estruturas patrimoniais e operações imobiliárias, além dos limites da tese quanto ao valor efetivamente destinado ao capital.",
+      "data_publicacao": "2026-10-29T12:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/29/conjur-imunidade-de-itbi-reduz-custos-e-da-previsibilidade-ao-setor-imobiliario/",
+      "fonte": "CNB/SP"
+    },
+    {
+      "titulo": "Nota técnica orienta municípios sobre obrigações fiscais dos cartórios na transição ao IBS",
+      "descricao": "Nota técnica da Confederação Nacional de Municípios reúne recomendações para adaptar a emissão de documentos fiscais de serviços notariais e registrais e os sistemas municipais. O material também aborda cadastro dos responsáveis e integração de dados imobiliários, com prazo de implementação indicado até o fim de 2026.",
+      "data_publicacao": "2026-10-26T12:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/26/contabeis-nota-tecnica-orienta-municipios-sobre-obrigacoes-fiscais-dos-cartorios-e-transicao-para-o-ibs/",
+      "fonte": "CNB/SP"
+    },
+    {
+      "titulo": "Encontro Notarial Sul debate inovação, prova digital e reforma tributária",
+      "descricao": "O evento promovido pelo Colégio Notarial do Brasil e pela OAB reuniu profissionais em Curitiba nos dias 16 e 17 de outubro. A programação tratou, entre outros temas, de usucapião extrajudicial, inventário, proteção patrimonial, provas digitais e impactos tributários sobre atos notariais e registrais.",
+      "data_publicacao": "2026-10-19T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/encontro-notarial-sul-encerra-programacao-em-curitiba-com-debates-sobre-inovacao-seguranca-juridica-e-novos-desafios-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/SP acompanha retomada do julgamento sobre imunidade de ITBI",
+      "descricao": "O STF retomou em plenário virtual a análise da imunidade de ITBI na transferência de imóveis para integralização de capital de empresas com atividade imobiliária. A notícia registra o placar parcial e a previsão de encerramento do julgamento em outubro, tema que envolve os limites constitucionais da tributação de operações patrimoniais.",
+      "data_publicacao": "2026-10-09T12:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/09/migalhas-stf-volta-a-julgar-imunidade-de-itbi-em-capital-social-de-imobiliarias/",
+      "fonte": "CNB/SP"
+    },
+    {
+      "titulo": "Guia orienta uso responsável de inteligência artificial em serventias imobiliárias",
+      "descricao": "O Fórum Nacional de Desenvolvimento Imobiliário publicou um guia sobre adoção de inteligência artificial no Registro de Imóveis, com referências éticas, normativas e operacionais. O material ressalta que a tecnologia deve apoiar o trabalho registral e não substituir a análise humana, além de tratar da relação entre LGPD e atividade cartorária.",
+      "data_publicacao": "2026-11-04T12:00:00-03:00",
+      "url": "https://www.irib.org.br/fndi-publica-guia-orientativo-sobre-ia-nas-serventias-extrajudiciais/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Adjudicação compulsória extrajudicial em imóvel rural exige análise do georreferenciamento",
+      "descricao": "O IRIB Responde examinou se a averbação de georreferenciamento pode ser processada antes do registro da adjudicação compulsória extrajudicial de imóvel rural. A orientação aborda a qualificação objetiva do imóvel e a sequência de atos necessária para compatibilizar a descrição registral com o título.",
+      "data_publicacao": "2026-11-05T12:00:00-03:00",
+      "url": "https://www.irib.org.br/adjudicacao-compulsoria-extrajudicial-imovel-rural-especialidade-objetiva-georreferenciamento/",
+      "fonte": "IRIB"
+    }
+  ]
+}
