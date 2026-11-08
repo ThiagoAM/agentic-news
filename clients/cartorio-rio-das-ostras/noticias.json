@@ -1,79 +1,79 @@
 {
-  "data-busca": "2026-11-07T09:56:39-03:00",
+  "data-busca": "2026-11-08T10:05:28-03:00",
   "noticias": [
     {
-      "titulo": "SAAE mantém serviços de limpeza e manutenção em Rio das Ostras",
-      "descricao": "As equipes municipais fizeram a limpeza de canais e caixas-ralo, além da substituição de manilhas e recuperação asfáltica em diferentes localidades. Segundo o SAAE, as ações buscam melhorar a drenagem e o escoamento durante o período de chuvas.",
-      "data_publicacao": "2026-11-06T00:00:00-03:00",
-      "url": "https://www.riodasostras.com.br/noticias/Noticias.php?noticia=14854",
-      "fonte": "Portal Rio das Ostras"
-    },
-    {
       "titulo": "Rio das Ostras abre 291 vagas em cursos gratuitos de informática",
-      "descricao": "O Programa Municipal de Qualificação Profissional oferecerá cursos presenciais de informática, planilhas, Canva e modelagem 3D, com turmas em diferentes níveis e faixas etárias. As inscrições on-line estão previstas de 9 a 12 de novembro, conforme o edital municipal.",
+      "descricao": "O Programa Municipal de Qualificação oferece cursos de informática básica, planilhas, Canva e modelagem 3D, entre outras formações. As inscrições online estão previstas de 9 a 12 de novembro e as aulas serão realizadas em unidades municipais de inclusão digital.",
       "data_publicacao": "2026-11-05T00:00:00-03:00",
-      "url": "https://riodasostras.com.br/noticias/index.php?noticia=14848",
-      "fonte": "Portal Rio das Ostras"
+      "url": "https://www.riodasostras.rj.gov.br/municipio-abre-inscricoes-para-vagas-em-cursos-gratuitos-de-informatica/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Cederj de Rio das Ostras promove encontro sobre design",
-      "descricao": "O polo local do Cederj anunciou uma programação on-line para o Dia do Designer, com palestras sobre criação, percepção visual e entrada no mercado profissional. O encontro foi organizado para estudantes e interessados em conhecer a formação em Design Gráfico.",
-      "data_publicacao": "2026-11-06T00:00:00-03:00",
-      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14850",
-      "fonte": "Portal Rio das Ostras"
+      "titulo": "Rio das Ostras promove mutirão gratuito de regularização no Cadastur",
+      "descricao": "A Prefeitura anunciou atendimento nos dias 10 e 11 de novembro para cadastro, renovação e regularização de prestadores de serviços turísticos. A ação ocorrerá na Secretaria de Desenvolvimento Econômico e Turismo, com parceria da TurisRio.",
+      "data_publicacao": "2026-10-29T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-promove-mutirao-do-cadastur-em-novembro/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "SececRJ prepara encontro para encerrar escuta pública da PNAB",
-      "descricao": "A Secretaria de Estado de Cultura e Economia Criativa fará uma reunião aberta para receber contribuições de artistas e agentes culturais fluminenses sobre o terceiro ciclo da Política Nacional Aldir Blanc. O plano estadual prevê investimentos de R$ 82,3 milhões e reúne demandas dos municípios e segmentos culturais.",
-      "data_publicacao": "2026-11-06T00:00:00-03:00",
-      "url": "https://cultura.rj.gov.br/sececrj-promove-encontro-presencial-para-encerrar-escuta-publica-do-terceiro-ciclo-da-politica-nacional-aldir-blanc/",
-      "fonte": "Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro"
+      "titulo": "Fundação de Cultura de Rio das Ostras lança editais para projetos e cursos",
+      "descricao": "A Fundação publicou editais para selecionar uma produção do Auto de Natal, uma oficina de grafite e novos alunos do Centro de Formação Artística em 2027. As inscrições têm calendários distintos e são feitas pela plataforma municipal de editais.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/fundacao-rio-das-ostras-de-cultura-lanca-novos-editais/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Estado do Rio abre período de regularização para projetos culturais",
-      "descricao": "O programa Cultura em Dia abrirá uma janela de 15 dias para que proponentes com pendências em mecanismos estaduais de fomento cultural solicitem regularização. A Secretaria informou que a iniciativa não perdoa dívidas nem dispensa obrigações, e estabelece prazos para envio e análise dos documentos.",
+      "titulo": "Estado do Rio abre prazo para regularização de pendências em projetos culturais",
+      "descricao": "O programa Cultura em Dia prevê uma janela de 15 dias, de 9 a 23 de novembro, para que proponentes regularizem dívidas e prestações de contas de projetos culturais. A Secretaria estadual informou que a regularização permitirá que participantes voltem a concorrer a editais, conforme as regras aplicáveis.",
       "data_publicacao": "2026-11-04T00:00:00-03:00",
       "url": "https://cultura.rj.gov.br/governo-do-estado-lanca-programa-cultura-em-dia-para-regularizacao-de-pendencias-de-projetos-culturais/",
       "fonte": "Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro"
     },
     {
-      "titulo": "STJ afasta cobrança de aluguel quando imóvel de ex-cônjuge é compartilhado com filhos",
-      "descricao": "A Terceira Turma do STJ decidiu que não cabe aluguel pelo uso de imóvel pertencente a um dos ex-cônjuges quando os filhos do casal também vivem no local. O entendimento considera que, nessas circunstâncias, o uso não é exclusivo do ex-companheiro residente.",
-      "data_publicacao": "2026-11-05T14:57:46-03:00",
+      "titulo": "SececRJ promove encontro presencial sobre terceiro ciclo da Política Aldir Blanc",
+      "descricao": "A Secretaria estadual de Cultura marcou para 9 de novembro, no Rio de Janeiro, encontro gratuito para encerrar a escuta pública sobre o terceiro ciclo da Política Nacional Aldir Blanc. A atividade integra o processo de consulta aos agentes culturais do estado.",
+      "data_publicacao": "2026-11-06T00:00:00-03:00",
+      "url": "https://cultura.rj.gov.br/sececrj-promove-encontro-presencial-para-encerrar-escuta-publica-do-terceiro-ciclo-da-politica-nacional-aldir-blanc/",
+      "fonte": "Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro"
+    },
+    {
+      "titulo": "ConJur analisa decisão sobre moradia de filhos em imóvel de ex-cônjuge",
+      "descricao": "A matéria relata entendimento do STJ de que a permanência de filhos no imóvel pode afastar a cobrança de aluguel do ex-cônjuge que continua residindo no local. O texto discute o uso do bem comum e a proteção da moradia no contexto familiar.",
+      "data_publicacao": "2026-11-05T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-nov-05/ex-conjuge-que-mora-com-os-filhos-no-imovel-do-outro-nao-precisa-pagar-aluguel/",
-      "fonte": "ConJur"
+      "fonte": "Consultor Jurídico"
     },
     {
-      "titulo": "Artigo analisa a base de cálculo do Funrural diante da reforma tributária",
-      "descricao": "O texto examina a incidência do IBS e da CBS sobre contribuições previdenciárias cobradas de produtores rurais e da agroindústria. A análise discute a interação entre a reforma tributária do consumo e contribuições que permanecem no sistema.",
-      "data_publicacao": "2026-11-06T08:00:11-03:00",
+      "titulo": "ConJur examina base de cálculo do Funrural na reforma tributária",
+      "descricao": "Artigo jurídico analisa a incidência de IBS e CBS na base de cálculo das contribuições ao Funrural e ao Senar. A publicação aborda efeitos da reforma tributária sobre a tributação da atividade rural.",
+      "data_publicacao": "2026-11-06T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-nov-06/funrural-e-reforma-tributaria-o-ibs-e-a-cbs-nao-integram-a-base-de-calculo/",
-      "fonte": "ConJur"
+      "fonte": "Consultor Jurídico"
     },
     {
-      "titulo": "Tema repetitivo do STJ discute isenção de IR para militares da reserva",
-      "descricao": "O STJ afetou o Tema 1.462 para decidir se proventos de militares da reserva remunerada se enquadram na isenção de imposto de renda prevista para pessoas com doenças graves. O artigo descreve a controvérsia interpretativa e a tramitação da questão sob o rito dos repetitivos.",
-      "data_publicacao": "2026-11-07T09:22:20-03:00",
+      "titulo": "ConJur discute alcance de isenção de IR para militares da reserva remunerada",
+      "descricao": "O artigo aborda o Tema 1.462 do STJ e a discussão sobre a inclusão de militares da reserva remunerada entre os beneficiários da isenção do imposto de renda. O texto apresenta a controvérsia como questão de interpretação da legislação tributária.",
+      "data_publicacao": "2026-11-07T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-nov-07/tema-1-462-do-stj-incluir-reserva-remunerada-na-isencao-de-ir-e-interpretar-ou-ampliar-lei/",
-      "fonte": "ConJur"
+      "fonte": "Consultor Jurídico"
     },
     {
-      "titulo": "CNB/CF firma acordo com CNJ para desenvolver o SisPreq",
-      "descricao": "O Colégio Notarial do Brasil firmou acordo com o CNJ para colaborar no desenvolvimento de uma plataforma nacional de gestão de precatórios e requisições de pequeno valor. A iniciativa prevê participação técnica do notariado na definição de fluxos e funcionalidades voltados à transparência e à segurança das cessões de créditos judiciais.",
+      "titulo": "CNB/CF firma acordo com CNJ para desenvolver plataforma SisPreq",
+      "descricao": "O Colégio Notarial do Brasil e o Conselho Nacional de Justiça firmaram cooperação para desenvolver uma plataforma de gestão de precatórios e requisições de pequeno valor. A iniciativa prevê contribuição técnica do notariado para apoiar transparência e segurança nas cessões de créditos judiciais.",
       "data_publicacao": "2026-11-05T00:00:00-03:00",
       "url": "https://www.notariado.org.br/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Diretor do CNB/CF assume vice-presidência de comissão da UINL",
-      "descricao": "Ubiratan Guimarães, diretor do CNB/CF e vice-presidente do CNB/SP, foi nomeado vice-presidente da Comissão de Assuntos Americanos da União Internacional do Notariado. A entidade informou que a função envolve cooperação e intercâmbio entre os notariados do continente.",
+      "titulo": "Diretor do CNB/CF é nomeado para comissão de assuntos americanos da UINL",
+      "descricao": "Ubiratan Guimarães foi nomeado vice-presidente da Comissão de Assuntos Americanos da União Internacional do Notariado durante reuniões realizadas na Albânia. O CNB/CF informou que a função envolve cooperação e intercâmbio entre notariados do continente.",
       "data_publicacao": "2026-10-30T00:00:00-03:00",
       "url": "https://www.notariado.org.br/diretor-do-cnb-cf-ubiratan-guimaraes-e-nomeado-vice-presidente-da-comissao-de-assuntos-americanos-da-uinl/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "CNB/CF apresenta ferramentas brasileiras de inteligência artificial no notariado",
-      "descricao": "Representantes do CNB/CF apresentaram ferramentas de inteligência artificial integradas ao e-Notariado em encontro da União Internacional do Notariado, realizado na Albânia. Entre os exemplos estavam a extração de dados de escrituras e a organização de informações para apoiar verificações internas.",
+      "titulo": "CNB/CF apresenta uso de inteligência artificial no e-Notariado em painel internacional",
+      "descricao": "O CNB/CF apresentou a experiência brasileira com inteligência artificial integrada ao e-Notariado em reunião da União Internacional do Notariado realizada na Albânia. A entidade descreveu ferramentas para extração de dados de escrituras e apoio a verificações internas.",
       "data_publicacao": "2026-10-20T00:00:00-03:00",
       "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
       "fonte": "Colégio Notarial do Brasil"
