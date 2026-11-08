@@ -1,0 +1,96 @@
+{
+  "data-busca": "2026-11-07T09:56:39-03:00",
+  "noticias": [
+    {
+      "titulo": "CNB/CF firma cooperação com CNJ para desenvolver o SisPreq",
+      "descricao": "O Colégio Notarial do Brasil firmou acordo com o CNJ para colaborar no desenvolvimento de uma plataforma nacional de gestão de precatórios e requisições de pequeno valor. A iniciativa prevê participação técnica do notariado na definição de fluxos e funcionalidades voltados à transparência e à segurança das cessões de créditos judiciais.",
+      "data_publicacao": "2026-11-05T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Artigo examina a outorga conjugal na venda de imóvel particular",
+      "descricao": "Artigo publicado pelo CNB/SP compara decisões sobre a necessidade de autorização conjugal na alienação de imóvel particular e os limites da dúvida registral. A análise ressalta que o alcance de uma decisão administrativa não elimina a possibilidade de discussão judicial sobre a validade do negócio.",
+      "data_publicacao": "2026-10-28T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/28/65909/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "CNB/CF apresenta experiência brasileira de inteligência artificial no notariado",
+      "descricao": "Representantes do CNB/CF apresentaram ferramentas de inteligência artificial integradas ao e-Notariado em reunião internacional da União Internacional do Notariado, na Albânia. Entre os exemplos descritos estão a extração de dados de escrituras e a organização de informações para apoiar verificações internas.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/SP realiza workshop sobre inventário extrajudicial",
+      "descricao": "O encontro reuniu profissionais para discutir procedimentos sucessórios e situações recorrentes na elaboração de escrituras de inventário e partilha. A programação abordou ordem de vocação hereditária, regimes de bens e a identificação das sucessões.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/19/cnb-sp-promove-workshop-de-inventario-extrajudicial-com-foco-em-questoes-praticas-da-atividade-notarial/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "Fórum publica orientação sobre prontuários e dados em registros de imóveis",
+      "descricao": "O Fórum Nacional de Desenvolvimento Imobiliário publicou nota técnica sobre prontuários de atendimento e acesso do titular a informações mantidas por cartórios de registro de imóveis. O material relaciona proteção de dados, transparência e prevenção de riscos nas rotinas registrais.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/04/irib-fndi-publica-nota-tecnica-e-cartilha-para-orientar-sobre-prontuarios/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "CNB/CF anuncia nomeação de representante para comissão da UINL",
+      "descricao": "Ubiratan Guimarães, diretor do CNB/CF e vice-presidente do CNB/SP, foi nomeado vice-presidente da Comissão de Assuntos Americanos da União Internacional do Notariado. A entidade informou que a função envolve cooperação e intercâmbio entre os notariados do continente.",
+      "data_publicacao": "2026-10-30T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/diretor-do-cnb-cf-ubiratan-guimaraes-e-nomeado-vice-presidente-da-comissao-de-assuntos-americanos-da-uinl/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Fórum imobiliário debate crédito, moradia e segurança jurídica",
+      "descricao": "O Fórum Nacional de Desenvolvimento Imobiliário anunciou encontro para reunir bancos, construtoras, incorporadoras e representantes do Registro de Imóveis. A pauta prevista inclui crédito habitacional e medidas para fortalecer a segurança das transações imobiliárias.",
+      "data_publicacao": "2026-11-05T00:00:00-03:00",
+      "url": "https://www.irib.org.br/conexao-fndi-o-futuro-do-ecossistema-imobiliario/",
+      "fonte": "Instituto de Registro Imobiliário do Brasil"
+    },
+    {
+      "titulo": "Crédito imobiliário fica mais caro em três grandes bancos privados",
+      "descricao": "O Registro de Imóveis do Brasil informou que Bradesco, Itaú e Santander reajustaram taxas mínimas de financiamento habitacional no fim de outubro. A matéria relaciona a evolução dos custos à captação de recursos e à participação decrescente da poupança no crédito imobiliário.",
+      "data_publicacao": "2026-11-05T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/bancos-privados-reajustam-credito-imobiliario",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "STJ admite ação de sonegados antes do fim do inventário diante de resistência",
+      "descricao": "A Terceira Turma do STJ reconheceu interesse processual para ação de sonegados contra herdeiros antes do encerramento do inventário quando já há oposição inequívoca à inclusão dos bens. A decisão distingue essa hipótese do caso do inventariante, para o qual o marco depende das últimas declarações.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022736",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ mantém responsabilidade de proprietário registral por IPTU",
+      "descricao": "A Segunda Turma do STJ decidiu que a transferência particular da posse, ainda que comunicada ao município, não afasta por si só a legitimidade do proprietário que continua registrado para responder pelo IPTU. O tribunal destacou que a propriedade imobiliária entre vivos se transfere com o registro do título.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFINFJ?edicao=0908",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ reafirma a anterioridade registral em disputa sobre matrículas sobrepostas",
+      "descricao": "A Terceira Turma do STJ entendeu que, diante de cadeias dominiais hígidas, a anterioridade do registro pode prevalecer em controvérsia envolvendo matrículas sobrepostas. O informativo também aborda a presunção relativa de veracidade dos atos registrais e a necessidade de prova consistente para afastá-la.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022694",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ considera indevida taxa de lazer cobrada apenas de ocupantes não proprietários",
+      "descricao": "A Quarta Turma do STJ considerou inválida a cobrança exclusiva de taxa geral de lazer de locatários e outros ocupantes não proprietários sem justificativa objetiva ligada às despesas do condomínio. O julgamento relaciona o uso das áreas comuns aos direitos vinculados à unidade imobiliária.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022699",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ afasta responsabilidade de banco por atraso de obra em financiamento",
+      "descricao": "O STJ decidiu que o acompanhamento do andamento de uma obra por instituição financeira, na condição de credora fiduciária, não basta para torná-la responsável perante os compradores pelo atraso na entrega. A notícia destaca a distinção entre o papel de financiador e o de fornecedor do empreendimento.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/stj-decide-banco-nao-responde-por-atraso-em-entrega-de-imovel",
+      "fonte": "Registro de Imóveis do Brasil"
+    }
+  ]
+}
