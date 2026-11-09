@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-08T10:05:28-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras abre 291 vagas em cursos gratuitos de informática",
+      "descricao": "O Programa Municipal de Qualificação oferece cursos de informática básica, planilhas, Canva e modelagem 3D, entre outras formações. As inscrições online estão previstas de 9 a 12 de novembro e as aulas serão realizadas em unidades municipais de inclusão digital.",
+      "data_publicacao": "2026-11-05T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-abre-inscricoes-para-vagas-em-cursos-gratuitos-de-informatica/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras promove mutirão gratuito de regularização no Cadastur",
+      "descricao": "A Prefeitura anunciou atendimento nos dias 10 e 11 de novembro para cadastro, renovação e regularização de prestadores de serviços turísticos. A ação ocorrerá na Secretaria de Desenvolvimento Econômico e Turismo, com parceria da TurisRio.",
+      "data_publicacao": "2026-10-29T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-promove-mutirao-do-cadastur-em-novembro/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Fundação de Cultura de Rio das Ostras lança editais para projetos e cursos",
+      "descricao": "A Fundação publicou editais para selecionar uma produção do Auto de Natal, uma oficina de grafite e novos alunos do Centro de Formação Artística em 2027. As inscrições têm calendários distintos e são feitas pela plataforma municipal de editais.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/fundacao-rio-das-ostras-de-cultura-lanca-novos-editais/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Estado do Rio abre prazo para regularização de pendências em projetos culturais",
+      "descricao": "O programa Cultura em Dia prevê uma janela de 15 dias, de 9 a 23 de novembro, para que proponentes regularizem dívidas e prestações de contas de projetos culturais. A Secretaria estadual informou que a regularização permitirá que participantes voltem a concorrer a editais, conforme as regras aplicáveis.",
+      "data_publicacao": "2026-11-04T00:00:00-03:00",
+      "url": "https://cultura.rj.gov.br/governo-do-estado-lanca-programa-cultura-em-dia-para-regularizacao-de-pendencias-de-projetos-culturais/",
+      "fonte": "Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro"
+    },
+    {
+      "titulo": "SececRJ promove encontro presencial sobre terceiro ciclo da Política Aldir Blanc",
+      "descricao": "A Secretaria estadual de Cultura marcou para 9 de novembro, no Rio de Janeiro, encontro gratuito para encerrar a escuta pública sobre o terceiro ciclo da Política Nacional Aldir Blanc. A atividade integra o processo de consulta aos agentes culturais do estado.",
+      "data_publicacao": "2026-11-06T00:00:00-03:00",
+      "url": "https://cultura.rj.gov.br/sececrj-promove-encontro-presencial-para-encerrar-escuta-publica-do-terceiro-ciclo-da-politica-nacional-aldir-blanc/",
+      "fonte": "Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro"
+    },
+    {
+      "titulo": "ConJur analisa decisão sobre moradia de filhos em imóvel de ex-cônjuge",
+      "descricao": "A matéria relata entendimento do STJ de que a permanência de filhos no imóvel pode afastar a cobrança de aluguel do ex-cônjuge que continua residindo no local. O texto discute o uso do bem comum e a proteção da moradia no contexto familiar.",
+      "data_publicacao": "2026-11-05T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-05/ex-conjuge-que-mora-com-os-filhos-no-imovel-do-outro-nao-precisa-pagar-aluguel/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur examina base de cálculo do Funrural na reforma tributária",
+      "descricao": "Artigo jurídico analisa a incidência de IBS e CBS na base de cálculo das contribuições ao Funrural e ao Senar. A publicação aborda efeitos da reforma tributária sobre a tributação da atividade rural.",
+      "data_publicacao": "2026-11-06T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-06/funrural-e-reforma-tributaria-o-ibs-e-a-cbs-nao-integram-a-base-de-calculo/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur discute alcance de isenção de IR para militares da reserva remunerada",
+      "descricao": "O artigo aborda o Tema 1.462 do STJ e a discussão sobre a inclusão de militares da reserva remunerada entre os beneficiários da isenção do imposto de renda. O texto apresenta a controvérsia como questão de interpretação da legislação tributária.",
+      "data_publicacao": "2026-11-07T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-07/tema-1-462-do-stj-incluir-reserva-remunerada-na-isencao-de-ir-e-interpretar-ou-ampliar-lei/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "CNB/CF firma acordo com CNJ para desenvolver plataforma SisPreq",
+      "descricao": "O Colégio Notarial do Brasil e o Conselho Nacional de Justiça firmaram cooperação para desenvolver uma plataforma de gestão de precatórios e requisições de pequeno valor. A iniciativa prevê contribuição técnica do notariado para apoiar transparência e segurança nas cessões de créditos judiciais.",
+      "data_publicacao": "2026-11-05T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Diretor do CNB/CF é nomeado para comissão de assuntos americanos da UINL",
+      "descricao": "Ubiratan Guimarães foi nomeado vice-presidente da Comissão de Assuntos Americanos da União Internacional do Notariado durante reuniões realizadas na Albânia. O CNB/CF informou que a função envolve cooperação e intercâmbio entre notariados do continente.",
+      "data_publicacao": "2026-10-30T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/diretor-do-cnb-cf-ubiratan-guimaraes-e-nomeado-vice-presidente-da-comissao-de-assuntos-americanos-da-uinl/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF apresenta uso de inteligência artificial no e-Notariado em painel internacional",
+      "descricao": "O CNB/CF apresentou a experiência brasileira com inteligência artificial integrada ao e-Notariado em reunião da União Internacional do Notariado realizada na Albânia. A entidade descreveu ferramentas para extração de dados de escrituras e apoio a verificações internas.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}

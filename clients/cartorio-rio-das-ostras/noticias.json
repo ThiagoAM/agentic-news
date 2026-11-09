@@ -1,79 +1,86 @@
 {
-  "data-busca": "2026-11-08T10:05:28-03:00",
+  "data-busca": "2026-11-09T10:03:09-03:00",
   "noticias": [
     {
+      "titulo": "Rio das Ostras recupera vias e faz manutenção em bairros",
+      "descricao": "A Prefeitura informou que equipes executam recuperação asfáltica em trechos da Rodovia e serviços em bairros como Serramar, Âncora e Cantagalo. Também há contenção de erosão na Boca da Barra.",
+      "data_publicacao": "2026-11-06T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-faz-servicos-de-manutencao-e-recuperacao-de-vias/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras e SENAI formam mais de 50 alunos em cursos de qualificação",
+      "descricao": "Mais de 50 participantes concluíram cursos de qualificação profissional oferecidos em parceria entre o Município e o SENAI. A formatura marcou o encerramento das turmas de capacitação em diferentes áreas.",
+      "data_publicacao": "2026-11-06T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-e-senai-formam-mais-de-50-alunos-em-cursos-de-qualificacao-profissional/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
       "titulo": "Rio das Ostras abre 291 vagas em cursos gratuitos de informática",
-      "descricao": "O Programa Municipal de Qualificação oferece cursos de informática básica, planilhas, Canva e modelagem 3D, entre outras formações. As inscrições online estão previstas de 9 a 12 de novembro e as aulas serão realizadas em unidades municipais de inclusão digital.",
+      "descricao": "O Programa Municipal de Qualificação abriu inscrições entre 9 e 12 de novembro para 291 vagas em cursos livres de informática. As aulas serão presenciais em unidades municipais e incluem opções de planilhas, informática básica e modelagem 3D.",
       "data_publicacao": "2026-11-05T00:00:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/municipio-abre-inscricoes-para-vagas-em-cursos-gratuitos-de-informatica/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Rio das Ostras promove mutirão gratuito de regularização no Cadastur",
-      "descricao": "A Prefeitura anunciou atendimento nos dias 10 e 11 de novembro para cadastro, renovação e regularização de prestadores de serviços turísticos. A ação ocorrerá na Secretaria de Desenvolvimento Econômico e Turismo, com parceria da TurisRio.",
+      "titulo": "Rio das Ostras promove mutirão de regularização do Cadastur",
+      "descricao": "A Prefeitura fará atendimento gratuito nos dias 10 e 11 de novembro para cadastro, renovação e regularização de prestadores de serviços turísticos. A iniciativa será realizada com apoio do TurisRio na Secretaria Municipal de Desenvolvimento Econômico e Turismo.",
       "data_publicacao": "2026-10-29T00:00:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-promove-mutirao-do-cadastur-em-novembro/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Fundação de Cultura de Rio das Ostras lança editais para projetos e cursos",
-      "descricao": "A Fundação publicou editais para selecionar uma produção do Auto de Natal, uma oficina de grafite e novos alunos do Centro de Formação Artística em 2027. As inscrições têm calendários distintos e são feitas pela plataforma municipal de editais.",
-      "data_publicacao": "2026-10-22T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/fundacao-rio-das-ostras-de-cultura-lanca-novos-editais/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Estado do Rio abre prazo para regularização de pendências em projetos culturais",
-      "descricao": "O programa Cultura em Dia prevê uma janela de 15 dias, de 9 a 23 de novembro, para que proponentes regularizem dívidas e prestações de contas de projetos culturais. A Secretaria estadual informou que a regularização permitirá que participantes voltem a concorrer a editais, conforme as regras aplicáveis.",
+      "titulo": "Estado do Rio abre prazo para regularização de projetos culturais",
+      "descricao": "O programa Cultura em Dia abriu uma janela de 15 dias, de 9 a 23 de novembro, para que proponentes regularizem dívidas e prestações de contas pendentes em projetos culturais estaduais. A medida pode permitir que agentes em situação irregular voltem a concorrer a editais.",
       "data_publicacao": "2026-11-04T00:00:00-03:00",
       "url": "https://cultura.rj.gov.br/governo-do-estado-lanca-programa-cultura-em-dia-para-regularizacao-de-pendencias-de-projetos-culturais/",
       "fonte": "Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro"
     },
     {
-      "titulo": "SececRJ promove encontro presencial sobre terceiro ciclo da Política Aldir Blanc",
-      "descricao": "A Secretaria estadual de Cultura marcou para 9 de novembro, no Rio de Janeiro, encontro gratuito para encerrar a escuta pública sobre o terceiro ciclo da Política Nacional Aldir Blanc. A atividade integra o processo de consulta aos agentes culturais do estado.",
-      "data_publicacao": "2026-11-06T00:00:00-03:00",
-      "url": "https://cultura.rj.gov.br/sececrj-promove-encontro-presencial-para-encerrar-escuta-publica-do-terceiro-ciclo-da-politica-nacional-aldir-blanc/",
-      "fonte": "Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro"
+      "titulo": "Rio de Janeiro cria 9,2 mil empregos formais em setembro",
+      "descricao": "O estado do Rio de Janeiro registrou saldo de 9.285 empregos formais em setembro, segundo dados do Novo Caged divulgados pelo Ministério do Trabalho e Emprego. Serviços liderou a criação de vagas no estado, seguido por comércio e indústria.",
+      "data_publicacao": "2026-11-05T00:00:00-03:00",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/noticias-regionalizadas/numeros-do-novo-caged-em-2026/09/rio-de-janeiro-gera-9-2-mil-empregos-com-carteira-assinada-em-setembro",
+      "fonte": "Secretaria de Comunicação Social"
     },
     {
-      "titulo": "ConJur analisa decisão sobre moradia de filhos em imóvel de ex-cônjuge",
-      "descricao": "A matéria relata entendimento do STJ de que a permanência de filhos no imóvel pode afastar a cobrança de aluguel do ex-cônjuge que continua residindo no local. O texto discute o uso do bem comum e a proteção da moradia no contexto familiar.",
+      "titulo": "ConJur analisa uso de imóvel por ex-cônjuge que reside com os filhos",
+      "descricao": "A reportagem aborda decisão segundo a qual o ex-cônjuge que mora com os filhos no imóvel pertencente ao outro não deve pagar aluguel por esse uso. O entendimento considera o contexto familiar e a moradia dos filhos.",
       "data_publicacao": "2026-11-05T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-nov-05/ex-conjuge-que-mora-com-os-filhos-no-imovel-do-outro-nao-precisa-pagar-aluguel/",
       "fonte": "Consultor Jurídico"
     },
     {
-      "titulo": "ConJur examina base de cálculo do Funrural na reforma tributária",
-      "descricao": "Artigo jurídico analisa a incidência de IBS e CBS na base de cálculo das contribuições ao Funrural e ao Senar. A publicação aborda efeitos da reforma tributária sobre a tributação da atividade rural.",
+      "titulo": "ConJur examina base do Funrural na transição tributária",
+      "descricao": "A matéria trata da decisão do STJ de que IBS e CBS não integram a base de cálculo do Funrural. O tema acompanha os efeitos da reforma tributária sobre contribuições incidentes na atividade rural.",
       "data_publicacao": "2026-11-06T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-nov-06/funrural-e-reforma-tributaria-o-ibs-e-a-cbs-nao-integram-a-base-de-calculo/",
       "fonte": "Consultor Jurídico"
     },
     {
-      "titulo": "ConJur discute alcance de isenção de IR para militares da reserva remunerada",
-      "descricao": "O artigo aborda o Tema 1.462 do STJ e a discussão sobre a inclusão de militares da reserva remunerada entre os beneficiários da isenção do imposto de renda. O texto apresenta a controvérsia como questão de interpretação da legislação tributária.",
+      "titulo": "ConJur discute isenção de IR para militares da reserva",
+      "descricao": "O artigo analisa o Tema 1.462 do STJ e a controvérsia sobre estender a isenção de imposto de renda a militares da reserva remunerada. A discussão examina os limites entre interpretação judicial e ampliação do alcance da lei.",
       "data_publicacao": "2026-11-07T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-nov-07/tema-1-462-do-stj-incluir-reserva-remunerada-na-isencao-de-ir-e-interpretar-ou-ampliar-lei/",
       "fonte": "Consultor Jurídico"
     },
     {
-      "titulo": "CNB/CF firma acordo com CNJ para desenvolver plataforma SisPreq",
-      "descricao": "O Colégio Notarial do Brasil e o Conselho Nacional de Justiça firmaram cooperação para desenvolver uma plataforma de gestão de precatórios e requisições de pequeno valor. A iniciativa prevê contribuição técnica do notariado para apoiar transparência e segurança nas cessões de créditos judiciais.",
-      "data_publicacao": "2026-11-05T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
+      "titulo": "CNB e CNJ cooperam no desenvolvimento do SisPreq",
+      "descricao": "O Colégio Notarial do Brasil firmou acordo de cooperação técnica com o CNJ para apoiar o desenvolvimento do Sistema Nacional de Precatórios e RPVs. A plataforma pretende padronizar procedimentos e centralizar informações ligadas à negociação e gestão desses créditos.",
+      "data_publicacao": "2026-11-06T00:00:00-03:00",
+      "url": "https://www.anoregmt.org.br/novo/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Diretor do CNB/CF é nomeado para comissão de assuntos americanos da UINL",
-      "descricao": "Ubiratan Guimarães foi nomeado vice-presidente da Comissão de Assuntos Americanos da União Internacional do Notariado durante reuniões realizadas na Albânia. O CNB/CF informou que a função envolve cooperação e intercâmbio entre notariados do continente.",
+      "titulo": "Diretor do CNB/CF assume vice-presidência na UINL",
+      "descricao": "Ubiratan Guimarães foi nomeado vice-presidente da Comissão de Assuntos Americanos da União Internacional do Notariado. A função amplia a representação brasileira na entidade internacional do notariado.",
       "data_publicacao": "2026-10-30T00:00:00-03:00",
       "url": "https://www.notariado.org.br/diretor-do-cnb-cf-ubiratan-guimaraes-e-nomeado-vice-presidente-da-comissao-de-assuntos-americanos-da-uinl/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "CNB/CF apresenta uso de inteligência artificial no e-Notariado em painel internacional",
-      "descricao": "O CNB/CF apresentou a experiência brasileira com inteligência artificial integrada ao e-Notariado em reunião da União Internacional do Notariado realizada na Albânia. A entidade descreveu ferramentas para extração de dados de escrituras e apoio a verificações internas.",
+      "titulo": "CNB apresenta uso de inteligência artificial no e-Notariado",
+      "descricao": "O Colégio Notarial do Brasil apresentou em encontro internacional aplicações de inteligência artificial integradas ao e-Notariado. Entre os usos relatados estão extração de dados de documentos, apoio à busca de testamentos e estruturação de informações para o registro de imóveis, com validação do notário.",
       "data_publicacao": "2026-10-20T00:00:00-03:00",
       "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
       "fonte": "Colégio Notarial do Brasil"
