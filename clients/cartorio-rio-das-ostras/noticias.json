@@ -1,89 +1,82 @@
 {
-  "data-busca": "2026-11-09T10:03:09-03:00",
+  "data-busca": "2026-11-10T10:03:04-03:00",
   "noticias": [
     {
-      "titulo": "Rio das Ostras recupera vias e faz manutenção em bairros",
-      "descricao": "A Prefeitura informou que equipes executam recuperação asfáltica em trechos da Rodovia e serviços em bairros como Serramar, Âncora e Cantagalo. Também há contenção de erosão na Boca da Barra.",
-      "data_publicacao": "2026-11-06T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/prefeitura-faz-servicos-de-manutencao-e-recuperacao-de-vias/",
+      "titulo": "Centro de Cidadania oferece 504 novas vagas de emprego em Rio das Ostras",
+      "descricao": "A Prefeitura informou que o Banco de Empregos municipal disponibilizou 504 vagas em diferentes funções, entre elas manobrista abastecedor, entregador, garçom, pedreiro e motorista. As inscrições são gratuitas e presenciais no Centro de Cidadania, no Âncora.",
+      "data_publicacao": "2026-11-09T09:24:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/centro-de-cidadania-oferece-504-novas-vagas-de-emprego/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Rio das Ostras e SENAI formam mais de 50 alunos em cursos de qualificação",
-      "descricao": "Mais de 50 participantes concluíram cursos de qualificação profissional oferecidos em parceria entre o Município e o SENAI. A formatura marcou o encerramento das turmas de capacitação em diferentes áreas.",
-      "data_publicacao": "2026-11-06T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-e-senai-formam-mais-de-50-alunos-em-cursos-de-qualificacao-profissional/",
+      "titulo": "Rio das Ostras abre inscrições para 1.364 vagas em creches para 2027",
+      "descricao": "A Secretaria Municipal de Educação anunciou 1.364 vagas para o próximo ano letivo, com inscrições de 16 a 19 de novembro e cadastro prioritariamente pelo aplicativo Colab. Pela primeira vez, o processo terá inscrição on-line e postos presenciais de apoio para responsáveis que precisarem de ajuda.",
+      "data_publicacao": "2026-11-09T17:01:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-abre-inscricoes-para-1-364-vagas-em-creches-para-2027/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Rio das Ostras abre 291 vagas em cursos gratuitos de informática",
-      "descricao": "O Programa Municipal de Qualificação abriu inscrições entre 9 e 12 de novembro para 291 vagas em cursos livres de informática. As aulas serão presenciais em unidades municipais e incluem opções de planilhas, informática básica e modelagem 3D.",
-      "data_publicacao": "2026-11-05T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/municipio-abre-inscricoes-para-vagas-em-cursos-gratuitos-de-informatica/",
+      "titulo": "Colab de Rio das Ostras reúne mais de 150 serviços municipais",
+      "descricao": "A Prefeitura informou que mais de 13 mil pessoas utilizam o aplicativo Colab, que disponibiliza mais de 150 serviços, incluindo agendamentos, solicitações e canais de Ouvidoria. A plataforma integra o programa Rio das Ostras Digital e busca facilitar o acesso da população aos serviços municipais.",
+      "data_publicacao": "2026-11-09T16:28:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/colab-de-rio-das-ostras-ja-conta-com-mais-de-150-servicos-cadastrados/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Rio das Ostras promove mutirão de regularização do Cadastur",
-      "descricao": "A Prefeitura fará atendimento gratuito nos dias 10 e 11 de novembro para cadastro, renovação e regularização de prestadores de serviços turísticos. A iniciativa será realizada com apoio do TurisRio na Secretaria Municipal de Desenvolvimento Econômico e Turismo.",
+      "titulo": "TJRJ orienta cartórios sobre benefícios na primeira aquisição residencial pelo SFH",
+      "descricao": "A Corregedoria do TJRJ publicou aviso para que os serviços notariais e de registro de imóveis divulguem os benefícios relativos à primeira compra de imóvel residencial financiada pelo Sistema Financeiro da Habitação. O comunicado estadual busca ampliar a orientação aos usuários sobre as regras aplicáveis.",
+      "data_publicacao": "2026-11-03T15:53:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/cgj/informes?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_cur=5&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_delta=20&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_redirect=%2Fweb%2Fcgj%2Finformes&p_r_p_resetCur=false",
+      "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "TJRJ altera regras do Código de Normas dos serviços extrajudiciais",
+      "descricao": "O Tribunal de Justiça do Rio publicou o Provimento CGJ nº 73/2026, que altera dispositivo do Código de Normas da Corregedoria na parte extrajudicial. O aviso oficial identifica a mudança no § 3º do artigo 1.077; o resumo público consultado não detalha o conteúdo completo da nova redação.",
+      "data_publicacao": "2026-11-03T15:52:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/cgj/informes?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_cur=5&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_delta=20&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_redirect=%2Fweb%2Fcgj%2Finformes&p_r_p_resetCur=false",
+      "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "ConJur: promessa de lote com alienação fiduciária sem registro segue o CDC em caso sem mora",
+      "descricao": "Decisão de primeiro grau em Senador Canedo aplicou o Código de Defesa do Consumidor a uma promessa de compra de lote com alienação fiduciária não registrada e sem inadimplência. O juiz também afastou a capitalização mensal cobrada por incorporadora fora do Sistema Financeiro Nacional e determinou restituição integral.",
       "data_publicacao": "2026-10-29T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-promove-mutirao-do-cadastur-em-novembro/",
-      "fonte": "Prefeitura de Rio das Ostras"
+      "url": "https://conjur.com.br/2026-out-29/capitalizacao-mensal-de-incorporadora-sem-sfn-gera-restituicao-integral/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Estado do Rio abre prazo para regularização de projetos culturais",
-      "descricao": "O programa Cultura em Dia abriu uma janela de 15 dias, de 9 a 23 de novembro, para que proponentes regularizem dívidas e prestações de contas pendentes em projetos culturais estaduais. A medida pode permitir que agentes em situação irregular voltem a concorrer a editais.",
-      "data_publicacao": "2026-11-04T00:00:00-03:00",
-      "url": "https://cultura.rj.gov.br/governo-do-estado-lanca-programa-cultura-em-dia-para-regularizacao-de-pendencias-de-projetos-culturais/",
-      "fonte": "Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro"
+      "titulo": "ConJur analisa consolidação de imóvel fiduciário após falência",
+      "descricao": "Artigo publicado na ConJur sustenta que, após a quebra, o credor fiduciário deve pedir a restituição do imóvel no juízo falimentar, em vez de consolidar a propriedade em cartório e promover leilão extrajudicial. O texto distingue esse tratamento da hipoteca, cujo bem integra a massa falida e gera crédito com garantia real.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-27/hipoteca-e-alienacao-fiduciaria-na-falencia-a-mesma-divida-dois-destinos/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Rio de Janeiro cria 9,2 mil empregos formais em setembro",
-      "descricao": "O estado do Rio de Janeiro registrou saldo de 9.285 empregos formais em setembro, segundo dados do Novo Caged divulgados pelo Ministério do Trabalho e Emprego. Serviços liderou a criação de vagas no estado, seguido por comércio e indústria.",
-      "data_publicacao": "2026-11-05T00:00:00-03:00",
-      "url": "https://www.gov.br/secom/pt-br/assuntos/noticias-regionalizadas/numeros-do-novo-caged-em-2026/09/rio-de-janeiro-gera-9-2-mil-empregos-com-carteira-assinada-em-setembro",
-      "fonte": "Secretaria de Comunicação Social"
+      "titulo": "ConJur debate efeitos da quitação à incorporadora sobre alienação fiduciária",
+      "descricao": "Artigo da ConJur aponta que o pagamento integral à incorporadora não assegura, por si só, a baixa da alienação fiduciária registrada em favor do credor. O autor recomenda prever nos contratos critérios de liberação das unidades e prazos para a anuência do financiador, diante de decisões divergentes no STJ.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/alienacao-fiduciaria-e-sumula-308-do-stj-a-restricao-jurisprudencial-em-debate/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "ConJur analisa uso de imóvel por ex-cônjuge que reside com os filhos",
-      "descricao": "A reportagem aborda decisão segundo a qual o ex-cônjuge que mora com os filhos no imóvel pertencente ao outro não deve pagar aluguel por esse uso. O entendimento considera o contexto familiar e a moradia dos filhos.",
-      "data_publicacao": "2026-11-05T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-05/ex-conjuge-que-mora-com-os-filhos-no-imovel-do-outro-nao-precisa-pagar-aluguel/",
-      "fonte": "Consultor Jurídico"
+      "titulo": "CNB/SP explica pedido conjunto de desmembramento de terreno e averbação de construção",
+      "descricao": "Artigo publicado pelo CNB/SP explica que o desmembramento de lote com construção ainda não averbada deve ser apresentado ao Registro de Imóveis junto com a averbação da obra. A proposta é instruir o protocolo com Habite-se e projeto municipal aprovado para que a edificação conste das novas matrículas.",
+      "data_publicacao": "2026-10-29T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/29/artigo-como-dividir-meu-terreno-em-dois-e-averbar-minha-casa-tudo-ao-mesmo-tempo-direto-no-cartorio-por-julio-martins/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
     },
     {
-      "titulo": "ConJur examina base do Funrural na transição tributária",
-      "descricao": "A matéria trata da decisão do STJ de que IBS e CBS não integram a base de cálculo do Funrural. O tema acompanha os efeitos da reforma tributária sobre contribuições incidentes na atividade rural.",
-      "data_publicacao": "2026-11-06T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-06/funrural-e-reforma-tributaria-o-ibs-e-a-cbs-nao-integram-a-base-de-calculo/",
-      "fonte": "Consultor Jurídico"
+      "titulo": "CNB/SP analisa mudanças do ITCMD na reforma tributária",
+      "descricao": "Artigo do CNB/SP examina a adoção de alíquotas progressivas do ITCMD e o uso do valor de mercado na avaliação de ativos de participações societárias, conforme as alterações tributárias citadas no texto. O autor observa que o novo modelo pode alterar custos de doações e inventários, judiciais ou extrajudiciais.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/27/artigo-reforma-tributaria-e-o-itcmd-por-arthur-del-guercio-neto/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
     },
     {
-      "titulo": "ConJur discute isenção de IR para militares da reserva",
-      "descricao": "O artigo analisa o Tema 1.462 do STJ e a controvérsia sobre estender a isenção de imposto de renda a militares da reserva remunerada. A discussão examina os limites entre interpretação judicial e ampliação do alcance da lei.",
-      "data_publicacao": "2026-11-07T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-07/tema-1-462-do-stj-incluir-reserva-remunerada-na-isencao-de-ir-e-interpretar-ou-ampliar-lei/",
-      "fonte": "Consultor Jurídico"
-    },
-    {
-      "titulo": "CNB e CNJ cooperam no desenvolvimento do SisPreq",
-      "descricao": "O Colégio Notarial do Brasil firmou acordo de cooperação técnica com o CNJ para apoiar o desenvolvimento do Sistema Nacional de Precatórios e RPVs. A plataforma pretende padronizar procedimentos e centralizar informações ligadas à negociação e gestão desses créditos.",
-      "data_publicacao": "2026-11-06T00:00:00-03:00",
-      "url": "https://www.anoregmt.org.br/novo/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Diretor do CNB/CF assume vice-presidência na UINL",
-      "descricao": "Ubiratan Guimarães foi nomeado vice-presidente da Comissão de Assuntos Americanos da União Internacional do Notariado. A função amplia a representação brasileira na entidade internacional do notariado.",
-      "data_publicacao": "2026-10-30T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/diretor-do-cnb-cf-ubiratan-guimaraes-e-nomeado-vice-presidente-da-comissao-de-assuntos-americanos-da-uinl/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "CNB apresenta uso de inteligência artificial no e-Notariado",
-      "descricao": "O Colégio Notarial do Brasil apresentou em encontro internacional aplicações de inteligência artificial integradas ao e-Notariado. Entre os usos relatados estão extração de dados de documentos, apoio à busca de testamentos e estruturação de informações para o registro de imóveis, com validação do notário.",
-      "data_publicacao": "2026-10-20T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
-      "fonte": "Colégio Notarial do Brasil"
+      "titulo": "CNB/SP relata doações antecipadas diante de mudanças previstas no ITCMD",
+      "descricao": "Reportagem repercutida pelo CNB/SP relaciona alterações previstas na tributação de heranças e doações ao aumento de transferências patrimoniais em vida. O texto reúne dados de escrituras de doação de imóveis e descreve cláusulas, como reserva de usufruto, utilizadas em planejamentos sucessórios.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/22/estadao-heranca-blindada-como-familias-de-alta-renda-protegem-o-patrimonio-ao-antecipar-a-sucessao/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
     }
   ]
 }
