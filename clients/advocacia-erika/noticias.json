@@ -1,103 +1,82 @@
 {
-  "data-busca": "2026-11-09T10:03:09-03:00",
+  "data-busca": "2026-11-10T10:03:04-03:00",
   "noticias": [
     {
-      "titulo": "STJ mantém responsabilidade de proprietário registral por IPTU após cessão particular",
-      "descricao": "No Informativo 908, o STJ registra que a comunicação de uma venda particular ao município não substitui o registro imobiliário nem afasta automaticamente a responsabilidade do proprietário que ainda consta na matrícula. A legislação municipal pode definir o sujeito passivo entre os vinculados ao imóvel.",
-      "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/SCON/GetPDFINFJ?edicao=0908",
-      "fonte": "Superior Tribunal de Justiça"
+      "titulo": "ConJur: promessa de lote com alienação fiduciária sem registro segue o CDC em caso sem mora",
+      "descricao": "Decisão de primeiro grau em Senador Canedo aplicou o Código de Defesa do Consumidor a uma promessa de compra de lote com alienação fiduciária não registrada e sem inadimplência. O juiz também afastou a capitalização mensal cobrada por incorporadora fora do Sistema Financeiro Nacional e determinou restituição integral.",
+      "data_publicacao": "2026-10-29T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-29/capitalizacao-mensal-de-incorporadora-sem-sfn-gera-restituicao-integral/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "STJ reafirma prioridade do registro mais antigo em disputa sobre matrículas sobrepostas",
-      "descricao": "A Terceira Turma examinou uma disputa envolvendo cadeias dominiais e matrículas sobrepostas no Tocantins. O tribunal destacou a presunção relativa de validade dos registros e a prioridade do título mais antigo quando não há vício de origem demonstrado.",
-      "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022694",
-      "fonte": "Superior Tribunal de Justiça"
-    },
-    {
-      "titulo": "STJ admite ação de sonegados antes do encerramento do inventário diante de resistência",
-      "descricao": "O STJ entendeu que a ação pode ser proposta contra herdeiros antes do fim do inventário quando já estiver clara a resistência à inclusão dos bens apontados. O caso tratou de imóveis que o inventariante afirmava terem sido omitidos da partilha.",
-      "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022736",
-      "fonte": "Superior Tribunal de Justiça"
-    },
-    {
-      "titulo": "STJ determina colação de imóvel transferido a netos sem prova de pagamento",
-      "descricao": "No Informativo 907, a Quarta Turma qualificou como doação indireta a transferência formalizada como compra e venda sem comprovação do pagamento. A obrigação de colação também alcança descendentes que recebem a herança por representação, salvo declaração expressa do doador em sentido diverso.",
+      "titulo": "ConJur analisa consolidação de imóvel fiduciário após falência",
+      "descricao": "Artigo publicado na ConJur sustenta que, após a quebra, o credor fiduciário deve pedir a restituição do imóvel no juízo falimentar, em vez de consolidar a propriedade em cartório e promover leilão extrajudicial. O texto distingue esse tratamento da hipoteca, cujo bem integra a massa falida e gera crédito com garantia real.",
       "data_publicacao": "2026-10-27T00:00:00-03:00",
-      "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022711",
+      "url": "https://conjur.com.br/2026-out-27/hipoteca-e-alienacao-fiduciaria-na-falencia-a-mesma-divida-dois-destinos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ConJur debate efeitos da quitação à incorporadora sobre alienação fiduciária",
+      "descricao": "Artigo da ConJur aponta que o pagamento integral à incorporadora não assegura, por si só, a baixa da alienação fiduciária registrada em favor do credor. O autor recomenda prever nos contratos critérios de liberação das unidades e prazos para a anuência do financiador, diante de decisões divergentes no STJ.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/alienacao-fiduciaria-e-sumula-308-do-stj-a-restricao-jurisprudencial-em-debate/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ConJur discute conversão de edifícios comerciais em áreas residenciais",
+      "descricao": "Artigo jurídico sustenta que a conversão de edifícios comerciais em bairros consolidados pode ocorrer sob regras existentes, sem incentivo público quando não há aumento da área computável. O texto destaca a importância de verificar a convenção condominial e as frações ideais antes da aquisição.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-22/conversao-de-edificios-ja-conta-com-regime-juridico-proprio-e-dispensa-incentivo-publico/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB/SP aborda pedido conjunto de desmembramento de terreno e averbação de construção",
+      "descricao": "Artigo publicado pelo CNB/SP explica que o desmembramento de lote com construção ainda não averbada deve ser apresentado ao Registro de Imóveis junto com a averbação da obra. A proposta é instruir o protocolo com Habite-se e projeto municipal aprovado, para que a edificação conste das novas matrículas.",
+      "data_publicacao": "2026-10-29T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/29/artigo-como-dividir-meu-terreno-em-dois-e-averbar-minha-casa-tudo-ao-mesmo-tempo-direto-no-cartorio-por-julio-martins/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "CNB/SP analisa mudanças do ITCMD na reforma tributária",
+      "descricao": "Artigo do CNB/SP examina a adoção de alíquotas progressivas do ITCMD e o uso do valor de mercado na avaliação de ativos de participações societárias, conforme as alterações tributárias citadas no texto. O autor observa que o novo modelo pode alterar custos de doações e inventários, judiciais ou extrajudiciais.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/27/artigo-reforma-tributaria-e-o-itcmd-por-arthur-del-guercio-neto/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "CNB/SP relata aumento de doações antecipadas diante de mudanças no ITCMD",
+      "descricao": "Reportagem repercutida pelo CNB/SP relaciona as mudanças previstas na tributação de heranças e doações ao aumento de transferências patrimoniais em vida. O texto reúne dados de escrituras de doação de imóveis e descreve cláusulas, como reserva de usufruto, usadas em planejamentos sucessórios.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/22/estadao-heranca-blindada-como-familias-de-alta-renda-protegem-o-patrimonio-ao-antecipar-a-sucessao/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "CNB/SP divulga congresso nacional sobre direito notarial e registral",
+      "descricao": "O CNB/SP informou que o II Congresso Nacional de Direito Notarial e Registral da Advocacia será realizado em 27 de novembro, em formato híbrido. A programação prevê debates sobre reforma do Código Civil, extrajudicialização, integração digital, registro de imóveis e sucessões.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/19/inscricoes-abertas-ii-congresso-nacional-de-direito-notarial-e-registral-da-advocacia/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "CNB/SP destaca autorização judicial para venda de imóvel entre pais e filho",
+      "descricao": "Uma Vara de Família de Santa Catarina autorizou a venda de imóvel dos pais ao filho maior, com suprimento judicial do consentimento do irmão menor e preço mínimo baseado em avaliação judicial. A decisão exige apresentação posterior da escritura e prestação de contas do valor praticado.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/23/jurinews-venda-de-casa-entre-pai-e-filho-depende-de-autorizacao-judicial-e-aceite-de-irmao-menor/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "STJ considera indevida taxa condominial cobrada apenas de moradores não proprietários",
+      "descricao": "No Informativo 908, o STJ entendeu que o condomínio não pode cobrar taxa geral de lazer exclusivamente de ocupantes que não são proprietários apenas por alugarem, receberem cessão ou empréstimo da unidade. A corte destacou que o uso das áreas comuns acompanha a unidade e que a diferença de cobrança exige justificativa objetiva de despesas.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022699",
       "fonte": "Superior Tribunal de Justiça"
     },
     {
-      "titulo": "TJRJ afasta novo ITCMD em reversão de doação de imóvel prevista em cláusula resolutiva",
-      "descricao": "O Conselho da Magistratura do TJRJ manteve decisão que dispensou novo recolhimento do imposto na averbação da reversão de imóvel após o falecimento do donatário e o descumprimento da condição pactuada. Para o colegiado, a reversão não representa nova transmissão patrimonial.",
-      "data_publicacao": "2026-11-06T00:00:00-03:00",
-      "url": "https://www.irib.org.br/doacao-clausula-resolutiva-reversao-donatario-falecimento-itcmd-fato-gerador-ausencia/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "FNDI publica orientações sobre prontuários e dados em registros de imóveis",
-      "descricao": "Nota técnica e cartilha do Fórum Nacional de Desenvolvimento Imobiliário abordam a identificação de requerentes, os registros de atendimentos e o acesso a informações em pedidos feitos aos cartórios. Os materiais relacionam essas práticas à transparência, à proteção de dados e à prevenção de riscos.",
+      "titulo": "TJRJ orienta cartórios a informar redução de emolumentos na primeira compra pelo SFH",
+      "descricao": "A Corregedoria do TJRJ publicou aviso para que serviços extrajudiciais com atribuições notariais e de registro de imóveis divulguem os benefícios aplicáveis à primeira aquisição residencial financiada pelo SFH. A orientação reforça o acesso dos compradores às regras estaduais de redução de emolumentos.",
       "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://www.irib.org.br/fndi-publica-nota-tecnica-e-cartilha-para-orientar-usuarios-dos-cartorios-sobre-prontuarios/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "IRIB divulga guia sobre uso responsável de inteligência artificial em serventias",
-      "descricao": "O guia do FNDI reúne recomendações para adoção de inteligência artificial nos serviços de Registro de Imóveis, incluindo a relação com a LGPD e a melhoria de operações. O material ressalta que a tecnologia deve apoiar o trabalho registral e preservar a centralidade da análise humana.",
-      "data_publicacao": "2026-11-04T00:00:00-03:00",
-      "url": "https://www.irib.org.br/fndi-publica-guia-orientativo-sobre-ia-nas-serventias-extrajudiciais/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "TJPR exige escritura pública para transferir fração de imóvel comum a empresa",
-      "descricao": "O Tribunal de Justiça do Paraná manteve exigência registral de escritura pública para integralização da parte de um imóvel comum pertencente ao cônjuge que não integra a sociedade. A decisão entendeu que a dispensa prevista para bens transferidos por sócio subscritor não alcança essa fração.",
-      "data_publicacao": "2026-11-04T00:00:00-03:00",
-      "url": "https://www.irib.org.br/integralizacao-de-capital-social-bens-imoveis-comuns-do-casal-regime-de-comunhao-universal-de-bens-conjuge-nao-socio-contrato-social-anuencia-escritura-publica-necessidade/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "Adjudicação compulsória extrajudicial de imóvel rural envolve georreferenciamento prévio",
-      "descricao": "O IRIB apresentou consulta sobre a qualificação objetiva de imóvel rural em procedimento de adjudicação compulsória extrajudicial. A questão pergunta se a averbação de georreferenciamento pode ser processada antes do registro do título, mas a resposta integral é restrita a associados.",
-      "data_publicacao": "2026-11-05T00:00:00-03:00",
-      "url": "https://www.irib.org.br/adjudicacao-compulsoria-extrajudicial-imovel-rural-especialidade-objetiva-georreferenciamento/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "Registro de imóveis debate financiamento, moradia e segurança jurídica em encontro setorial",
-      "descricao": "O Fórum Nacional de Desenvolvimento Imobiliário anunciou encontro para discutir crédito habitacional, garantias, extratos eletrônicos e decisões judiciais sobre contratos. A programação também prevê debates sobre moradia, Minha Casa, Minha Vida e aplicações de inteligência artificial no setor.",
-      "data_publicacao": "2026-11-06T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/fndi-debatera-financiamento-habitacional-na-proxima-quarta",
-      "fonte": "Registro de Imóveis do Brasil"
-    },
-    {
-      "titulo": "Estudo aponta possível encarecimento do crédito imobiliário com tributação de LCI e LIG",
-      "descricao": "Levantamento da Abrainc divulgado pelo Registro de Imóveis do Brasil associa a tributação de Letras de Crédito Imobiliário e Letras Imobiliárias Garantidas a uma possível alta no custo do financiamento. O estudo também estima efeitos sobre o produto interno bruto e a geração de empregos.",
-      "data_publicacao": "2026-11-06T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/credito-imobiliario-pode-encarecer-com-taxacao-de-lci-e-lig",
-      "fonte": "Registro de Imóveis do Brasil"
-    },
-    {
-      "titulo": "IRIB publica atualização sobre governança nacional integrada do Registro de Imóveis",
-      "descricao": "Durante o encontro nacional da atividade, IRIB, ONR e Registro de Imóveis do Brasil apresentaram articulação institucional e planejamento conjunto até 2030. A agenda inclui digitalização, padronização de serviços, indicadores e qualificação profissional.",
-      "data_publicacao": "2026-10-30T00:00:00-03:00",
-      "url": "https://www.irib.org.br/registro-de-imoveis-anuncia-governanca-nacional-integrada-e-plano-estrategico-ate-2030/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "IRIB relata debates sobre inteligência artificial e segurança de dados em encontro nacional",
-      "descricao": "O encerramento do 51º Encontro dos Oficiais de Registro de Imóveis abordou inteligência artificial, correção de inconsistências registrais e uso de dados imobiliários. Os participantes destacaram supervisão profissional e proteção das informações como pontos da modernização dos serviços.",
-      "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://www.irib.org.br/inteligencia-artificial-dados-e-seguranca-juridica-marcam-encerramento-do-51o-encontro-do-registro-de-imoveis/",
-      "fonte": "IRIB"
-    },
-    {
-      "titulo": "Migalhas explica procedimento para contestar exigências do registro de imóveis",
-      "descricao": "Artigo descreve a suscitação de dúvida como caminho para submeter ao juízo competente uma exigência registral contestada pelo interessado. O texto destaca que o procedimento depende de título protocolizado e de análise da exigência no caso concreto.",
-      "data_publicacao": "2026-10-22T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/467046/",
-      "fonte": "Migalhas"
+      "url": "https://www.tjrj.jus.br/web/cgj/informes?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_cur=5&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_delta=20&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_redirect=%2Fweb%2Fcgj%2Finformes&p_r_p_resetCur=false",
+      "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro"
     }
   ]
 }

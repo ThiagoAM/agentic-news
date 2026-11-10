@@ -1,0 +1,103 @@
+{
+  "data-busca": "2026-11-09T10:03:09-03:00",
+  "noticias": [
+    {
+      "titulo": "STJ mantém responsabilidade de proprietário registral por IPTU após cessão particular",
+      "descricao": "No Informativo 908, o STJ registra que a comunicação de uma venda particular ao município não substitui o registro imobiliário nem afasta automaticamente a responsabilidade do proprietário que ainda consta na matrícula. A legislação municipal pode definir o sujeito passivo entre os vinculados ao imóvel.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFINFJ?edicao=0908",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ reafirma prioridade do registro mais antigo em disputa sobre matrículas sobrepostas",
+      "descricao": "A Terceira Turma examinou uma disputa envolvendo cadeias dominiais e matrículas sobrepostas no Tocantins. O tribunal destacou a presunção relativa de validade dos registros e a prioridade do título mais antigo quando não há vício de origem demonstrado.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022694",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ admite ação de sonegados antes do encerramento do inventário diante de resistência",
+      "descricao": "O STJ entendeu que a ação pode ser proposta contra herdeiros antes do fim do inventário quando já estiver clara a resistência à inclusão dos bens apontados. O caso tratou de imóveis que o inventariante afirmava terem sido omitidos da partilha.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022736",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ determina colação de imóvel transferido a netos sem prova de pagamento",
+      "descricao": "No Informativo 907, a Quarta Turma qualificou como doação indireta a transferência formalizada como compra e venda sem comprovação do pagamento. A obrigação de colação também alcança descendentes que recebem a herança por representação, salvo declaração expressa do doador em sentido diverso.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022711",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "TJRJ afasta novo ITCMD em reversão de doação de imóvel prevista em cláusula resolutiva",
+      "descricao": "O Conselho da Magistratura do TJRJ manteve decisão que dispensou novo recolhimento do imposto na averbação da reversão de imóvel após o falecimento do donatário e o descumprimento da condição pactuada. Para o colegiado, a reversão não representa nova transmissão patrimonial.",
+      "data_publicacao": "2026-11-06T00:00:00-03:00",
+      "url": "https://www.irib.org.br/doacao-clausula-resolutiva-reversao-donatario-falecimento-itcmd-fato-gerador-ausencia/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "FNDI publica orientações sobre prontuários e dados em registros de imóveis",
+      "descricao": "Nota técnica e cartilha do Fórum Nacional de Desenvolvimento Imobiliário abordam a identificação de requerentes, os registros de atendimentos e o acesso a informações em pedidos feitos aos cartórios. Os materiais relacionam essas práticas à transparência, à proteção de dados e à prevenção de riscos.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://www.irib.org.br/fndi-publica-nota-tecnica-e-cartilha-para-orientar-usuarios-dos-cartorios-sobre-prontuarios/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "IRIB divulga guia sobre uso responsável de inteligência artificial em serventias",
+      "descricao": "O guia do FNDI reúne recomendações para adoção de inteligência artificial nos serviços de Registro de Imóveis, incluindo a relação com a LGPD e a melhoria de operações. O material ressalta que a tecnologia deve apoiar o trabalho registral e preservar a centralidade da análise humana.",
+      "data_publicacao": "2026-11-04T00:00:00-03:00",
+      "url": "https://www.irib.org.br/fndi-publica-guia-orientativo-sobre-ia-nas-serventias-extrajudiciais/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "TJPR exige escritura pública para transferir fração de imóvel comum a empresa",
+      "descricao": "O Tribunal de Justiça do Paraná manteve exigência registral de escritura pública para integralização da parte de um imóvel comum pertencente ao cônjuge que não integra a sociedade. A decisão entendeu que a dispensa prevista para bens transferidos por sócio subscritor não alcança essa fração.",
+      "data_publicacao": "2026-11-04T00:00:00-03:00",
+      "url": "https://www.irib.org.br/integralizacao-de-capital-social-bens-imoveis-comuns-do-casal-regime-de-comunhao-universal-de-bens-conjuge-nao-socio-contrato-social-anuencia-escritura-publica-necessidade/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Adjudicação compulsória extrajudicial de imóvel rural envolve georreferenciamento prévio",
+      "descricao": "O IRIB apresentou consulta sobre a qualificação objetiva de imóvel rural em procedimento de adjudicação compulsória extrajudicial. A questão pergunta se a averbação de georreferenciamento pode ser processada antes do registro do título, mas a resposta integral é restrita a associados.",
+      "data_publicacao": "2026-11-05T00:00:00-03:00",
+      "url": "https://www.irib.org.br/adjudicacao-compulsoria-extrajudicial-imovel-rural-especialidade-objetiva-georreferenciamento/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Registro de imóveis debate financiamento, moradia e segurança jurídica em encontro setorial",
+      "descricao": "O Fórum Nacional de Desenvolvimento Imobiliário anunciou encontro para discutir crédito habitacional, garantias, extratos eletrônicos e decisões judiciais sobre contratos. A programação também prevê debates sobre moradia, Minha Casa, Minha Vida e aplicações de inteligência artificial no setor.",
+      "data_publicacao": "2026-11-06T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/fndi-debatera-financiamento-habitacional-na-proxima-quarta",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Estudo aponta possível encarecimento do crédito imobiliário com tributação de LCI e LIG",
+      "descricao": "Levantamento da Abrainc divulgado pelo Registro de Imóveis do Brasil associa a tributação de Letras de Crédito Imobiliário e Letras Imobiliárias Garantidas a uma possível alta no custo do financiamento. O estudo também estima efeitos sobre o produto interno bruto e a geração de empregos.",
+      "data_publicacao": "2026-11-06T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/credito-imobiliario-pode-encarecer-com-taxacao-de-lci-e-lig",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "IRIB publica atualização sobre governança nacional integrada do Registro de Imóveis",
+      "descricao": "Durante o encontro nacional da atividade, IRIB, ONR e Registro de Imóveis do Brasil apresentaram articulação institucional e planejamento conjunto até 2030. A agenda inclui digitalização, padronização de serviços, indicadores e qualificação profissional.",
+      "data_publicacao": "2026-10-30T00:00:00-03:00",
+      "url": "https://www.irib.org.br/registro-de-imoveis-anuncia-governanca-nacional-integrada-e-plano-estrategico-ate-2030/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "IRIB relata debates sobre inteligência artificial e segurança de dados em encontro nacional",
+      "descricao": "O encerramento do 51º Encontro dos Oficiais de Registro de Imóveis abordou inteligência artificial, correção de inconsistências registrais e uso de dados imobiliários. Os participantes destacaram supervisão profissional e proteção das informações como pontos da modernização dos serviços.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://www.irib.org.br/inteligencia-artificial-dados-e-seguranca-juridica-marcam-encerramento-do-51o-encontro-do-registro-de-imoveis/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Migalhas explica procedimento para contestar exigências do registro de imóveis",
+      "descricao": "Artigo descreve a suscitação de dúvida como caminho para submeter ao juízo competente uma exigência registral contestada pelo interessado. O texto destaca que o procedimento depende de título protocolizado e de análise da exigência no caso concreto.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/467046/",
+      "fonte": "Migalhas"
+    }
+  ]
+}
