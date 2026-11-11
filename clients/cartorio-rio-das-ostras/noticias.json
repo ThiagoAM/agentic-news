@@ -1,81 +1,81 @@
 {
-  "data-busca": "2026-11-10T10:03:04-03:00",
+  "data-busca": "2026-11-11T09:57:29-03:00",
   "noticias": [
     {
-      "titulo": "Centro de Cidadania oferece 504 novas vagas de emprego em Rio das Ostras",
-      "descricao": "A Prefeitura informou que o Banco de Empregos municipal disponibilizou 504 vagas em diferentes funções, entre elas manobrista abastecedor, entregador, garçom, pedreiro e motorista. As inscrições são gratuitas e presenciais no Centro de Cidadania, no Âncora.",
-      "data_publicacao": "2026-11-09T09:24:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/centro-de-cidadania-oferece-504-novas-vagas-de-emprego/",
+      "titulo": "Rio das Ostras inicia Jogos Escolares com estudantes das redes pública e privada",
+      "descricao": "Os Jogos Escolares de Rio das Ostras acontecem de 11 a 18 de novembro, com estudantes de diferentes etapas escolares e competições coletivas e individuais. A programação inclui atletismo e xadrez no Paraesporte, com participação de estudantes com deficiência intelectual e TEA.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-se-prepara-para-a-maior-festa-do-esporte-escolar/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Rio das Ostras abre inscrições para 1.364 vagas em creches para 2027",
-      "descricao": "A Secretaria Municipal de Educação anunciou 1.364 vagas para o próximo ano letivo, com inscrições de 16 a 19 de novembro e cadastro prioritariamente pelo aplicativo Colab. Pela primeira vez, o processo terá inscrição on-line e postos presenciais de apoio para responsáveis que precisarem de ajuda.",
-      "data_publicacao": "2026-11-09T17:01:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-abre-inscricoes-para-1-364-vagas-em-creches-para-2027/",
+      "titulo": "Rio das Ostras abre renovação de matrículas municipais para 2027",
+      "descricao": "A rede municipal iniciou o processo de renovação de matrícula para o ano letivo de 2027, que pode ser feito pela internet ou diretamente na unidade escolar até 25 de novembro. As famílias podem atualizar dados do estudante e indicar escola e série pretendidas para o próximo ano.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-renovacao-de-matricula-da-rede-municipal-para-o-ano-letivo-de-2027/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Colab de Rio das Ostras reúne mais de 150 serviços municipais",
-      "descricao": "A Prefeitura informou que mais de 13 mil pessoas utilizam o aplicativo Colab, que disponibiliza mais de 150 serviços, incluindo agendamentos, solicitações e canais de Ouvidoria. A plataforma integra o programa Rio das Ostras Digital e busca facilitar o acesso da população aos serviços municipais.",
-      "data_publicacao": "2026-11-09T16:28:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/colab-de-rio-das-ostras-ja-conta-com-mais-de-150-servicos-cadastrados/",
+      "titulo": "OstrasBugs terá exposição de veículos antigos na Lagoa do Iriry",
+      "descricao": "A sexta edição do OstrasBugs está prevista para 14 e 15 de novembro, com exposição de veículos antigos e uma área adicional para carros modificados. A programação anunciada pela Prefeitura inclui apresentações musicais, passeios, área infantil e entrada gratuita.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/ostrasbugs-agita-lagoa-do-iriry-neste-final-de-semana/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "TJRJ orienta cartórios sobre benefícios na primeira aquisição residencial pelo SFH",
-      "descricao": "A Corregedoria do TJRJ publicou aviso para que os serviços notariais e de registro de imóveis divulguem os benefícios relativos à primeira compra de imóvel residencial financiada pelo Sistema Financeiro da Habitação. O comunicado estadual busca ampliar a orientação aos usuários sobre as regras aplicáveis.",
-      "data_publicacao": "2026-11-03T15:53:00-03:00",
+      "titulo": "TJRJ orienta cartórios sobre desconto na primeira compra residencial pelo SFH",
+      "descricao": "Aviso da Corregedoria do TJRJ orienta serviços notariais e de registro de imóveis a informar os usuários sobre os benefícios relativos à primeira aquisição residencial financiada pelo Sistema Financeiro da Habitação. A comunicação trata da redução de emolumentos prevista para os atos que atendam aos requisitos legais.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
       "url": "https://www.tjrj.jus.br/web/cgj/informes?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_cur=5&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_delta=20&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_redirect=%2Fweb%2Fcgj%2Finformes&p_r_p_resetCur=false",
       "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro"
     },
     {
-      "titulo": "TJRJ altera regras do Código de Normas dos serviços extrajudiciais",
-      "descricao": "O Tribunal de Justiça do Rio publicou o Provimento CGJ nº 73/2026, que altera dispositivo do Código de Normas da Corregedoria na parte extrajudicial. O aviso oficial identifica a mudança no § 3º do artigo 1.077; o resumo público consultado não detalha o conteúdo completo da nova redação.",
-      "data_publicacao": "2026-11-03T15:52:00-03:00",
-      "url": "https://www.tjrj.jus.br/web/cgj/informes?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_cur=5&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_delta=20&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_redirect=%2Fweb%2Fcgj%2Finformes&p_r_p_resetCur=false",
-      "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro"
+      "titulo": "EMERJ debate reforma tributária e seus efeitos na atividade notarial e registral",
+      "descricao": "O Fórum Permanente de Direito Notarial e Registral da EMERJ realizou, em 6 de novembro, encontro sobre a reforma tributária e os serviços extrajudiciais. Os painéis abordaram os efeitos sobre as operações imobiliárias e os ajustes tecnológicos e de conformidade que podem alcançar os cartórios.",
+      "data_publicacao": "2026-11-06T00:00:00-03:00",
+      "url": "https://emerj.tjrj.jus.br/noticia/3401",
+      "fonte": "Escola da Magistratura do Estado do Rio de Janeiro"
     },
     {
-      "titulo": "ConJur: promessa de lote com alienação fiduciária sem registro segue o CDC em caso sem mora",
-      "descricao": "Decisão de primeiro grau em Senador Canedo aplicou o Código de Defesa do Consumidor a uma promessa de compra de lote com alienação fiduciária não registrada e sem inadimplência. O juiz também afastou a capitalização mensal cobrada por incorporadora fora do Sistema Financeiro Nacional e determinou restituição integral.",
-      "data_publicacao": "2026-10-29T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-29/capitalizacao-mensal-de-incorporadora-sem-sfn-gera-restituicao-integral/",
+      "titulo": "ConJur discute proposta de vedar arbitragem em locações residenciais",
+      "descricao": "Artigo publicado na ConJur propõe que a legislação vede a arbitragem em contratos de locação residencial e examina os requisitos para cláusulas compromissórias em contratos de adesão. O texto também apresenta a posição atribuída ao STJ sobre a incompatibilidade entre arbitragem e a ação executiva de despejo; a proposta depende de mudança legislativa.",
+      "data_publicacao": "2026-11-09T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-09/arbitragem-locacao-residencial-e-direito-a-moradia/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "ConJur analisa consolidação de imóvel fiduciário após falência",
-      "descricao": "Artigo publicado na ConJur sustenta que, após a quebra, o credor fiduciário deve pedir a restituição do imóvel no juízo falimentar, em vez de consolidar a propriedade em cartório e promover leilão extrajudicial. O texto distingue esse tratamento da hipoteca, cujo bem integra a massa falida e gera crédito com garantia real.",
-      "data_publicacao": "2026-10-27T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-27/hipoteca-e-alienacao-fiduciaria-na-falencia-a-mesma-divida-dois-destinos/",
+      "titulo": "ConJur aborda escritura pública para corrigir formal de partilha",
+      "descricao": "Artigo da ConJur sustenta que escritura pública pode corrigir erro material de formal de partilha judicial antes do registro, se a providência não alterar os beneficiários da decisão. O texto diferencia a retificação documental de uma reorganização consensual dos quinhões, que pode ter natureza de negócio posterior.",
+      "data_publicacao": "2026-11-08T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-08/partilha-judicial-ate-onde-pode-ir-o-aditamento-por-escritura-publica/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "ConJur debate efeitos da quitação à incorporadora sobre alienação fiduciária",
-      "descricao": "Artigo da ConJur aponta que o pagamento integral à incorporadora não assegura, por si só, a baixa da alienação fiduciária registrada em favor do credor. O autor recomenda prever nos contratos critérios de liberação das unidades e prazos para a anuência do financiador, diante de decisões divergentes no STJ.",
-      "data_publicacao": "2026-10-23T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-23/alienacao-fiduciaria-e-sumula-308-do-stj-a-restricao-jurisprudencial-em-debate/",
+      "titulo": "ConJur analisa efeitos do tombamento provisório sobre imóveis",
+      "descricao": "Artigo publicado na ConJur sustenta que o tombamento provisório produz, em regra, efeitos equivalentes aos do definitivo desde a notificação do proprietário, ressalvada a averbação imobiliária. O autor também discute a proteção de áreas tombadas em conjunto e a necessidade de ouvir o ente público titular em tombamento de ofício.",
+      "data_publicacao": "2026-11-07T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-07/o-tombamento-de-bens-culturais-e-suas-especies/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "CNB/SP explica pedido conjunto de desmembramento de terreno e averbação de construção",
-      "descricao": "Artigo publicado pelo CNB/SP explica que o desmembramento de lote com construção ainda não averbada deve ser apresentado ao Registro de Imóveis junto com a averbação da obra. A proposta é instruir o protocolo com Habite-se e projeto municipal aprovado para que a edificação conste das novas matrículas.",
-      "data_publicacao": "2026-10-29T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/10/29/artigo-como-dividir-meu-terreno-em-dois-e-averbar-minha-casa-tudo-ao-mesmo-tempo-direto-no-cartorio-por-julio-martins/",
+      "titulo": "Jornada Notarial 2026 levou orientações sobre transações imobiliárias à população",
+      "descricao": "O CNB/CF informou que a Jornada Notarial de 7 de novembro realizou atendimentos e orientações gratuitas sobre compra e venda de imóveis, escrituras e regularização documental. A iniciativa também apresentou a Conta Notarial e recursos do e-Notariado aos participantes.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
+      "fonte": "Colégio Notarial do Brasil – Conselho Federal"
+    },
+    {
+      "titulo": "CNJ amplia prazos de segurança digital para os cartórios",
+      "descricao": "O CNB/SP resume a ampliação dos prazos do Provimento CNJ 243/2026 para adequação a padrões de segurança da informação, com datas diferentes conforme a classe econômica da serventia. Os requisitos incluem controles de acesso, proteção de dados, continuidade operacional e recuperação de desastres.",
+      "data_publicacao": "2026-11-09T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/09/portal-do-ri-servicos-notariais-e-de-registro-conselho-nacional-de-justica-reforca-prazos-para-medidas-de-protecao-de-dados/",
       "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
     },
     {
-      "titulo": "CNB/SP analisa mudanças do ITCMD na reforma tributária",
-      "descricao": "Artigo do CNB/SP examina a adoção de alíquotas progressivas do ITCMD e o uso do valor de mercado na avaliação de ativos de participações societárias, conforme as alterações tributárias citadas no texto. O autor observa que o novo modelo pode alterar custos de doações e inventários, judiciais ou extrajudiciais.",
-      "data_publicacao": "2026-10-27T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/10/27/artigo-reforma-tributaria-e-o-itcmd-por-arthur-del-guercio-neto/",
-      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
-    },
-    {
-      "titulo": "CNB/SP relata doações antecipadas diante de mudanças previstas no ITCMD",
-      "descricao": "Reportagem repercutida pelo CNB/SP relaciona alterações previstas na tributação de heranças e doações ao aumento de transferências patrimoniais em vida. O texto reúne dados de escrituras de doação de imóveis e descreve cláusulas, como reserva de usufruto, utilizadas em planejamentos sucessórios.",
-      "data_publicacao": "2026-10-22T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/10/22/estadao-heranca-blindada-como-familias-de-alta-renda-protegem-o-patrimonio-ao-antecipar-a-sucessao/",
+      "titulo": "STJ reconhece que herdeiro pode pedir usucapião de imóvel da herança",
+      "descricao": "Notícia do CNB/SP baseada em decisão do STJ informa que herdeiro pode ter legitimidade para ajuizar ação de usucapião extraordinária de imóvel hereditário, desde que comprove os requisitos legais. No caso, o recurso foi provido para permitir o prosseguimento da ação após o tribunal de origem afastar o interesse processual.",
+      "data_publicacao": "2026-11-04T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/04/irib-usucapiao-extraordinaria-herdeiro-imovel-objeto-de-heranca-possibilidade/",
       "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
     }
   ]
