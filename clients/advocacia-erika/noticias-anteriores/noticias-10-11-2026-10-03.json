@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-10T10:03:04-03:00",
+  "noticias": [
+    {
+      "titulo": "ConJur: promessa de lote com alienação fiduciária sem registro segue o CDC em caso sem mora",
+      "descricao": "Decisão de primeiro grau em Senador Canedo aplicou o Código de Defesa do Consumidor a uma promessa de compra de lote com alienação fiduciária não registrada e sem inadimplência. O juiz também afastou a capitalização mensal cobrada por incorporadora fora do Sistema Financeiro Nacional e determinou restituição integral.",
+      "data_publicacao": "2026-10-29T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-29/capitalizacao-mensal-de-incorporadora-sem-sfn-gera-restituicao-integral/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ConJur analisa consolidação de imóvel fiduciário após falência",
+      "descricao": "Artigo publicado na ConJur sustenta que, após a quebra, o credor fiduciário deve pedir a restituição do imóvel no juízo falimentar, em vez de consolidar a propriedade em cartório e promover leilão extrajudicial. O texto distingue esse tratamento da hipoteca, cujo bem integra a massa falida e gera crédito com garantia real.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-27/hipoteca-e-alienacao-fiduciaria-na-falencia-a-mesma-divida-dois-destinos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ConJur debate efeitos da quitação à incorporadora sobre alienação fiduciária",
+      "descricao": "Artigo da ConJur aponta que o pagamento integral à incorporadora não assegura, por si só, a baixa da alienação fiduciária registrada em favor do credor. O autor recomenda prever nos contratos critérios de liberação das unidades e prazos para a anuência do financiador, diante de decisões divergentes no STJ.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/alienacao-fiduciaria-e-sumula-308-do-stj-a-restricao-jurisprudencial-em-debate/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ConJur discute conversão de edifícios comerciais em áreas residenciais",
+      "descricao": "Artigo jurídico sustenta que a conversão de edifícios comerciais em bairros consolidados pode ocorrer sob regras existentes, sem incentivo público quando não há aumento da área computável. O texto destaca a importância de verificar a convenção condominial e as frações ideais antes da aquisição.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-22/conversao-de-edificios-ja-conta-com-regime-juridico-proprio-e-dispensa-incentivo-publico/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNB/SP aborda pedido conjunto de desmembramento de terreno e averbação de construção",
+      "descricao": "Artigo publicado pelo CNB/SP explica que o desmembramento de lote com construção ainda não averbada deve ser apresentado ao Registro de Imóveis junto com a averbação da obra. A proposta é instruir o protocolo com Habite-se e projeto municipal aprovado, para que a edificação conste das novas matrículas.",
+      "data_publicacao": "2026-10-29T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/29/artigo-como-dividir-meu-terreno-em-dois-e-averbar-minha-casa-tudo-ao-mesmo-tempo-direto-no-cartorio-por-julio-martins/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "CNB/SP analisa mudanças do ITCMD na reforma tributária",
+      "descricao": "Artigo do CNB/SP examina a adoção de alíquotas progressivas do ITCMD e o uso do valor de mercado na avaliação de ativos de participações societárias, conforme as alterações tributárias citadas no texto. O autor observa que o novo modelo pode alterar custos de doações e inventários, judiciais ou extrajudiciais.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/27/artigo-reforma-tributaria-e-o-itcmd-por-arthur-del-guercio-neto/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "CNB/SP relata aumento de doações antecipadas diante de mudanças no ITCMD",
+      "descricao": "Reportagem repercutida pelo CNB/SP relaciona as mudanças previstas na tributação de heranças e doações ao aumento de transferências patrimoniais em vida. O texto reúne dados de escrituras de doação de imóveis e descreve cláusulas, como reserva de usufruto, usadas em planejamentos sucessórios.",
+      "data_publicacao": "2026-10-22T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/22/estadao-heranca-blindada-como-familias-de-alta-renda-protegem-o-patrimonio-ao-antecipar-a-sucessao/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "CNB/SP divulga congresso nacional sobre direito notarial e registral",
+      "descricao": "O CNB/SP informou que o II Congresso Nacional de Direito Notarial e Registral da Advocacia será realizado em 27 de novembro, em formato híbrido. A programação prevê debates sobre reforma do Código Civil, extrajudicialização, integração digital, registro de imóveis e sucessões.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/19/inscricoes-abertas-ii-congresso-nacional-de-direito-notarial-e-registral-da-advocacia/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "CNB/SP destaca autorização judicial para venda de imóvel entre pais e filho",
+      "descricao": "Uma Vara de Família de Santa Catarina autorizou a venda de imóvel dos pais ao filho maior, com suprimento judicial do consentimento do irmão menor e preço mínimo baseado em avaliação judicial. A decisão exige apresentação posterior da escritura e prestação de contas do valor praticado.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/23/jurinews-venda-de-casa-entre-pai-e-filho-depende-de-autorizacao-judicial-e-aceite-de-irmao-menor/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "STJ considera indevida taxa condominial cobrada apenas de moradores não proprietários",
+      "descricao": "No Informativo 908, o STJ entendeu que o condomínio não pode cobrar taxa geral de lazer exclusivamente de ocupantes que não são proprietários apenas por alugarem, receberem cessão ou empréstimo da unidade. A corte destacou que o uso das áreas comuns acompanha a unidade e que a diferença de cobrança exige justificativa objetiva de despesas.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022699",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "TJRJ orienta cartórios a informar redução de emolumentos na primeira compra pelo SFH",
+      "descricao": "A Corregedoria do TJRJ publicou aviso para que serviços extrajudiciais com atribuições notariais e de registro de imóveis divulguem os benefícios aplicáveis à primeira aquisição residencial financiada pelo SFH. A orientação reforça o acesso dos compradores às regras estaduais de redução de emolumentos.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://www.tjrj.jus.br/web/cgj/informes?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_cur=5&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_delta=20&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_redirect=%2Fweb%2Fcgj%2Finformes&p_r_p_resetCur=false",
+      "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro"
+    }
+  ]
+}
