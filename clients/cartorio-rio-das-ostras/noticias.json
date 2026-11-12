@@ -1,82 +1,89 @@
 {
-  "data-busca": "2026-11-11T09:57:29-03:00",
+  "data-busca": "2026-11-12T10:00:39-03:00",
   "noticias": [
     {
-      "titulo": "Rio das Ostras inicia Jogos Escolares com estudantes das redes pública e privada",
-      "descricao": "Os Jogos Escolares de Rio das Ostras acontecem de 11 a 18 de novembro, com estudantes de diferentes etapas escolares e competições coletivas e individuais. A programação inclui atletismo e xadrez no Paraesporte, com participação de estudantes com deficiência intelectual e TEA.",
-      "data_publicacao": "2026-11-10T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-se-prepara-para-a-maior-festa-do-esporte-escolar/",
+      "titulo": "SAAE mantém intervenções de drenagem em bairros de Rio das Ostras",
+      "descricao": "O Serviço Autônomo de Água e Esgoto informou serviços em Recreio, Chácara Mariléa, Nova Cidade e Costazul, incluindo limpeza de bueiros e recuperação de drenagem. A autarquia também orientou moradores a comunicar ligações clandestinas e outras irregularidades.",
+      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/intervencoes-do-saae-continuam-em-rio-das-ostras/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Rio das Ostras abre renovação de matrículas municipais para 2027",
-      "descricao": "A rede municipal iniciou o processo de renovação de matrícula para o ano letivo de 2027, que pode ser feito pela internet ou diretamente na unidade escolar até 25 de novembro. As famílias podem atualizar dados do estudante e indicar escola e série pretendidas para o próximo ano.",
+      "titulo": "Rio das Ostras abre renovação de matrículas da rede municipal para 2027",
+      "descricao": "As famílias podem renovar a matrícula dos estudantes da rede municipal pela internet ou diretamente na escola até 25 de novembro. O procedimento permite conferir dados cadastrais e informar a unidade e a série pretendidas para o próximo ano letivo.",
       "data_publicacao": "2026-11-10T00:00:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inicia-renovacao-de-matricula-da-rede-municipal-para-o-ano-letivo-de-2027/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "OstrasBugs terá exposição de veículos antigos na Lagoa do Iriry",
-      "descricao": "A sexta edição do OstrasBugs está prevista para 14 e 15 de novembro, com exposição de veículos antigos e uma área adicional para carros modificados. A programação anunciada pela Prefeitura inclui apresentações musicais, passeios, área infantil e entrada gratuita.",
+      "titulo": "Rio das Ostras orienta moradores sobre vacinação contra a Covid-19",
+      "descricao": "A Vigilância em Saúde municipal acompanha o aumento de casos graves de síndrome respiratória e mantém a vacinação contra Covid-19 nas unidades com sala de imunização. A Prefeitura destaca os esquemas indicados para crianças, idosos, gestantes e grupos especiais, conforme as orientações nacionais.",
       "data_publicacao": "2026-11-10T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/ostrasbugs-agita-lagoa-do-iriry-neste-final-de-semana/",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-incentiva-vacinacao-contra-covid-19/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "TJRJ orienta cartórios sobre desconto na primeira compra residencial pelo SFH",
-      "descricao": "Aviso da Corregedoria do TJRJ orienta serviços notariais e de registro de imóveis a informar os usuários sobre os benefícios relativos à primeira aquisição residencial financiada pelo Sistema Financeiro da Habitação. A comunicação trata da redução de emolumentos prevista para os atos que atendam aos requisitos legais.",
-      "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://www.tjrj.jus.br/web/cgj/informes?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_cur=5&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_delta=20&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_n9cszt19emWP_redirect=%2Fweb%2Fcgj%2Finformes&p_r_p_resetCur=false",
-      "fonte": "Tribunal de Justiça do Estado do Rio de Janeiro"
+      "titulo": "Barcas terão gratuidade para estudantes estaduais no segundo dia do Enem",
+      "descricao": "A Barcas Rio informou que estudantes da rede estadual inscritos no Enem poderão viajar gratuitamente nas linhas de barcas no dia 15 de novembro. O benefício vale para trajetos de ida e volta durante todo o dia mediante apresentação do Vale Educação ou Riocard Escolar.",
+      "data_publicacao": "2026-11-08T00:00:00-03:00",
+      "url": "https://barcasrio.com.br/noticias/transporte-nas-barcas-sera-gratuito-para-estudantes-estaduais-nos-dias-de-prova-do-enem/",
+      "fonte": "Barcas Rio – Governo do Estado do Rio de Janeiro"
     },
     {
-      "titulo": "EMERJ debate reforma tributária e seus efeitos na atividade notarial e registral",
-      "descricao": "O Fórum Permanente de Direito Notarial e Registral da EMERJ realizou, em 6 de novembro, encontro sobre a reforma tributária e os serviços extrajudiciais. Os painéis abordaram os efeitos sobre as operações imobiliárias e os ajustes tecnológicos e de conformidade que podem alcançar os cartórios.",
-      "data_publicacao": "2026-11-06T00:00:00-03:00",
-      "url": "https://emerj.tjrj.jus.br/noticia/3401",
-      "fonte": "Escola da Magistratura do Estado do Rio de Janeiro"
+      "titulo": "Defesa Civil do RJ aproxima universidades e municípios para prevenção de desastres",
+      "descricao": "Pesquisadores, gestores e agentes municipais se reuniram no Rio para discutir o uso de ciência e tecnologia diante de chuvas intensas, estiagem e calor extremo. O encontro integra a preparação estadual para riscos climáticos nos 92 municípios fluminenses.",
+      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "url": "https://barramansa.rio.br/defesa-civil-do-rj-aproxima-universidades-e-municipios-para-levar-ciencia-a-prevencao-de-desastres/",
+      "fonte": "Barra Mansa Rio, com informações do Corpo de Bombeiros do Estado"
     },
     {
-      "titulo": "ConJur discute proposta de vedar arbitragem em locações residenciais",
-      "descricao": "Artigo publicado na ConJur propõe que a legislação vede a arbitragem em contratos de locação residencial e examina os requisitos para cláusulas compromissórias em contratos de adesão. O texto também apresenta a posição atribuída ao STJ sobre a incompatibilidade entre arbitragem e a ação executiva de despejo; a proposta depende de mudança legislativa.",
+      "titulo": "ConJur discute arbitragem em contratos de locação residencial",
+      "descricao": "Artigo da ConJur propõe vedar cláusulas de arbitragem em contratos de locação residencial e examina requisitos para cláusulas compromissórias em contratos de adesão. A proposta depende de alteração legislativa e não descreve uma regra já vigente.",
       "data_publicacao": "2026-11-09T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-nov-09/arbitragem-locacao-residencial-e-direito-a-moradia/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "ConJur aborda escritura pública para corrigir formal de partilha",
-      "descricao": "Artigo da ConJur sustenta que escritura pública pode corrigir erro material de formal de partilha judicial antes do registro, se a providência não alterar os beneficiários da decisão. O texto diferencia a retificação documental de uma reorganização consensual dos quinhões, que pode ter natureza de negócio posterior.",
+      "titulo": "ConJur debate retificação de formal de partilha por escritura pública",
+      "descricao": "Artigo da ConJur sustenta que escritura pública pode corrigir erro material de formal de partilha antes do registro, desde que não altere os beneficiários definidos pela decisão judicial. O texto diferencia a correção documental de uma nova distribuição patrimonial.",
       "data_publicacao": "2026-11-08T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-nov-08/partilha-judicial-ate-onde-pode-ir-o-aditamento-por-escritura-publica/",
       "fonte": "ConJur"
     },
     {
       "titulo": "ConJur analisa efeitos do tombamento provisório sobre imóveis",
-      "descricao": "Artigo publicado na ConJur sustenta que o tombamento provisório produz, em regra, efeitos equivalentes aos do definitivo desde a notificação do proprietário, ressalvada a averbação imobiliária. O autor também discute a proteção de áreas tombadas em conjunto e a necessidade de ouvir o ente público titular em tombamento de ofício.",
+      "descricao": "Artigo da ConJur examina os efeitos do tombamento provisório sobre o imóvel notificado e a relevância da averbação no registro imobiliário. Também aborda a proteção de conjuntos culturais e a participação do ente público titular.",
       "data_publicacao": "2026-11-07T00:00:00-03:00",
       "url": "https://conjur.com.br/2026-nov-07/o-tombamento-de-bens-culturais-e-suas-especies/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Jornada Notarial 2026 levou orientações sobre transações imobiliárias à população",
-      "descricao": "O CNB/CF informou que a Jornada Notarial de 7 de novembro realizou atendimentos e orientações gratuitas sobre compra e venda de imóveis, escrituras e regularização documental. A iniciativa também apresentou a Conta Notarial e recursos do e-Notariado aos participantes.",
+      "titulo": "Jornada Notarial levou orientações sobre segurança jurídica imobiliária à população",
+      "descricao": "O CNB/CF informou que a Jornada Notarial de 7 de novembro ofereceu orientação gratuita sobre compra e venda de imóveis, escrituras e regularização documental. A edição também apresentou a Conta Notarial e recursos digitais do e-Notariado.",
       "data_publicacao": "2026-11-10T00:00:00-03:00",
       "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
       "fonte": "Colégio Notarial do Brasil – Conselho Federal"
     },
     {
-      "titulo": "CNJ amplia prazos de segurança digital para os cartórios",
-      "descricao": "O CNB/SP resume a ampliação dos prazos do Provimento CNJ 243/2026 para adequação a padrões de segurança da informação, com datas diferentes conforme a classe econômica da serventia. Os requisitos incluem controles de acesso, proteção de dados, continuidade operacional e recuperação de desastres.",
-      "data_publicacao": "2026-11-09T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/11/09/portal-do-ri-servicos-notariais-e-de-registro-conselho-nacional-de-justica-reforca-prazos-para-medidas-de-protecao-de-dados/",
+      "titulo": "CNB/SP participa de agenda internacional sobre família e sucessões",
+      "descricao": "O CNB/SP informou que participa, de 12 a 20 de novembro, de encontros internacionais sobre Direito de Família, Sucessões e Biodireito na Espanha e em Portugal. A programação inclui debates sobre regimes de bens, herança, divórcio e segurança jurídica na atuação extrajudicial.",
+      "data_publicacao": "2026-10-28T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/28/cnb-sp-participa-de-jornada-internacional-da-adfas-com-quatro-eventos-sobre-direito-de-familia-sucessoes-e-biodireito/",
       "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
     },
     {
-      "titulo": "STJ reconhece que herdeiro pode pedir usucapião de imóvel da herança",
-      "descricao": "Notícia do CNB/SP baseada em decisão do STJ informa que herdeiro pode ter legitimidade para ajuizar ação de usucapião extraordinária de imóvel hereditário, desde que comprove os requisitos legais. No caso, o recurso foi provido para permitir o prosseguimento da ação após o tribunal de origem afastar o interesse processual.",
-      "data_publicacao": "2026-11-04T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/11/04/irib-usucapiao-extraordinaria-herdeiro-imovel-objeto-de-heranca-possibilidade/",
+      "titulo": "CNB/SP explica inventário extrajudicial sem recolhimento prévio do ITCMD",
+      "descricao": "O CNB/SP resume a Resolução CNJ 695/2026, que retirou o pagamento prévio do ITCMD como condição para lavrar escritura de inventário e partilha. O tributo permanece devido e deve ser tratado conforme as regras fiscais estaduais aplicáveis.",
+      "data_publicacao": "2026-11-05T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/05/herdei-imovel-em-inventario-o-que-imobiliarias-precisam-saber-antes-de-fechar-qualquer-negociacao/",
       "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "STJ definirá limites de retenção na rescisão de contratos de imóveis",
+      "descricao": "O STJ afetou recursos repetitivos para uniformizar os percentuais e as bases de cálculo da retenção quando o comprador dá causa à rescisão. Os temas abrangem contratos anteriores à Lei do Distrato e a compra de lotes e terrenos após a vigência da norma; os limites ainda serão definidos no julgamento de mérito.",
+      "data_publicacao": "2026-10-14T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/10/14/anoreg-mg-stj-definira-limites-de-retencao-na-rescisao-de-compra-de-imoveis/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo, com informação da Anoreg/MG"
     }
   ]
 }
