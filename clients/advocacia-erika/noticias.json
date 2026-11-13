@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-11-12T10:00:39-03:00",
+  "data-busca": "2026-11-13T10:05:17-03:00",
   "noticias": [
     {
-      "titulo": "STJ examina limites da usucapião de imóvel ocupado por herdeiro",
-      "descricao": "A Quarta Turma do STJ decidiu que a permanência prolongada de um herdeiro em imóvel ainda não partilhado, por si só, não demonstra posse com intenção de dono. O caso destaca a necessidade de comprovar atos de posse próprios e enfrentar a oposição dos demais herdeiros.",
+      "titulo": "Conexão FNDI reúne lideranças do ecossistema imobiliário",
+      "descricao": "O encontro realizado em São Paulo reuniu entidades do mercado imobiliário para discutir crédito, moradia e segurança jurídica. A programação abordou garantias, registros, digitalização e perspectivas para o financiamento habitacional.",
+      "data_publicacao": "2026-11-12T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/conexao-fndi-reune-liderancas-do-ecossistema-imobiliario",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Copom mantém juros altos e mercado imobiliário adota cautela",
+      "descricao": "A ata do Copom reforçou a perspectiva de juros elevados por mais tempo, com efeitos sobre crédito habitacional e custo dos financiamentos. O setor também acompanha o impacto do crédito mais restrito sobre vendas e estoques das construtoras.",
+      "data_publicacao": "2026-11-12T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/copom-leva-mercado-imobiliario-a-adotar-cautela",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "ONR lança nova versão do e-Protocolo",
+      "descricao": "A atualização da plataforma permite salvar solicitações como rascunho, acompanhar o histórico dos protocolos e receber notificações de andamento. A implantação será gradual, com calendário regional e ações de capacitação para os usuários.",
       "data_publicacao": "2026-11-11T00:00:00-03:00",
-      "url": "https://ri360.com.br/n/ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao-13798.html",
-      "fonte": "RI360, com informação do STJ"
+      "url": "https://www.registrodeimoveis.org.br/onr-lanca-novo-e-protocolo",
+      "fonte": "Registro de Imóveis do Brasil, com informações do ONR"
     },
     {
-      "titulo": "Carta de adjudicação compulsória depende de continuidade registral",
-      "descricao": "O Conselho Superior da Magistratura de São Paulo considerou a adjudicação compulsória uma forma derivada de aquisição e manteve a qualificação registral da carta judicial. Antes do registro, devem ser observados os títulos sucessórios anteriores e a identificação civil dos titulares.",
+      "titulo": "Minha Casa, Minha Vida responde por sete em cada dez imóveis novos vendidos em São Paulo",
+      "descricao": "Levantamento do Secovi-SP mostra que o programa concentrou cerca de 70% das vendas de imóveis novos na capital entre outubro de 2025 e setembro de 2026. No mesmo intervalo, as vendas de médio e alto padrão recuaram, enquanto a oferta de unidades do programa cresceu.",
       "data_publicacao": "2026-11-11T00:00:00-03:00",
-      "url": "https://ri360.com.br/n/carta-de-adjudicacao-compulsoria-modo-derivado-de-aquisicao-titulo-anterior-esta-13690.html",
-      "fonte": "RI360, com informação do IRIB"
+      "url": "https://www.registrodeimoveis.org.br/mcmv-responde-por-sete-entre-dez-imoveis-vendidos-em-sp",
+      "fonte": "Registro de Imóveis do Brasil, com informações do Secovi-SP"
     },
     {
-      "titulo": "ConJur discute arbitragem em contratos de locação residencial",
-      "descricao": "Artigo publicado na ConJur propõe vedar cláusulas de arbitragem em contratos residenciais e analisa quando a cláusula compromissória pode ser aplicada em contratos de adesão. A proposta é apresentada como debate legislativo, sem alteração normativa já vigente.",
-      "data_publicacao": "2026-11-09T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-09/arbitragem-locacao-residencial-e-direito-a-moradia/",
-      "fonte": "ConJur"
+      "titulo": "STJ mantém legitimidade do proprietário registral para responder por IPTU",
+      "descricao": "A Segunda Turma do STJ decidiu que a transferência da posse por instrumento particular, mesmo comunicada ao município, não afasta por si só a responsabilidade do proprietário que continua na matrícula. O julgamento reafirma que a transmissão da propriedade imobiliária entre vivos depende do registro do título translativo.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270908%27.cod.",
+      "fonte": "Superior Tribunal de Justiça"
     },
     {
-      "titulo": "ConJur analisa correção de formal de partilha por escritura pública",
-      "descricao": "Artigo da ConJur sustenta que uma escritura pública pode corrigir erro material em formal de partilha antes do registro quando não altera os beneficiários definidos judicialmente. O texto diferencia a retificação documental de uma nova reorganização dos quinhões.",
-      "data_publicacao": "2026-11-08T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-08/partilha-judicial-ate-onde-pode-ir-o-aditamento-por-escritura-publica/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "ConJur debate efeitos do tombamento provisório sobre imóveis",
-      "descricao": "Artigo publicado na ConJur examina os efeitos do tombamento provisório a partir da notificação do proprietário e as consequências para a averbação imobiliária. O autor também discute a proteção de conjuntos culturais e a participação do ente público interessado.",
-      "data_publicacao": "2026-11-07T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-07/o-tombamento-de-bens-culturais-e-suas-especies/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Jornada Notarial orientou população sobre segurança em negócios imobiliários",
-      "descricao": "O CNB/CF informou que a edição nacional de 7 de novembro ofereceu orientação gratuita sobre compra e venda, escrituras e regularização documental. A iniciativa também apresentou a Conta Notarial como ferramenta para condicionar a liberação de valores ao cumprimento do que foi combinado pelas partes.",
+      "titulo": "Jornada Notarial 2026 orienta população sobre transações imobiliárias",
+      "descricao": "A mobilização nacional promovida pelo CNB/CF e pelas seccionais realizou atendimentos e atividades gratuitas sobre segurança jurídica na compra e venda de imóveis. A edição também apresentou a Conta Notarial e destacou cuidados com documentação e regularização imobiliária.",
       "data_publicacao": "2026-11-10T00:00:00-03:00",
       "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
-      "fonte": "Colégio Notarial do Brasil – Conselho Federal"
+      "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "CNJ amplia prazos para padrões de tecnologia em cartórios",
-      "descricao": "O CNB/SP noticiou que o Provimento CNJ 243/2026 alterou critérios de enquadramento e prazos para implementação dos padrões mínimos de tecnologia da informação nas serventias. As etapas variam conforme a classe econômica e mantêm os requisitos gerais definidos pelo Conselho.",
-      "data_publicacao": "2026-11-09T00:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/11/09/portal-do-ri-servicos-notariais-e-de-registro-conselho-nacional-de-justica-reforca-prazos-para-medidas-de-protecao-de-dados/",
-      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+      "titulo": "Notariado brasileiro participa da estruturação do mercado de créditos de carbono",
+      "descricao": "Representante do CNB/SP passou a integrar comitê técnico ligado ao registro de créditos de carbono da USP. A atuação notarial deverá contribuir com segurança documental e jurídica em discussões sobre regulação, tributação e desenvolvimento desse mercado.",
+      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/notariado-brasileiro-fortalece-o-mercado-de-carbono/",
+      "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "STJ admite ação de sonegados antes do encerramento do inventário",
-      "descricao": "O Informativo 908 do STJ registra que a ação de sonegados pode ser proposta quando já existe oposição inequívoca à colação de bens atribuídos a herdeiros, ainda que o inventário não tenha terminado. A controvérsia envolvia imóveis que teriam sido adquiridos com recursos do falecido e não incluídos na partilha.",
-      "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022736",
-      "fonte": "Superior Tribunal de Justiça"
+      "titulo": "CNJ aprova regras nacionais para cessão de créditos de precatórios",
+      "descricao": "A resolução aprovada pelo CNJ estabelece parâmetros nacionais para cessões de precatórios e cria uma central eletrônica dedicada ao acompanhamento das operações. A escritura pública será exigida para que a cessão produza efeitos perante os tribunais, e os tabeliães terão atribuições de comunicação e formalização.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-aprova-resolucao-nacional-sobre-cessao-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil, com informações do CNJ"
     },
     {
-      "titulo": "STJ reafirma continuidade e presunção de validade dos registros imobiliários",
-      "descricao": "No Informativo 908, a Terceira Turma do STJ reafirmou que o registro imobiliário tem presunção relativa de veracidade até que prova suficiente leve à sua anulação. A decisão também ressalta que a matrícula deve refletir a sequência lógica das transmissões de propriedade.",
-      "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT=022694",
-      "fonte": "Superior Tribunal de Justiça"
+      "titulo": "STJ afasta responsabilidade de banco que apenas financia obra atrasada",
+      "descricao": "A Segunda Seção do STJ concluiu que o banco que atua apenas como agente financeiro não responde pelo atraso na entrega do empreendimento, ainda que acompanhe o avanço da obra. O entendimento uniformiza a divergência entre turmas e delimita a responsabilidade à relação contratual com a incorporadora.",
+      "data_publicacao": "2026-11-01T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-01/stj-nega-responsabilidade-do-banco-por-atraso-nas-obras-do-imovel/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "STF reconhece imunidade de ITBI na integralização de capital por empresas imobiliárias",
-      "descricao": "No Tema 1.348, o Supremo decidiu que a imunidade de ITBI na integralização de bens ao capital social não depende da atividade imobiliária predominante da empresa. O entendimento não cobre valor superior ao capital efetivamente integralizado nem operações simuladas ou fraudulentas.",
-      "data_publicacao": "2026-10-21T00:00:00-03:00",
-      "url": "https://noticias.stf.jus.br/postsnoticias/imunidade-de-itbi-na-integralizacao-de-capital-vale-tambem-para-empresas-do-setor-imobiliario-decide-stf/",
-      "fonte": "Supremo Tribunal Federal"
+      "titulo": "Herdeiros não respondem por execução fiscal antes da partilha",
+      "descricao": "O TJ-SP afastou o redirecionamento de uma execução fiscal contra herdeiros antes da homologação da partilha. A decisão afirma que, até a divisão dos bens, a cobrança deve recair sobre o espólio, representado pelo administrador provisório.",
+      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-11/herdeiro-nao-responde-por-execucao-fiscal-antes-da-partilha-de-bens/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "STJ define quando condomínio pode responder por furto em apartamento",
-      "descricao": "A Terceira Turma do STJ decidiu que o condomínio pode ser responsabilizado quando falha no controle de acesso da portaria contribui para o furto em unidade residencial. A análise considerou as regras internas e as circunstâncias concretas da prestação do serviço de segurança.",
-      "data_publicacao": "2026-11-06T00:00:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06112026-Condominio-deve-indenizar-moradores-por-furto-em-apartamento-apos-falha-da-portaria-no-controle-de-acesso.aspx",
-      "fonte": "Superior Tribunal de Justiça"
+      "titulo": "STJ fixa limites temporais para avaliação de imóveis desapropriados",
+      "descricao": "Em recurso repetitivo, a Primeira Seção do STJ definiu marcos diferentes para a avaliação de terrenos em desapropriações, conforme a modalidade da ação. A tese também prevê o tratamento de atrasos atribuíveis ao poder público e determina como devem ser consideradas as variações de preço ligadas à própria atuação estatal.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-19/stj-estabelece-travas-para-avaliar-preco-atual-em-expropriacoes-de-terrenos/",
+      "fonte": "ConJur"
     }
   ]
 }
