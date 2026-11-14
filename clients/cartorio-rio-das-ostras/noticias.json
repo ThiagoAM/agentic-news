@@ -1,81 +1,81 @@
 {
-  "data-busca": "2026-11-13T10:10:57-03:00",
+  "data-busca": "2026-11-14T10:03:50-03:00",
   "noticias": [
     {
-      "titulo": "Rio das Ostras capacita servidores para novo sistema de licitações",
-      "descricao": "Mais de 100 servidores municipais participaram de treinamento sobre a nova ferramenta de licitações. A Prefeitura espera aprimorar o registro e o acompanhamento das contratações, além de ampliar a transparência dos procedimentos.",
-      "data_publicacao": "2026-11-12T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/prefeitura-de-rio-das-ostras-capacita-servidores-para-novo-sistema-de-licitacoes/",
+      "titulo": "Rio das Ostras abre 1.364 vagas em creches para o ano letivo de 2027",
+      "descricao": "A Prefeitura anunciou inscrições entre 16 e 19 de novembro para vagas nas creches municipais, com cadastro prioritariamente on-line e atendimento presencial de apoio. O total previsto supera em 119 o número de vagas oferecidas em 2026; a classificação seguirá critérios de pontuação descritos na resolução municipal.",
+      "data_publicacao": "2026-11-09T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-abre-inscricoes-para-1-364-vagas-em-creches-para-2027/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Rio das Ostras Jazz & Blues passa a integrar fundação ibero-americana",
-      "descricao": "O festival local participou da criação da Associação Ibero-Americana de Jazz durante feira musical em Palma de Mallorca. Seu diretor foi eleito vice-presidente da entidade, que reúne profissionais ligados ao desenvolvimento do gênero na América Latina e na Europa.",
-      "data_publicacao": "2026-11-12T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/jazz-blues-integra-fundacao-ibero-americana/",
+      "titulo": "Rio das Ostras leva estudantes a pontos históricos e culturais da cidade",
+      "descricao": "O projeto Rio das Ostras Passo a Passo realizou uma caminhada guiada com estudantes de Rocha Leão por locais históricos, culturais e naturais do município. A iniciativa apresentou o Walking Tour e busca aproximar alunos dos atrativos e do patrimônio local.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/projeto-leva-estudantes-a-atrativos-turisticos/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Jogos Escolares de Rio das Ostras reúnem estudantes em diferentes modalidades",
-      "descricao": "A abertura do JERO 2026 reuniu escolas das redes municipal, estadual e privada, com disputas programadas até 18 de novembro. A competição inclui modalidades coletivas e individuais, além de atividades inclusivas de atletismo e xadrez.",
+      "titulo": "Jogos Escolares de Rio das Ostras reúnem redes municipal, estadual e privada",
+      "descricao": "A abertura do JERO 2026 ocorreu em 11 de novembro e deu início a disputas em diferentes modalidades esportivas, com programação prevista até o dia 18. A cerimônia reuniu estudantes e escolas da cidade, e a competição inclui futsal, atletismo, xadrez e outras modalidades.",
       "data_publicacao": "2026-11-11T00:00:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/emocao-e-espirito-esportivo-marcam-a-abertura-dos-jogos-escolares-de-rio-das-ostras/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Mercado imobiliário da cidade do Rio cresce em lançamentos e vendas",
-      "descricao": "No terceiro trimestre de 2026, os lançamentos na cidade do Rio subiram 34,1% e as vendas avançaram 18,9% ante o mesmo período do ano anterior. O levantamento também apontou maior participação de imóveis compactos e do Minha Casa, Minha Vida entre os lançamentos.",
-      "data_publicacao": "2026-11-12T00:00:00-03:00",
-      "url": "https://temporealrj.com/mercado-imobiliario-rio-cresce-terceiro-trimestre/",
-      "fonte": "Tempo Real RJ, com dados da ADEMI-RJ"
+      "titulo": "Estado do Rio abre prazo para regularização de pendências em projetos culturais",
+      "descricao": "O programa Cultura em Dia abriu nova janela para proponentes regularizarem pendências administrativas e financeiras em projetos de fomento cultural. A adesão ocorre de 9 a 23 de novembro e não representa perdão de dívidas ou dispensa das obrigações de prestação de contas.",
+      "data_publicacao": "2026-11-04T00:00:00-03:00",
+      "url": "https://cultura.rj.gov.br/governo-do-estado-lanca-programa-cultura-em-dia-para-regularizacao-de-pendencias-de-projetos-culturais/",
+      "fonte": "Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro"
     },
     {
-      "titulo": "Estado do Rio registra saldo de 9,2 mil empregos formais em setembro",
-      "descricao": "Dados do Novo Caged indicam que o estado fluminense teve saldo positivo de 9.285 empregos com carteira assinada em setembro de 2026. Serviços, comércio e indústria tiveram resultado positivo, enquanto construção e agropecuária registraram saldo negativo.",
-      "data_publicacao": "2026-11-05T00:00:00-03:00",
-      "url": "https://www.gov.br/secom/pt-br/assuntos/noticias-regionalizadas/numeros-do-novo-caged-em-2026/09/rio-de-janeiro-gera-9-2-mil-empregos-com-carteira-assinada-em-setembro",
-      "fonte": "Secretaria de Comunicação Social da Presidência da República"
+      "titulo": "Secretaria de Ciência e Tecnologia do RJ coordena encontro de cooperação com a Alemanha",
+      "descricao": "A Secretaria estadual de Ciência, Tecnologia e Inovação coordenou reunião de cooperação com representantes da Alemanha para discutir oportunidades de investimento e colaboração empresarial. O encontro abordou acesso ao mercado fluminense, incentivos e possíveis impactos do acordo entre Mercosul e União Europeia.",
+      "data_publicacao": "2026-11-09T00:00:00-03:00",
+      "url": "https://secti.rj.gov.br/noticias/secretaria-de-ciencia-tecnologia-e-inovacao-do-estado-do-rio-de-janeiro-coordena-evento-de-cooperacao-com-secretaria-da-alemanha",
+      "fonte": "Secretaria de Estado de Ciência, Tecnologia e Inovação do Rio de Janeiro"
     },
     {
-      "titulo": "STJ define parâmetros temporais para avaliação em desapropriações",
-      "descricao": "A Primeira Seção fixou critérios para determinar o marco de avaliação de imóveis em diferentes modalidades de desapropriação, em julgamento repetitivo. A tese delimita prazos e trata de atrasos atribuíveis ao poder público e de alterações de preço provocadas pela própria ação estatal.",
-      "data_publicacao": "2026-10-19T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-19/stj-estabelece-travas-para-avaliar-preco-atual-em-expropriacoes-de-terrenos/",
-      "fonte": "ConJur"
+      "titulo": "Execução extrajudicial de hipoteca depende de previsão expressa no título, sustenta artigo",
+      "descricao": "Artigo publicado originalmente no ConJur analisa a execução extrajudicial de hipoteca prevista no Marco Legal das Garantias. O autor sustenta que o procedimento depende de previsão expressa no título e não se aplica a operações de financiamento da atividade agropecuária.",
+      "data_publicacao": "2026-11-08T00:00:00-03:00",
+      "url": "https://ri360.com.br/n/lei-amplia-execucao-extrajudicial-e-avanca-na-recuperacao-de-credito-13266.html",
+      "fonte": "ConJur, resumo via RI360"
     },
     {
-      "titulo": "STJ mantém suspensos processos sobre locação de curta temporada em condomínios",
-      "descricao": "Artigo jurídico discute a suspensão nacional dos processos sobre aluguel de curta temporada em condomínios, afetados ao Tema 1.443 do STJ. A controvérsia ainda aguarda julgamento de mérito sobre a necessidade de autorização condominial para esse tipo de locação.",
-      "data_publicacao": "2026-10-23T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-23/o-gato-de-schrodinger-e-a-locacao-por-temporada-no-stj-a-corte-suspende-a-proibicao-nao/",
-      "fonte": "ConJur"
+      "titulo": "Escritura pública pode corrigir erro material em formal de partilha, segundo artigo",
+      "descricao": "Artigo publicado originalmente no ConJur discute a correção notarial de erro material em formal de partilha judicial. O texto limita a hipótese a erros demonstráveis nos autos e explica que a qualificação registral permanece a cargo do Registro de Imóveis.",
+      "data_publicacao": "2026-11-08T00:00:00-03:00",
+      "url": "https://ri360.com.br/n/partilha-judicial-ate-onde-pode-ir-o-aditamento-por-escritura-publica-13268.html",
+      "fonte": "ConJur, resumo via RI360"
     },
     {
-      "titulo": "STJ afasta responsabilidade de banco que apenas financia obra atrasada",
-      "descricao": "A Segunda Seção do STJ concluiu que o banco que atua apenas como agente financeiro não responde pelo atraso na entrega do empreendimento, ainda que acompanhe o avanço da obra. O entendimento uniformiza a divergência entre turmas e delimita a responsabilidade à relação contratual com a incorporadora.",
-      "data_publicacao": "2026-11-01T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-01/stj-nega-responsabilidade-do-banco-por-atraso-nas-obras-do-imovel/",
-      "fonte": "ConJur"
+      "titulo": "Artigo defende aplicação da imunidade de ITBI a imóveis aportados em fundos imobiliários",
+      "descricao": "Texto publicado originalmente no ConJur argumenta que a não incidência de ITBI reconhecida pelo STF para imóveis integralizados em pessoas jurídicas também deveria alcançar aportes em fundos imobiliários. A publicação informa que o tema ainda é controvertido e que municípios mantêm cobranças nesses casos.",
+      "data_publicacao": "2026-11-09T00:00:00-03:00",
+      "url": "https://ri360.com.br/n/a-decisao-de-itbi-do-stf-deve-ser-aplicada-ao-fii-13409.html",
+      "fonte": "ConJur, resumo via RI360"
     },
     {
-      "titulo": "Jornada Notarial orienta a população sobre segurança nas transações imobiliárias",
-      "descricao": "A mobilização nacional do CNB/CF levou atendimentos e orientações gratuitas sobre cuidados na compra e venda de imóveis. A iniciativa também apresentou a Conta Notarial e abordou documentação, escrituras e regularização imobiliária.",
+      "titulo": "Jornada Notarial 2026 levou orientação gratuita sobre negócios imobiliários à população",
+      "descricao": "A iniciativa do CNB/CF e das Seccionais realizou atividades gratuitas em diferentes municípios para orientar o público sobre segurança jurídica em transações imobiliárias. A edição de 7 de novembro aproximou cartórios e moradores com atendimentos e esclarecimentos sobre prevenção de conflitos.",
       "data_publicacao": "2026-11-10T00:00:00-03:00",
       "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "CNJ aprova parâmetros nacionais para cessão de créditos de precatórios",
-      "descricao": "A resolução aprovada pelo CNJ estabelece regras para cessões de precatórios e cria uma central eletrônica nacional para registro das operações. A escritura pública será exigida para que a cessão produza efeitos perante os tribunais, com participação dos tabeliães no fluxo de comunicação.",
-      "data_publicacao": "2026-11-10T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnj-aprova-resolucao-nacional-sobre-cessao-de-precatorios/",
-      "fonte": "Colégio Notarial do Brasil, com informações do CNJ"
-    },
-    {
-      "titulo": "CNB/CF apresenta uso brasileiro de inteligência artificial no e-Notariado",
-      "descricao": "O CNB/CF apresentou em painel internacional ferramentas de inteligência artificial já em operação ou teste no e-Notariado. Os exemplos incluem extração de dados de documentos e apoio a buscas de testamento, com conferência final mantida pelos notários.",
+      "titulo": "CNB/CF apresenta experiência brasileira de IA no e-Notariado em painel internacional",
+      "descricao": "Em reunião da União Internacional do Notariado na Albânia, o CNB/CF apresentou ferramentas de inteligência artificial integradas ao e-Notariado. O encontro reuniu representantes de 93 países para discutir equilíbrio entre eficiência, responsabilidade e independência no uso da tecnologia.",
       "data_publicacao": "2026-10-20T00:00:00-03:00",
       "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Encontro Notarial Sul debate segurança jurídica e desafios da atividade extrajudicial",
+      "descricao": "O evento do CNB/CF e da OAB, realizado em Curitiba em 16 e 17 de outubro, reuniu notários, advogados e magistrados para discutir transformação digital, atos internacionais e novos instrumentos notariais. A programação também abordou escritura pública, inventário extrajudicial e mudanças ligadas à reforma tributária.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/encontro-notarial-sul-encerra-programacao-em-curitiba-com-debates-sobre-inovacao-seguranca-juridica-e-novos-desafios-da-atividade-extrajudicial/",
       "fonte": "Colégio Notarial do Brasil"
     }
   ]

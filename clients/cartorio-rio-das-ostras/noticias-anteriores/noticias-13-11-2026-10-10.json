@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-13T10:10:57-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras capacita servidores para novo sistema de licitações",
+      "descricao": "Mais de 100 servidores municipais participaram de treinamento sobre a nova ferramenta de licitações. A Prefeitura espera aprimorar o registro e o acompanhamento das contratações, além de ampliar a transparência dos procedimentos.",
+      "data_publicacao": "2026-11-12T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-de-rio-das-ostras-capacita-servidores-para-novo-sistema-de-licitacoes/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras Jazz & Blues passa a integrar fundação ibero-americana",
+      "descricao": "O festival local participou da criação da Associação Ibero-Americana de Jazz durante feira musical em Palma de Mallorca. Seu diretor foi eleito vice-presidente da entidade, que reúne profissionais ligados ao desenvolvimento do gênero na América Latina e na Europa.",
+      "data_publicacao": "2026-11-12T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/jazz-blues-integra-fundacao-ibero-americana/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Jogos Escolares de Rio das Ostras reúnem estudantes em diferentes modalidades",
+      "descricao": "A abertura do JERO 2026 reuniu escolas das redes municipal, estadual e privada, com disputas programadas até 18 de novembro. A competição inclui modalidades coletivas e individuais, além de atividades inclusivas de atletismo e xadrez.",
+      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/emocao-e-espirito-esportivo-marcam-a-abertura-dos-jogos-escolares-de-rio-das-ostras/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Mercado imobiliário da cidade do Rio cresce em lançamentos e vendas",
+      "descricao": "No terceiro trimestre de 2026, os lançamentos na cidade do Rio subiram 34,1% e as vendas avançaram 18,9% ante o mesmo período do ano anterior. O levantamento também apontou maior participação de imóveis compactos e do Minha Casa, Minha Vida entre os lançamentos.",
+      "data_publicacao": "2026-11-12T00:00:00-03:00",
+      "url": "https://temporealrj.com/mercado-imobiliario-rio-cresce-terceiro-trimestre/",
+      "fonte": "Tempo Real RJ, com dados da ADEMI-RJ"
+    },
+    {
+      "titulo": "Estado do Rio registra saldo de 9,2 mil empregos formais em setembro",
+      "descricao": "Dados do Novo Caged indicam que o estado fluminense teve saldo positivo de 9.285 empregos com carteira assinada em setembro de 2026. Serviços, comércio e indústria tiveram resultado positivo, enquanto construção e agropecuária registraram saldo negativo.",
+      "data_publicacao": "2026-11-05T00:00:00-03:00",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/noticias-regionalizadas/numeros-do-novo-caged-em-2026/09/rio-de-janeiro-gera-9-2-mil-empregos-com-carteira-assinada-em-setembro",
+      "fonte": "Secretaria de Comunicação Social da Presidência da República"
+    },
+    {
+      "titulo": "STJ define parâmetros temporais para avaliação em desapropriações",
+      "descricao": "A Primeira Seção fixou critérios para determinar o marco de avaliação de imóveis em diferentes modalidades de desapropriação, em julgamento repetitivo. A tese delimita prazos e trata de atrasos atribuíveis ao poder público e de alterações de preço provocadas pela própria ação estatal.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-19/stj-estabelece-travas-para-avaliar-preco-atual-em-expropriacoes-de-terrenos/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ mantém suspensos processos sobre locação de curta temporada em condomínios",
+      "descricao": "Artigo jurídico discute a suspensão nacional dos processos sobre aluguel de curta temporada em condomínios, afetados ao Tema 1.443 do STJ. A controvérsia ainda aguarda julgamento de mérito sobre a necessidade de autorização condominial para esse tipo de locação.",
+      "data_publicacao": "2026-10-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-23/o-gato-de-schrodinger-e-a-locacao-por-temporada-no-stj-a-corte-suspende-a-proibicao-nao/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ afasta responsabilidade de banco que apenas financia obra atrasada",
+      "descricao": "A Segunda Seção do STJ concluiu que o banco que atua apenas como agente financeiro não responde pelo atraso na entrega do empreendimento, ainda que acompanhe o avanço da obra. O entendimento uniformiza a divergência entre turmas e delimita a responsabilidade à relação contratual com a incorporadora.",
+      "data_publicacao": "2026-11-01T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-01/stj-nega-responsabilidade-do-banco-por-atraso-nas-obras-do-imovel/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Jornada Notarial orienta a população sobre segurança nas transações imobiliárias",
+      "descricao": "A mobilização nacional do CNB/CF levou atendimentos e orientações gratuitas sobre cuidados na compra e venda de imóveis. A iniciativa também apresentou a Conta Notarial e abordou documentação, escrituras e regularização imobiliária.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ aprova parâmetros nacionais para cessão de créditos de precatórios",
+      "descricao": "A resolução aprovada pelo CNJ estabelece regras para cessões de precatórios e cria uma central eletrônica nacional para registro das operações. A escritura pública será exigida para que a cessão produza efeitos perante os tribunais, com participação dos tabeliães no fluxo de comunicação.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-aprova-resolucao-nacional-sobre-cessao-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil, com informações do CNJ"
+    },
+    {
+      "titulo": "CNB/CF apresenta uso brasileiro de inteligência artificial no e-Notariado",
+      "descricao": "O CNB/CF apresentou em painel internacional ferramentas de inteligência artificial já em operação ou teste no e-Notariado. Os exemplos incluem extração de dados de documentos e apoio a buscas de testamento, com conferência final mantida pelos notários.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}
