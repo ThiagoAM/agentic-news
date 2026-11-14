@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-11-13T10:05:17-03:00",
+  "data-busca": "2026-11-14T10:03:50-03:00",
   "noticias": [
     {
-      "titulo": "Conexão FNDI reúne lideranças do ecossistema imobiliário",
-      "descricao": "O encontro realizado em São Paulo reuniu entidades do mercado imobiliário para discutir crédito, moradia e segurança jurídica. A programação abordou garantias, registros, digitalização e perspectivas para o financiamento habitacional.",
-      "data_publicacao": "2026-11-12T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/conexao-fndi-reune-liderancas-do-ecossistema-imobiliario",
-      "fonte": "Registro de Imóveis do Brasil"
+      "titulo": "Encontro Notarial Sul debate transformação digital e desafios da atividade extrajudicial",
+      "descricao": "Realizado em Curitiba em 16 e 17 de outubro, o encontro do CNB/CF e da OAB reuniu profissionais para discutir provas digitais, atos internacionais, inventários extrajudiciais e os efeitos da reforma tributária. Os painéis também trataram de temas práticos como usucapião extrajudicial e limites para exigir certidões em escrituras.",
+      "data_publicacao": "2026-10-19T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/encontro-notarial-sul-encerra-programacao-em-curitiba-com-debates-sobre-inovacao-seguranca-juridica-e-novos-desafios-da-atividade-extrajudicial/",
+      "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Copom mantém juros altos e mercado imobiliário adota cautela",
-      "descricao": "A ata do Copom reforçou a perspectiva de juros elevados por mais tempo, com efeitos sobre crédito habitacional e custo dos financiamentos. O setor também acompanha o impacto do crédito mais restrito sobre vendas e estoques das construtoras.",
-      "data_publicacao": "2026-11-12T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/copom-leva-mercado-imobiliario-a-adotar-cautela",
-      "fonte": "Registro de Imóveis do Brasil"
+      "titulo": "CNB/CF apresenta experiência brasileira com IA aplicada ao e-Notariado em painel internacional",
+      "descricao": "Em painel da União Internacional do Notariado, o CNB/CF apresentou a experiência brasileira com inteligência artificial integrada ao e-Notariado. A reunião em Tirana reuniu representantes de 93 países e abordou os usos da tecnologia no notariado.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-apresenta-experiencia-brasileira-em-painel-internacional-sobre-ia-na-albania/",
+      "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "ONR lança nova versão do e-Protocolo",
-      "descricao": "A atualização da plataforma permite salvar solicitações como rascunho, acompanhar o histórico dos protocolos e receber notificações de andamento. A implantação será gradual, com calendário regional e ações de capacitação para os usuários.",
-      "data_publicacao": "2026-11-11T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/onr-lanca-novo-e-protocolo",
-      "fonte": "Registro de Imóveis do Brasil, com informações do ONR"
-    },
-    {
-      "titulo": "Minha Casa, Minha Vida responde por sete em cada dez imóveis novos vendidos em São Paulo",
-      "descricao": "Levantamento do Secovi-SP mostra que o programa concentrou cerca de 70% das vendas de imóveis novos na capital entre outubro de 2025 e setembro de 2026. No mesmo intervalo, as vendas de médio e alto padrão recuaram, enquanto a oferta de unidades do programa cresceu.",
-      "data_publicacao": "2026-11-11T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/mcmv-responde-por-sete-entre-dez-imoveis-vendidos-em-sp",
-      "fonte": "Registro de Imóveis do Brasil, com informações do Secovi-SP"
-    },
-    {
-      "titulo": "STJ mantém legitimidade do proprietário registral para responder por IPTU",
-      "descricao": "A Segunda Turma do STJ decidiu que a transferência da posse por instrumento particular, mesmo comunicada ao município, não afasta por si só a responsabilidade do proprietário que continua na matrícula. O julgamento reafirma que a transmissão da propriedade imobiliária entre vivos depende do registro do título translativo.",
-      "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270908%27.cod.",
-      "fonte": "Superior Tribunal de Justiça"
-    },
-    {
-      "titulo": "Jornada Notarial 2026 orienta população sobre transações imobiliárias",
-      "descricao": "A mobilização nacional promovida pelo CNB/CF e pelas seccionais realizou atendimentos e atividades gratuitas sobre segurança jurídica na compra e venda de imóveis. A edição também apresentou a Conta Notarial e destacou cuidados com documentação e regularização imobiliária.",
+      "titulo": "Jornada Notarial 2026 ofereceu orientação sobre transações imobiliárias",
+      "descricao": "A edição realizada em 7 de novembro promoveu atendimentos gratuitos em diferentes cidades para orientar a população sobre segurança jurídica em negócios imobiliários. O CNB/CF e suas Seccionais também apresentaram informações e serviços notariais para prevenir conflitos nas negociações.",
       "data_publicacao": "2026-11-10T00:00:00-03:00",
       "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Notariado brasileiro participa da estruturação do mercado de créditos de carbono",
-      "descricao": "Representante do CNB/SP passou a integrar comitê técnico ligado ao registro de créditos de carbono da USP. A atuação notarial deverá contribuir com segurança documental e jurídica em discussões sobre regulação, tributação e desenvolvimento desse mercado.",
+      "titulo": "Execução extrajudicial de hipoteca depende de previsão expressa no título, sustenta artigo",
+      "descricao": "Artigo publicado originalmente no ConJur analisa a execução extrajudicial de hipoteca prevista no Marco Legal das Garantias. O autor sustenta que o procedimento exige previsão expressa no título e destaca a exclusão de operações de financiamento agropecuário.",
+      "data_publicacao": "2026-11-08T00:00:00-03:00",
+      "url": "https://ri360.com.br/n/lei-amplia-execucao-extrajudicial-e-avanca-na-recuperacao-de-credito-13266.html",
+      "fonte": "ConJur, resumo via RI360"
+    },
+    {
+      "titulo": "Escritura pública pode corrigir erro material em formal de partilha, segundo artigo",
+      "descricao": "Artigo publicado originalmente no ConJur examina quando uma escritura pública pode corrigir erros materiais em formal de partilha judicial. O texto ressalta que a correção deve ser demonstrável nos autos e não pode redefinir beneficiários, enquanto o Registro de Imóveis mantém a qualificação do título.",
+      "data_publicacao": "2026-11-08T00:00:00-03:00",
+      "url": "https://ri360.com.br/n/partilha-judicial-ate-onde-pode-ir-o-aditamento-por-escritura-publica-13268.html",
+      "fonte": "ConJur, resumo via RI360"
+    },
+    {
+      "titulo": "Artigo defende aplicação da imunidade de ITBI a imóveis aportados em fundos imobiliários",
+      "descricao": "Texto publicado originalmente no ConJur argumenta que a não incidência de ITBI reconhecida pelo STF para imóveis integralizados em pessoas jurídicas também deveria alcançar aportes em fundos imobiliários. A publicação registra que a interpretação ainda é debatida e que municípios mantêm cobranças nesses casos.",
+      "data_publicacao": "2026-11-09T00:00:00-03:00",
+      "url": "https://ri360.com.br/n/a-decisao-de-itbi-do-stf-deve-ser-aplicada-ao-fii-13409.html",
+      "fonte": "ConJur, resumo via RI360"
+    },
+    {
+      "titulo": "Artigo propõe vedar arbitragem em contratos de locação residencial",
+      "descricao": "Artigo publicado originalmente no ConJur propõe que a legislação limite a arbitragem em contratos de locação residencial. O texto discute cláusulas compromissórias em contratos de adesão e registra que a proposta não altera as regras vigentes para cartórios.",
+      "data_publicacao": "2026-11-09T00:00:00-03:00",
+      "url": "https://ri360.com.br/n/arbitragem-locacao-residencial-e-direito-a-moradia-13356.html",
+      "fonte": "ConJur, resumo via RI360"
+    },
+    {
+      "titulo": "Decisões do TJ/GO mantêm pagamentos de contratos imobiliários com Tabela Price",
+      "descricao": "Duas decisões do Tribunal de Justiça de Goiás impediram compradores de substituir parcelas de contratos imobiliários por depósitos judiciais enquanto discutiam a adoção da Tabela Price. A cobertura relata que eventual necessidade de documentos da credora pode ser tratada por pedido específico e decisão fundamentada.",
+      "data_publicacao": "2026-11-13T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/468599/tj-go-decisoes-mantem-pagamentos-de-contratos-com-tabela-price",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "STJ valida notificação eletrônica para comprovar mora em contrato com alienação fiduciária",
+      "descricao": "A Segunda Seção do STJ considerou válida a notificação extrajudicial enviada ao endereço eletrônico informado pelo devedor em contrato com garantia fiduciária. A decisão dispensa prova de leitura, mas exige demonstração do envio efetivo ao endereço indicado pelo próprio devedor.",
+      "data_publicacao": "2026-11-12T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/468467/stj-notificacao-eletronica-comprova-mora-sem-exigir-prova-de-leitura",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "STJ afasta cobrança de aluguel quando imóvel de ex-cônjuge também serve de moradia aos filhos",
+      "descricao": "A Terceira Turma do STJ decidiu que não cabe cobrar aluguel do ex-cônjuge que permanece em imóvel particular do outro quando a residência também atende à moradia dos filhos em comum. Para a relatora, o uso compartilhado com os filhos não caracteriza posse exclusiva nem enriquecimento sem causa.",
+      "data_publicacao": "2026-11-04T00:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/04112026-ex-conjuge-que-mora-com-os-filhos-no-imovel-do-outro-nao-precisa-pagar-aluguel.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Minha Casa, Minha Vida respondeu por sete em cada dez imóveis novos vendidos em São Paulo",
+      "descricao": "Dados do Secovi-SP indicam que o programa concentrou 70% das vendas de imóveis novos na capital paulista entre outubro de 2025 e setembro de 2026, enquanto as vendas de médio e alto padrão recuaram. O levantamento também apontou crescimento da oferta do programa e aumento de seu estoque disponível.",
       "data_publicacao": "2026-11-11T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/notariado-brasileiro-fortalece-o-mercado-de-carbono/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "CNJ aprova regras nacionais para cessão de créditos de precatórios",
-      "descricao": "A resolução aprovada pelo CNJ estabelece parâmetros nacionais para cessões de precatórios e cria uma central eletrônica dedicada ao acompanhamento das operações. A escritura pública será exigida para que a cessão produza efeitos perante os tribunais, e os tabeliães terão atribuições de comunicação e formalização.",
-      "data_publicacao": "2026-11-10T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnj-aprova-resolucao-nacional-sobre-cessao-de-precatorios/",
-      "fonte": "Colégio Notarial do Brasil, com informações do CNJ"
-    },
-    {
-      "titulo": "STJ afasta responsabilidade de banco que apenas financia obra atrasada",
-      "descricao": "A Segunda Seção do STJ concluiu que o banco que atua apenas como agente financeiro não responde pelo atraso na entrega do empreendimento, ainda que acompanhe o avanço da obra. O entendimento uniformiza a divergência entre turmas e delimita a responsabilidade à relação contratual com a incorporadora.",
-      "data_publicacao": "2026-11-01T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-01/stj-nega-responsabilidade-do-banco-por-atraso-nas-obras-do-imovel/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Herdeiros não respondem por execução fiscal antes da partilha",
-      "descricao": "O TJ-SP afastou o redirecionamento de uma execução fiscal contra herdeiros antes da homologação da partilha. A decisão afirma que, até a divisão dos bens, a cobrança deve recair sobre o espólio, representado pelo administrador provisório.",
-      "data_publicacao": "2026-11-11T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-11/herdeiro-nao-responde-por-execucao-fiscal-antes-da-partilha-de-bens/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "STJ fixa limites temporais para avaliação de imóveis desapropriados",
-      "descricao": "Em recurso repetitivo, a Primeira Seção do STJ definiu marcos diferentes para a avaliação de terrenos em desapropriações, conforme a modalidade da ação. A tese também prevê o tratamento de atrasos atribuíveis ao poder público e determina como devem ser consideradas as variações de preço ligadas à própria atuação estatal.",
-      "data_publicacao": "2026-10-19T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-19/stj-estabelece-travas-para-avaliar-preco-atual-em-expropriacoes-de-terrenos/",
-      "fonte": "ConJur"
+      "url": "https://www.registrodeimoveis.org.br/mcmv-responde-por-sete-entre-dez-imoveis-vendidos-em-sp",
+      "fonte": "Registro de Imóveis do Brasil, com dados do Secovi-SP"
     }
   ]
 }
