@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-15T09:58:04-03:00",
+  "noticias": [
+    {
+      "titulo": "Imóvel de terceiro não será penhorado por dívida de empresa sem benefício familiar comprovado",
+      "descricao": "A Justiça do Paraná afastou a penhora de imóvel residencial oferecido por terceiro como garantia de dívida empresarial. A decisão aplicou o entendimento do STJ de que cabe ao credor demonstrar que a operação beneficiou a entidade familiar.",
+      "data_publicacao": "2026-11-14T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/467964/imovel-de-terceiro-nao-sera-penhorado-por-divida-de-empresa",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "STJ reconhece dano moral coletivo por abandono de imóveis tombados",
+      "descricao": "A Primeira Turma do STJ reconheceu dano moral coletivo presumido em caso de abandono de casas tombadas, além de determinar medidas de restauração e preservação. O julgamento destacou o dever prioritário dos proprietários de conservar bens protegidos pelo tombamento.",
+      "data_publicacao": "2026-11-13T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-13/stj-admite-dano-moral-coletivo-presumido-por-violacao-a-patrimonio-cultural/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ considera indevida taxa condominial de lazer cobrada apenas de não proprietários",
+      "descricao": "A Quarta Turma do STJ afastou cobrança criada em regimento interno e dirigida somente a locatários, cessionários e comodatários, sem prova de aumento das despesas. A decisão preserva a possibilidade de cobrança por uso exclusivo de área comum quando o critério vale para qualquer usuário.",
+      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-11/isonomia-no-condominio-o-stj-e-a-taxa-de-lazer-cobrada-de-possuidores-nao-proprietarios/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Moradia prolongada em imóvel herdado não basta para usucapião, decide STJ",
+      "descricao": "A Quarta Turma do STJ entendeu que morar por longo período em imóvel da família não prova, por si só, posse com intenção de dono. No caso, o bem ainda integrava herança não partilhada e outros herdeiros se opuseram ao pedido.",
+      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-01/ocupar-imovel-familiar-nao-basta-para-usucapiao-extraordinaria/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo discute proteção do adquirente em hipótese de usucapião tabular",
+      "descricao": "Artigo sobre o artigo 1.242 do Código Civil examina a proteção do comprador que confiou em registro depois cancelado. O texto discute os requisitos da usucapião tabular e a origem legislativa da exigência de moradia ou investimento social e econômico.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://ri360.com.br/n/usucapiao-tabular-a-visao-de-ebert-vianna-chamoun-12685.html",
+      "fonte": "RI360, com referência ao ConJur"
+    },
+    {
+      "titulo": "Matrícula com área menor que a anunciada pode exigir levantamento topográfico",
+      "descricao": "Artigo analisa como levantamento topográfico pode ajudar a distinguir erro registral de divergência na venda de um imóvel. Conforme o caso, podem ser discutidas retificação da matrícula ou medidas previstas no Código Civil para venda por medida, respeitados os direitos de confrontantes.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
+      "url": "https://ri360.com.br/n/casal-compra-um-lote-anunciado-com-350-metros-quadrados-constroi-uma-residencia-13571.html",
+      "fonte": "RI360, com referência ao Colégio Registral RS"
+    },
+    {
+      "titulo": "ONR lança nova versão do e-Protocolo para envio eletrônico de títulos",
+      "descricao": "O Operador Nacional do Registro de Imóveis lançou nova versão da plataforma de envio eletrônico de títulos, com rascunho, histórico do pedido e notificações. A implantação será escalonada e começou em fase de testes no Distrito Federal.",
+      "data_publicacao": "2026-11-12T00:00:00-03:00",
+      "url": "https://ri360.com.br/n/registro-de-imoveis-do-brasil-lanca-novo-e-protocolo-13849.html",
+      "fonte": "IRIB, resumo via RI360"
+    },
+    {
+      "titulo": "STJ afasta usucapião de área desapropriada incorporada ao patrimônio da União",
+      "descricao": "A Terceira Turma do STJ decidiu que área desapropriada e incorporada ao patrimônio da União não pode ser adquirida por usucapião, independentemente do tempo de ocupação. O julgamento esclareceu que a natureza pública do bem, e não sua condição física, impede a aquisição originária.",
+      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "url": "https://ri360.com.br/n/3a-turma-do-stj-nega-usucapiao-de-terreno-submerso-13799.html",
+      "fonte": "Colégio Registral RS, resumo via RI360"
+    },
+    {
+      "titulo": "MCMV prevê averbação de restrição de venda por cinco anos em compra assistida",
+      "descricao": "Portaria do Ministério das Cidades regulamentou a modalidade Compra Assistida do Minha Casa, Minha Vida para famílias desabrigadas por desastres ou removidas por obras federais. A vedação de venda por 60 meses deverá constar da matrícula, e o registro será priorizado em nome da mulher.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
+      "url": "https://ri360.com.br/n/mcmv-governo-define-regras-para-compra-de-imoveis-apos-desastres-e-obras-federai-13573.html",
+      "fonte": "Colégio Registral RS, resumo via RI360"
+    },
+    {
+      "titulo": "Reforma tributária pode elevar custos da construção civil, aponta análise setorial",
+      "descricao": "Análise sobre a transição de PIS, Cofins, ICMS e ISS para IBS e CBS indica que construtoras e incorporadoras podem rever custos e preços ao longo da implementação, prevista até 2033. O texto também ressalta a redução de alíquotas e redutores aplicáveis às operações imobiliárias.",
+      "data_publicacao": "2026-11-12T00:00:00-03:00",
+      "url": "https://ri360.com.br/n/reforma-tributaria-deve-elevar-custos-da-construcao-civil-13883.html",
+      "fonte": "Colégio Registral RS, resumo via RI360"
+    },
+    {
+      "titulo": "Reurb deve combinar titulação com organização territorial e segurança jurídica, defende artigo",
+      "descricao": "Artigo publicado pelo IRIB sustenta que a regularização fundiária urbana envolve organização do território, integração de informações e reconhecimento de direitos, além da emissão de títulos. A análise aborda loteamentos aprovados com ocupantes sem título registrado e as modalidades previstas na legislação.",
+      "data_publicacao": "2026-11-12T00:00:00-03:00",
+      "url": "https://ri360.com.br/n/reurb-entre-a-titulacao-e-a-seguranca-juridica-13850.html",
+      "fonte": "IRIB, resumo via RI360"
+    }
+  ]
+}
