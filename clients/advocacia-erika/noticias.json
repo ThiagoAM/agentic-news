@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-11-15T09:58:04-03:00",
+  "data-busca": "2026-11-16T09:57:06-03:00",
   "noticias": [
     {
-      "titulo": "Imóvel de terceiro não será penhorado por dívida de empresa sem benefício familiar comprovado",
-      "descricao": "A Justiça do Paraná afastou a penhora de imóvel residencial oferecido por terceiro como garantia de dívida empresarial. A decisão aplicou o entendimento do STJ de que cabe ao credor demonstrar que a operação beneficiou a entidade familiar.",
-      "data_publicacao": "2026-11-14T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/467964/imovel-de-terceiro-nao-sera-penhorado-por-divida-de-empresa",
-      "fonte": "Migalhas"
+      "titulo": "Notariado Brasileiro fortalece participação no mercado de créditos de carbono",
+      "descricao": "Representante do CNB/SP passou a integrar grupos de trabalho do RCGI-USP Carbon Registry dedicados à regulação, tributação, segurança jurídica e desenvolvimento do mercado de créditos de carbono. A iniciativa aproxima a atividade notarial da construção de registros e da avaliação documental desse setor.",
+      "data_publicacao": "2026-11-11T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/notariado-brasileiro-fortalece-o-mercado-de-carbono/",
+      "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "STJ reconhece dano moral coletivo por abandono de imóveis tombados",
-      "descricao": "A Primeira Turma do STJ reconheceu dano moral coletivo presumido em caso de abandono de casas tombadas, além de determinar medidas de restauração e preservação. O julgamento destacou o dever prioritário dos proprietários de conservar bens protegidos pelo tombamento.",
-      "data_publicacao": "2026-11-13T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-13/stj-admite-dano-moral-coletivo-presumido-por-violacao-a-patrimonio-cultural/",
-      "fonte": "ConJur"
+      "titulo": "Jornada Notarial 2026 levou orientação sobre transações imobiliárias",
+      "descricao": "A mobilização nacional do CNB/CF e das seccionais realizou atividades gratuitas em diferentes cidades para esclarecer dúvidas sobre compra e venda, escritura pública e regularização de imóveis. A edição também apresentou a Conta Notarial como instrumento para condicionar a liberação de valores aos termos ajustados pelas partes.",
+      "data_publicacao": "2026-11-10T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
+      "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "STJ considera indevida taxa condominial de lazer cobrada apenas de não proprietários",
-      "descricao": "A Quarta Turma do STJ afastou cobrança criada em regimento interno e dirigida somente a locatários, cessionários e comodatários, sem prova de aumento das despesas. A decisão preserva a possibilidade de cobrança por uso exclusivo de área comum quando o critério vale para qualquer usuário.",
-      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "titulo": "CNJ aprova regras nacionais para cessão de créditos de precatórios",
+      "descricao": "O Conselho Nacional de Justiça aprovou resolução que prevê escritura pública, registro eletrônico e comunicação das cessões de precatórios aos órgãos envolvidos. A norma também atribui ao tabelião a comunicação da operação e entrará em vigor 30 dias após a publicação.",
+      "data_publicacao": "2026-11-10T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-aprova-resolucao-nacional-sobre-cessao-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF firma cooperação com CNJ para sistema de cessões de precatórios",
+      "descricao": "O acordo prevê a participação do Colégio Notarial no desenvolvimento do SisPreq, sistema voltado à formalização e rastreabilidade da cessão de precatórios. A proposta inclui informações sobre valor atualizado, montante negociado e deságio, além de controles para reduzir riscos de duplicidade e fraude.",
+      "data_publicacao": "2026-11-05T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Diretor do CNB/CF assume vice-presidência em comissão internacional",
+      "descricao": "Ubiratan Guimarães foi nomeado vice-presidente da Comissão de Assuntos Americanos da União Internacional do Notariado. A representação amplia a participação institucional brasileira em discussões sobre modernização dos serviços notariais e segurança jurídica.",
+      "data_publicacao": "2026-10-30T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/diretor-do-cnb-cf-ubiratan-guimaraes-e-nomeado-vice-presidente-da-comissao-de-assuntos-americanos-da-uinl/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STJ afasta cobrança de taxa de lazer apenas de ocupantes não proprietários",
+      "descricao": "A Quarta Turma do Superior Tribunal de Justiça considerou indevida a cobrança de taxa de lazer somente de locatários, cessionários e comodatários quando não há prova de aumento das despesas condominiais. O acórdão ressalva que uma cobrança por uso exclusivo pode ser aplicada a qualquer usuário, desde que haja critério equivalente.",
+      "data_publicacao": "2026-11-11T12:00:00-03:00",
       "url": "https://conjur.com.br/2026-nov-11/isonomia-no-condominio-o-stj-e-a-taxa-de-lazer-cobrada-de-possuidores-nao-proprietarios/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Área desapropriada incorporada ao patrimônio da União não admite usucapião, decide STJ",
-      "descricao": "A Terceira Turma do STJ decidiu que área desapropriada e incorporada ao patrimônio da União é bem público e não pode ser adquirida por usucapião, independentemente do tempo de posse. O julgamento esclareceu que a natureza pública do bem impede a aquisição originária.",
-      "data_publicacao": "2026-11-11T00:00:00-03:00",
-      "url": "https://ri360.com.br/n/3a-turma-do-stj-nega-usucapiao-de-terreno-submerso-13799.html",
-      "fonte": "Colégio Registral RS, resumo via RI360"
+      "titulo": "Artigo discute ITBI na transferência de imóvel para fundo imobiliário",
+      "descricao": "Artigo publicado na ConJur sustenta que a tese do STF sobre imunidade de ITBI na integralização de capital também deveria alcançar o aporte de imóveis em fundos de investimento imobiliário. O texto registra que municípios e tribunais têm adotado entendimento contrário por diferenças entre fundos e pessoas jurídicas.",
+      "data_publicacao": "2026-11-09T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-09/a-decisao-de-itbi-do-stf-deve-ser-aplicada-ao-fii/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Artigo discute proteção do adquirente em hipótese de usucapião tabular",
-      "descricao": "Artigo sobre o artigo 1.242 do Código Civil examina a proteção do comprador que confiou em registro depois cancelado. O texto discute os requisitos da usucapião tabular e a origem legislativa da exigência de moradia ou investimento social e econômico.",
-      "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://ri360.com.br/n/usucapiao-tabular-a-visao-de-ebert-vianna-chamoun-12685.html",
-      "fonte": "RI360, com referência ao ConJur"
+      "titulo": "Execução extrajudicial de hipoteca requer previsão no título, aponta artigo",
+      "descricao": "Análise jurídica publicada na ConJur examina a Lei 14.711/2023 e afirma que a execução extrajudicial pelo Registro de Imóveis depende de previsão expressa no título hipotecário. O texto também destaca a exceção legal para financiamentos da atividade agropecuária.",
+      "data_publicacao": "2026-11-08T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-08/lei-no-14-711-2023-avancos-na-recuperacao-de-credito-no-brasil/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "Matrícula com área menor que a anunciada pode exigir levantamento topográfico",
-      "descricao": "Artigo analisa como levantamento topográfico pode ajudar a distinguir erro registral de divergência na venda de um imóvel. Conforme o caso, podem ser discutidas retificação da matrícula ou medidas previstas no Código Civil para venda por medida, respeitados os direitos de confrontantes.",
-      "data_publicacao": "2026-11-10T00:00:00-03:00",
-      "url": "https://ri360.com.br/n/casal-compra-um-lote-anunciado-com-350-metros-quadrados-constroi-uma-residencia-13571.html",
-      "fonte": "RI360, com referência ao Colégio Registral RS"
+      "titulo": "Artigo analisa correção notarial de erro material em formal de partilha",
+      "descricao": "Artigo na ConJur sustenta que escritura pública pode corrigir erro material comprovável em formal de partilha, sem redefinir beneficiários ou substituir decisão judicial. O registro imobiliário continua sujeito à análise de continuidade e disponibilidade, e mudanças na destinação patrimonial podem gerar tributos.",
+      "data_publicacao": "2026-11-08T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-08/partilha-judicial-ate-onde-pode-ir-o-aditamento-por-escritura-publica/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "ONR lança nova versão do e-Protocolo para envio eletrônico de títulos",
-      "descricao": "O Operador Nacional do Registro de Imóveis lançou nova versão da plataforma de envio eletrônico de títulos, com rascunho, histórico do pedido e notificações. A implantação será escalonada e começou em fase de testes no Distrito Federal.",
-      "data_publicacao": "2026-11-12T00:00:00-03:00",
-      "url": "https://ri360.com.br/n/registro-de-imoveis-do-brasil-lanca-novo-e-protocolo-13849.html",
-      "fonte": "IRIB, resumo via RI360"
+      "titulo": "Ocupação prolongada por herdeiro não basta para usucapião de imóvel da família",
+      "descricao": "A Quarta Turma do STJ decidiu que morar por longo período em imóvel integrante de herança não partilhada não comprova, por si só, posse com intenção de dono. A decisão destaca a necessidade de prova da posse própria e da ausência de mera tolerância dos demais herdeiros.",
+      "data_publicacao": "2026-11-11T12:00:00-03:00",
+      "url": "https://ri360.com.br/n/ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao-13798.html",
+      "fonte": "RI360"
     },
     {
-      "titulo": "STJ afasta usucapião de área desapropriada incorporada ao patrimônio da União",
-      "descricao": "A Terceira Turma do STJ decidiu que área desapropriada e incorporada ao patrimônio da União não pode ser adquirida por usucapião, independentemente do tempo de ocupação. O julgamento esclareceu que a natureza pública do bem, e não sua condição física, impede a aquisição originária.",
-      "data_publicacao": "2026-11-11T00:00:00-03:00",
-      "url": "https://ri360.com.br/n/3a-turma-do-stj-nega-usucapiao-de-terreno-submerso-13799.html",
-      "fonte": "Colégio Registral RS, resumo via RI360"
-    },
-    {
-      "titulo": "MCMV prevê averbação de restrição de venda por cinco anos em compra assistida",
-      "descricao": "Portaria do Ministério das Cidades regulamentou a modalidade Compra Assistida do Minha Casa, Minha Vida para famílias desabrigadas por desastres ou removidas por obras federais. A vedação de venda por 60 meses deverá constar da matrícula, e o registro será priorizado em nome da mulher.",
-      "data_publicacao": "2026-11-10T00:00:00-03:00",
-      "url": "https://ri360.com.br/n/mcmv-governo-define-regras-para-compra-de-imoveis-apos-desastres-e-obras-federai-13573.html",
-      "fonte": "Colégio Registral RS, resumo via RI360"
-    },
-    {
-      "titulo": "Reforma tributária pode elevar custos da construção civil, aponta análise setorial",
-      "descricao": "Análise sobre a transição de PIS, Cofins, ICMS e ISS para IBS e CBS indica que construtoras e incorporadoras podem rever custos e preços ao longo da implementação, prevista até 2033. O texto também ressalta a redução de alíquotas e redutores aplicáveis às operações imobiliárias.",
-      "data_publicacao": "2026-11-12T00:00:00-03:00",
-      "url": "https://ri360.com.br/n/reforma-tributaria-deve-elevar-custos-da-construcao-civil-13883.html",
-      "fonte": "Colégio Registral RS, resumo via RI360"
-    },
-    {
-      "titulo": "Reurb deve combinar titulação com organização territorial e segurança jurídica, defende artigo",
-      "descricao": "Artigo publicado pelo IRIB sustenta que a regularização fundiária urbana envolve organização do território, integração de informações e reconhecimento de direitos, além da emissão de títulos. A análise aborda loteamentos aprovados com ocupantes sem título registrado e as modalidades previstas na legislação.",
-      "data_publicacao": "2026-11-12T00:00:00-03:00",
-      "url": "https://ri360.com.br/n/reurb-entre-a-titulacao-e-a-seguranca-juridica-13850.html",
-      "fonte": "IRIB, resumo via RI360"
+      "titulo": "Cobrança de ITCMD sobre doações internacionais em São Paulo exige nova lei, defende artigo",
+      "descricao": "Artigo publicado na ConJur sustenta que a cobrança paulista de ITCMD sobre doações feitas por doador domiciliado no exterior depende de nova lei estadual. A análise também afirma que a definição da base de cálculo pelo valor de mercado exige previsão legislativa específica.",
+      "data_publicacao": "2026-11-13T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-13/itcmd-em-sp-nao-incidencia-sobre-doacoes-do-exterior-e-mudanca-da-base-de-calcul/",
+      "fonte": "ConJur"
     }
   ]
 }
