@@ -1,96 +1,89 @@
 {
-  "data-busca": "2026-11-15T10:05:36-03:00",
+  "data-busca": "2026-11-16T09:57:06-03:00",
   "noticias": [
     {
-      "titulo": "Rio das Ostras abre inscrições para 1.364 vagas em creches em 2027",
-      "descricao": "A seleção municipal terá inscrições on-line de 16 a 19 de novembro, com apoio presencial em quatro escolas para responsáveis que precisarem de ajuda. A oferta prevista é 119 vagas maior que a de 2026, e o processo segue critérios definidos em resolução da Secretaria de Educação.",
-      "data_publicacao": "2026-11-09T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-abre-inscricoes-para-1-364-vagas-em-creches-para-2027/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Jogos Escolares de Rio das Ostras seguem até 18 de novembro",
-      "descricao": "O JERO 2026 reúne estudantes das redes pública e privada em modalidades coletivas e individuais, com partidas em diferentes espaços da cidade. A programação inclui também atletismo e xadrez para participantes com deficiência intelectual e transtorno do espectro autista.",
-      "data_publicacao": "2026-11-10T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-se-prepara-para-a-maior-festa-do-esporte-escolar/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Prefeitura de Rio das Ostras capacita servidores para novo sistema de licitações",
-      "descricao": "Mais de 100 servidores municipais participaram de treinamento sobre a plataforma de compras e contratações públicas. A Prefeitura afirma que a ferramenta deve organizar o registro das etapas e facilitar o acompanhamento e a fiscalização dos processos.",
-      "data_publicacao": "2026-11-12T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/prefeitura-de-rio-das-ostras-capacita-servidores-para-novo-sistema-de-licitacoes/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Rio das Ostras inaugura Núcleo Estadual de Defesa Agropecuária",
-      "descricao": "O posto instalado em Cantagalo retoma o atendimento de defesa agropecuária na cidade após cerca de cinco anos sem unidade específica. Produtores poderão buscar orientação sobre regularização de rebanhos, controle sanitário e documentos para o trânsito de animais.",
-      "data_publicacao": "2026-11-13T00:00:00-03:00",
+      "titulo": "Rio das Ostras inaugura Núcleo de Defesa Agropecuária",
+      "descricao": "A Prefeitura e o Governo do Estado abriram em Cantagalo uma unidade de defesa agropecuária para atender produtores rurais. O posto oferecerá orientação sobre vacinação, controle sanitário, regularização de rebanhos e documentos para o trânsito de animais.",
+      "data_publicacao": "2026-11-13T09:24:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-inaugura-nucleo-de-defesa-agropecuaria/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Turismo no estado do Rio soma 26,6 mil empregos formais adicionais desde 2023",
-      "descricao": "Levantamento do Ministério do Turismo indica que o emprego formal em atividades turísticas no estado cresceu 10,5% entre setembro de 2023 e setembro de 2026. O total passou de 254.991 para 281.651 vínculos, com base em dados da RAIS e do Novo Caged.",
-      "data_publicacao": "2026-11-06T00:00:00-03:00",
-      "url": "https://www.gov.br/turismo/pt-br/assuntos/noticias/turismo-do-rio-de-janeiro-soma-mais-de-26-mil-empregos-formais-adicionais-desde-2023",
-      "fonte": "Ministério do Turismo"
+      "titulo": "CastraMóvel atende no Recanto nos dias 17 e 18 de novembro",
+      "descricao": "A unidade móvel municipal ficará no posto de saúde do Recanto para realizar castrações agendadas e oferecer orientações veterinárias gratuitas. O atendimento depende de agendamento prévio e da disponibilidade de vagas e critérios informados pela Prefeitura.",
+      "data_publicacao": "2026-11-13T08:31:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/castramovel-chega-ao-recanto-nesta-terca-17/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Estado do Rio abre prazo para regularizar pendências em projetos culturais",
-      "descricao": "O programa Cultura em Dia oferece a proponentes fluminenses uma nova janela para tratar dívidas e prestações de contas de projetos culturais. O prazo de adesão vai de 9 a 23 de novembro e não implica perdão de débitos nem dispensa das obrigações de prestação de contas.",
-      "data_publicacao": "2026-11-04T00:00:00-03:00",
-      "url": "https://cultura.rj.gov.br/governo-do-estado-lanca-programa-cultura-em-dia-para-regularizacao-de-pendencias-de-projetos-culturais/",
-      "fonte": "Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro"
+      "titulo": "Rio das Ostras promove ação de saúde voltada a trabalhadores rurais",
+      "descricao": "A Prefeitura programou para 17 de novembro uma ação de saúde no Espaço Socioambiental Pau-Brasil, em Cantagalo. A atividade, organizada com parceiros do setor, busca aproximar orientações e serviços de prevenção dos moradores e trabalhadores da área rural.",
+      "data_publicacao": "2026-11-13T10:53:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-realiza-evento-saude-do-homem-do-campo-em-cantagalo/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Projeto de concessão do Forte de Copacabana entra em consulta pública",
-      "descricao": "O projeto prevê investimentos privados de cerca de R$ 440 milhões ao longo de 30 anos para restaurar a fortificação, ampliar o museu e criar um centro cultural. A consulta pública recebe contribuições até 9 de dezembro, e uma audiência está marcada para 25 de novembro no próprio Forte.",
-      "data_publicacao": "2026-11-10T00:00:00-03:00",
-      "url": "https://agenciadenoticias.bndes.gov.br/noticia/Concessao-do-Forte-de-Copacabana-entra-em-consulta-publica-com-previsao-de-R%24-440-milhoes-em-investimentos/",
-      "fonte": "Agência BNDES de Notícias"
+      "titulo": "Prefeitura capacita servidores para novo sistema de licitações",
+      "descricao": "Mais de 100 servidores municipais participaram de treinamento sobre a nova ferramenta de licitações de Rio das Ostras. A administração informa que o sistema pretende organizar o registro das etapas de contratação e facilitar o acompanhamento dos processos.",
+      "data_publicacao": "2026-11-12T18:02:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-de-rio-das-ostras-capacita-servidores-para-novo-sistema-de-licitacoes/",
+      "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "STJ reconhece dano moral coletivo por abandono de imóveis tombados",
-      "descricao": "A Primeira Turma do STJ reconheceu dano moral coletivo presumido em caso de abandono de casas tombadas, além de determinar medidas de restauração e preservação. O julgamento destacou o dever dos proprietários de conservar bens protegidos pelo tombamento.",
-      "data_publicacao": "2026-11-13T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-13/stj-admite-dano-moral-coletivo-presumido-por-violacao-a-patrimonio-cultural/",
-      "fonte": "ConJur"
+      "titulo": "Estado do Rio amplia tabela de níveis tarifários do transporte intermunicipal",
+      "descricao": "Portaria do DETRO/RJ elevou de 18 para 21 os níveis tarifários das linhas metropolitanas intermunicipais, com valores de R$ 6,70 a R$ 30,00. A aplicação por trecho ainda depende da atualização da matriz tarifária pelo órgão estadual.",
+      "data_publicacao": "2026-11-13T15:17:00-03:00",
+      "url": "https://onibusetransporte.com/2026/11/13/detro-rj-21-niveis-tarifarios-onibus-intermunicipais/",
+      "fonte": "Ônibus & Transporte"
     },
     {
-      "titulo": "STJ afasta taxa de lazer condominial cobrada somente de não proprietários",
-      "descricao": "A Quarta Turma do STJ considerou indevida a cobrança prevista em regimento interno apenas para locatários, cessionários e comodatários quando não há prova de aumento das despesas. Segue possível cobrar pelo uso exclusivo de área comum se o critério for aplicado a qualquer usuário.",
-      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "titulo": "SES e UERJ destinam recursos a teleconsultas e teleconsultoria no estado",
+      "descricao": "Resolução conjunta publicada no Diário Oficial estadual descentralizou R$ 505.780 para serviços de telessaúde executados pela Fundação UERJ até o fim de dezembro. O plano prevê teleconsultas em hematologia e cardiologia e suporte remoto em infectologia e clínica médica.",
+      "data_publicacao": "2026-11-13T18:31:00-03:00",
+      "url": "https://atlaspublico.com.br/estados/rj/noticias/ses-e-uerj-descentralizam-rs-505-7-mil-para-teleconsultas-101942",
+      "fonte": "Atlas Público — Diário Oficial do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "CNJ aprova regras nacionais para cessão de créditos de precatórios",
+      "descricao": "O Conselho Nacional de Justiça aprovou resolução que prevê escritura pública, registro eletrônico e comunicação das cessões de precatórios aos órgãos envolvidos. A norma também atribui ao tabelião a comunicação da operação e entrará em vigor 30 dias após a publicação.",
+      "data_publicacao": "2026-11-10T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-aprova-resolucao-nacional-sobre-cessao-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Jornada Notarial 2026 levou orientação sobre transações imobiliárias",
+      "descricao": "A mobilização do CNB/CF e das seccionais realizou atividades gratuitas em diferentes cidades para esclarecer dúvidas sobre compra e venda, escritura pública e regularização de imóveis. A edição também apresentou a Conta Notarial como instrumento para condicionar a liberação de valores aos termos acordados pelas partes.",
+      "data_publicacao": "2026-11-10T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF firma cooperação com CNJ para sistema de cessões de precatórios",
+      "descricao": "O acordo prevê a participação do Colégio Notarial no desenvolvimento do SisPreq, sistema destinado à formalização e rastreabilidade da cessão de precatórios. A proposta inclui dados de valor e deságio e prevê mecanismos para reduzir riscos de duplicidade e fraude.",
+      "data_publicacao": "2026-11-05T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STJ afasta taxa de lazer cobrada apenas de ocupantes não proprietários",
+      "descricao": "A Quarta Turma do Superior Tribunal de Justiça considerou indevida a cobrança de taxa de lazer apenas de locatários, cessionários e comodatários quando não há prova de aumento das despesas do condomínio. A decisão ressalva que pode haver cobrança por uso exclusivo se o critério alcançar qualquer usuário em situação equivalente.",
+      "data_publicacao": "2026-11-11T12:00:00-03:00",
       "url": "https://conjur.com.br/2026-nov-11/isonomia-no-condominio-o-stj-e-a-taxa-de-lazer-cobrada-de-possuidores-nao-proprietarios/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Uso prolongado não autoriza ampliar servidão além dos limites do título",
-      "descricao": "Decisão de primeira instância em Santa Catarina manteve a servidão de passagem dentro dos limites definidos no título e negou o alargamento pedido por moradores. O juiz observou que a falta de acesso à via pública pode ser discutida por meio de passagem forçada em ação própria.",
-      "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-03/uso-de-passagem-nao-garante-ao-proprietario-direito-de-ampliar-acesso/",
+      "titulo": "Execução extrajudicial de hipoteca requer previsão no título, aponta artigo",
+      "descricao": "Análise jurídica publicada na ConJur examina a Lei 14.711/2023 e afirma que a execução extrajudicial pelo Registro de Imóveis depende de previsão expressa no título hipotecário. O texto também destaca a exceção legal para financiamentos da atividade agropecuária.",
+      "data_publicacao": "2026-11-08T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-08/lei-no-14-711-2023-avancos-na-recuperacao-de-credito-no-brasil/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "CNB/CF firma acordo com CNJ para desenvolver sistema nacional de precatórios",
-      "descricao": "O Colégio Notarial do Brasil – Conselho Federal firmou acordo de cooperação técnica para colaborar com o desenvolvimento do SisPreq. A parceria prevê apoio na definição de requisitos, análise de fluxos e validação das funções da plataforma nacional de precatórios e requisições de pequeno valor.",
-      "data_publicacao": "2026-11-06T00:00:00-03:00",
-      "url": "https://www.anoregmt.org.br/novo/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
-      "fonte": "Anoreg/MT, com informações do CNB/CF"
-    },
-    {
-      "titulo": "CNJ aprova parâmetros nacionais para cessão de créditos de precatórios",
-      "descricao": "A nova resolução prevê escritura pública para que a cessão produza efeitos perante os tribunais, além de registro eletrônico e comunicação à Central Nacional. A medida estabelece procedimento nacional para dar rastreabilidade às transferências e atribui ao tabelião comunicação da negociação ao tribunal.",
-      "data_publicacao": "2026-11-10T00:00:00-03:00",
-      "url": "https://cnbpb.org.br/cnj-aprova-resolucao-nacional-sobre-cessao-de-precatorios/",
-      "fonte": "Colégio Notarial do Brasil – Seção Paraíba"
-    },
-    {
-      "titulo": "Jornada Notarial 2026 levou orientação gratuita sobre transações imobiliárias",
-      "descricao": "A iniciativa do CNB/CF, Seccionais e Tabelionatos promoveu atendimentos e esclarecimentos sobre segurança jurídica em negócios imobiliários. A edição de 7 de novembro também apresentou a Conta Notarial e recursos do e-Notariado ao público.",
-      "data_publicacao": "2026-11-10T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
-      "fonte": "Colégio Notarial do Brasil – Conselho Federal"
+      "titulo": "Escritura pública pode corrigir erro material em formal de partilha, defende artigo",
+      "descricao": "Artigo na ConJur sustenta que escritura pública pode corrigir erro material comprovável em formal de partilha, sem redefinir beneficiários ou substituir decisão judicial. O registro imobiliário continua sujeito à análise de continuidade e disponibilidade, e mudanças na destinação patrimonial podem gerar tributos.",
+      "data_publicacao": "2026-11-08T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-08/partilha-judicial-ate-onde-pode-ir-o-aditamento-por-escritura-publica/",
+      "fonte": "ConJur"
     }
   ]
 }
