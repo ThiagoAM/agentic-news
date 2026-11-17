@@ -1,81 +1,81 @@
 {
-  "data-busca": "2026-11-16T09:57:06-03:00",
+  "data-busca": "2026-11-17T10:00:21-03:00",
   "noticias": [
     {
-      "titulo": "Notariado Brasileiro fortalece participação no mercado de créditos de carbono",
-      "descricao": "Representante do CNB/SP passou a integrar grupos de trabalho do RCGI-USP Carbon Registry dedicados à regulação, tributação, segurança jurídica e desenvolvimento do mercado de créditos de carbono. A iniciativa aproxima a atividade notarial da construção de registros e da avaliação documental desse setor.",
-      "data_publicacao": "2026-11-11T12:00:00-03:00",
+      "titulo": "CSM/SP afasta inclusão de bem particular na meação em escritura de inventário",
+      "descricao": "O Conselho Superior da Magistratura paulista manteve a recusa ao registro de partilha que atribuiu à companheira fração de imóvel adquirida pelo falecido antes da união estável. O colegiado afirmou que o encerramento da matrícula não apaga os registros anteriores nem impede a análise do regime de bens.",
+      "data_publicacao": "2026-11-13T12:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/13/csm-sp-afasta-possibilidade-de-inclusao-de-bem-particular-na-meacao-em-escritura-de-inventario-ainda-que-a-matricula-esteja-encerrada/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "Valor venal acima de 30 salários mínimos exige escritura pública para transferir fração de imóvel",
+      "descricao": "O CSM/SP entendeu que a forma pública é obrigatória quando a base fiscal do imóvel supera o limite previsto no Código Civil, ainda que o contrato declare preço simbólico. A decisão também afastou o uso de instrumento particular para contornar exigências de retificação registral.",
+      "data_publicacao": "2026-11-13T12:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/13/csm-sp-valor-venal-superior-a-30-salarios-minimos-exige-escritura-publica-para-transferencia-de-fracao-ideal-de-imovel/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "CSM/SP impede usucapião extrajudicial de imóvel já rejeitado em ação judicial",
+      "descricao": "O conselho paulista manteve a extinção de pedido extrajudicial relativo a uma vaga de garagem cuja pretensão aquisitiva havia sido julgada improcedente. A decisão considerou que a via administrativa não pode reabrir questão coberta pela coisa julgada sem fato novo efetivo.",
+      "data_publicacao": "2026-11-12T12:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/12/csm-sp-afasta-possibilidade-de-usucapiao-extrajudicial-sobre-imovel-cuja-pretensao-aquisitiva-ja-foi-julgada-improcedente-em-acao-judicial/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "Artigo examina venda de imóvel antes da partilha em inventário",
+      "descricao": "Texto publicado pelo CNB/SP analisa a possibilidade de alienar bem do espólio antes da partilha e os cuidados envolvidos na operação. A abordagem destaca a necessidade de observar a Resolução 571/2024 do CNJ e de dar transparência ao uso dos recursos no inventário.",
+      "data_publicacao": "2026-11-12T12:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/12/artigo-imovel-em-inventario-pode-ser-vendido-antes-da-partilha-que-riscos-estarei-correndo-por-julio-martins/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "CNJ relata soluções construídas por comissões fundiárias em conflitos por terra",
+      "descricao": "O Conselho Nacional de Justiça descreveu como comissões regionais têm reunido instituições públicas para buscar acordos em disputas fundiárias. A iniciativa procura tratar conflitos prolongados com diálogo e considerar os direitos das famílias envolvidas.",
+      "data_publicacao": "2026-11-12T12:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/12/cnj-comissoes-fundiarias-constroem-solucoes-para-conflitos-e-garantem-direitos-a-milhares-de-familias/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "Provimento 259/2026 do CNJ trata da escrituração e fiscalização tributária dos cartórios",
+      "descricao": "O ato estabelece regras sobre escrituração e fiscalização tributária dos serviços notariais e de registro. A publicação integra as mudanças regulatórias que serventias devem acompanhar na organização de suas obrigações fiscais.",
+      "data_publicacao": "2026-11-12T12:00:00-03:00",
+      "url": "https://cnbpb.org.br/provimento-no-259-2026-do-cnj-dispoe-sobre-escrituracao-e-fiscalizacao-tributaria-dos-servicos-notariais-e-de-registro/",
+      "fonte": "Colégio Notarial do Brasil – Seção Paraíba"
+    },
+    {
+      "titulo": "Notariado brasileiro fortalece participação no mercado de créditos de carbono",
+      "descricao": "Representante do CNB/SP passou a integrar grupos técnicos ligados ao RCGI-USP Carbon Registry, que discutem regulação, tributação e segurança documental do mercado de carbono. A participação aproxima o setor notarial do desenvolvimento de registros para esse segmento.",
+      "data_publicacao": "2026-10-23T12:00:00-03:00",
       "url": "https://www.notariado.org.br/notariado-brasileiro-fortalece-o-mercado-de-carbono/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Jornada Notarial 2026 levou orientação sobre transações imobiliárias",
-      "descricao": "A mobilização nacional do CNB/CF e das seccionais realizou atividades gratuitas em diferentes cidades para esclarecer dúvidas sobre compra e venda, escritura pública e regularização de imóveis. A edição também apresentou a Conta Notarial como instrumento para condicionar a liberação de valores aos termos ajustados pelas partes.",
-      "data_publicacao": "2026-11-10T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
-      "fonte": "Colégio Notarial do Brasil"
+      "titulo": "TJ-SP afasta cobrança de execução fiscal diretamente contra herdeiros antes da partilha",
+      "descricao": "A 14ª Câmara de Direito Público do TJ-SP decidiu que, antes da partilha, a execução fiscal deve recair sobre o espólio, e não sobre os herdeiros em nome próprio. Após a divisão, a responsabilidade sucessória fica limitada ao quinhão recebido.",
+      "data_publicacao": "2026-11-11T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-11/herdeiro-nao-responde-por-execucao-fiscal-antes-da-partilha-de-bens-afirma-tj-sp/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "CNJ aprova regras nacionais para cessão de créditos de precatórios",
-      "descricao": "O Conselho Nacional de Justiça aprovou resolução que prevê escritura pública, registro eletrônico e comunicação das cessões de precatórios aos órgãos envolvidos. A norma também atribui ao tabelião a comunicação da operação e entrará em vigor 30 dias após a publicação.",
-      "data_publicacao": "2026-11-10T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnj-aprova-resolucao-nacional-sobre-cessao-de-precatorios/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "CNB/CF firma cooperação com CNJ para sistema de cessões de precatórios",
-      "descricao": "O acordo prevê a participação do Colégio Notarial no desenvolvimento do SisPreq, sistema voltado à formalização e rastreabilidade da cessão de precatórios. A proposta inclui informações sobre valor atualizado, montante negociado e deságio, além de controles para reduzir riscos de duplicidade e fraude.",
-      "data_publicacao": "2026-11-05T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Diretor do CNB/CF assume vice-presidência em comissão internacional",
-      "descricao": "Ubiratan Guimarães foi nomeado vice-presidente da Comissão de Assuntos Americanos da União Internacional do Notariado. A representação amplia a participação institucional brasileira em discussões sobre modernização dos serviços notariais e segurança jurídica.",
-      "data_publicacao": "2026-10-30T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/diretor-do-cnb-cf-ubiratan-guimaraes-e-nomeado-vice-presidente-da-comissao-de-assuntos-americanos-da-uinl/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "STJ afasta cobrança de taxa de lazer apenas de ocupantes não proprietários",
-      "descricao": "A Quarta Turma do Superior Tribunal de Justiça considerou indevida a cobrança de taxa de lazer somente de locatários, cessionários e comodatários quando não há prova de aumento das despesas condominiais. O acórdão ressalva que uma cobrança por uso exclusivo pode ser aplicada a qualquer usuário, desde que haja critério equivalente.",
+      "titulo": "STJ considera indevida taxa de lazer cobrada apenas de ocupantes não proprietários",
+      "descricao": "A Quarta Turma do STJ afastou a cobrança diferenciada de taxa de lazer de locatários e outros ocupantes quando não há comprovação de aumento de despesas do condomínio. O colegiado ressalvou a possibilidade de cobrança vinculada a uso exclusivo, desde que aplicada por critério equivalente.",
       "data_publicacao": "2026-11-11T12:00:00-03:00",
       "url": "https://conjur.com.br/2026-nov-11/isonomia-no-condominio-o-stj-e-a-taxa-de-lazer-cobrada-de-possuidores-nao-proprietarios/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Artigo discute ITBI na transferência de imóvel para fundo imobiliário",
-      "descricao": "Artigo publicado na ConJur sustenta que a tese do STF sobre imunidade de ITBI na integralização de capital também deveria alcançar o aporte de imóveis em fundos de investimento imobiliário. O texto registra que municípios e tribunais têm adotado entendimento contrário por diferenças entre fundos e pessoas jurídicas.",
-      "data_publicacao": "2026-11-09T12:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-09/a-decisao-de-itbi-do-stf-deve-ser-aplicada-ao-fii/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Execução extrajudicial de hipoteca requer previsão no título, aponta artigo",
-      "descricao": "Análise jurídica publicada na ConJur examina a Lei 14.711/2023 e afirma que a execução extrajudicial pelo Registro de Imóveis depende de previsão expressa no título hipotecário. O texto também destaca a exceção legal para financiamentos da atividade agropecuária.",
-      "data_publicacao": "2026-11-08T12:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-08/lei-no-14-711-2023-avancos-na-recuperacao-de-credito-no-brasil/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Artigo analisa correção notarial de erro material em formal de partilha",
-      "descricao": "Artigo na ConJur sustenta que escritura pública pode corrigir erro material comprovável em formal de partilha, sem redefinir beneficiários ou substituir decisão judicial. O registro imobiliário continua sujeito à análise de continuidade e disponibilidade, e mudanças na destinação patrimonial podem gerar tributos.",
-      "data_publicacao": "2026-11-08T12:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-08/partilha-judicial-ate-onde-pode-ir-o-aditamento-por-escritura-publica/",
-      "fonte": "ConJur"
-    },
-    {
-      "titulo": "Ocupação prolongada por herdeiro não basta para usucapião de imóvel da família",
-      "descricao": "A Quarta Turma do STJ decidiu que morar por longo período em imóvel integrante de herança não partilhada não comprova, por si só, posse com intenção de dono. A decisão destaca a necessidade de prova da posse própria e da ausência de mera tolerância dos demais herdeiros.",
-      "data_publicacao": "2026-11-11T12:00:00-03:00",
-      "url": "https://ri360.com.br/n/ocupacao-prolongada-de-imovel-por-herdeiro-nao-basta-para-usucapiao-13798.html",
-      "fonte": "RI360"
-    },
-    {
-      "titulo": "Cobrança de ITCMD sobre doações internacionais em São Paulo exige nova lei, defende artigo",
-      "descricao": "Artigo publicado na ConJur sustenta que a cobrança paulista de ITCMD sobre doações feitas por doador domiciliado no exterior depende de nova lei estadual. A análise também afirma que a definição da base de cálculo pelo valor de mercado exige previsão legislativa específica.",
+      "titulo": "Artigo debate ITCMD paulista sobre doações feitas por doador no exterior",
+      "descricao": "Análise publicada na ConJur sustenta que a cobrança do ITCMD paulista sobre doações internacionais depende de nova lei estadual. O texto também discute a necessidade de previsão legislativa específica para determinar a base de cálculo pelo valor de mercado.",
       "data_publicacao": "2026-11-13T12:00:00-03:00",
       "url": "https://conjur.com.br/2026-nov-13/itcmd-em-sp-nao-incidencia-sobre-doacoes-do-exterior-e-mudanca-da-base-de-calcul/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Execução extrajudicial de hipoteca depende de previsão no título, aponta artigo",
+      "descricao": "Artigo da ConJur examina a Lei 14.711/2023 e sustenta que a execução extrajudicial pelo Registro de Imóveis requer previsão expressa no título hipotecário. O texto também aponta uma exceção legal para financiamentos da atividade agropecuária.",
+      "data_publicacao": "2026-11-08T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-08/lei-no-14-711-2023-avancos-na-recuperacao-de-credito-no-brasil/",
       "fonte": "ConJur"
     }
   ]
