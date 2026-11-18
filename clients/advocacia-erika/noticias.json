@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-11-17T10:00:21-03:00",
+  "data-busca": "2026-11-18T10:05:50-03:00",
   "noticias": [
     {
-      "titulo": "CSM/SP afasta inclusão de bem particular na meação em escritura de inventário",
-      "descricao": "O Conselho Superior da Magistratura paulista manteve a recusa ao registro de partilha que atribuiu à companheira fração de imóvel adquirida pelo falecido antes da união estável. O colegiado afirmou que o encerramento da matrícula não apaga os registros anteriores nem impede a análise do regime de bens.",
-      "data_publicacao": "2026-11-13T12:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/11/13/csm-sp-afasta-possibilidade-de-inclusao-de-bem-particular-na-meacao-em-escritura-de-inventario-ainda-que-a-matricula-esteja-encerrada/",
-      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+      "titulo": "CNJ define prazos para cartórios adotarem padrões mínimos de segurança digital",
+      "descricao": "O Conselho Nacional de Justiça publicou regras com prazos progressivos para que os cartórios implementem padrões mínimos de segurança da informação. A medida organiza a adequação segundo as categorias das serventias e atualiza os marcos de implementação previstos para o setor.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://www.cnj.jus.br/cnj-estabelece-prazos-para-cartorios-adotarem-padroes-minimos-de-seguranca-digital/",
+      "fonte": "Conselho Nacional de Justiça"
     },
     {
-      "titulo": "Valor venal acima de 30 salários mínimos exige escritura pública para transferir fração de imóvel",
-      "descricao": "O CSM/SP entendeu que a forma pública é obrigatória quando a base fiscal do imóvel supera o limite previsto no Código Civil, ainda que o contrato declare preço simbólico. A decisão também afastou o uso de instrumento particular para contornar exigências de retificação registral.",
-      "data_publicacao": "2026-11-13T12:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/11/13/csm-sp-valor-venal-superior-a-30-salarios-minimos-exige-escritura-publica-para-transferencia-de-fracao-ideal-de-imovel/",
-      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
-    },
-    {
-      "titulo": "CSM/SP impede usucapião extrajudicial de imóvel já rejeitado em ação judicial",
-      "descricao": "O conselho paulista manteve a extinção de pedido extrajudicial relativo a uma vaga de garagem cuja pretensão aquisitiva havia sido julgada improcedente. A decisão considerou que a via administrativa não pode reabrir questão coberta pela coisa julgada sem fato novo efetivo.",
-      "data_publicacao": "2026-11-12T12:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/11/12/csm-sp-afasta-possibilidade-de-usucapiao-extrajudicial-sobre-imovel-cuja-pretensao-aquisitiva-ja-foi-julgada-improcedente-em-acao-judicial/",
-      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
-    },
-    {
-      "titulo": "Artigo examina venda de imóvel antes da partilha em inventário",
-      "descricao": "Texto publicado pelo CNB/SP analisa a possibilidade de alienar bem do espólio antes da partilha e os cuidados envolvidos na operação. A abordagem destaca a necessidade de observar a Resolução 571/2024 do CNJ e de dar transparência ao uso dos recursos no inventário.",
-      "data_publicacao": "2026-11-12T12:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/11/12/artigo-imovel-em-inventario-pode-ser-vendido-antes-da-partilha-que-riscos-estarei-correndo-por-julio-martins/",
-      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
-    },
-    {
-      "titulo": "CNJ relata soluções construídas por comissões fundiárias em conflitos por terra",
-      "descricao": "O Conselho Nacional de Justiça descreveu como comissões regionais têm reunido instituições públicas para buscar acordos em disputas fundiárias. A iniciativa procura tratar conflitos prolongados com diálogo e considerar os direitos das famílias envolvidas.",
-      "data_publicacao": "2026-11-12T12:00:00-03:00",
-      "url": "https://cnbsp.org.br/2026/11/12/cnj-comissoes-fundiarias-constroem-solucoes-para-conflitos-e-garantem-direitos-a-milhares-de-familias/",
-      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
-    },
-    {
-      "titulo": "Provimento 259/2026 do CNJ trata da escrituração e fiscalização tributária dos cartórios",
-      "descricao": "O ato estabelece regras sobre escrituração e fiscalização tributária dos serviços notariais e de registro. A publicação integra as mudanças regulatórias que serventias devem acompanhar na organização de suas obrigações fiscais.",
-      "data_publicacao": "2026-11-12T12:00:00-03:00",
-      "url": "https://cnbpb.org.br/provimento-no-259-2026-do-cnj-dispoe-sobre-escrituracao-e-fiscalizacao-tributaria-dos-servicos-notariais-e-de-registro/",
-      "fonte": "Colégio Notarial do Brasil – Seção Paraíba"
-    },
-    {
-      "titulo": "Notariado brasileiro fortalece participação no mercado de créditos de carbono",
-      "descricao": "Representante do CNB/SP passou a integrar grupos técnicos ligados ao RCGI-USP Carbon Registry, que discutem regulação, tributação e segurança documental do mercado de carbono. A participação aproxima o setor notarial do desenvolvimento de registros para esse segmento.",
-      "data_publicacao": "2026-10-23T12:00:00-03:00",
-      "url": "https://www.notariado.org.br/notariado-brasileiro-fortalece-o-mercado-de-carbono/",
+      "titulo": "CNB/CF lança prêmio para incentivar inovação nas plataformas do notariado",
+      "descricao": "O Colégio Notarial do Brasil abriu inscrições para um prêmio voltado a ideias de melhoria das centrais e plataformas digitais usadas pelos tabelionatos. As propostas selecionadas poderão ser apresentadas no Congresso Notarial Brasileiro de dezembro; o prazo de inscrição termina em 25 de novembro.",
+      "data_publicacao": "2026-11-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-premio-de-inovacao-notarial-2026-para-incentivar-melhorias-nas-plataformas-digitais-do-notariado/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "TJ-SP afasta cobrança de execução fiscal diretamente contra herdeiros antes da partilha",
-      "descricao": "A 14ª Câmara de Direito Público do TJ-SP decidiu que, antes da partilha, a execução fiscal deve recair sobre o espólio, e não sobre os herdeiros em nome próprio. Após a divisão, a responsabilidade sucessória fica limitada ao quinhão recebido.",
-      "data_publicacao": "2026-11-11T12:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-11/herdeiro-nao-responde-por-execucao-fiscal-antes-da-partilha-de-bens-afirma-tj-sp/",
-      "fonte": "ConJur"
+      "titulo": "CNB/CF firma acordo com CNJ para desenvolver sistema nacional de precatórios",
+      "descricao": "O CNB/CF firmou cooperação técnica com o CNJ para contribuir com o desenvolvimento do SisPreq, plataforma nacional voltada a precatórios e requisições de pequeno valor. A parceria prevê apoio no levantamento de requisitos e validação de funcionalidades, com foco em padronização e transparência nas cessões de créditos.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "STJ considera indevida taxa de lazer cobrada apenas de ocupantes não proprietários",
-      "descricao": "A Quarta Turma do STJ afastou a cobrança diferenciada de taxa de lazer de locatários e outros ocupantes quando não há comprovação de aumento de despesas do condomínio. O colegiado ressalvou a possibilidade de cobrança vinculada a uso exclusivo, desde que aplicada por critério equivalente.",
-      "data_publicacao": "2026-11-11T12:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-11/isonomia-no-condominio-o-stj-e-a-taxa-de-lazer-cobrada-de-possuidores-nao-proprietarios/",
-      "fonte": "ConJur"
+      "titulo": "STJ admite notificação eletrônica para comprovar mora em contrato com alienação fiduciária",
+      "descricao": "A Segunda Seção do STJ firmou entendimento de que uma notificação eletrônica pode comprovar a mora quando enviada ao endereço virtual informado pelo devedor. A decisão trata de contratos garantidos por alienação fiduciária e considera a comprovação do envio aos dados fornecidos pelo próprio contratante.",
+      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "url": "https://www.tabelionatodeijui.com.br/public/index.php/noticias/2026/notificacao-por-meio-eletronico-comprova-mora-do-devedor-fiduciante-decide-stj",
+      "fonte": "Tabelionato de Notas de Ijuí"
     },
     {
-      "titulo": "Artigo debate ITCMD paulista sobre doações feitas por doador no exterior",
-      "descricao": "Análise publicada na ConJur sustenta que a cobrança do ITCMD paulista sobre doações internacionais depende de nova lei estadual. O texto também discute a necessidade de previsão legislativa específica para determinar a base de cálculo pelo valor de mercado.",
-      "data_publicacao": "2026-11-13T12:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-13/itcmd-em-sp-nao-incidencia-sobre-doacoes-do-exterior-e-mudanca-da-base-de-calcul/",
-      "fonte": "ConJur"
+      "titulo": "Jornada Notarial 2026 orienta população sobre segurança em transações imobiliárias",
+      "descricao": "A edição de 7 de novembro reuniu tabelionatos e seccionais do CNB em ações de orientação sobre compra, venda e regularização de imóveis. A iniciativa também apresentou a Conta Notarial e serviços digitais do e-Notariado como instrumentos para esclarecer etapas e reduzir riscos nas negociações.",
+      "data_publicacao": "2026-11-07T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
+      "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Execução extrajudicial de hipoteca depende de previsão no título, aponta artigo",
-      "descricao": "Artigo da ConJur examina a Lei 14.711/2023 e sustenta que a execução extrajudicial pelo Registro de Imóveis requer previsão expressa no título hipotecário. O texto também aponta uma exceção legal para financiamentos da atividade agropecuária.",
-      "data_publicacao": "2026-11-08T12:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-08/lei-no-14-711-2023-avancos-na-recuperacao-de-credito-no-brasil/",
-      "fonte": "ConJur"
+      "titulo": "DataZAP aponta alta nas taxas privadas de financiamento imobiliário",
+      "descricao": "O relatório semanal do DataZAP registrou que grandes bancos privados elevaram as taxas mínimas de crédito imobiliário no início de novembro. O material relaciona o movimento às condições de juros e captação e reúne indicadores recentes do mercado habitacional.",
+      "data_publicacao": "2026-11-04T00:00:00-03:00",
+      "url": "https://imoveis.grupoolx.com.br/datazap/estudos-e-pesquisas/datazap-report-137",
+      "fonte": "DataZAP"
+    },
+    {
+      "titulo": "TJ-SP aplica imunidade de ITBI na integralização de imóvel em empresa imobiliária",
+      "descricao": "A 15ª Câmara de Direito Público do TJ-SP reconheceu a imunidade de ITBI na transferência de imóvel para integralização de capital, mesmo quando a empresa atua no setor imobiliário. A notícia descreve a aplicação do Tema 1.348 do STF e aponta que a decisão não afasta a possibilidade de apuração de fraude ou simulação.",
+      "data_publicacao": "2026-10-30T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-30/tj-sp-inaugura-aplicacao-de-imunidade-de-itbi-para-imobiliarias/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "TJ-SP decide que herdeiros só respondem por dívida tributária após a partilha",
+      "descricao": "O tribunal paulista excluiu herdeiros de uma execução fiscal porque, antes da partilha, a cobrança deve se dirigir ao espólio. Após a divisão dos bens, a responsabilidade dos sucessores fica limitada ao valor recebido por cada um.",
+      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-11/herdeiro-nao-responde-por-execucao-fiscal-antes-da-partilha-de-bens/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "STJ decide que VGBL em fase de acumulação não integra a partilha",
+      "descricao": "A Corte Especial do STJ decidiu que, no caso analisado, o saldo de VGBL ainda em fase de acumulação é destinado ao beneficiário indicado e não compõe o inventário. O colegiado reconheceu a natureza securitária do plano, sem afastar o exame de situações em que haja possível abuso contra a legítima.",
+      "data_publicacao": "2026-10-24T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-24/vgbl-em-acumulacao-nao-integra-partilha-aos-herdeiros-decide-stj/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "STJ fixa critérios para calcular indenização por desapropriação de imóveis",
+      "descricao": "A Primeira Seção do STJ definiu parâmetros para escolher a data de referência da avaliação em desapropriações. O entendimento busca distinguir a valorização geral da região daquela causada pela própria obra pública que motivou a desapropriação.",
+      "data_publicacao": "2026-10-26T00:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26102026-Primeira-Secao-fixa-criterios-para-valor-de-indenizacao-em-desapropriacoes--colegiado-modula-efeitos.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ mantém registro de imóvel em disputa sobre matrículas sobrepostas",
+      "descricao": "A Terceira Turma do STJ manteve o registro imobiliário questionado em disputa sobre terrenos em Palmas. A relatora ressaltou que a presunção de validade do registro só pode ser afastada com prova robusta, pois sua anulação pode afetar toda a cadeia de proprietários.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466890/stj-mantem-registro-de-imovel-em-disputa-ligada-a-criacao-do-tocantins",
+      "fonte": "Migalhas"
     }
   ]
 }
