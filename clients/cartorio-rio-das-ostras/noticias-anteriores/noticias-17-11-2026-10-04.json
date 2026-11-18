@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-11-17T10:04:16-03:00",
+  "noticias": [
+    {
+      "titulo": "Novembro Raízes leva oficinas e atividades culturais a Rio das Ostras",
+      "descricao": "A programação reúne oficinas, rodas de conversa, capoeira, música e feiras abertas à comunidade. A iniciativa municipal destaca a cultura afro-brasileira e o trabalho de artistas e empreendedores negros.",
+      "data_publicacao": "2026-11-16T16:17:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/fundacao-de-cultura-promove-o-novembro-raizes-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Defesa Civil prepara simulado de evacuação em escola de Rio das Ostras",
+      "descricao": "A atividade está marcada para 26 de novembro no Colégio Professora América Abdalla e deve envolver cerca de dois mil alunos. O exercício simulará um princípio de incêndio e contará com equipes municipais, regionais e do Corpo de Bombeiros.",
+      "data_publicacao": "2026-11-16T15:48:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/defesa-civil-realiza-simulado-de-evacuacao-escolar/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras abre inscrições para 1.364 vagas em creches de 2027",
+      "descricao": "As inscrições para a rede municipal ocorrem de 16 a 19 de novembro e podem ser feitas pela internet. A Prefeitura prevê atendimento presencial em quatro escolas para apoiar famílias que precisem de auxílio no cadastro.",
+      "data_publicacao": "2026-11-09T17:01:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-abre-inscricoes-para-1-364-vagas-em-creches-para-2027/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Projeto Rio das Ostras Instrumental terá edição especial pela Consciência Negra",
+      "descricao": "A programação gratuita de 21 de novembro inclui apresentações de Cláudia Falcão e da banda Afrojazz na Concha Acústica da Praça São Pedro. A edição reúne repertório de gafieira, jazz e ritmos afro-brasileiros.",
+      "data_publicacao": "2026-11-16T09:57:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-instrumental-celebra-dia-da-consciencia-negra/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Estado do Rio supera dois milhões de turistas internacionais até outubro",
+      "descricao": "O estado registrou 2.004.519 chegadas de visitantes estrangeiros entre janeiro e outubro de 2026, alta de 11,6% em relação ao mesmo período do ano passado. O resultado representa recorde para os dez primeiros meses e mantém o Rio como a segunda principal porta de entrada internacional do país.",
+      "data_publicacao": "2026-11-16T17:43:00-03:00",
+      "url": "https://diariodorio.com/turismo-e-viagem/2026/11/16/rio-de-janeiro-supera-2-milhoes-de-turistas-internacionais-ate-outubro-e-bate-recorde.html",
+      "fonte": "Diário do Rio"
+    },
+    {
+      "titulo": "Defesa Civil estadual mobiliza moradores em simulado de desocupação de áreas de risco",
+      "descricao": "A ação estadual realizada em 14 de novembro reuniu mais de 21 mil pessoas em 13 municípios fluminenses. O exercício testou o acionamento integrado de sirenes e o envio de alertas aos celulares de moradores de áreas vulneráveis.",
+      "data_publicacao": "2026-11-16T12:00:00-03:00",
+      "url": "https://www.cbmerj.rj.gov.br/governo-do-estado-mobiliza-mais-de-21-mil-pessoas-em-simulado-de-desocupacao-de-areas-de-risco-neste-sabado/",
+      "fonte": "Corpo de Bombeiros Militar do Estado do Rio de Janeiro"
+    },
+    {
+      "titulo": "CNJ aprova parâmetros nacionais para cessão de créditos de precatórios",
+      "descricao": "A resolução prevê escritura pública, registro eletrônico e comunicação das cessões aos órgãos envolvidos. A medida também institui uma central nacional para apoiar a formalização e a rastreabilidade dessas operações.",
+      "data_publicacao": "2026-11-10T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-aprova-resolucao-nacional-sobre-cessao-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Jornada Notarial 2026 levou orientação sobre transações imobiliárias",
+      "descricao": "A mobilização do CNB/CF e das seccionais realizou atividades gratuitas em diferentes cidades para esclarecer dúvidas sobre compra, venda e regularização de imóveis. A edição apresentou também a Conta Notarial como recurso para condicionar a liberação de valores às condições acordadas pelas partes.",
+      "data_publicacao": "2026-11-13T12:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ descreve atuação de comissões fundiárias em disputas por terra",
+      "descricao": "O CNJ reuniu exemplos de comissões regionais que aproximam instituições públicas para buscar soluções dialogadas em conflitos fundiários. As iniciativas procuram reduzir a duração de disputas e resguardar os direitos das famílias envolvidas.",
+      "data_publicacao": "2026-11-12T12:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/12/cnj-comissoes-fundiarias-constroem-solucoes-para-conflitos-e-garantem-direitos-a-milhares-de-familias/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "STJ afasta taxa de lazer cobrada apenas de ocupantes não proprietários",
+      "descricao": "A Quarta Turma considerou indevida a cobrança diferenciada de locatários e outros ocupantes quando o condomínio não demonstrou aumento de despesas. O acórdão admite cobrança por uso exclusivo se o critério alcançar qualquer usuário em situação equivalente.",
+      "data_publicacao": "2026-11-11T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-11/isonomia-no-condominio-o-stj-e-a-taxa-de-lazer-cobrada-de-possuidores-nao-proprietarios/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Execução extrajudicial de hipoteca depende de previsão no título, aponta artigo",
+      "descricao": "Análise publicada na ConJur examina a Lei 14.711/2023 e afirma que a execução extrajudicial pelo Registro de Imóveis depende de previsão expressa no título hipotecário. O texto ressalva a exceção legal prevista para financiamentos da atividade agropecuária.",
+      "data_publicacao": "2026-11-08T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-08/lei-no-14-711-2023-avancos-na-recuperacao-de-credito-no-brasil/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Artigo analisa correção notarial de erro material em formal de partilha",
+      "descricao": "O texto examina a possibilidade de corrigir por escritura pública um erro material demonstrável em formal de partilha, sem alterar beneficiários ou substituir decisão judicial. O registro imobiliário continua sujeito à análise de continuidade e disponibilidade do bem.",
+      "data_publicacao": "2026-11-08T12:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-08/partilha-judicial-ate-onde-pode-ir-o-aditamento-por-escritura-publica/",
+      "fonte": "ConJur"
+    }
+  ]
+}
