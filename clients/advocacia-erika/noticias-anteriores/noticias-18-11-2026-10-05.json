@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-18T10:05:50-03:00",
+  "noticias": [
+    {
+      "titulo": "CNJ define prazos para cartórios adotarem padrões mínimos de segurança digital",
+      "descricao": "O Conselho Nacional de Justiça publicou regras com prazos progressivos para que os cartórios implementem padrões mínimos de segurança da informação. A medida organiza a adequação segundo as categorias das serventias e atualiza os marcos de implementação previstos para o setor.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://www.cnj.jus.br/cnj-estabelece-prazos-para-cartorios-adotarem-padroes-minimos-de-seguranca-digital/",
+      "fonte": "Conselho Nacional de Justiça"
+    },
+    {
+      "titulo": "CNB/CF lança prêmio para incentivar inovação nas plataformas do notariado",
+      "descricao": "O Colégio Notarial do Brasil abriu inscrições para um prêmio voltado a ideias de melhoria das centrais e plataformas digitais usadas pelos tabelionatos. As propostas selecionadas poderão ser apresentadas no Congresso Notarial Brasileiro de dezembro; o prazo de inscrição termina em 25 de novembro.",
+      "data_publicacao": "2026-11-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-premio-de-inovacao-notarial-2026-para-incentivar-melhorias-nas-plataformas-digitais-do-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF firma acordo com CNJ para desenvolver sistema nacional de precatórios",
+      "descricao": "O CNB/CF firmou cooperação técnica com o CNJ para contribuir com o desenvolvimento do SisPreq, plataforma nacional voltada a precatórios e requisições de pequeno valor. A parceria prevê apoio no levantamento de requisitos e validação de funcionalidades, com foco em padronização e transparência nas cessões de créditos.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STJ admite notificação eletrônica para comprovar mora em contrato com alienação fiduciária",
+      "descricao": "A Segunda Seção do STJ firmou entendimento de que uma notificação eletrônica pode comprovar a mora quando enviada ao endereço virtual informado pelo devedor. A decisão trata de contratos garantidos por alienação fiduciária e considera a comprovação do envio aos dados fornecidos pelo próprio contratante.",
+      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "url": "https://www.tabelionatodeijui.com.br/public/index.php/noticias/2026/notificacao-por-meio-eletronico-comprova-mora-do-devedor-fiduciante-decide-stj",
+      "fonte": "Tabelionato de Notas de Ijuí"
+    },
+    {
+      "titulo": "Jornada Notarial 2026 orienta população sobre segurança em transações imobiliárias",
+      "descricao": "A edição de 7 de novembro reuniu tabelionatos e seccionais do CNB em ações de orientação sobre compra, venda e regularização de imóveis. A iniciativa também apresentou a Conta Notarial e serviços digitais do e-Notariado como instrumentos para esclarecer etapas e reduzir riscos nas negociações.",
+      "data_publicacao": "2026-11-07T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "DataZAP aponta alta nas taxas privadas de financiamento imobiliário",
+      "descricao": "O relatório semanal do DataZAP registrou que grandes bancos privados elevaram as taxas mínimas de crédito imobiliário no início de novembro. O material relaciona o movimento às condições de juros e captação e reúne indicadores recentes do mercado habitacional.",
+      "data_publicacao": "2026-11-04T00:00:00-03:00",
+      "url": "https://imoveis.grupoolx.com.br/datazap/estudos-e-pesquisas/datazap-report-137",
+      "fonte": "DataZAP"
+    },
+    {
+      "titulo": "TJ-SP aplica imunidade de ITBI na integralização de imóvel em empresa imobiliária",
+      "descricao": "A 15ª Câmara de Direito Público do TJ-SP reconheceu a imunidade de ITBI na transferência de imóvel para integralização de capital, mesmo quando a empresa atua no setor imobiliário. A notícia descreve a aplicação do Tema 1.348 do STF e aponta que a decisão não afasta a possibilidade de apuração de fraude ou simulação.",
+      "data_publicacao": "2026-10-30T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-30/tj-sp-inaugura-aplicacao-de-imunidade-de-itbi-para-imobiliarias/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "TJ-SP decide que herdeiros só respondem por dívida tributária após a partilha",
+      "descricao": "O tribunal paulista excluiu herdeiros de uma execução fiscal porque, antes da partilha, a cobrança deve se dirigir ao espólio. Após a divisão dos bens, a responsabilidade dos sucessores fica limitada ao valor recebido por cada um.",
+      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-11/herdeiro-nao-responde-por-execucao-fiscal-antes-da-partilha-de-bens/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "STJ decide que VGBL em fase de acumulação não integra a partilha",
+      "descricao": "A Corte Especial do STJ decidiu que, no caso analisado, o saldo de VGBL ainda em fase de acumulação é destinado ao beneficiário indicado e não compõe o inventário. O colegiado reconheceu a natureza securitária do plano, sem afastar o exame de situações em que haja possível abuso contra a legítima.",
+      "data_publicacao": "2026-10-24T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-24/vgbl-em-acumulacao-nao-integra-partilha-aos-herdeiros-decide-stj/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "STJ fixa critérios para calcular indenização por desapropriação de imóveis",
+      "descricao": "A Primeira Seção do STJ definiu parâmetros para escolher a data de referência da avaliação em desapropriações. O entendimento busca distinguir a valorização geral da região daquela causada pela própria obra pública que motivou a desapropriação.",
+      "data_publicacao": "2026-10-26T00:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26102026-Primeira-Secao-fixa-criterios-para-valor-de-indenizacao-em-desapropriacoes--colegiado-modula-efeitos.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ mantém registro de imóvel em disputa sobre matrículas sobrepostas",
+      "descricao": "A Terceira Turma do STJ manteve o registro imobiliário questionado em disputa sobre terrenos em Palmas. A relatora ressaltou que a presunção de validade do registro só pode ser afastada com prova robusta, pois sua anulação pode afetar toda a cadeia de proprietários.",
+      "data_publicacao": "2026-10-20T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/466890/stj-mantem-registro-de-imovel-em-disputa-ligada-a-criacao-do-tocantins",
+      "fonte": "Migalhas"
+    }
+  ]
+}
