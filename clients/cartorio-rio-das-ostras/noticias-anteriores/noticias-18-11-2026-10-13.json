@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-18T10:13:02-03:00",
+  "noticias": [
+    {
+      "titulo": "Banco de Empregos de Rio das Ostras oferece 479 vagas",
+      "descricao": "A Prefeitura informou que as oportunidades abrangem funções operacionais, comércio e áreas especializadas, com inscrições gratuitas presenciais no Centro de Cidadania. A relação de vagas e os requisitos de cada função estão disponíveis no portal municipal.",
+      "data_publicacao": "2026-11-16T09:02:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-de-rio-das-ostras-oferece-479-vagas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras inicia atualização cadastral dos imóveis em Cidade Beira-Mar",
+      "descricao": "Equipes técnicas realizarão visitas até 5 de dezembro para atualizar informações da base territorial municipal. O trabalho inclui coleta cadastral e geoprocessamento, com identificação dos profissionais por crachá e QR Code informativo.",
+      "data_publicacao": "2026-11-10T11:09:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-comeca-atualizacao-cadastral-dos-imoveis/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Prefeitura mantém frentes de manutenção viária em diferentes bairros",
+      "descricao": "Equipes municipais atuam em reparos de asfalto, nivelamento de vias não pavimentadas e contenção de erosão em diversas localidades. Entre os trechos citados estão ruas de Cidade Beira-Mar, Mar do Norte, Cantagalo e a Rodovia Amaral Peixoto.",
+      "data_publicacao": "2026-11-13T15:32:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-tem-varias-frentes-de-trabalho-distribuidas-pela-cidade/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Estado do Rio chega a 5 milhões de Carteiras de Identidade Nacional emitidas",
+      "descricao": "O Detran-RJ informou que o estado alcançou a marca de cinco milhões de CINs emitidas e ocupa a terceira posição nacional nesse indicador. O documento usa o CPF como identificador único, enquanto o RG antigo permanece válido até fevereiro de 2032.",
+      "data_publicacao": "2026-11-12T00:00:00-03:00",
+      "url": "https://detran.rj.gov.br/noticias/estado-do-rio-chega-a-marca-5-milhoes-de-carteiras-de-identidade-nacional-cin-emitidas.html",
+      "fonte": "Detran-RJ"
+    },
+    {
+      "titulo": "DER-RJ amplia serviços de conservação para mais nove rodovias estaduais",
+      "descricao": "O departamento abriu novas frentes de trabalho em nove estradas e informou que há intervenções em 42 rodovias do estado. Os serviços incluem reparos no pavimento, limpeza, sinalização e manutenção de pontes e encostas.",
+      "data_publicacao": "2026-11-16T08:27:00-03:00",
+      "url": "https://www.der.rj.gov.br/detalhe_noticia.asp?ident=1049",
+      "fonte": "Departamento de Estradas de Rodagem do Rio de Janeiro"
+    },
+    {
+      "titulo": "CNB/CF lança prêmio para propostas de inovação notarial",
+      "descricao": "O Colégio Notarial do Brasil abriu inscrições para receber ideias que aprimorem centrais e plataformas digitais utilizadas pelos tabelionatos. Propostas selecionadas poderão ser apresentadas no Congresso Notarial Brasileiro, previsto para dezembro.",
+      "data_publicacao": "2026-11-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-premio-de-inovacao-notarial-2026-para-incentivar-melhorias-nas-plataformas-digitais-do-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF e CNJ firmam acordo para desenvolver sistema nacional de precatórios",
+      "descricao": "A cooperação técnica prevê participação do notariado no desenvolvimento do SisPreq, sistema de gestão de precatórios e requisições de pequeno valor. A iniciativa busca padronizar procedimentos e ampliar transparência e segurança nas cessões de créditos judiciais.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Jornada Notarial 2026 aproxima cartórios da população com orientação sobre imóveis",
+      "descricao": "A edição realizada em 7 de novembro levou orientação gratuita sobre segurança jurídica em transações imobiliárias a diferentes cidades. A programação apresentou cuidados com documentação, escritura pública, regularização e prevenção de fraudes.",
+      "data_publicacao": "2026-11-07T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STJ julga se omissão contratual exclui bens intangíveis da apuração de haveres",
+      "descricao": "A Segunda Seção do STJ analisa se ativos intangíveis devem ser considerados na apuração de haveres quando o contrato social é omisso sobre o critério. O julgamento discute a interpretação dos instrumentos societários na saída de sócio.",
+      "data_publicacao": "2026-11-17T18:56:22-03:00",
+      "url": "https://conjur.com.br/2026-nov-17/stj-debate-se-omissao-no-contrato-retira-bens-intangiveis-de-apuracao-de-haveres/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "ConJur aborda a organização de documentos e provas digitais para processos",
+      "descricao": "O artigo reúne práticas para organizar arquivos e registros digitais usados como prova judicial. O material trata de preservação, identificação e apresentação de documentos eletrônicos no processo.",
+      "data_publicacao": "2026-11-16T12:00:02-03:00",
+      "url": "https://conjur.com.br/2026-nov-16/documentos-e-provas-digitais-como-preparar-arquivos-para-processos-judiciais/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "STJ decide que produtor rural deve usar recuperação judicial antes da falência",
+      "descricao": "A Terceira Turma do STJ definiu que o produtor rural inscrito como empresário não pode pedir falência diretamente como mecanismo de encerramento da atividade. Segundo a decisão noticiada, deve ser observado antes o regime de recuperação judicial previsto para a atividade empresarial.",
+      "data_publicacao": "2026-11-17T06:00:26-03:00",
+      "url": "https://conjur.com.br/2026-nov-17/produtor-rural-so-vai-a-falencia-pela-porta-da-recuperacao-judicial/",
+      "fonte": "Consultor Jurídico"
+    }
+  ]
+}
