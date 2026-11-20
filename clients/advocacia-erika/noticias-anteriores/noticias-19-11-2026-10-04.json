@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-19T10:04:21-03:00",
+  "noticias": [
+    {
+      "titulo": "Mercado imobiliário em 2027: demanda, crédito e prevenção de distratos",
+      "descricao": "Análise publicada no Migalhas aponta que a demanda por imóveis convive com obstáculos na aprovação de crédito e no repasse bancário. O texto destaca a gestão contratual e o acompanhamento da capacidade de pagamento como fatores relevantes para reduzir o risco de distratos.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/amp/depeso/468892/mercado-imobiliario-em-2027-como-transformar-demanda-em-negocios",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Pequena propriedade rural e alienação fiduciária: discussão segue aberta",
+      "descricao": "Artigo publicado no Migalhas examina a extensão da proteção da pequena propriedade rural familiar quando o imóvel é dado em alienação fiduciária. A autora ressalta que a controvérsia ainda depende de julgamentos pendentes no STF e no STJ, recomendando cautela ao tratar o tema como definido.",
+      "data_publicacao": "2026-11-18T15:58:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/468219/a-garantia-que-nao-garante-terra-familiar-e-alienacao-fiduciaria",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Penhora de direitos aquisitivos deve observar a fração registrada na matrícula",
+      "descricao": "Artigo do Migalhas analisa a penhora de direitos aquisitivos em imóvel financiado por vários compradores. O autor sustenta que a fração indicada na matrícula deve ser considerada antes de presumir a participação de cada adquirente na execução.",
+      "data_publicacao": "2026-11-17T13:54:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/468212/penhora-de-direitos-aquisitivos-e-a-presuncao-de-metade-na-matricula",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Reforma tributária e venda de imóveis: o marco de 31 de dezembro de 2026",
+      "descricao": "Artigo discute como a titularidade de imóveis em 31 de dezembro de 2026 pode influenciar o ponto de partida do redutor de ajuste de IBS e CBS para holdings imobiliárias. O texto diferencia esse cenário das vendas eventuais realizadas por pessoas físicas e descreve os limites legais aplicáveis.",
+      "data_publicacao": "2026-11-17T17:21:00-03:00",
+      "url": "https://www.migalhas.com.br/depeso/468760/reforma-tributaria-e-venda-de-imoveis-por-que-31-de-dezembro-de-2026",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "TJ/GO mantém condições de pagamento de contratos imobiliários durante discussão judicial",
+      "descricao": "Decisões do Tribunal de Justiça de Goiás impediram que compradores substituíssem parcelas previstas em contratos imobiliários por depósitos judiciais enquanto discutiam a Tabela Price. Os julgados não encerram a análise de mérito sobre eventual cobrança irregular, que poderá prosseguir após a produção de provas.",
+      "data_publicacao": "2026-11-13T17:55:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/468599/decisoes-do-tj-go-mantem-pagamentos-previstos-em-contrato-imobiliario",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "CNJ define cronograma para padrões mínimos de segurança digital em cartórios",
+      "descricao": "O Conselho Nacional de Justiça divulgou prazos escalonados para que serventias extrajudiciais implementem padrões de tecnologia e segurança da informação. A classificação econômica do cartório determina as etapas e datas de adequação, mas o planejamento deve começar antes dos prazos finais.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://www.cnj.jus.br/cnj-estabelece-prazos-para-cartorios-adotarem-padroes-minimos-de-seguranca-digital/",
+      "fonte": "Conselho Nacional de Justiça"
+    },
+    {
+      "titulo": "STJ reafirma critério de anterioridade entre matrículas imobiliárias",
+      "descricao": "No Informativo 908, o STJ registrou que, diante de cadeias dominiais hígidas e sem vício de origem, a matrícula mais antiga pode prevalecer na definição do domínio. A decisão relaciona o critério à continuidade registral e à fé pública dos registros.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&aplicacao=informativo&b=INFJ&i=50&l=25&livre=%22REsp%22&p=true&t=",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ admite ação de sonegados antes do encerramento do inventário em situação específica",
+      "descricao": "A Terceira Turma do STJ reconheceu interesse processual para ação de sonegados antes do fim do inventário quando há resistência inequívoca dos herdeiros à colação dos bens indicados. O entendimento foi divulgado no Informativo 908 e depende das circunstâncias demonstradas no processo.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&aplicacao=informativo&b=INFJ&i=50&l=25&livre=%22REsp%22&p=true&t=",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ considera ilegal taxa de lazer cobrada apenas de possuidores não proprietários",
+      "descricao": "O STJ avaliou a cobrança de taxa geral de lazer exclusiva de moradores que não são proprietários e apontou a possibilidade de controle judicial da deliberação condominial. A falta de justificativa objetiva para o tratamento diferente foi associada à violação do princípio da isonomia.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&aplicacao=informativo&b=INFJ&i=50&l=25&livre=%22REsp%22&p=true&t=",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Jornada Notarial 2026 promove orientação sobre segurança em transações imobiliárias",
+      "descricao": "O Colégio Notarial do Brasil informou que a edição de 7 de novembro levou orientação gratuita sobre escritura pública, documentação e regularização imobiliária a diferentes cidades. A programação também apresentou a Conta Notarial como ferramenta para organizar a liberação de valores conforme condições acordadas pelas partes.",
+      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Federação pede ao CNJ suspensão de novas regras sobre alienações judiciais",
+      "descricao": "A Federação Nacional dos Leiloeiros acionou o CNJ para questionar dispositivos do Provimento 255/26 sobre alienações judiciais. Entre os pontos contestados estão regras de arrematação e remuneração; a entidade pediu suspensão das normas antes da entrada em vigor prevista para fevereiro de 2027.",
+      "data_publicacao": "2026-11-13T18:17:00-03:00",
+      "url": "https://www.migalhas.com.br/quentes/468604",
+      "fonte": "Migalhas"
+    }
+  ]
+}

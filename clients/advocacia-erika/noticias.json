@@ -1,82 +1,89 @@
 {
-  "data-busca": "2026-11-19T10:04:21-03:00",
+  "data-busca": "2026-11-20T10:04:07-03:00",
   "noticias": [
     {
-      "titulo": "Mercado imobiliário em 2027: demanda, crédito e prevenção de distratos",
-      "descricao": "Análise publicada no Migalhas aponta que a demanda por imóveis convive com obstáculos na aprovação de crédito e no repasse bancário. O texto destaca a gestão contratual e o acompanhamento da capacidade de pagamento como fatores relevantes para reduzir o risco de distratos.",
-      "data_publicacao": "2026-11-19T00:00:00-03:00",
-      "url": "https://www.migalhas.com.br/amp/depeso/468892/mercado-imobiliario-em-2027-como-transformar-demanda-em-negocios",
-      "fonte": "Migalhas"
+      "titulo": "STJ mantém separação obrigatória em união estável encerrada antes da decisão do STF",
+      "descricao": "A Terceira Turma do STJ decidiu que a mudança do STF sobre o regime de bens para maiores de 70 anos não retroage a uma união estável encerrada antes do julgamento. O colegiado também considerou relevante a falta de inventário e partilha de casamento anterior para definir o regime patrimonial.",
+      "data_publicacao": "2026-11-19T07:05:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19112026-Terceira-Turma-mantem-separacao-obrigatoria-em-uniao-estavel-de-maior-de-70-anos-extinta-antes-de-.aspx",
+      "fonte": "Superior Tribunal de Justiça"
     },
     {
-      "titulo": "Pequena propriedade rural e alienação fiduciária: discussão segue aberta",
-      "descricao": "Artigo publicado no Migalhas examina a extensão da proteção da pequena propriedade rural familiar quando o imóvel é dado em alienação fiduciária. A autora ressalta que a controvérsia ainda depende de julgamentos pendentes no STF e no STJ, recomendando cautela ao tratar o tema como definido.",
-      "data_publicacao": "2026-11-18T15:58:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/468219/a-garantia-que-nao-garante-terra-familiar-e-alienacao-fiduciaria",
-      "fonte": "Migalhas"
+      "titulo": "Uso de imóvel por ex-cônjuge com os filhos não gera aluguel, decide STJ",
+      "descricao": "A Terceira Turma do STJ afastou a cobrança de aluguel quando a ex-cônjuge permanece no imóvel particular do outro com os filhos comuns. A decisão considerou que a moradia também atende à obrigação parental de sustento.",
+      "data_publicacao": "2026-11-04T07:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/04112026-ex-conjuge-que-mora-com-os-filhos-no-imovel-do-outro-nao-precisa-pagar-aluguel.aspx",
+      "fonte": "Superior Tribunal de Justiça"
     },
     {
-      "titulo": "Penhora de direitos aquisitivos deve observar a fração registrada na matrícula",
-      "descricao": "Artigo do Migalhas analisa a penhora de direitos aquisitivos em imóvel financiado por vários compradores. O autor sustenta que a fração indicada na matrícula deve ser considerada antes de presumir a participação de cada adquirente na execução.",
-      "data_publicacao": "2026-11-17T13:54:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/468212/penhora-de-direitos-aquisitivos-e-a-presuncao-de-metade-na-matricula",
-      "fonte": "Migalhas"
+      "titulo": "STJ afasta usucapião de imóvel submerso por reservatório de hidrelétrica",
+      "descricao": "A Terceira Turma entendeu que a inundação de uma área para formar reservatório de usina hidrelétrica transfere o imóvel ao domínio público, ainda que a matrícula permaneça em nome particular. Por isso, a posse prolongada não permite usucapião do bem afetado ao serviço público.",
+      "data_publicacao": "2026-11-17T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&aplicacao=informativo&b=INFJ&i=25&l=25&livre=T&p=true&t=",
+      "fonte": "Superior Tribunal de Justiça"
     },
     {
-      "titulo": "Reforma tributária e venda de imóveis: o marco de 31 de dezembro de 2026",
-      "descricao": "Artigo discute como a titularidade de imóveis em 31 de dezembro de 2026 pode influenciar o ponto de partida do redutor de ajuste de IBS e CBS para holdings imobiliárias. O texto diferencia esse cenário das vendas eventuais realizadas por pessoas físicas e descreve os limites legais aplicáveis.",
-      "data_publicacao": "2026-11-17T17:21:00-03:00",
-      "url": "https://www.migalhas.com.br/depeso/468760/reforma-tributaria-e-venda-de-imoveis-por-que-31-de-dezembro-de-2026",
-      "fonte": "Migalhas"
+      "titulo": "Imóvel transferido a netos sem prova de pagamento deve ser levado à colação",
+      "descricao": "No REsp 2.199.958, a Quarta Turma do STJ reconheceu que a transferência de imóvel por escritura de compra e venda, sem comprovação do preço, pode configurar doação indireta. Os netos que sucedem por representação também devem levar os bens recebidos à colação, salvo dispensa expressa do doador.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFINFJ?edicao=0907",
+      "fonte": "Superior Tribunal de Justiça"
     },
     {
-      "titulo": "TJ/GO mantém condições de pagamento de contratos imobiliários durante discussão judicial",
-      "descricao": "Decisões do Tribunal de Justiça de Goiás impediram que compradores substituíssem parcelas previstas em contratos imobiliários por depósitos judiciais enquanto discutiam a Tabela Price. Os julgados não encerram a análise de mérito sobre eventual cobrança irregular, que poderá prosseguir após a produção de provas.",
-      "data_publicacao": "2026-11-13T17:55:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/468599/decisoes-do-tj-go-mantem-pagamentos-previstos-em-contrato-imobiliario",
-      "fonte": "Migalhas"
+      "titulo": "Partilha judicial pode receber aditamento por escritura pública em hipóteses delimitadas, analisa ConJur",
+      "descricao": "Artigo de Guilherme Augusto Monte examina o uso de escritura pública para corrigir erros materiais ou formalizar negócio posterior relacionado à partilha judicial. O texto ressalta limites ligados à coisa julgada, ao conteúdo do título e à proteção de terceiros.",
+      "data_publicacao": "2026-11-08T08:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-08/partilha-judicial-ate-onde-pode-ir-o-aditamento-por-escritura-publica/",
+      "fonte": "ConJur"
     },
     {
-      "titulo": "CNJ define cronograma para padrões mínimos de segurança digital em cartórios",
-      "descricao": "O Conselho Nacional de Justiça divulgou prazos escalonados para que serventias extrajudiciais implementem padrões de tecnologia e segurança da informação. A classificação econômica do cartório determina as etapas e datas de adequação, mas o planejamento deve começar antes dos prazos finais.",
+      "titulo": "VGBL em fase de acumulação fica fora da partilha, decide STJ",
+      "descricao": "A Corte Especial do STJ decidiu que os valores de VGBL ainda em fase de acumulação não integram a herança e devem ser pagos ao beneficiário indicado no contrato. O julgamento não tratou do PGBL e ressalvou que situações de possível abuso patrimonial podem exigir análise própria.",
+      "data_publicacao": "2026-10-24T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-24/vgbl-em-acumulacao-nao-integra-partilha-aos-herdeiros-decide-stj/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Falta de registro e cobrança de juros levam à rescisão de compra de lote",
+      "descricao": "Sentença em Goiás rescindiu contrato de compra de lote e determinou a devolução integral dos pagamentos após considerar abusivas cobranças feitas pela incorporadora. A decisão também apontou que o contrato não estava registrado e que a compradora permanecia adimplente.",
+      "data_publicacao": "2026-10-29T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-29/capitalizacao-mensal-de-incorporadora-sem-sfn-gera-restituicao-integral/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ amplia prazos para adoção de padrões nacionais de segurança digital nos cartórios",
+      "descricao": "A Corregedoria Nacional de Justiça divulgou prazos escalonados para que serventias extrajudiciais implementem requisitos de tecnologia e segurança da informação. O cronograma considera a classe do cartório e estabelece marcos que avançam entre 2027 e 2029.",
       "data_publicacao": "2026-11-18T00:00:00-03:00",
       "url": "https://www.cnj.jus.br/cnj-estabelece-prazos-para-cartorios-adotarem-padroes-minimos-de-seguranca-digital/",
       "fonte": "Conselho Nacional de Justiça"
     },
     {
-      "titulo": "STJ reafirma critério de anterioridade entre matrículas imobiliárias",
-      "descricao": "No Informativo 908, o STJ registrou que, diante de cadeias dominiais hígidas e sem vício de origem, a matrícula mais antiga pode prevalecer na definição do domínio. A decisão relaciona o critério à continuidade registral e à fé pública dos registros.",
-      "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&aplicacao=informativo&b=INFJ&i=50&l=25&livre=%22REsp%22&p=true&t=",
-      "fonte": "Superior Tribunal de Justiça"
+      "titulo": "CNB/CF lança prêmio para incentivar inovação nas plataformas digitais do notariado",
+      "descricao": "O Colégio Notarial do Brasil abriu inscrições para um prêmio voltado a propostas de melhoria das centrais e plataformas digitais utilizadas pelos tabelionatos. As ideias elegíveis poderão ser apresentadas durante o Congresso Notarial Brasileiro, em dezembro.",
+      "data_publicacao": "2026-11-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-premio-de-inovacao-notarial-2026-para-incentivar-melhorias-nas-plataformas-digitais-do-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "STJ admite ação de sonegados antes do encerramento do inventário em situação específica",
-      "descricao": "A Terceira Turma do STJ reconheceu interesse processual para ação de sonegados antes do fim do inventário quando há resistência inequívoca dos herdeiros à colação dos bens indicados. O entendimento foi divulgado no Informativo 908 e depende das circunstâncias demonstradas no processo.",
-      "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&aplicacao=informativo&b=INFJ&i=50&l=25&livre=%22REsp%22&p=true&t=",
-      "fonte": "Superior Tribunal de Justiça"
-    },
-    {
-      "titulo": "STJ considera ilegal taxa de lazer cobrada apenas de possuidores não proprietários",
-      "descricao": "O STJ avaliou a cobrança de taxa geral de lazer exclusiva de moradores que não são proprietários e apontou a possibilidade de controle judicial da deliberação condominial. A falta de justificativa objetiva para o tratamento diferente foi associada à violação do princípio da isonomia.",
-      "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&aplicacao=informativo&b=INFJ&i=50&l=25&livre=%22REsp%22&p=true&t=",
-      "fonte": "Superior Tribunal de Justiça"
-    },
-    {
-      "titulo": "Jornada Notarial 2026 promove orientação sobre segurança em transações imobiliárias",
-      "descricao": "O Colégio Notarial do Brasil informou que a edição de 7 de novembro levou orientação gratuita sobre escritura pública, documentação e regularização imobiliária a diferentes cidades. A programação também apresentou a Conta Notarial como ferramenta para organizar a liberação de valores conforme condições acordadas pelas partes.",
-      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "titulo": "Jornada Notarial 2026 promoveu orientação sobre segurança em transações imobiliárias",
+      "descricao": "A mobilização nacional do CNB/CF e das Seccionais levou atendimentos e informações gratuitas à população em 7 de novembro. O tema da edição foi a segurança jurídica na compra e venda de imóveis, com orientações sobre escrituras, documentação e regularização.",
+      "data_publicacao": "2026-11-17T00:00:00-03:00",
       "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Federação pede ao CNJ suspensão de novas regras sobre alienações judiciais",
-      "descricao": "A Federação Nacional dos Leiloeiros acionou o CNJ para questionar dispositivos do Provimento 255/26 sobre alienações judiciais. Entre os pontos contestados estão regras de arrematação e remuneração; a entidade pediu suspensão das normas antes da entrada em vigor prevista para fevereiro de 2027.",
-      "data_publicacao": "2026-11-13T18:17:00-03:00",
-      "url": "https://www.migalhas.com.br/quentes/468604",
-      "fonte": "Migalhas"
+      "titulo": "CNB/CF e CNJ firmam acordo para desenvolver o Sistema Nacional de Precatórios",
+      "descricao": "O acordo prevê a participação técnica e institucional do notariado no desenvolvimento do SisPreq, plataforma para padronizar procedimentos e reunir informações sobre precatórios e RPVs. A iniciativa busca ampliar a transparência e a segurança nas cessões desses créditos.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ regulamenta cessão de créditos de precatórios pela Resolução 705/2026",
+      "descricao": "O CNJ publicou a Resolução 705/2026, que regulamenta a cessão de créditos de precatórios. A norma foi aprovada em 16 de novembro e divulgada pelo Colégio Notarial do Brasil em 19 de novembro.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-publica-resolucao-no-705-2026-que-regulamenta-a-cessao-de-creditos-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
     }
   ]
 }
