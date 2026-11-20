@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-19T10:04:21-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras divulga orientações do Procon para a Black Friday",
+      "descricao": "O Procon municipal publicou recomendações para comparar preços, guardar anúncios e verificar condições de entrega nas compras da Black Friday. O órgão também informou canais para registrar reclamações e orientou sobre direitos em compras presenciais e pela internet.",
+      "data_publicacao": "2026-11-18T13:30:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/procon-de-rio-das-ostras-orienta-para-compras-da-black-friday/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Festival de Frutos do Mar terá programação cultural em Rio das Ostras",
+      "descricao": "A 27ª edição do Festival de Frutos do Mar acontece de 26 a 29 de novembro na Praia do Cemitério, reunindo estabelecimentos locais e atrações musicais gratuitas. A programação foi apresentada pela organização e conta com apoio institucional da Prefeitura e de entidades locais.",
+      "data_publicacao": "2026-11-17T11:48:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/festival-de-frutos-do-mar-movimenta-rio-das-ostras-de-26-a-29-de-novembro/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras Instrumental celebra a música afro-brasileira",
+      "descricao": "A edição do projeto Rio das Ostras Instrumental marcada para 21 de novembro terá apresentações de Cláudia Falcão e da banda Afrojazz na Concha Acústica. O evento gratuito integra a programação cultural municipal dedicada à Consciência Negra.",
+      "data_publicacao": "2026-11-16T09:57:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-instrumental-celebra-dia-da-consciencia-negra/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "DER-RJ amplia serviços de conservação para 42 rodovias estaduais",
+      "descricao": "O Departamento de Estradas de Rodagem informou que abriu novas frentes de conservação em nove rodovias, elevando para 42 o total de estradas com serviços em andamento no estado. As ações abrangem diferentes regiões fluminenses.",
+      "data_publicacao": "2026-11-16T08:27:00-03:00",
+      "url": "https://www.der.rj.gov.br/lista_publicada.asp",
+      "fonte": "Departamento de Estradas de Rodagem do Rio de Janeiro"
+    },
+    {
+      "titulo": "DER-RJ inicia capacitação para equipes de planejamento e fiscalização de obras",
+      "descricao": "O DER-RJ começou um ciclo de cursos para servidores que atuam no planejamento, na gestão e na fiscalização de obras públicas e serviços de engenharia. A iniciativa busca aprimorar práticas técnicas e administrativas do departamento estadual.",
+      "data_publicacao": "2026-11-12T16:13:00-03:00",
+      "url": "https://www.der.rj.gov.br/lista_publicada.asp",
+      "fonte": "Departamento de Estradas de Rodagem do Rio de Janeiro"
+    },
+    {
+      "titulo": "ConJur: vícios estruturais levam à rescisão de locação por culpa do locador",
+      "descricao": "Sentença da Justiça paulista rescindiu contrato de locação ao reconhecer defeitos estruturais que não foram corrigidos pelo locador. A decisão também considerou legítima a retenção de aluguéis no contexto analisado e determinou devolução da caução, conforme a notícia do ConJur.",
+      "data_publicacao": "2026-11-17T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-17/vicio-estrutural-em-imovel-rescinde-contrato-por-culpa-do-locador/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ConJur: decisão do Carf mantém proprietário como responsável pelo ITR de terreno ocupado",
+      "descricao": "Coluna publicada pelo ConJur relata que o Carf manteve a cobrança do ITR do proprietário de área ocupada, considerando sua atuação na declaração e no recolhimento do tributo. O texto também menciona proposta legislativa em tramitação sobre imóveis cuja ocupação inviabilize o uso econômico.",
+      "data_publicacao": "2026-11-18T08:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-18/sexto-aniversario-na-conjur-itr-em-terrenos-ocupados/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ConJur: contrato de lote sem registro e compradora adimplente fundamentam restituição",
+      "descricao": "Sentença em Goiás rescindiu contrato de compra de lote e determinou devolução integral dos valores após examinar cobranças e cláusulas questionadas pela compradora. A análise considerou, entre outros elementos, a ausência de registro imobiliário do contrato e a adimplência da consumidora ao ajuizar a ação.",
+      "data_publicacao": "2026-10-29T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-29/capitalizacao-mensal-de-incorporadora-sem-sfn-gera-restituicao-integral/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Jornada Notarial 2026 leva orientações sobre segurança em transações imobiliárias",
+      "descricao": "O Colégio Notarial do Brasil informou que a Jornada Notarial, realizada em 7 de novembro, promoveu orientação gratuita ao público sobre escritura, documentação e regularização de imóveis. A programação também apresentou a Conta Notarial como recurso para organizar a liberação de valores em negociações.",
+      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Provimento 259/2026 trata de escrituração e fiscalização tributária dos cartórios",
+      "descricao": "O CNB/PB destacou o Provimento 259/2026 do CNJ, que dispõe sobre escrituração e fiscalização tributária dos serviços notariais e de registro. O ato acrescenta regras de acompanhamento fiscal aplicáveis às serventias extrajudiciais.",
+      "data_publicacao": "2026-11-12T00:00:00-03:00",
+      "url": "https://cnbpb.org.br/provimento-no-259-2026-do-cnj-dispoe-sobre-escrituracao-e-fiscalizacao-tributaria-dos-servicos-notariais-e-de-registro/",
+      "fonte": "Colégio Notarial do Brasil – Seção Paraíba"
+    },
+    {
+      "titulo": "CNB/SP divulga regra que exige escritura pública para cessão de precatórios",
+      "descricao": "O Colégio Notarial do Brasil – Seção São Paulo divulgou a Resolução CNJ 705/2026 sobre cessão de créditos de precatórios. A norma prevê que a cessão deve ser formalizada por escritura pública para produzir efeitos perante o tribunal, enquanto o instrumento particular permanece válido entre as partes.",
+      "data_publicacao": "2026-11-17T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/17/cnb-sp-divulga-a-resolucao-cnj-no-705-2026-que-regulamenta-a-cessao-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    }
+  ]
+}
