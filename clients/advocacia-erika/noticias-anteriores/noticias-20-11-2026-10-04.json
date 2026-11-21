@@ -1,0 +1,89 @@
+{
+  "data-busca": "2026-11-20T10:04:07-03:00",
+  "noticias": [
+    {
+      "titulo": "STJ mantém separação obrigatória em união estável encerrada antes da decisão do STF",
+      "descricao": "A Terceira Turma do STJ decidiu que a mudança do STF sobre o regime de bens para maiores de 70 anos não retroage a uma união estável encerrada antes do julgamento. O colegiado também considerou relevante a falta de inventário e partilha de casamento anterior para definir o regime patrimonial.",
+      "data_publicacao": "2026-11-19T07:05:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19112026-Terceira-Turma-mantem-separacao-obrigatoria-em-uniao-estavel-de-maior-de-70-anos-extinta-antes-de-.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Uso de imóvel por ex-cônjuge com os filhos não gera aluguel, decide STJ",
+      "descricao": "A Terceira Turma do STJ afastou a cobrança de aluguel quando a ex-cônjuge permanece no imóvel particular do outro com os filhos comuns. A decisão considerou que a moradia também atende à obrigação parental de sustento.",
+      "data_publicacao": "2026-11-04T07:00:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/04112026-ex-conjuge-que-mora-com-os-filhos-no-imovel-do-outro-nao-precisa-pagar-aluguel.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ afasta usucapião de imóvel submerso por reservatório de hidrelétrica",
+      "descricao": "A Terceira Turma entendeu que a inundação de uma área para formar reservatório de usina hidrelétrica transfere o imóvel ao domínio público, ainda que a matrícula permaneça em nome particular. Por isso, a posse prolongada não permite usucapião do bem afetado ao serviço público.",
+      "data_publicacao": "2026-11-17T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&aplicacao=informativo&b=INFJ&i=25&l=25&livre=T&p=true&t=",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Imóvel transferido a netos sem prova de pagamento deve ser levado à colação",
+      "descricao": "No REsp 2.199.958, a Quarta Turma do STJ reconheceu que a transferência de imóvel por escritura de compra e venda, sem comprovação do preço, pode configurar doação indireta. Os netos que sucedem por representação também devem levar os bens recebidos à colação, salvo dispensa expressa do doador.",
+      "data_publicacao": "2026-10-27T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFINFJ?edicao=0907",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "Partilha judicial pode receber aditamento por escritura pública em hipóteses delimitadas, analisa ConJur",
+      "descricao": "Artigo de Guilherme Augusto Monte examina o uso de escritura pública para corrigir erros materiais ou formalizar negócio posterior relacionado à partilha judicial. O texto ressalta limites ligados à coisa julgada, ao conteúdo do título e à proteção de terceiros.",
+      "data_publicacao": "2026-11-08T08:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-08/partilha-judicial-ate-onde-pode-ir-o-aditamento-por-escritura-publica/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "VGBL em fase de acumulação fica fora da partilha, decide STJ",
+      "descricao": "A Corte Especial do STJ decidiu que os valores de VGBL ainda em fase de acumulação não integram a herança e devem ser pagos ao beneficiário indicado no contrato. O julgamento não tratou do PGBL e ressalvou que situações de possível abuso patrimonial podem exigir análise própria.",
+      "data_publicacao": "2026-10-24T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-24/vgbl-em-acumulacao-nao-integra-partilha-aos-herdeiros-decide-stj/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Falta de registro e cobrança de juros levam à rescisão de compra de lote",
+      "descricao": "Sentença em Goiás rescindiu contrato de compra de lote e determinou a devolução integral dos pagamentos após considerar abusivas cobranças feitas pela incorporadora. A decisão também apontou que o contrato não estava registrado e que a compradora permanecia adimplente.",
+      "data_publicacao": "2026-10-29T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-out-29/capitalizacao-mensal-de-incorporadora-sem-sfn-gera-restituicao-integral/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ amplia prazos para adoção de padrões nacionais de segurança digital nos cartórios",
+      "descricao": "A Corregedoria Nacional de Justiça divulgou prazos escalonados para que serventias extrajudiciais implementem requisitos de tecnologia e segurança da informação. O cronograma considera a classe do cartório e estabelece marcos que avançam entre 2027 e 2029.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://www.cnj.jus.br/cnj-estabelece-prazos-para-cartorios-adotarem-padroes-minimos-de-seguranca-digital/",
+      "fonte": "Conselho Nacional de Justiça"
+    },
+    {
+      "titulo": "CNB/CF lança prêmio para incentivar inovação nas plataformas digitais do notariado",
+      "descricao": "O Colégio Notarial do Brasil abriu inscrições para um prêmio voltado a propostas de melhoria das centrais e plataformas digitais utilizadas pelos tabelionatos. As ideias elegíveis poderão ser apresentadas durante o Congresso Notarial Brasileiro, em dezembro.",
+      "data_publicacao": "2026-11-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-premio-de-inovacao-notarial-2026-para-incentivar-melhorias-nas-plataformas-digitais-do-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Jornada Notarial 2026 promoveu orientação sobre segurança em transações imobiliárias",
+      "descricao": "A mobilização nacional do CNB/CF e das Seccionais levou atendimentos e informações gratuitas à população em 7 de novembro. O tema da edição foi a segurança jurídica na compra e venda de imóveis, com orientações sobre escrituras, documentação e regularização.",
+      "data_publicacao": "2026-11-17T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF e CNJ firmam acordo para desenvolver o Sistema Nacional de Precatórios",
+      "descricao": "O acordo prevê a participação técnica e institucional do notariado no desenvolvimento do SisPreq, plataforma para padronizar procedimentos e reunir informações sobre precatórios e RPVs. A iniciativa busca ampliar a transparência e a segurança nas cessões desses créditos.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNJ regulamenta cessão de créditos de precatórios pela Resolução 705/2026",
+      "descricao": "O CNJ publicou a Resolução 705/2026, que regulamenta a cessão de créditos de precatórios. A norma foi aprovada em 16 de novembro e divulgada pelo Colégio Notarial do Brasil em 19 de novembro.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-publica-resolucao-no-705-2026-que-regulamenta-a-cessao-de-creditos-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}
