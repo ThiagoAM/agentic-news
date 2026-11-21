@@ -1,81 +1,81 @@
 {
-  "data-busca": "2026-11-20T10:04:07-03:00",
+  "data-busca": "2026-11-21T09:58:24-03:00",
   "noticias": [
     {
-      "titulo": "Procon de Rio das Ostras orienta consumidores para a Black Friday",
-      "descricao": "O órgão municipal recomenda comparar preços, conferir as condições de entrega e guardar anúncios para cobrar o cumprimento da oferta. A orientação também resume prazos para reclamação e regras de arrependimento em compras feitas fora de lojas físicas.",
+      "titulo": "Banco de Empregos de Rio das Ostras oferece 479 vagas",
+      "descricao": "O Banco de Empregos municipal anunciou 479 oportunidades em diferentes funções, incluindo áreas de refrigeração, educação, comércio e serviços. As inscrições são gratuitas e devem ser feitas presencialmente no Centro de Cidadania, com apresentação dos documentos e currículo indicados pela Prefeitura.",
+      "data_publicacao": "2026-11-16T09:02:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-de-rio-das-ostras-oferece-479-vagas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Procon de Rio das Ostras divulga orientações para compras na Black Friday",
+      "descricao": "O Procon municipal orienta consumidores a comparar preços, verificar a identificação dos vendedores e guardar registros das ofertas. A publicação também resume regras do Código de Defesa do Consumidor para compras, produtos com defeito e aquisições feitas pela internet.",
       "data_publicacao": "2026-11-18T13:30:00-03:00",
       "url": "https://www.riodasostras.rj.gov.br/procon-de-rio-das-ostras-orienta-para-compras-da-black-friday/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Festival de Frutos do Mar terá 16 estabelecimentos na Boca da Barra",
-      "descricao": "A 27ª edição do festival está marcada para 26 a 29 de novembro, na Praia do Cemitério, com pratos inspirados na música brasileira e apresentações gratuitas. A organização informou os preços das entradas e dos pratos principais e destacou a participação de restaurantes locais.",
-      "data_publicacao": "2026-11-17T11:48:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/festival-de-frutos-do-mar-movimenta-rio-das-ostras-de-26-a-29-de-novembro/",
+      "titulo": "Rio das Ostras devolve tucano à natureza após recuperação",
+      "descricao": "A Guarda Ambiental recebeu um tucano encontrado em Cantagalo e encaminhou a ave para quarentena e cuidados especializados. Após avaliação das condições de retorno, o animal foi reintroduzido ao habitat, e a Prefeitura reforçou as orientações para acionar os órgãos ambientais ao encontrar fauna silvestre em risco.",
+      "data_publicacao": "2026-11-18T09:58:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-devolve-tucano-a-natureza-apos-periodo-de-recuperacao/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Rio das Ostras prepara cartilha para captar recursos para turismo e desenvolvimento",
-      "descricao": "A Cartilha Parlamentar 2027 reúne projetos municipais que poderão buscar recursos por emendas, convênios e programas governamentais. A prefeitura informou que apresentará as propostas a representantes legislativos e órgãos federais, com foco em infraestrutura turística e apoio ao empreendedorismo.",
-      "data_publicacao": "2026-11-16T00:00:00-03:00",
-      "url": "https://riodasostras.com.br/noticias/Noticias.php?noticia=14906",
-      "fonte": "Portal Rio das Ostras"
+      "titulo": "Ministério da Saúde destina mais duas carretas de atendimento ao Rio de Janeiro",
+      "descricao": "O Ministério da Saúde anunciou novas unidades móveis de saúde para ampliar o diagnóstico precoce pelo SUS no estado do Rio de Janeiro. As carretas serão destinadas a Itaperuna e Campo Grande, e mais de 40 municípios fluminenses já haviam sido atendidos pela iniciativa.",
+      "data_publicacao": "2026-11-06T11:18:00-03:00",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-para-os-estados/rio-de-janeiro/2026/novembro/governo-do-brasil-destina-mais-duas-carretas-de-saude-para-ampliar-o-diagnostico-precoce-de-doencas-no-sus-no-rio-de-janeiro",
+      "fonte": "Ministério da Saúde"
     },
     {
-      "titulo": "Festas de fim de ano podem movimentar R$ 4 bilhões na economia do Rio",
-      "descricao": "Estimativa elaborada por órgãos municipais projeta cerca de R$ 4 bilhões em impacto econômico e aproximadamente um milhão de turistas durante o período de festas na cidade do Rio. O levantamento considera gastos dos visitantes e efeitos de eventos como o Réveillon e uma apresentação musical em Copacabana.",
-      "data_publicacao": "2026-11-19T18:46:00-03:00",
-      "url": "https://www.itatiaia.com.br/brasil/sudeste/rj/festas-de-fim-de-ano-devem-movimentar-r-4-bilhoes-na-economia-do-rio/",
-      "fonte": "Rádio Itatiaia"
+      "titulo": "Programa Caminhos Criativos apoiou 30 iniciativas culturais fluminenses",
+      "descricao": "A Secretaria de Estado de Cultura e Economia Criativa informou que o programa Caminhos Criativos encerrou sua primeira edição após apoiar 30 projetos de 17 municípios do Rio de Janeiro. A iniciativa ofereceu formação e mentorias, e 11 projetos participaram de uma rodada de apresentações para potenciais parceiros empresariais.",
+      "data_publicacao": "2026-11-09T00:00:00-03:00",
+      "url": "https://cultura.rj.gov.br/caminhos-criativos-encerra-ciclo-com-30-iniciativas-incentivadas-e-alcance-em-diferentes-regioes-do-estado-do-rio/",
+      "fonte": "Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro"
     },
     {
-      "titulo": "Turismo fluminense soma mais de 26 mil empregos formais desde 2023",
-      "descricao": "O Ministério do Turismo informou que o estado do Rio de Janeiro ampliou em 10,5% o número de empregos formais em atividades turísticas entre setembro de 2023 e setembro de 2026. O saldo de 26.660 vínculos foi calculado com dados da RAIS e do Novo Caged.",
-      "data_publicacao": "2026-11-06T21:13:00-03:00",
-      "url": "https://www.gov.br/turismo/pt-br/assuntos/noticias/turismo-do-rio-de-janeiro-soma-mais-de-26-mil-empregos-formais-adicionais-desde-2023",
-      "fonte": "Ministério do Turismo"
-    },
-    {
-      "titulo": "Partilha judicial pode receber aditamento por escritura pública em situações delimitadas",
-      "descricao": "Artigo publicado pelo ConJur examina quando uma escritura pública pode corrigir erros materiais ou formalizar ajustes posteriores relacionados a uma partilha judicial. A análise ressalta que a escritura não pode reformar a sentença e deve considerar a coisa julgada, o registro e os direitos de terceiros.",
-      "data_publicacao": "2026-11-08T08:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-08/partilha-judicial-ate-onde-pode-ir-o-aditamento-por-escritura-publica/",
+      "titulo": "STJ admite captura de tela como prova em ação civil sem ata notarial obrigatória",
+      "descricao": "A Terceira Turma do Superior Tribunal de Justiça entendeu que capturas de tela podem servir como prova em processos civis sem ata notarial, com presunção relativa de veracidade. Se a outra parte impugnar o material, a autenticidade poderá ser examinada por meios eletrônicos ou por perícia.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-18/em-acao-civil-print-de-tela-e-prova-valida-mesmo-sem-ata-notarial-diz-stj/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "VGBL em fase de acumulação não integra a partilha, decide STJ",
-      "descricao": "A Corte Especial do STJ decidiu que valores de VGBL ainda em fase de acumulação devem ser destinados ao beneficiário indicado, sem integração ao inventário. O julgamento tratou especificamente do VGBL e deixou ressalvada a análise de possíveis abusos em casos concretos.",
-      "data_publicacao": "2026-10-24T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-24/vgbl-em-acumulacao-nao-integra-partilha-aos-herdeiros-decide-stj/",
+      "titulo": "STJ afasta honorários sucumbenciais em plano compulsório de superendividamento",
+      "descricao": "A Terceira Turma do STJ decidiu que, como regra, a imposição judicial de um plano compulsório de pagamento não gera honorários sucumbenciais contra os credores. O colegiado considerou que a fase judicial prevista na lei organiza a quitação das dívidas e não caracteriza, por si só, derrota de mérito dos credores.",
+      "data_publicacao": "2026-11-14T12:55:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-14/repactuacao-de-divida-bancaria-nao-gera-honorarios-sucumbenciais-decide-stj/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "Sentença rescinde compra de lote e determina devolução integral dos valores",
-      "descricao": "Decisão em Goiás rescindiu contrato de lote e mandou devolver integralmente os pagamentos após considerar abusivas cobranças da incorporadora. O juiz também levou em conta que o contrato não estava registrado e que a compradora permanecia adimplente.",
-      "data_publicacao": "2026-10-29T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-out-29/capitalizacao-mensal-de-incorporadora-sem-sfn-gera-restituicao-integral/",
+      "titulo": "STJ vai analisar cancelamento de débito automático de empréstimo bancário",
+      "descricao": "A Segunda Seção do Superior Tribunal de Justiça deverá julgar se o consumidor pode cancelar débito automático usado para pagar empréstimo bancário. O recurso foi afetado ao colegiado para uniformizar o entendimento sobre a questão.",
+      "data_publicacao": "2026-11-13T10:03:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-13/stj-vai-decidir-se-devedor-pode-cancelar-debito-automatico-de-emprestimo-bancario/",
       "fonte": "ConJur"
     },
     {
-      "titulo": "CNB/CF lança prêmio para propostas de inovação em plataformas notariais",
-      "descricao": "O Colégio Notarial do Brasil abriu inscrições para propostas de melhoria das centrais e plataformas digitais utilizadas pelos tabelionatos. As ideias selecionadas poderão ser apresentadas no Congresso Notarial Brasileiro, previsto para dezembro.",
+      "titulo": "CNJ publica resolução sobre cessão de créditos de precatórios",
+      "descricao": "O Colégio Notarial do Brasil informou a publicação da Resolução CNJ nº 705/2026, que regulamenta a cessão de créditos de precatórios. O ato foi editado em 16 de novembro e publicado pelo CNJ na sequência.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-publica-resolucao-no-705-2026-que-regulamenta-a-cessao-de-creditos-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF lança prêmio para propostas de inovação notarial",
+      "descricao": "O Colégio Notarial do Brasil abriu inscrições para propostas que aprimorem centrais e plataformas digitais utilizadas pelos tabelionatos. As iniciativas selecionadas poderão ser apresentadas no Congresso Notarial Brasileiro, previsto para dezembro em Recife.",
       "data_publicacao": "2026-11-16T00:00:00-03:00",
       "url": "https://www.notariado.org.br/cnb-cf-lanca-premio-de-inovacao-notarial-2026-para-incentivar-melhorias-nas-plataformas-digitais-do-notariado/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Jornada Notarial levou orientações sobre segurança jurídica em negócios imobiliários",
-      "descricao": "A mobilização nacional do CNB/CF e das Seccionais realizou atendimentos e atividades gratuitas em 7 de novembro. A edição abordou cuidados com escrituras, documentos e regularização antes de operações de compra e venda de imóveis.",
-      "data_publicacao": "2026-11-17T00:00:00-03:00",
+      "titulo": "Jornada Notarial 2026 levou orientação sobre segurança em negócios imobiliários",
+      "descricao": "O Colégio Notarial do Brasil e as Seccionais promoveram ações gratuitas em diferentes cidades para orientar a população sobre transações imobiliárias. A edição de 7 de novembro abordou escritura pública, documentação, regularização e a Conta Notarial como instrumento de segurança para compradores e vendedores.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
       "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "CNJ regulamenta cessão de créditos de precatórios pela Resolução 705/2026",
-      "descricao": "O CNJ publicou a Resolução 705/2026, que regulamenta a cessão de créditos de precatórios. A norma foi aprovada em 16 de novembro e divulgada pelo Colégio Notarial do Brasil em 19 de novembro.",
-      "data_publicacao": "2026-11-19T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnj-publica-resolucao-no-705-2026-que-regulamenta-a-cessao-de-creditos-de-precatorios/",
       "fonte": "Colégio Notarial do Brasil"
     }
   ]
