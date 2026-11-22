@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-21T09:58:24-03:00",
+  "noticias": [
+    {
+      "titulo": "Banco de Empregos de Rio das Ostras oferece 479 vagas",
+      "descricao": "O Banco de Empregos municipal anunciou 479 oportunidades em diferentes funções, incluindo áreas de refrigeração, educação, comércio e serviços. As inscrições são gratuitas e devem ser feitas presencialmente no Centro de Cidadania, com apresentação dos documentos e currículo indicados pela Prefeitura.",
+      "data_publicacao": "2026-11-16T09:02:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-de-rio-das-ostras-oferece-479-vagas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Procon de Rio das Ostras divulga orientações para compras na Black Friday",
+      "descricao": "O Procon municipal orienta consumidores a comparar preços, verificar a identificação dos vendedores e guardar registros das ofertas. A publicação também resume regras do Código de Defesa do Consumidor para compras, produtos com defeito e aquisições feitas pela internet.",
+      "data_publicacao": "2026-11-18T13:30:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/procon-de-rio-das-ostras-orienta-para-compras-da-black-friday/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras devolve tucano à natureza após recuperação",
+      "descricao": "A Guarda Ambiental recebeu um tucano encontrado em Cantagalo e encaminhou a ave para quarentena e cuidados especializados. Após avaliação das condições de retorno, o animal foi reintroduzido ao habitat, e a Prefeitura reforçou as orientações para acionar os órgãos ambientais ao encontrar fauna silvestre em risco.",
+      "data_publicacao": "2026-11-18T09:58:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-devolve-tucano-a-natureza-apos-periodo-de-recuperacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Ministério da Saúde destina mais duas carretas de atendimento ao Rio de Janeiro",
+      "descricao": "O Ministério da Saúde anunciou novas unidades móveis de saúde para ampliar o diagnóstico precoce pelo SUS no estado do Rio de Janeiro. As carretas serão destinadas a Itaperuna e Campo Grande, e mais de 40 municípios fluminenses já haviam sido atendidos pela iniciativa.",
+      "data_publicacao": "2026-11-06T11:18:00-03:00",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-para-os-estados/rio-de-janeiro/2026/novembro/governo-do-brasil-destina-mais-duas-carretas-de-saude-para-ampliar-o-diagnostico-precoce-de-doencas-no-sus-no-rio-de-janeiro",
+      "fonte": "Ministério da Saúde"
+    },
+    {
+      "titulo": "Programa Caminhos Criativos apoiou 30 iniciativas culturais fluminenses",
+      "descricao": "A Secretaria de Estado de Cultura e Economia Criativa informou que o programa Caminhos Criativos encerrou sua primeira edição após apoiar 30 projetos de 17 municípios do Rio de Janeiro. A iniciativa ofereceu formação e mentorias, e 11 projetos participaram de uma rodada de apresentações para potenciais parceiros empresariais.",
+      "data_publicacao": "2026-11-09T00:00:00-03:00",
+      "url": "https://cultura.rj.gov.br/caminhos-criativos-encerra-ciclo-com-30-iniciativas-incentivadas-e-alcance-em-diferentes-regioes-do-estado-do-rio/",
+      "fonte": "Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro"
+    },
+    {
+      "titulo": "STJ admite captura de tela como prova em ação civil sem ata notarial obrigatória",
+      "descricao": "A Terceira Turma do Superior Tribunal de Justiça entendeu que capturas de tela podem servir como prova em processos civis sem ata notarial, com presunção relativa de veracidade. Se a outra parte impugnar o material, a autenticidade poderá ser examinada por meios eletrônicos ou por perícia.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-18/em-acao-civil-print-de-tela-e-prova-valida-mesmo-sem-ata-notarial-diz-stj/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ afasta honorários sucumbenciais em plano compulsório de superendividamento",
+      "descricao": "A Terceira Turma do STJ decidiu que, como regra, a imposição judicial de um plano compulsório de pagamento não gera honorários sucumbenciais contra os credores. O colegiado considerou que a fase judicial prevista na lei organiza a quitação das dívidas e não caracteriza, por si só, derrota de mérito dos credores.",
+      "data_publicacao": "2026-11-14T12:55:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-14/repactuacao-de-divida-bancaria-nao-gera-honorarios-sucumbenciais-decide-stj/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ vai analisar cancelamento de débito automático de empréstimo bancário",
+      "descricao": "A Segunda Seção do Superior Tribunal de Justiça deverá julgar se o consumidor pode cancelar débito automático usado para pagar empréstimo bancário. O recurso foi afetado ao colegiado para uniformizar o entendimento sobre a questão.",
+      "data_publicacao": "2026-11-13T10:03:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-13/stj-vai-decidir-se-devedor-pode-cancelar-debito-automatico-de-emprestimo-bancario/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "CNJ publica resolução sobre cessão de créditos de precatórios",
+      "descricao": "O Colégio Notarial do Brasil informou a publicação da Resolução CNJ nº 705/2026, que regulamenta a cessão de créditos de precatórios. O ato foi editado em 16 de novembro e publicado pelo CNJ na sequência.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-publica-resolucao-no-705-2026-que-regulamenta-a-cessao-de-creditos-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF lança prêmio para propostas de inovação notarial",
+      "descricao": "O Colégio Notarial do Brasil abriu inscrições para propostas que aprimorem centrais e plataformas digitais utilizadas pelos tabelionatos. As iniciativas selecionadas poderão ser apresentadas no Congresso Notarial Brasileiro, previsto para dezembro em Recife.",
+      "data_publicacao": "2026-11-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-premio-de-inovacao-notarial-2026-para-incentivar-melhorias-nas-plataformas-digitais-do-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Jornada Notarial 2026 levou orientação sobre segurança em negócios imobiliários",
+      "descricao": "O Colégio Notarial do Brasil e as Seccionais promoveram ações gratuitas em diferentes cidades para orientar a população sobre transações imobiliárias. A edição de 7 de novembro abordou escritura pública, documentação, regularização e a Conta Notarial como instrumento de segurança para compradores e vendedores.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}
