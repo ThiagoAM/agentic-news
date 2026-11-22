@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-21T09:58:24-03:00",
+  "noticias": [
+    {
+      "titulo": "CNJ estabelece prazos para cartórios adotarem padrões mínimos de segurança digital",
+      "descricao": "O Conselho Nacional de Justiça divulgou prazos escalonados para que os cartórios implementem requisitos mínimos de tecnologia e segurança da informação. A orientação se baseia nos Provimentos CN nº 213 e 243 de 2026 e recomenda que as serventias iniciem o planejamento das adequações.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://www.cnj.jus.br/cnj-estabelece-prazos-para-cartorios-adotarem-padroes-minimos-de-seguranca-digital/",
+      "fonte": "Conselho Nacional de Justiça"
+    },
+    {
+      "titulo": "Justiça de Santa Catarina mantém testamento e deixa eventual excesso para o inventário",
+      "descricao": "A Justiça de Porto União manteve a validade de um testamento público que destinou imóveis a diferentes filhos. A decisão deixou para o inventário a apuração de eventual excesso sobre a parte legítima, após identificar quais bens pertenciam ao testador e seus valores.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://ibdfam.org.br/noticias/justica-de-santa-catarina-mantem-validade-de-testamento-mas-determina-apuracao-de-eventual-excesso-no-inventario",
+      "fonte": "IBDFAM"
+    },
+    {
+      "titulo": "Revista IBDFAM reúne análises sobre patrimônio e sucessões",
+      "descricao": "A 76ª edição da Revista IBDFAM: Famílias e Sucessões inclui um artigo sobre mecanismos para enfrentar fraudes à meação por meio da ocultação de bens em nome de terceiros. A publicação também reúne estudos sobre relações parentais, tecnologia e outros temas de direito das famílias.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://ibdfam.org.br/noticias/nova-edicao-da-revista-ibdfam-aborda-desafios-patrimoniais-e-parentais-nas-relacoes-familiares-contemporaneas",
+      "fonte": "IBDFAM"
+    },
+    {
+      "titulo": "Justiça de Santa Catarina anula deserdação de filha adotiva",
+      "descricao": "A 2ª Vara Cível de São Bento do Sul declarou nula a cláusula que excluía uma filha adotiva da sucessão por conflitos ocorridos durante a adolescência. A decisão considerou insuficientes os elementos apresentados para justificar a deserdação e reconheceu a condição de herdeira.",
+      "data_publicacao": "2026-11-06T00:00:00-03:00",
+      "url": "https://ibdfam.org.br/noticias/justica-de-santa-catarina-decide-que-conflitos-na-adolescencia-nao-justificam-deserdacao-de-filha-adotiva",
+      "fonte": "IBDFAM"
+    },
+    {
+      "titulo": "Financiamentos imobiliários da Caixa cresceram 7,6% no terceiro trimestre",
+      "descricao": "A Caixa informou que contratou R$ 72,5 bilhões em financiamentos imobiliários entre julho e setembro de 2026, alta de 7,6% ante o mesmo período do ano anterior. No acumulado de nove meses, as contratações avançaram 20,9%, com participação expressiva de recursos do FGTS.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/financiamentos-imobiliarios-via-caixa-crescem-no-terceiro-tri",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "STJ afasta salário-educação para titulares pessoas físicas de cartórios",
+      "descricao": "A Primeira Seção do Superior Tribunal de Justiça fixou, em julgamento repetitivo, que titulares pessoas físicas de cartórios não devem recolher salário-educação por essa atividade. O colegiado entendeu que a natureza jurídica do titular não muda pela existência de CNPJ vinculado à serventia.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/titulares-de-cartorio-nao-precisam-recolher-salario-educacao",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Cartilha orienta usuários sobre publicidade no Registro de Imóveis",
+      "descricao": "O Fórum Nacional de Desenvolvimento Imobiliário lançou uma cartilha sobre o prontuário de identificação e finalidade dos pedidos de publicidade registral. O material explica regras relacionadas ao Provimento CNJ nº 149/2023 e à proteção de dados pessoais em serviços extrajudiciais.",
+      "data_publicacao": "2026-10-30T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/cartilha-do-fndi-orienta-usuario-do-registro-de-imoveis",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Incra e Serpro vão integrar cadastros públicos de imóveis rurais",
+      "descricao": "Um contrato de cinco anos prevê a integração de cadastros públicos com informações sobre imóveis rurais, hoje sujeitos a sobreposições ou divergências. O projeto inclui sistemas do Incra e deve apoiar a certificação de áreas, a regularização de ocupações e a qualificação dos dados fundiários.",
+      "data_publicacao": "2026-10-29T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/cadastros-rurais-serao-integrados",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "TJGO reconhece usucapião de imóvel mesmo sem quitação integral do contrato",
+      "descricao": "A 7ª Câmara Cível do Tribunal de Justiça de Goiás reconheceu a usucapião de um imóvel em Goiânia, apesar de o contrato de compra e venda não ter sido totalmente pago. O colegiado considerou o longo período de posse, a construção de moradia e o pagamento de tributos como elementos para caracterizar a intenção de dono.",
+      "data_publicacao": "2026-10-28T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/familia-conquista-usucapiao-apos-ter-se-tornado-inadimplente",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "CNJ publica resolução sobre cessão de créditos de precatórios",
+      "descricao": "O Colégio Notarial do Brasil informou a publicação da Resolução CNJ nº 705/2026, que regulamenta a cessão de créditos de precatórios. O ato foi editado em 16 de novembro e publicado pelo CNJ na sequência.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-publica-resolucao-no-705-2026-que-regulamenta-a-cessao-de-creditos-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF lança prêmio de inovação para plataformas notariais",
+      "descricao": "O Colégio Notarial do Brasil abriu inscrições para o Prêmio de Inovação Notarial 2026, voltado a ideias para aprimorar centrais e plataformas digitais. As propostas selecionadas poderão ser apresentadas durante o Congresso Notarial Brasileiro, em dezembro.",
+      "data_publicacao": "2026-11-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-premio-de-inovacao-notarial-2026-para-incentivar-melhorias-nas-plataformas-digitais-do-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}
