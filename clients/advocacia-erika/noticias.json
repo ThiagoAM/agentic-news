@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-11-22T10:03:47-03:00",
+  "data-busca": "2026-11-23T10:00:30-03:00",
   "noticias": [
     {
-      "titulo": "CNJ define prazos para adequação dos cartórios a padrões de segurança digital",
-      "descricao": "O Conselho Nacional de Justiça divulgou prazos escalonados para que cartórios adotem requisitos mínimos de tecnologia e segurança da informação. A orientação considera os Provimentos CN nº 213 e 243 de 2026 e recomenda que as serventias planejem as adequações.",
+      "titulo": "CNJ divulga cronograma de adequação dos cartórios à segurança digital",
+      "descricao": "O Conselho Nacional de Justiça detalhou prazos escalonados para que serventias implementem padrões mínimos de tecnologia e segurança da informação. As medidas incluem governança, controle de acesso, cópias de segurança e continuidade dos serviços.",
       "data_publicacao": "2026-11-18T00:00:00-03:00",
       "url": "https://www.cnj.jus.br/cnj-estabelece-prazos-para-cartorios-adotarem-padroes-minimos-de-seguranca-digital/",
       "fonte": "Conselho Nacional de Justiça"
     },
     {
-      "titulo": "Justiça mantém testamento e deixa eventual excesso para o inventário",
-      "descricao": "A Justiça de Santa Catarina manteve a validade de um testamento público que destinou imóveis a diferentes filhos. A apuração de eventual excesso sobre a parte legítima ficou para o inventário, quando serão identificados os bens e seus valores.",
-      "data_publicacao": "2026-11-18T00:00:00-03:00",
-      "url": "https://ibdfam.org.br/noticias/justica-de-santa-catarina-mantem-validade-de-testamento-mas-determina-apuracao-de-eventual-excesso-no-inventario",
-      "fonte": "IBDFAM"
+      "titulo": "ConJur analisa tributação da locação de imóveis por pessoas físicas",
+      "descricao": "Artigo examina os efeitos da reforma tributária sobre a tributação de aluguéis recebidos por pessoas físicas e sua repercussão no mercado imobiliário. A análise aborda mudanças normativas e pontos que podem afetar a organização de contratos e rendimentos.",
+      "data_publicacao": "2026-11-21T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-21/a-tributacao-da-locacao-de-imoveis-por-pessoas-fisicas-na-reforma-tributaria-e-o-impacto-no-mercado-imobiliario/",
+      "fonte": "Consultor Jurídico (ConJur)"
     },
     {
-      "titulo": "Financiamentos imobiliários da Caixa crescem 7,6% no terceiro trimestre",
-      "descricao": "A Caixa contratou R$ 72,5 bilhões em financiamentos imobiliários entre julho e setembro de 2026, alta anual de 7,6%. No acumulado de nove meses, as contratações avançaram 20,9%, com participação relevante de recursos do FGTS.",
+      "titulo": "Partilha desigual entre filhos não anula testamento se respeitada a legítima",
+      "descricao": "A ConJur relata entendimento de que a distribuição desigual da herança entre filhos não invalida, por si só, o testamento. Eventual excesso sobre a parte reservada aos herdeiros necessários pode ser apurado e ajustado no inventário.",
+      "data_publicacao": "2026-11-22T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-22/divisao-desigual-entre-filhos-nao-anula-testamento-se-nao-afeta-a-legitima/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "Financiamentos imobiliários da Caixa avançam no terceiro trimestre",
+      "descricao": "A Caixa contratou R$ 72,5 bilhões em crédito imobiliário entre julho e setembro de 2026, alta de 7,6% em relação ao mesmo período do ano anterior. As contratações acumuladas em nove meses cresceram 20,9%, enquanto o banco mencionou pressão sobre as taxas de juros.",
       "data_publicacao": "2026-11-19T00:00:00-03:00",
       "url": "https://www.registrodeimoveis.org.br/financiamentos-imobiliarios-via-caixa-crescem-no-terceiro-tri",
       "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "STJ afasta salário-educação de titulares pessoas físicas de cartórios",
-      "descricao": "A Primeira Seção do Superior Tribunal de Justiça fixou, em julgamento repetitivo, que titulares pessoas físicas de cartórios não devem recolher salário-educação por essa atividade. O colegiado entendeu que a existência de CNPJ vinculado à serventia não altera a natureza jurídica do titular.",
+      "titulo": "STJ afasta cobrança de salário-educação de titulares pessoas físicas de cartórios",
+      "descricao": "Em julgamento repetitivo, a Primeira Seção do Superior Tribunal de Justiça definiu que titulares pessoas físicas de serventias não devem recolher salário-educação por essa atividade. A tese considera a natureza estatal do serviço e não trata o CNPJ vinculado à serventia como alteração da natureza do titular.",
       "data_publicacao": "2026-11-19T00:00:00-03:00",
       "url": "https://www.registrodeimoveis.org.br/titulares-de-cartorio-nao-precisam-recolher-salario-educacao",
       "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "CNJ publica resolução sobre cessão de créditos de precatórios",
-      "descricao": "A Resolução CNJ nº 705/2026 estabelece parâmetros nacionais para a cessão de créditos de precatórios e prevê a atuação notarial no procedimento. O ato disciplina a qualificação da titularidade, a escritura pública e a comunicação das operações aos tribunais.",
-      "data_publicacao": "2026-11-19T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnj-publica-resolucao-no-705-2026-que-regulamenta-a-cessao-de-creditos-de-precatorios",
+      "titulo": "Notariado brasileiro passa a integrar discussões sobre mercado de carbono",
+      "descricao": "Representante do CNB/SP foi designado para o comitê técnico do registro de créditos de carbono da USP e passou a atuar em grupos sobre regulação, tributação e segurança jurídica. A participação busca aproximar a fé pública notarial da documentação e da rastreabilidade desses ativos.",
+      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/notariado-brasileiro-fortalece-o-mercado-de-carbono/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Copom mantém juros elevados e mercado imobiliário adota cautela",
-      "descricao": "A ata do Copom divulgada em 10 de novembro manteve a indicação de juros altos por mais tempo, afetando a tomada de crédito habitacional e o custo dos financiamentos. O setor imobiliário reagiu com cautela diante da pressão sobre vendas e estoques das construtoras.",
+      "titulo": "CNB/CF firma acordo com CNJ para desenvolvimento do SisPreq",
+      "descricao": "O Colégio Notarial do Brasil firmou acordo de cooperação para colaborar no desenvolvimento do Sistema Nacional de Precatórios e Requisições de Pequeno Valor. A plataforma deverá padronizar fluxos e centralizar informações, com foco em transparência e proteção de credores em cessões de créditos judiciais.",
+      "data_publicacao": "2026-11-05T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Dirigente do CNB/CF é nomeado para comissão internacional do notariado",
+      "descricao": "Ubiratan Guimarães foi nomeado vice-presidente da Comissão de Assuntos Americanos da União Internacional do Notariado. A nomeação amplia a representação brasileira e abre espaço para intercâmbio de práticas sobre modernização e segurança dos serviços notariais.",
+      "data_publicacao": "2026-10-30T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/diretor-do-cnb-cf-ubiratan-guimaraes-e-nomeado-vice-presidente-da-comissao-de-assuntos-americanos-da-uinl/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "FGTS continuará como principal fonte do Minha Casa, Minha Vida",
+      "descricao": "A Caixa informou que o FGTS deverá continuar financiando grande parte do Minha Casa, Minha Vida nos próximos anos, sem previsão de ampliar os recursos já programados. A instituição também planeja uma plataforma digital para integrar documentos e etapas de aprovação de empreendimentos.",
+      "data_publicacao": "2026-11-17T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/fgts-para-mcmv-seguira-robusto-mas-expansao-nao-esta-prevista",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Juros mantidos pelo Copom levam setor imobiliário a adotar cautela",
+      "descricao": "A ata do Copom reforçou a sinalização de juros altos por mais tempo, com possíveis efeitos sobre o crédito habitacional e o custo dos financiamentos. O Registro de Imóveis do Brasil relaciona esse cenário à cautela nas vendas e nos estoques de construtoras.",
       "data_publicacao": "2026-11-12T00:00:00-03:00",
       "url": "https://www.registrodeimoveis.org.br/copom-leva-mercado-imobiliario-a-adotar-cautela",
       "fonte": "Registro de Imóveis do Brasil"
     },
     {
-      "titulo": "Minha Casa, Minha Vida responde por sete em cada dez imóveis novos vendidos em São Paulo",
-      "descricao": "Levantamento do Secovi-SP apontou que o programa respondeu por 70% das vendas de imóveis novos na capital paulista nos 12 meses até setembro de 2026. No mesmo período, as vendas de unidades de médio e alto padrão recuaram 20%.",
-      "data_publicacao": "2026-11-11T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/mcmv-responde-por-sete-entre-dez-imoveis-vendidos-em-sp",
-      "fonte": "Registro de Imóveis do Brasil"
-    },
-    {
-      "titulo": "ONR apresenta nova versão do e-Protocolo para registros de imóveis",
-      "descricao": "A nova plataforma permite salvar solicitações como rascunho, acompanhar o histórico do protocolo e receber notificações de andamento. A implantação será progressiva, começando por testes no Distrito Federal e avançando por regiões.",
-      "data_publicacao": "2026-11-11T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/onr-lanca-novo-e-protocolo",
-      "fonte": "Registro de Imóveis do Brasil"
-    },
-    {
-      "titulo": "TJPR abre painel de dados sobre regularização fundiária",
-      "descricao": "O Tribunal de Justiça do Paraná disponibilizou um painel que reúne informações de cartórios sobre procedimentos de regularização fundiária realizados entre 2010 e 2026. A plataforma acompanha, entre outros dados, unidades regularizadas por município e o tempo entre prenotação e registro.",
-      "data_publicacao": "2026-11-10T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/tjpr-facilita-acesso-a-dados-sobre-regularizacao-fundiaria",
-      "fonte": "Registro de Imóveis do Brasil"
-    },
-    {
-      "titulo": "Jornada Notarial promove orientação sobre segurança em negócios imobiliários",
-      "descricao": "A edição de 2026 da Jornada Notarial levou orientação gratuita a diferentes cidades sobre compra e venda de imóveis, escritura pública e regularização imobiliária. A iniciativa do CNB/CF e das seccionais ocorreu em 7 de novembro.",
-      "data_publicacao": "2026-11-10T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "CNB/CF abre prêmio para propostas de inovação notarial",
-      "descricao": "O Colégio Notarial do Brasil abriu inscrições para ideias de melhoria das centrais e plataformas digitais utilizadas pelos tabelionatos. As propostas selecionadas poderão ser apresentadas no Congresso Notarial Brasileiro, em dezembro.",
-      "data_publicacao": "2026-11-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnb-cf-lanca-premio-de-inovacao-notarial-2026-para-incentivar-melhorias-nas-plataformas-digitais-do-notariado",
-      "fonte": "Colégio Notarial do Brasil"
+      "titulo": "4º Exame Nacional dos Cartórios é aplicado nas capitais",
+      "descricao": "A quarta edição do Exame Nacional dos Cartórios foi aplicada simultaneamente nas 27 capitais, como etapa de habilitação para futuros concursos de delegações extrajudiciais. A prova, organizada pelo CNJ com a FGV, ocorreu sob as regras atualizadas da Resolução CNJ nº 696/2026.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://www.cnj.jus.br/exame-nacional-dos-cartorios-sera-aplicado-pela-quarta-vez/",
+      "fonte": "Conselho Nacional de Justiça"
     }
   ]
 }
