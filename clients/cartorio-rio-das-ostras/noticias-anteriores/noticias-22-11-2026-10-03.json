@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-22T10:03:47-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras espera movimentação de negócios offshore de R$ 20 milhões",
+      "descricao": "A primeira Rodada de Negócios offshore do município reuniu 120 fornecedores e promoveu 188 reuniões com grandes empresas do setor de petróleo e gás. A Prefeitura estima que a iniciativa possa movimentar R$ 20 milhões e ampliar oportunidades para fornecedores locais.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/negocios-offshore-deve-movimentar-r-20-milhoes/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Jogos Escolares de Rio das Ostras encerram edição de 2026",
+      "descricao": "O Jero 2026 terminou com cerimônia de premiação, apresentações culturais e participação de estudantes de escolas municipais e estaduais. A organização anunciou as equipes campeãs gerais em categorias que incluíram Paraesporte, Ensino Médio e anos do Ensino Fundamental.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/uniao-e-espirito-esportivo-marcam-o-encerramento-do-jero-2026/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Festival de Frutos do Mar reúne estabelecimentos locais de 26 a 29 de novembro",
+      "descricao": "A 27ª edição do festival será realizada na Praia do Cemitério, com 16 estabelecimentos, pratos inspirados na música brasileira e apresentações gratuitas. A entrada é livre, enquanto os pratos e entradas têm preços divulgados pela organização.",
+      "data_publicacao": "2026-11-17T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/festival-de-frutos-do-mar-movimenta-rio-das-ostras-de-26-a-29-de-novembro/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Temporada de cruzeiros deve movimentar mais de R$ 240 milhões no Rio",
+      "descricao": "A temporada 2026/2027 prevê a passagem de 325 mil passageiros e tripulantes pelo Porto do Rio até abril. A expectativa é que o fluxo de visitantes impulsione atividades como transporte, comércio, gastronomia e serviços no estado.",
+      "data_publicacao": "2026-11-20T00:00:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/temporada-de-cruzeiros-20262027-deve-ter-recorde-de-turistas-no-rio",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "Sebrae Rio Summit destaca pequenos negócios fluminenses",
+      "descricao": "O estado do Rio de Janeiro reúne mais de dois milhões de pequenos negócios, com forte presença dos setores de serviços e comércio. A segunda edição do Sebrae Rio Summit ocorreu no Riocentro entre 10 e 12 de novembro, com programação gratuita para empreendedores.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-11/sebrae-rio-summit-chega-segunda-edicao-com-programacao-gratuita",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "STJ admite capturas de tela como prova em processo civil sem exigir ata notarial",
+      "descricao": "A Terceira Turma do Superior Tribunal de Justiça decidiu que capturas de tela podem ser admitidas como prova cível sem ata notarial automática. O caso retorna à origem para análise de autenticidade, que pode ser questionada pela parte contrária.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-18/em-acao-civil-print-de-tela-e-prova-valida-mesmo-sem-ata-notarial-diz-stj/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ afasta honorários sucumbenciais em plano compulsório de superendividamento",
+      "descricao": "A Terceira Turma do STJ entendeu que, em regra, o plano judicial compulsório para pagamento de dívidas não gera honorários sucumbenciais contra os credores. O colegiado considerou a natureza de reorganização financeira do procedimento previsto no Código de Defesa do Consumidor.",
+      "data_publicacao": "2026-11-14T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-14/repactuacao-de-divida-bancaria-nao-gera-honorarios-sucumbenciais-decide-stj/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ analisa possibilidade de cancelar débito automático de empréstimo",
+      "descricao": "A Segunda Seção do Superior Tribunal de Justiça deverá examinar se o consumidor pode cancelar a autorização de débito automático de parcelas de empréstimo bancário. O recurso foi afetado para uniformizar o entendimento sobre a questão.",
+      "data_publicacao": "2026-11-13T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-13/stj-vai-decidir-se-devedor-pode-cancelar-debito-automatico-de-emprestimo-bancario/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Resolução do CNJ regulamenta cessão de créditos de precatórios",
+      "descricao": "A Resolução CNJ nº 705/2026 define regras nacionais para a cessão de créditos de precatórios e prevê a escritura pública e mecanismos de registro e comunicação. O Colégio Notarial informou que a norma foi publicada após aprovação pelo Plenário do Conselho.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-publica-resolucao-no-705-2026-que-regulamenta-a-cessao-de-creditos-de-precatorios",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF abre prêmio de inovação para plataformas digitais notariais",
+      "descricao": "Tabeliães, substitutos e escreventes podem apresentar propostas para aprimorar ferramentas digitais da atividade notarial. Ideias selecionadas poderão ser apresentadas no Congresso Notarial Brasileiro, marcado para dezembro em Recife.",
+      "data_publicacao": "2026-11-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-premio-de-inovacao-notarial-2026-para-incentivar-melhorias-nas-plataformas-digitais-do-notariado",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Jornada Notarial leva informação sobre segurança nas transações imobiliárias",
+      "descricao": "A mobilização nacional do CNB/CF e das seccionais realizou ações gratuitas para orientar a população sobre escrituras, documentação e regularização imobiliária. A edição ocorreu em 7 de novembro em capitais e municípios do interior.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}
