@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-11-23T10:00:30-03:00",
+  "data-busca": "2026-11-24T10:05:27-03:00",
   "noticias": [
     {
-      "titulo": "CNJ divulga cronograma de adequação dos cartórios à segurança digital",
-      "descricao": "O Conselho Nacional de Justiça detalhou prazos escalonados para que serventias implementem padrões mínimos de tecnologia e segurança da informação. As medidas incluem governança, controle de acesso, cópias de segurança e continuidade dos serviços.",
+      "titulo": "STJ reconhece inventário público como meio autônomo de proteção de bem cultural",
+      "descricao": "A Primeira Turma do STJ decidiu que o reconhecimento de valor histórico-cultural em inventário público pode fundamentar medidas de proteção ao imóvel, mesmo sem lei local específica ou tombamento. O caso do Hotel Regina, em Uberaba, retorna ao tribunal estadual para análise de pontos ainda pendentes.",
+      "data_publicacao": "2026-11-23T06:50:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/23112026-protecao-de-bem-cultural-inventariado-pelo-poder-publico-independe-de-lei-ou-tombamento.aspx",
+      "fonte": "STJ"
+    },
+    {
+      "titulo": "RIB destaca atuação dos registros de imóveis na mediação de conflitos fundiários",
+      "descricao": "Episódio do RIBCast publicado em 23 de novembro aborda a participação de serventias extrajudiciais na identificação e mediação de disputas fundiárias. Registradores convidados relatam experiências na Bahia e explicam como soluções mediadas podem apoiar a segurança jurídica das áreas envolvidas.",
+      "data_publicacao": "2026-11-23T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/ribcast-destaca-ri-como-ator-de-pacificacao-social",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Prêmio de qualidade contempla 273 cartórios brasileiros",
+      "descricao": "A 22ª edição do Prêmio de Qualidade Total Anoreg (PQTA) contemplou 273 cartórios de diferentes regiões do país, segundo o Registro de Imóveis do Brasil. O número recorde de inscrições e a realização da cerimônia em 19 de novembro marcam a edição deste ano.",
+      "data_publicacao": "2026-11-23T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/pqta-contempla-273-cartorios-de-todo-o-pais",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "CNJ amplia prazos para padrões mínimos de segurança digital em cartórios",
+      "descricao": "A Corregedoria Nacional de Justiça ampliou o cronograma de adequação dos cartórios aos padrões de segurança digital previstos nos Provimentos CN 213 e 243/2026. As serventias devem identificar seu enquadramento e planejar medidas como controle de acesso, cópias de segurança, gestão de riscos e monitoramento.",
       "data_publicacao": "2026-11-18T00:00:00-03:00",
       "url": "https://www.cnj.jus.br/cnj-estabelece-prazos-para-cartorios-adotarem-padroes-minimos-de-seguranca-digital/",
       "fonte": "Conselho Nacional de Justiça"
     },
     {
-      "titulo": "ConJur analisa tributação da locação de imóveis por pessoas físicas",
-      "descricao": "Artigo examina os efeitos da reforma tributária sobre a tributação de aluguéis recebidos por pessoas físicas e sua repercussão no mercado imobiliário. A análise aborda mudanças normativas e pontos que podem afetar a organização de contratos e rendimentos.",
-      "data_publicacao": "2026-11-21T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-21/a-tributacao-da-locacao-de-imoveis-por-pessoas-fisicas-na-reforma-tributaria-e-o-impacto-no-mercado-imobiliario/",
-      "fonte": "Consultor Jurídico (ConJur)"
-    },
-    {
-      "titulo": "Partilha desigual entre filhos não anula testamento se respeitada a legítima",
-      "descricao": "A ConJur relata entendimento de que a distribuição desigual da herança entre filhos não invalida, por si só, o testamento. Eventual excesso sobre a parte reservada aos herdeiros necessários pode ser apurado e ajustado no inventário.",
-      "data_publicacao": "2026-11-22T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-22/divisao-desigual-entre-filhos-nao-anula-testamento-se-nao-afeta-a-legitima/",
-      "fonte": "Consultor Jurídico (ConJur)"
-    },
-    {
-      "titulo": "Financiamentos imobiliários da Caixa avançam no terceiro trimestre",
-      "descricao": "A Caixa contratou R$ 72,5 bilhões em crédito imobiliário entre julho e setembro de 2026, alta de 7,6% em relação ao mesmo período do ano anterior. As contratações acumuladas em nove meses cresceram 20,9%, enquanto o banco mencionou pressão sobre as taxas de juros.",
-      "data_publicacao": "2026-11-19T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/financiamentos-imobiliarios-via-caixa-crescem-no-terceiro-tri",
-      "fonte": "Registro de Imóveis do Brasil"
-    },
-    {
-      "titulo": "STJ afasta cobrança de salário-educação de titulares pessoas físicas de cartórios",
-      "descricao": "Em julgamento repetitivo, a Primeira Seção do Superior Tribunal de Justiça definiu que titulares pessoas físicas de serventias não devem recolher salário-educação por essa atividade. A tese considera a natureza estatal do serviço e não trata o CNPJ vinculado à serventia como alteração da natureza do titular.",
-      "data_publicacao": "2026-11-19T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/titulares-de-cartorio-nao-precisam-recolher-salario-educacao",
-      "fonte": "Registro de Imóveis do Brasil"
-    },
-    {
-      "titulo": "Notariado brasileiro passa a integrar discussões sobre mercado de carbono",
-      "descricao": "Representante do CNB/SP foi designado para o comitê técnico do registro de créditos de carbono da USP e passou a atuar em grupos sobre regulação, tributação e segurança jurídica. A participação busca aproximar a fé pública notarial da documentação e da rastreabilidade desses ativos.",
-      "data_publicacao": "2026-11-11T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/notariado-brasileiro-fortalece-o-mercado-de-carbono/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "CNB/CF firma acordo com CNJ para desenvolvimento do SisPreq",
-      "descricao": "O Colégio Notarial do Brasil firmou acordo de cooperação para colaborar no desenvolvimento do Sistema Nacional de Precatórios e Requisições de Pequeno Valor. A plataforma deverá padronizar fluxos e centralizar informações, com foco em transparência e proteção de credores em cessões de créditos judiciais.",
-      "data_publicacao": "2026-11-05T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "Dirigente do CNB/CF é nomeado para comissão internacional do notariado",
-      "descricao": "Ubiratan Guimarães foi nomeado vice-presidente da Comissão de Assuntos Americanos da União Internacional do Notariado. A nomeação amplia a representação brasileira e abre espaço para intercâmbio de práticas sobre modernização e segurança dos serviços notariais.",
-      "data_publicacao": "2026-10-30T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/diretor-do-cnb-cf-ubiratan-guimaraes-e-nomeado-vice-presidente-da-comissao-de-assuntos-americanos-da-uinl/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "FGTS continuará como principal fonte do Minha Casa, Minha Vida",
-      "descricao": "A Caixa informou que o FGTS deverá continuar financiando grande parte do Minha Casa, Minha Vida nos próximos anos, sem previsão de ampliar os recursos já programados. A instituição também planeja uma plataforma digital para integrar documentos e etapas de aprovação de empreendimentos.",
-      "data_publicacao": "2026-11-17T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/fgts-para-mcmv-seguira-robusto-mas-expansao-nao-esta-prevista",
-      "fonte": "Registro de Imóveis do Brasil"
-    },
-    {
-      "titulo": "Juros mantidos pelo Copom levam setor imobiliário a adotar cautela",
-      "descricao": "A ata do Copom reforçou a sinalização de juros altos por mais tempo, com possíveis efeitos sobre o crédito habitacional e o custo dos financiamentos. O Registro de Imóveis do Brasil relaciona esse cenário à cautela nas vendas e nos estoques de construtoras.",
-      "data_publicacao": "2026-11-12T00:00:00-03:00",
-      "url": "https://www.registrodeimoveis.org.br/copom-leva-mercado-imobiliario-a-adotar-cautela",
-      "fonte": "Registro de Imóveis do Brasil"
-    },
-    {
-      "titulo": "4º Exame Nacional dos Cartórios é aplicado nas capitais",
-      "descricao": "A quarta edição do Exame Nacional dos Cartórios foi aplicada simultaneamente nas 27 capitais, como etapa de habilitação para futuros concursos de delegações extrajudiciais. A prova, organizada pelo CNJ com a FGV, ocorreu sob as regras atualizadas da Resolução CNJ nº 696/2026.",
+      "titulo": "Mutirão na Paraíba inicia o Programa Terras do Brasil",
+      "descricao": "EMPAER e Prefeitura de Assunção iniciaram ação de regularização fundiária voltada a famílias de agricultores que ocupam terras públicas estaduais. O mutirão prevê atender 250 famílias, com apoio do MDA para georreferenciamento e inclusão das informações no SICARF Federativo.",
       "data_publicacao": "2026-11-18T00:00:00-03:00",
-      "url": "https://www.cnj.jus.br/exame-nacional-dos-cartorios-sera-aplicado-pela-quarta-vez/",
-      "fonte": "Conselho Nacional de Justiça"
+      "url": "https://www.irib.org.br/mutirao-na-paraiba-e-o-primeiro-a-colocar-em-pratica-o-programa-terras-do-brasil/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Artigo discute revisão humana de notas devolutivas apoiadas por inteligência artificial",
+      "descricao": "Em coluna publicada no Migalhas, Sérgio Jacomino sustenta que a nota devolutiva exige análise e fundamentação do registrador, mesmo quando há apoio de ferramentas de inteligência artificial. O texto relaciona essa avaliação ao dever de apresentar exigências claras e de uma só vez, conforme a Lei de Registros Públicos.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/coluna/migalhas-notariais-e-registrais/468766/a-nota-devolutiva-de-dom-casmurro",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Distratos chegam a um quarto das vendas de algumas incorporadoras",
+      "descricao": "Balanços do terceiro trimestre mostram distratos equivalentes a até 25,1% das vendas brutas de algumas incorporadoras listadas, em meio a crédito restrito e dificuldade de financiamento na entrega das chaves. A reportagem também explica que os efeitos para compradores variam conforme o contrato, o regime do empreendimento e as circunstâncias da rescisão.",
+      "data_publicacao": "2026-11-20T04:00:00-03:00",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/11/distratos-de-imoveis-disparam-e-atingem-ate-um-quarto-das-vendas-de-incorporadoras-do-pais.shtml",
+      "fonte": "Folha de S.Paulo"
+    },
+    {
+      "titulo": "Artigo relaciona registro de imóveis em holdings ao redutor de IBS e CBS",
+      "descricao": "Artigo do Colégio Registral do Rio Grande do Sul analisa como a titularidade do imóvel em 31 de dezembro de 2026 pode influenciar o redutor de ajuste na tributação de vendas sujeitas ao IBS e à CBS. O texto distingue empresas imobiliárias de pessoas físicas que vendem bens de forma eventual e apresenta a data como aspecto de planejamento patrimonial.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://colegioregistralrs.org.br/noticias/21846/reforma-tributaria-e-venda-de-imoveis-por-que-31-de-dezembro-de-2026-entrou-no-planejamento-patrimonial/",
+      "fonte": "Colégio Registral do Rio Grande do Sul"
+    },
+    {
+      "titulo": "Caixa contrata R$ 72,5 bilhões em crédito imobiliário no terceiro trimestre",
+      "descricao": "A Caixa informou R$ 72,5 bilhões em novos financiamentos imobiliários entre julho e setembro de 2026, alta anual de 7,6%. O saldo da carteira atingiu R$ 1,043 trilhão em setembro, enquanto a instituição não descartou rever as taxas diante da pressão sobre as margens do crédito.",
+      "data_publicacao": "2026-11-13T19:37:00-03:00",
+      "url": "https://portas.com.br/noticias/caixa-amplia-credito-imobiliario-terceiro-trimestre/",
+      "fonte": "Portas"
+    },
+    {
+      "titulo": "Artigo detalha requisitos para venda de imóvel durante inventário",
+      "descricao": "Texto publicado pelo CNB/SP explica que a venda de imóvel de espólio antes da partilha depende de formalidades específicas, como autorização judicial ou escritura pública conforme a Resolução CNJ 571/2024. O artigo também descreve riscos registrais e patrimoniais de negócios celebrados sem observar os direitos dos herdeiros e credores.",
+      "data_publicacao": "2026-11-12T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/12/artigo-imovel-em-inventario-pode-ser-vendido-antes-da-partilha-que-riscos-estarei-correndo-por-julio-martins/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "Artigo aponta impacto da cessão de CCI na atualização da matrícula",
+      "descricao": "Sérgio Jacomino analisa a dispensa legal de averbação de cessões de Cédulas de Crédito Imobiliário e seus possíveis efeitos sobre a atualidade das informações da matrícula. O texto discute a relação entre essa regra e a publicidade registral esperada por terceiros que consultam a situação jurídica do imóvel.",
+      "data_publicacao": "2026-11-17T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/17/artigo-a-publicidade-bifronte-e-a-sindrome-de-anfisbena-por-sergio-jacomino/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
     }
   ]
 }
