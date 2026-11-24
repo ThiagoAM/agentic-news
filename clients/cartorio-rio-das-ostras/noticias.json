@@ -1,82 +1,82 @@
 {
-  "data-busca": "2026-11-23T10:00:30-03:00",
+  "data-busca": "2026-11-24T10:05:27-03:00",
   "noticias": [
     {
-      "titulo": "Rio das Ostras planeja agência transfusional para o Hospital Municipal",
-      "descricao": "A Prefeitura e o Hemolagos iniciaram o planejamento para manter um estoque estratégico de hemocomponentes no Hospital Municipal. A proposta prevê suporte técnico, estrutura adequada e capacitação de profissionais para agilizar atendimentos que dependam de transfusão.",
+      "titulo": "Rio das Ostras planeja instalar Agência Transfusional no Hospital Municipal",
+      "descricao": "A Prefeitura e o Hemolagos iniciaram o planejamento de uma Agência Transfusional no Hospital Municipal, com estoque estratégico de hemocomponentes e reposição conforme a necessidade. O projeto ainda passa por definição técnica de estrutura e equipamentos, e a equipe municipal deverá receber capacitação do Hemolagos.",
+      "data_publicacao": "2026-11-23T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14948",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Banco de Empregos de Rio das Ostras divulga 473 vagas",
+      "descricao": "O Banco de Empregos municipal informou a oferta de 473 vagas em diferentes áreas, entre elas comércio, serviços, construção e saúde. As inscrições são gratuitas e presenciais no Centro de Cidadania, com documentos e requisitos detalhados pelo município.",
+      "data_publicacao": "2026-11-23T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14950",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras realiza seminário sobre inclusão socioprodutiva",
+      "descricao": "A Prefeitura e o Sebrae promovem nesta terça-feira, 24 de novembro, o primeiro Seminário de Inclusão Socioprodutiva do município. O encontro prevê diálogo sobre qualificação, geração de renda e participação de diferentes públicos no mercado de trabalho, no plenário da Câmara Municipal.",
+      "data_publicacao": "2026-11-23T00:00:00-03:00",
+      "url": "https://riodasostras.com.br/noticias/index.php?noticia=14953",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Ocupação hoteleira no feriadão supera 85% em Rio das Ostras",
+      "descricao": "Levantamento da ABIH-RJ e do HotéisRIO apontou ocupação de 85,1% nos hotéis de Rio das Ostras para o feriadão de 20 a 22 de novembro. No conjunto do interior fluminense, a média foi de 76,71%, enquanto a capital registrou 87,91%.",
       "data_publicacao": "2026-11-19T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-na-implantacao-de-agencia-transfusional/",
-      "fonte": "Prefeitura de Rio das Ostras"
+      "url": "https://abihrj.com.br/noticias/feriadao-dia-da-consciencia-negra-hoteis-tem-boa-ocupacao-2026",
+      "fonte": "ABIH-RJ"
     },
     {
-      "titulo": "Rio das Ostras amplia agendamentos digitais de Arquitetura e Saneamento",
-      "descricao": "A Prefeitura passou a disponibilizar pelo Colab agendamentos para vistorias de Arquitetura e Saneamento. Nos primeiros 30 dias, os serviços registraram 160 solicitações, segundo o município.",
-      "data_publicacao": "2026-11-19T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/municipio-amplia-agendamentos-digitais-de-servicos-de-arquitetura-e-saneamento/",
-      "fonte": "Prefeitura de Rio das Ostras"
+      "titulo": "Mercado imobiliário do Rio cresce em lançamentos e vendas no terceiro trimestre",
+      "descricao": "Pesquisa apresentada pela ADEMI-RJ indicou alta anual de 34,1% nos lançamentos e 18,9% nas vendas de imóveis na cidade do Rio de Janeiro no terceiro trimestre de 2026. O estudo também registrou maior participação de unidades compactas nos lançamentos e alta de 9% no preço médio por metro quadrado.",
+      "data_publicacao": "2026-11-13T00:00:00-03:00",
+      "url": "https://www.sinduscon-rio.com.br/wp/noticias/mercado-imobiliario-do-rio-cresce-34-em-lancamentos-e-19-em-vendas-no-terceiro-trimestre/",
+      "fonte": "Sinduscon-Rio"
     },
     {
-      "titulo": "Rio das Ostras estima ocupação hoteleira de 90% no feriado de novembro",
-      "descricao": "A Secretaria de Desenvolvimento Econômico e Turismo projetou cerca de 90% de ocupação hoteleira para o feriado de 20 a 22 de novembro. A Prefeitura destacou praias e serviços locais como opções para os visitantes.",
-      "data_publicacao": "2026-11-19T00:00:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/consciencia-negra-tem-mais-de-90-de-taxa-de-ocupacao/",
-      "fonte": "Prefeitura de Rio das Ostras"
-    },
-    {
-      "titulo": "Estado do Rio acumula mais de 86 mil empregos formais em 2026",
-      "descricao": "O Novo Caged registrou 86.489 vagas formais no estado entre janeiro e setembro, incluindo 9.285 postos criados em setembro. Serviços lideraram as contratações fluminenses naquele mês.",
-      "data_publicacao": "2026-11-04T00:00:00-03:00",
-      "url": "https://odia.ig.com.br/economia/2026/11/7319266-rio-acumula-mais-de-86-mil-empregos-formais-em-2026.html",
-      "fonte": "O Dia"
-    },
-    {
-      "titulo": "Temporada de cruzeiros deve movimentar R$ 240 milhões no estado do Rio",
-      "descricao": "A temporada 2026/2027 deve levar cerca de 325 mil passageiros e tripulantes ao Porto do Rio até abril. A estimativa aponta impacto superior a R$ 240 milhões na economia fluminense e destaca efeitos em transporte, comércio, gastronomia e serviços.",
-      "data_publicacao": "2026-11-20T00:00:00-03:00",
-      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/temporada-de-cruzeiros-20262027-deve-ter-recorde-de-turistas-no-rio",
-      "fonte": "Agência Brasil"
-    },
-    {
-      "titulo": "STJ ajusta tese sobre prazo recursal em caso de dupla intimação",
-      "descricao": "A ConJur noticia ajuste do Superior Tribunal de Justiça na redação de uma tese sobre a contagem de prazo quando há duas intimações. A definição busca esclarecer qual comunicação deve ser considerada para o prazo recursal.",
+      "titulo": "Artigo analisa efeito da tributação de aluguéis sobre proprietários pessoas físicas",
+      "descricao": "Artigo publicado no ConJur examina como as regras de IBS e CBS para locações podem influenciar decisões patrimoniais de pessoas físicas com vários imóveis. O texto descreve os limites de enquadramento previstos na legislação e as regras específicas para locações residenciais de longa ou curta duração.",
       "data_publicacao": "2026-11-21T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-21/stj-ajusta-tese-que-resolve-prazo-recursal-em-caso-de-dupla-intimacao/",
-      "fonte": "Consultor Jurídico (ConJur)"
+      "url": "https://conjur.com.br/2026-nov-21/a-tributacao-da-locacao-de-imoveis-por-pessoas-fisicas-na-reforma-tributaria-e-o-impacto-no-mercado-imobiliario/",
+      "fonte": "Consultor Jurídico"
     },
     {
-      "titulo": "STJ afasta chamamento de codevedores em execução de sentença coletiva",
-      "descricao": "A ConJur relata que o Superior Tribunal de Justiça vetou o chamamento ao processo de codevedores durante a execução de sentença coletiva. A decisão trata dos limites subjetivos da fase executiva e da responsabilidade reconhecida no título judicial.",
-      "data_publicacao": "2026-11-21T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-21/stj-veta-chamamento-ao-processo-de-codevedores-na-execucao-de-sentenca/",
-      "fonte": "Consultor Jurídico (ConJur)"
+      "titulo": "Artigo discute responsabilidade do proprietário ao autorizar crédito do arrendatário",
+      "descricao": "Artigo do ConJur analisa a carta pela qual o proprietário concorda com crédito tomado pelo arrendatário e distingue o consentimento limitado à produção de uma garantia pessoal ou imobiliária. O texto destaca que fiança, aval ou solidariedade dependem dos compromissos efetivamente assumidos e dos documentos da operação.",
+      "data_publicacao": "2026-11-16T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-16/carta-de-anuencia-do-arrendador-consentir-com-credito-nao-e-garantir-divida/",
+      "fonte": "Consultor Jurídico"
     },
     {
-      "titulo": "ConJur acompanha a quarta edição do Exame Nacional dos Cartórios",
-      "descricao": "O exame habilitatório promovido pelo CNJ e pela FGV foi aplicado em 22 de novembro, simultaneamente nas capitais brasileiras. A aprovação é requisito para inscrição em concursos de delegações notariais e de registro.",
-      "data_publicacao": "2026-11-19T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-19/exame-nacional-dos-cartorios-sera-aplicado-pela-quarta-vez/",
-      "fonte": "Consultor Jurídico (ConJur)"
-    },
-    {
-      "titulo": "Notariado brasileiro integra discussões sobre mercado de carbono",
-      "descricao": "Representante do CNB/SP foi designado para o comitê técnico do registro de créditos de carbono da USP e passou a atuar em grupos sobre regulação, tributação e segurança jurídica. A participação busca aproximar a fé pública notarial da documentação e da rastreabilidade desses ativos.",
+      "titulo": "STJ considera indevida taxa de lazer cobrada apenas de ocupantes não proprietários",
+      "descricao": "A Quarta Turma do STJ entendeu que condomínio não pode cobrar taxa geral de lazer somente de locatários, cessionários e comodatários sem comprovar aumento de despesas. A decisão também ressalva a possibilidade de cobrança pelo uso exclusivo de área comum quando o critério se aplica igualmente aos usuários.",
       "data_publicacao": "2026-11-11T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/notariado-brasileiro-fortalece-o-mercado-de-carbono/",
+      "url": "https://conjur.com.br/2026-nov-11/isonomia-no-condominio-o-stj-e-a-taxa-de-lazer-cobrada-de-possuidores-nao-proprietarios/",
+      "fonte": "Consultor Jurídico"
+    },
+    {
+      "titulo": "CNB/CF lança prêmio para propostas de inovação nos serviços notariais digitais",
+      "descricao": "O Colégio Notarial do Brasil – Conselho Federal lançou o Prêmio de Inovação Notarial 2026 para receber ideias de tabeliães, substitutos e escreventes sobre plataformas e centrais digitais. Propostas selecionadas poderão ser apresentadas no Congresso Notarial Brasileiro, e as inscrições terminam em 25 de novembro.",
+      "data_publicacao": "2026-11-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-premio-de-inovacao-notarial-2026-para-incentivar-melhorias-nas-plataformas-digitais-do-notariado/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "CNB/CF firma acordo com CNJ para desenvolvimento do SisPreq",
-      "descricao": "O Colégio Notarial do Brasil firmou acordo de cooperação para colaborar no desenvolvimento do Sistema Nacional de Precatórios e Requisições de Pequeno Valor. A plataforma deverá padronizar fluxos e centralizar informações, com foco em transparência e proteção de credores em cessões de créditos judiciais.",
-      "data_publicacao": "2026-11-05T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
+      "titulo": "Jornada Notarial levou orientação sobre segurança em transações imobiliárias",
+      "descricao": "O CNB/CF informou que a Jornada Notarial de 7 de novembro reuniu cartórios e seccionais em diferentes regiões do país para esclarecer dúvidas sobre compra, venda, documentação e regularização de imóveis. A programação também apresentou a Conta Notarial e recursos eletrônicos do e-Notariado.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Dirigente do CNB/CF é nomeado para comissão internacional do notariado",
-      "descricao": "Ubiratan Guimarães foi nomeado vice-presidente da Comissão de Assuntos Americanos da União Internacional do Notariado. A nomeação amplia a representação brasileira e o intercâmbio de práticas sobre modernização e segurança dos serviços notariais.",
-      "data_publicacao": "2026-10-30T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/diretor-do-cnb-cf-ubiratan-guimaraes-e-nomeado-vice-presidente-da-comissao-de-assuntos-americanos-da-uinl/",
-      "fonte": "Colégio Notarial do Brasil"
+      "titulo": "Artigo descreve requisitos para vender imóvel durante inventário",
+      "descricao": "Artigo publicado pelo CNB/SP explica que a alienação de imóvel durante inventário depende de procedimentos formais, como autorização judicial ou escritura pública nos casos admitidos pela Resolução CNJ 571/2024. O texto também trata de riscos relacionados à indivisibilidade da herança, aos direitos de credores e herdeiros e ao registro da transferência.",
+      "data_publicacao": "2026-11-12T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/12/artigo-imovel-em-inventario-pode-ser-vendido-antes-da-partilha-que-riscos-estarei-correndo-por-julio-martins/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
     }
   ]
 }

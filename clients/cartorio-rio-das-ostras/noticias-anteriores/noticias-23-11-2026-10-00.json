@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-23T10:00:30-03:00",
+  "noticias": [
+    {
+      "titulo": "Rio das Ostras planeja agência transfusional para o Hospital Municipal",
+      "descricao": "A Prefeitura e o Hemolagos iniciaram o planejamento para manter um estoque estratégico de hemocomponentes no Hospital Municipal. A proposta prevê suporte técnico, estrutura adequada e capacitação de profissionais para agilizar atendimentos que dependam de transfusão.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-avanca-na-implantacao-de-agencia-transfusional/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras amplia agendamentos digitais de Arquitetura e Saneamento",
+      "descricao": "A Prefeitura passou a disponibilizar pelo Colab agendamentos para vistorias de Arquitetura e Saneamento. Nos primeiros 30 dias, os serviços registraram 160 solicitações, segundo o município.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-amplia-agendamentos-digitais-de-servicos-de-arquitetura-e-saneamento/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Rio das Ostras estima ocupação hoteleira de 90% no feriado de novembro",
+      "descricao": "A Secretaria de Desenvolvimento Econômico e Turismo projetou cerca de 90% de ocupação hoteleira para o feriado de 20 a 22 de novembro. A Prefeitura destacou praias e serviços locais como opções para os visitantes.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/consciencia-negra-tem-mais-de-90-de-taxa-de-ocupacao/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Estado do Rio acumula mais de 86 mil empregos formais em 2026",
+      "descricao": "O Novo Caged registrou 86.489 vagas formais no estado entre janeiro e setembro, incluindo 9.285 postos criados em setembro. Serviços lideraram as contratações fluminenses naquele mês.",
+      "data_publicacao": "2026-11-04T00:00:00-03:00",
+      "url": "https://odia.ig.com.br/economia/2026/11/7319266-rio-acumula-mais-de-86-mil-empregos-formais-em-2026.html",
+      "fonte": "O Dia"
+    },
+    {
+      "titulo": "Temporada de cruzeiros deve movimentar R$ 240 milhões no estado do Rio",
+      "descricao": "A temporada 2026/2027 deve levar cerca de 325 mil passageiros e tripulantes ao Porto do Rio até abril. A estimativa aponta impacto superior a R$ 240 milhões na economia fluminense e destaca efeitos em transporte, comércio, gastronomia e serviços.",
+      "data_publicacao": "2026-11-20T00:00:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/temporada-de-cruzeiros-20262027-deve-ter-recorde-de-turistas-no-rio",
+      "fonte": "Agência Brasil"
+    },
+    {
+      "titulo": "STJ ajusta tese sobre prazo recursal em caso de dupla intimação",
+      "descricao": "A ConJur noticia ajuste do Superior Tribunal de Justiça na redação de uma tese sobre a contagem de prazo quando há duas intimações. A definição busca esclarecer qual comunicação deve ser considerada para o prazo recursal.",
+      "data_publicacao": "2026-11-21T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-21/stj-ajusta-tese-que-resolve-prazo-recursal-em-caso-de-dupla-intimacao/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "STJ afasta chamamento de codevedores em execução de sentença coletiva",
+      "descricao": "A ConJur relata que o Superior Tribunal de Justiça vetou o chamamento ao processo de codevedores durante a execução de sentença coletiva. A decisão trata dos limites subjetivos da fase executiva e da responsabilidade reconhecida no título judicial.",
+      "data_publicacao": "2026-11-21T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-21/stj-veta-chamamento-ao-processo-de-codevedores-na-execucao-de-sentenca/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "ConJur acompanha a quarta edição do Exame Nacional dos Cartórios",
+      "descricao": "O exame habilitatório promovido pelo CNJ e pela FGV foi aplicado em 22 de novembro, simultaneamente nas capitais brasileiras. A aprovação é requisito para inscrição em concursos de delegações notariais e de registro.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-19/exame-nacional-dos-cartorios-sera-aplicado-pela-quarta-vez/",
+      "fonte": "Consultor Jurídico (ConJur)"
+    },
+    {
+      "titulo": "Notariado brasileiro integra discussões sobre mercado de carbono",
+      "descricao": "Representante do CNB/SP foi designado para o comitê técnico do registro de créditos de carbono da USP e passou a atuar em grupos sobre regulação, tributação e segurança jurídica. A participação busca aproximar a fé pública notarial da documentação e da rastreabilidade desses ativos.",
+      "data_publicacao": "2026-11-11T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/notariado-brasileiro-fortalece-o-mercado-de-carbono/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF firma acordo com CNJ para desenvolvimento do SisPreq",
+      "descricao": "O Colégio Notarial do Brasil firmou acordo de cooperação para colaborar no desenvolvimento do Sistema Nacional de Precatórios e Requisições de Pequeno Valor. A plataforma deverá padronizar fluxos e centralizar informações, com foco em transparência e proteção de credores em cessões de créditos judiciais.",
+      "data_publicacao": "2026-11-05T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-firma-acordo-com-cnj-para-desenvolvimento-do-sispreq-e-reforca-atuacao-notarial-na-seguranca-das-cessoes-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Dirigente do CNB/CF é nomeado para comissão internacional do notariado",
+      "descricao": "Ubiratan Guimarães foi nomeado vice-presidente da Comissão de Assuntos Americanos da União Internacional do Notariado. A nomeação amplia a representação brasileira e o intercâmbio de práticas sobre modernização e segurança dos serviços notariais.",
+      "data_publicacao": "2026-10-30T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/diretor-do-cnb-cf-ubiratan-guimaraes-e-nomeado-vice-presidente-da-comissao-de-assuntos-americanos-da-uinl/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}
