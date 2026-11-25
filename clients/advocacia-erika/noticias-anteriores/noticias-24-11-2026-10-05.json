@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-24T10:05:27-03:00",
+  "noticias": [
+    {
+      "titulo": "STJ reconhece inventário público como meio autônomo de proteção de bem cultural",
+      "descricao": "A Primeira Turma do STJ decidiu que o reconhecimento de valor histórico-cultural em inventário público pode fundamentar medidas de proteção ao imóvel, mesmo sem lei local específica ou tombamento. O caso do Hotel Regina, em Uberaba, retorna ao tribunal estadual para análise de pontos ainda pendentes.",
+      "data_publicacao": "2026-11-23T06:50:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/23112026-protecao-de-bem-cultural-inventariado-pelo-poder-publico-independe-de-lei-ou-tombamento.aspx",
+      "fonte": "STJ"
+    },
+    {
+      "titulo": "RIB destaca atuação dos registros de imóveis na mediação de conflitos fundiários",
+      "descricao": "Episódio do RIBCast publicado em 23 de novembro aborda a participação de serventias extrajudiciais na identificação e mediação de disputas fundiárias. Registradores convidados relatam experiências na Bahia e explicam como soluções mediadas podem apoiar a segurança jurídica das áreas envolvidas.",
+      "data_publicacao": "2026-11-23T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/ribcast-destaca-ri-como-ator-de-pacificacao-social",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "Prêmio de qualidade contempla 273 cartórios brasileiros",
+      "descricao": "A 22ª edição do Prêmio de Qualidade Total Anoreg (PQTA) contemplou 273 cartórios de diferentes regiões do país, segundo o Registro de Imóveis do Brasil. O número recorde de inscrições e a realização da cerimônia em 19 de novembro marcam a edição deste ano.",
+      "data_publicacao": "2026-11-23T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/pqta-contempla-273-cartorios-de-todo-o-pais",
+      "fonte": "Registro de Imóveis do Brasil"
+    },
+    {
+      "titulo": "CNJ amplia prazos para padrões mínimos de segurança digital em cartórios",
+      "descricao": "A Corregedoria Nacional de Justiça ampliou o cronograma de adequação dos cartórios aos padrões de segurança digital previstos nos Provimentos CN 213 e 243/2026. As serventias devem identificar seu enquadramento e planejar medidas como controle de acesso, cópias de segurança, gestão de riscos e monitoramento.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://www.cnj.jus.br/cnj-estabelece-prazos-para-cartorios-adotarem-padroes-minimos-de-seguranca-digital/",
+      "fonte": "Conselho Nacional de Justiça"
+    },
+    {
+      "titulo": "Mutirão na Paraíba inicia o Programa Terras do Brasil",
+      "descricao": "EMPAER e Prefeitura de Assunção iniciaram ação de regularização fundiária voltada a famílias de agricultores que ocupam terras públicas estaduais. O mutirão prevê atender 250 famílias, com apoio do MDA para georreferenciamento e inclusão das informações no SICARF Federativo.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://www.irib.org.br/mutirao-na-paraiba-e-o-primeiro-a-colocar-em-pratica-o-programa-terras-do-brasil/",
+      "fonte": "IRIB"
+    },
+    {
+      "titulo": "Artigo discute revisão humana de notas devolutivas apoiadas por inteligência artificial",
+      "descricao": "Em coluna publicada no Migalhas, Sérgio Jacomino sustenta que a nota devolutiva exige análise e fundamentação do registrador, mesmo quando há apoio de ferramentas de inteligência artificial. O texto relaciona essa avaliação ao dever de apresentar exigências claras e de uma só vez, conforme a Lei de Registros Públicos.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://www.migalhas.com.br/coluna/migalhas-notariais-e-registrais/468766/a-nota-devolutiva-de-dom-casmurro",
+      "fonte": "Migalhas"
+    },
+    {
+      "titulo": "Distratos chegam a um quarto das vendas de algumas incorporadoras",
+      "descricao": "Balanços do terceiro trimestre mostram distratos equivalentes a até 25,1% das vendas brutas de algumas incorporadoras listadas, em meio a crédito restrito e dificuldade de financiamento na entrega das chaves. A reportagem também explica que os efeitos para compradores variam conforme o contrato, o regime do empreendimento e as circunstâncias da rescisão.",
+      "data_publicacao": "2026-11-20T04:00:00-03:00",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/11/distratos-de-imoveis-disparam-e-atingem-ate-um-quarto-das-vendas-de-incorporadoras-do-pais.shtml",
+      "fonte": "Folha de S.Paulo"
+    },
+    {
+      "titulo": "Artigo relaciona registro de imóveis em holdings ao redutor de IBS e CBS",
+      "descricao": "Artigo do Colégio Registral do Rio Grande do Sul analisa como a titularidade do imóvel em 31 de dezembro de 2026 pode influenciar o redutor de ajuste na tributação de vendas sujeitas ao IBS e à CBS. O texto distingue empresas imobiliárias de pessoas físicas que vendem bens de forma eventual e apresenta a data como aspecto de planejamento patrimonial.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://colegioregistralrs.org.br/noticias/21846/reforma-tributaria-e-venda-de-imoveis-por-que-31-de-dezembro-de-2026-entrou-no-planejamento-patrimonial/",
+      "fonte": "Colégio Registral do Rio Grande do Sul"
+    },
+    {
+      "titulo": "Caixa contrata R$ 72,5 bilhões em crédito imobiliário no terceiro trimestre",
+      "descricao": "A Caixa informou R$ 72,5 bilhões em novos financiamentos imobiliários entre julho e setembro de 2026, alta anual de 7,6%. O saldo da carteira atingiu R$ 1,043 trilhão em setembro, enquanto a instituição não descartou rever as taxas diante da pressão sobre as margens do crédito.",
+      "data_publicacao": "2026-11-13T19:37:00-03:00",
+      "url": "https://portas.com.br/noticias/caixa-amplia-credito-imobiliario-terceiro-trimestre/",
+      "fonte": "Portas"
+    },
+    {
+      "titulo": "Artigo detalha requisitos para venda de imóvel durante inventário",
+      "descricao": "Texto publicado pelo CNB/SP explica que a venda de imóvel de espólio antes da partilha depende de formalidades específicas, como autorização judicial ou escritura pública conforme a Resolução CNJ 571/2024. O artigo também descreve riscos registrais e patrimoniais de negócios celebrados sem observar os direitos dos herdeiros e credores.",
+      "data_publicacao": "2026-11-12T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/12/artigo-imovel-em-inventario-pode-ser-vendido-antes-da-partilha-que-riscos-estarei-correndo-por-julio-martins/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    },
+    {
+      "titulo": "Artigo aponta impacto da cessão de CCI na atualização da matrícula",
+      "descricao": "Sérgio Jacomino analisa a dispensa legal de averbação de cessões de Cédulas de Crédito Imobiliário e seus possíveis efeitos sobre a atualidade das informações da matrícula. O texto discute a relação entre essa regra e a publicidade registral esperada por terceiros que consultam a situação jurídica do imóvel.",
+      "data_publicacao": "2026-11-17T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/17/artigo-a-publicidade-bifronte-e-a-sindrome-de-anfisbena-por-sergio-jacomino/",
+      "fonte": "Colégio Notarial do Brasil – Seção São Paulo"
+    }
+  ]
+}
