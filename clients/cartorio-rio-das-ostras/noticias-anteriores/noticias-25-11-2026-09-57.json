@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-25T09:57:31-03:00",
+  "noticias": [
+    {
+      "titulo": "Coral Natalino de idosos se apresenta nesta quarta em Rio das Ostras",
+      "descricao": "O Coral dos Idosos atendidos pelo Serviço de Convivência e Fortalecimento de Vínculos fará apresentação gratuita às 18h, no Shopping Plaza Rio das Ostras. O grupo reúne cerca de 80 participantes e integra a programação natalina do município.",
+      "data_publicacao": "2026-11-24T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14960",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Renovação de matrícula da rede municipal termina em 25 de novembro",
+      "descricao": "A atualização dos dados dos alunos da rede municipal de Rio das Ostras para o ano letivo de 2027 pode ser feita pela internet ou na secretaria da escola. O prazo informado pela Secretaria de Educação termina nesta quarta-feira, 25 de novembro.",
+      "data_publicacao": "2026-11-24T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14957",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Banco de Empregos de Rio das Ostras oferece 473 vagas",
+      "descricao": "O Banco de Empregos municipal informou 473 oportunidades em áreas como comércio, serviços, construção e saúde. As inscrições são gratuitas e presenciais no Centro de Cidadania; a lista completa de funções e requisitos está no portal da Prefeitura.",
+      "data_publicacao": "2026-11-23T00:00:00-03:00",
+      "url": "https://www.riodasostras.com.br/noticias/index.php?noticia=14950",
+      "fonte": "Portal Rio das Ostras"
+    },
+    {
+      "titulo": "Festival Arpoarte estreia no Pier Mauá com artesãos de 24 unidades da Federação",
+      "descricao": "A primeira edição do Festival Arpoarte Rio ocorre de 25 a 29 de novembro no Pier Mauá, reunindo cerca de 300 artesãs e artesãos. A programação inclui feira de arte popular e artesanato, coletivos indígenas e quilombolas e apresentações culturais.",
+      "data_publicacao": "2026-11-23T09:43:00-03:00",
+      "url": "https://www.gov.br/memp/pt-br/assuntos/noticias/rio-de-janeiro-recebe-1a-edicao-do-festival-arpoarte-com-artesaos-apoiados-pelo-ministerio-do-empreendedorismo",
+      "fonte": "Ministério do Empreendedorismo"
+    },
+    {
+      "titulo": "Natal Magia começa nesta semana em Macaé",
+      "descricao": "A Prefeitura de Macaé anunciou a abertura da Vila do Papai Noel na Praia Campista em 26 de novembro e do espetáculo Águas Dançantes no bairro Pecado no dia seguinte. A programação inclui apresentações culturais, transporte expresso e medidas de mobilidade para os horários dos eventos.",
+      "data_publicacao": "2026-11-06T09:36:00-03:00",
+      "url": "https://www.macae.rj.gov.br/noticias/leitura/noticia/natal-magia-comeca-dia-26-de-novembro-em-macae",
+      "fonte": "Prefeitura de Macaé"
+    },
+    {
+      "titulo": "IBS e CBS sobre aluguel podem estimular holdings imobiliárias, aponta artigo",
+      "descricao": "Artigo publicado no ConJur analisa como as regras do IBS e da CBS para locações podem influenciar decisões patrimoniais de proprietários pessoas físicas. O texto considera os limites de enquadramento tributário e a possibilidade de reorganização de imóveis em holdings ou na família.",
+      "data_publicacao": "2026-11-21T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-21/a-tributacao-da-locacao-de-imoveis-por-pessoas-fisicas-na-reforma-tributaria-e-o-impacto-no-mercado-imobiliario/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "ConJur analisa limites da imunidade de ITBI na integralização de imóveis",
+      "descricao": "Artigo publicado no ConJur examina a extensão da imunidade de ITBI reconhecida pelo STF para integralização de imóveis em empresas imobiliárias. O texto aponta que a parcela destinada a reserva de capital e a eventual modulação dos efeitos seguem como pontos de discussão.",
+      "data_publicacao": "2026-11-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-23/stf-amplia-imunidade-do-itbi-mas-questoes-relevantes-seguem-em-aberto/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "STJ afasta aluguel por uso de imóvel do ex-cônjuge como moradia dos filhos",
+      "descricao": "A Terceira Turma do STJ decidiu que o uso do imóvel de um ex-cônjuge como moradia dos filhos comuns não gera, naquele caso, obrigação de pagar aluguel. A decisão considera as necessidades das crianças e o dever de ambos os pais de assegurar condições dignas de vida.",
+      "data_publicacao": "2026-11-05T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-05/ex-conjuge-que-mora-com-os-filhos-no-imovel-do-outro-nao-precisa-pagar-aluguel/",
+      "fonte": "ConJur"
+    },
+    {
+      "titulo": "Jornada Notarial 2026 orientou o público sobre segurança em transações imobiliárias",
+      "descricao": "O CNB/CF informou que a Jornada Notarial realizada em 7 de novembro levou orientação gratuita sobre compra e venda de imóveis, escrituras públicas e regularização imobiliária a diferentes cidades. A programação também apresentou a Conta Notarial e recursos do e-Notariado.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB/CF lança prêmio de inovação para plataformas digitais do notariado",
+      "descricao": "O Colégio Notarial do Brasil abriu inscrições para um prêmio que incentiva tabeliães e equipes de cartórios a proporem melhorias para centrais e plataformas digitais. As ideias selecionadas poderão ser apresentadas no Congresso Notarial Brasileiro, em dezembro.",
+      "data_publicacao": "2026-11-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-premio-de-inovacao-notarial-2026-para-incentivar-melhorias-nas-plataformas-digitais-do-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Resolução CNJ 705/2026 regulamenta cessão de créditos de precatórios",
+      "descricao": "O Colégio Notarial do Brasil noticiou a publicação da Resolução CNJ 705/2026, de 16 de novembro, sobre cessões de créditos de precatórios. A norma se relaciona à formalização e segurança jurídica de operações que podem envolver serviços notariais.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-publica-resolucao-no-705-2026-que-regulamenta-a-cessao-de-creditos-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    }
+  ]
+}
