@@ -1,82 +1,89 @@
 {
-  "data-busca": "2026-11-25T09:57:31-03:00",
+  "data-busca": "2026-11-26T10:00:05-03:00",
   "noticias": [
     {
-      "titulo": "IBS e CBS sobre aluguel podem estimular holdings imobiliárias, aponta artigo",
-      "descricao": "Artigo publicado no ConJur analisa como as regras do IBS e da CBS para locações podem influenciar decisões patrimoniais de proprietários pessoas físicas. O texto considera os limites de enquadramento tributário e a possibilidade de reorganização de imóveis em holdings ou na família.",
-      "data_publicacao": "2026-11-21T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-21/a-tributacao-da-locacao-de-imoveis-por-pessoas-fisicas-na-reforma-tributaria-e-o-impacto-no-mercado-imobiliario/",
-      "fonte": "ConJur"
+      "titulo": "Vendas de imóveis novos crescem 5,4% no primeiro semestre de 2026",
+      "descricao": "Levantamento da CBIC contabilizou 226.536 vendas de unidades residenciais novas entre janeiro e junho, alta de 5,4% ante o mesmo período de 2025. O Minha Casa, Minha Vida respondeu por 58% dos lançamentos no segundo trimestre, maior participação desde o início da série em 2019.",
+      "data_publicacao": "2026-11-26T00:00:00-03:00",
+      "url": "https://crecidf.gov.br/vendas-de-imoveis-crescem-54-no-primeiro-semestre-de-2026-aponta-levantamento-da-cbic/",
+      "fonte": "CRECI-DF"
     },
     {
-      "titulo": "STJ considera bem público imóvel permanentemente inundado por reservatório",
-      "descricao": "A 3ª Turma do STJ entendeu que área particular alagada de forma permanente para formar reservatório de hidrelétrica passa a ter destinação pública e não pode ser adquirida por usucapião. A decisão foi publicada pelo ConJur e trata da relação entre domínio, registro e afetação do imóvel à geração de energia.",
-      "data_publicacao": "2026-11-23T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-23/nao-cabe-usucapiao-de-imovel-inundado-por-hidreletrica-diz-stj/",
-      "fonte": "ConJur"
+      "titulo": "Mercado imobiliário do Rio registra alta nas transações no terceiro trimestre",
+      "descricao": "O mercado imobiliário da capital fluminense registrou crescimento de 12,5% entre julho e setembro, com mais de 14,2 mil transações, segundo dados do Sinduscon-Rio e da Brain. O levantamento também aponta participação maior de imóveis compactos e predominância de unidades usadas ou prontas nas negociações.",
+      "data_publicacao": "2026-11-13T00:00:00-03:00",
+      "url": "https://www.cofeci.gov.br/post/mercado-imobili%C3%A1rio-do-rio-registra-crescimento-de-12-5-no-terceiro-trimestre",
+      "fonte": "Cofeci"
     },
     {
-      "titulo": "Artigo analisa limites da imunidade de ITBI na integralização de imóveis",
-      "descricao": "Análise publicada no ConJur sustenta que a imunidade do ITBI reconhecida pelo STF para integralização de imóveis em empresas imobiliárias não alcança toda e qualquer parcela da operação. O artigo também aponta que a tributação de valores destinados a reserva de capital e a eventual modulação ainda são questões em discussão.",
-      "data_publicacao": "2026-11-23T00:00:00-03:00",
-      "url": "https://conjur.com.br/2026-nov-23/stf-amplia-imunidade-do-itbi-mas-questoes-relevantes-seguem-em-aberto/",
-      "fonte": "ConJur"
+      "titulo": "CNJ define prazos escalonados de segurança digital para cartórios",
+      "descricao": "O Conselho Nacional de Justiça detalhou os prazos para que serventias extrajudiciais adotem padrões mínimos de tecnologia e segurança da informação. A implementação é progressiva e depende da classificação do cartório conforme os provimentos aplicáveis.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://www.cnj.jus.br/cnj-estabelece-prazos-para-cartorios-adotarem-padroes-minimos-de-seguranca-digital/",
+      "fonte": "Conselho Nacional de Justiça"
     },
     {
-      "titulo": "Minha Casa, Minha Vida alcança 58,6% dos lançamentos no terceiro trimestre",
-      "descricao": "Levantamento da CBIC e da Brain aponta que o programa respondeu por 58,6% dos lançamentos imobiliários no terceiro trimestre de 2026, com 70.129 unidades, alta anual de 28,2%. As vendas do programa somaram 56.812 unidades, enquanto os segmentos médio e alto padrão tiveram redução nos lançamentos.",
-      "data_publicacao": "2026-11-23T11:50:00-03:00",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/minha-casa-minha-vida-concentra-58-dos-lancamentos-do-3o-tri-aponta-cbic/",
-      "fonte": "CNN Brasil"
+      "titulo": "CNJ regulamenta escrituração e fiscalização tributária dos cartórios",
+      "descricao": "O Provimento CNJ nº 259, de 5 de novembro, aperfeiçoa as regras do Livro Diário Auxiliar da Receita e da Despesa das serventias. A norma também disciplina a fiscalização da escrituração e da conformidade tributária dos serviços notariais e de registro.",
+      "data_publicacao": "2026-11-05T00:00:00-03:00",
+      "url": "https://atos.cnj.jus.br/files/original134822202611096af1cf269f35d.pdf",
+      "fonte": "Conselho Nacional de Justiça"
     },
     {
-      "titulo": "Carteira imobiliária da Caixa cresce 15,5% em 12 meses",
-      "descricao": "No balanço do terceiro trimestre, a Caixa informou que sua carteira de crédito imobiliário atingiu R$ 1,043 trilhão em setembro, crescimento de 15,5% em um ano. As contratações imobiliárias somaram R$ 210,1 bilhões de janeiro a setembro, em 799,5 mil contratos.",
-      "data_publicacao": "2026-11-12T20:35:00-03:00",
-      "url": "https://caixanoticias.caixa.gov.br/Paginas/Not%C3%ADcias/2026/11-NOVEMBRO/Caixa-registra-lucro-liquido-recorrente-de-RS-35-bilhoes-no-3T26-e-RS-10,9-bilhoes-no-9M26.aspx",
-      "fonte": "CAIXA Notícias"
+      "titulo": "CNB divulga resolução do CNJ sobre cessão de créditos de precatórios",
+      "descricao": "O Colégio Notarial do Brasil destacou a Resolução CNJ nº 705/2026, que regulamenta a cessão de créditos de precatórios. A publicação disponibiliza o texto normativo para consulta e aplicação pelos profissionais do setor.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-publica-resolucao-no-705-2026-que-regulamenta-a-cessao-de-creditos-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Aluguel comercial sobe 12,04% em 12 meses, mostra FipeZAP",
-      "descricao": "Os preços anunciados de salas e conjuntos comerciais subiram 12,04% nos 12 meses encerrados em outubro, segundo o Índice FipeZAP. No mesmo período, os valores de venda desses imóveis avançaram 2,16%, indicando ritmos diferentes entre os mercados de locação e venda.",
-      "data_publicacao": "2026-11-24T05:00:00-03:00",
-      "url": "https://www.infomoney.com.br/minhas-financas/aluguel-comercial-sobe-12-em-um-ano-quase-tres-vezes-a-inflacao-diz-fipezap/",
-      "fonte": "InfoMoney"
-    },
-    {
-      "titulo": "TJSC permite prosseguimento de usucapião apesar de alegação de doação verbal",
-      "descricao": "A 8ª Câmara de Direito Civil do TJSC entendeu que a alegada doação verbal de um imóvel não impede, por si só, o processamento de ação de usucapião. O processo retornará à primeira instância para produção de provas, e eventual reconhecimento da propriedade ainda depende da comprovação dos requisitos legais.",
-      "data_publicacao": "2026-11-18T10:42:00-03:00",
-      "url": "https://www.tjsc.jus.br/web/imprensa/-/tj-catarinense-decide-que-doacao-verbal-nao-impede-acao-de-usucapiao?redirect=%2F%3Fcd%3D1924%26tipo%3D2",
-      "fonte": "Tribunal de Justiça de Santa Catarina"
-    },
-    {
-      "titulo": "Projeto sobre braile em documentos de imóveis seguirá para análise do Senado",
-      "descricao": "O Senado informou que analisará o PL 272/2023, aprovado pela Câmara, que prevê uso de braile em documentos e certidões, inclusive nos documentos de registro de imóveis e em convenções pré-nupciais. A proposta prevê prazo de adaptação para os cartórios e proíbe cobrança adicional pelo serviço.",
-      "data_publicacao": "2026-11-24T20:33:00-03:00",
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/24/senado-vai-analisar-uso-mais-amplo-da-linguagem-braile-no-cotidiano",
-      "fonte": "Agência Senado"
-    },
-    {
-      "titulo": "Jornada Notarial 2026 orientou o público sobre segurança em transações imobiliárias",
-      "descricao": "O CNB/CF informou que a Jornada Notarial realizada em 7 de novembro levou orientação gratuita sobre compra e venda de imóveis, escrituras públicas e regularização imobiliária a diferentes cidades. A programação também apresentou a Conta Notarial e recursos do e-Notariado.",
+      "titulo": "Jornada Notarial 2026 promove orientação sobre transações imobiliárias",
+      "descricao": "A mobilização do CNB/CF e das seccionais realizou atendimentos gratuitos em diferentes cidades para orientar o público sobre segurança jurídica na compra e venda de imóveis. A programação abordou escritura pública, documentação e regularização imobiliária, além da Conta Notarial.",
       "data_publicacao": "2026-11-10T00:00:00-03:00",
       "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "CNB/CF lança prêmio para propostas de inovação nas plataformas notariais",
-      "descricao": "O Colégio Notarial do Brasil abriu inscrições para um prêmio que incentiva tabeliães e equipes de cartórios a proporem melhorias para centrais e plataformas digitais. Ideias selecionadas poderão ser apresentadas no Congresso Notarial Brasileiro em dezembro.",
+      "titulo": "CNB lança prêmio para propostas de inovação nas plataformas notariais",
+      "descricao": "O Colégio Notarial do Brasil abriu uma chamada para tabeliães, substitutos e escreventes apresentarem propostas de melhoria para as plataformas digitais do notariado. As ideias elegíveis podem ser avaliadas para apresentação no Notariado Lab do Congresso Notarial Brasileiro.",
       "data_publicacao": "2026-11-16T00:00:00-03:00",
       "url": "https://www.notariado.org.br/cnb-cf-lanca-premio-de-inovacao-notarial-2026-para-incentivar-melhorias-nas-plataformas-digitais-do-notariado/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "CNJ publica Resolução 705/2026 sobre cessão de créditos de precatórios",
-      "descricao": "O Colégio Notarial do Brasil noticiou a publicação da Resolução CNJ 705/2026, de 16 de novembro, que regulamenta a cessão de créditos de precatórios. A norma trata de operações que podem ser formalizadas em cartório e integra a agenda de aprimoramento dos serviços notariais.",
-      "data_publicacao": "2026-11-19T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnj-publica-resolucao-no-705-2026-que-regulamenta-a-cessao-de-creditos-de-precatorios/",
-      "fonte": "Colégio Notarial do Brasil"
+      "titulo": "STJ reconhece proteção de imóvel inventariado como patrimônio cultural",
+      "descricao": "A Primeira Turma do STJ decidiu que o inventário público de valor histórico-cultural pode proteger um bem sem depender de lei local ou tombamento. O colegiado também reconheceu a ação civil pública como instrumento para a tutela do patrimônio cultural inventariado.",
+      "data_publicacao": "2026-11-23T06:50:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23112026-Protecao-de-bem-cultural-inventariado-pelo-poder-publico-independe-de-lei-ou-tombamento.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ define competência para ação sobre imóvel ocupado pelo poder público",
+      "descricao": "A Segunda Turma do STJ decidiu que a Justiça comum estadual pode julgar ação sobre propriedade ou posse de imóvel ocupado pelo poder público mesmo após transferência em execução trabalhista. A análise poderá considerar se a ocupação é reversível ou caracteriza desapropriação indireta.",
+      "data_publicacao": "2026-11-24T07:05:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24112026-Justica-estadual-pode-julgar-disputa-sobre-imovel-ocupado-pelo-poder-publico-mesmo-apos-adjudicacao-trabalhista.aspx",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ reafirma princípios de continuidade e fé pública no registro imobiliário",
+      "descricao": "Em julgamento publicado no Informativo nº 908, a Terceira Turma examinou pedido de cancelamento e restabelecimento de registros imobiliários. O tribunal ressaltou que a presunção de validade do registro só é afastada por prova robusta e que a matrícula deve manter a sequência formal das transmissões.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&livre=2189786",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ analisa responsabilidade por IPTU após transferência informal de imóvel",
+      "descricao": "O Informativo nº 908 do STJ registra que a transferência de posse e direitos por instrumento particular, sem registro do título translativo, não altera por si só o domínio imobiliário. Para a cobrança de IPTU, podem ser responsáveis o proprietário registral ou o possuidor, conforme a legislação municipal.",
+      "data_publicacao": "2026-11-03T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&livre=2294977",
+      "fonte": "Superior Tribunal de Justiça"
+    },
+    {
+      "titulo": "STJ delimita efeitos de decisão sobre regime de bens em união estável",
+      "descricao": "A Terceira Turma decidiu que a tese do STF sobre escolha do regime de bens por pessoas acima de 70 anos não retroage para alterar os efeitos patrimoniais de união já encerrada. O colegiado também considerou relevante a partilha de bens de relação anterior para definir o regime aplicável à nova união.",
+      "data_publicacao": "2026-11-19T07:05:00-03:00",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19112026-Terceira-Turma-mantem-separacao-obrigatoria-em-uniao-estavel-de-maior-de-70-anos-extinta-antes-de-.aspx",
+      "fonte": "Superior Tribunal de Justiça"
     }
   ]
 }
