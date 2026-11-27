@@ -1,82 +1,89 @@
 {
-  "data-busca": "2026-11-26T10:00:05-03:00",
+  "data-busca": "2026-11-27T10:05:17-03:00",
   "noticias": [
     {
-      "titulo": "Banco de Empregos de Rio das Ostras oferece 473 vagas",
-      "descricao": "A Prefeitura informou que o Banco de Empregos municipal reunia 473 oportunidades em áreas como vendas, serviços, gastronomia e corretagem. As candidaturas são gratuitas e presenciais no Centro de Cidadania, com consulta dos requisitos no portal municipal.",
-      "data_publicacao": "2026-11-23T10:24:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-473-vagas/",
+      "titulo": "Rio das Ostras atualiza cadastro imobiliário em Cidade Beira-Mar",
+      "descricao": "Equipes municipais seguem visitando imóveis até 5 de dezembro para atualizar informações territoriais e cadastrais. A prefeitura informa que a nova base geográfica apoiará o planejamento urbano e a integração de dados sobre infraestrutura, habitação e serviços.",
+      "data_publicacao": "2026-11-26T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/rio-das-ostras-realiza-atualizacao-cadastral-dos-imoveis/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Ostrascycle Origens celebra três décadas do encontro em Rio das Ostras",
-      "descricao": "A edição especial do encontro de motociclistas começa em 27 de novembro e reúne artistas ligados à história do evento na Concha Acústica. A programação municipal se estende até domingo, dia 29, com apresentações musicais gratuitas.",
-      "data_publicacao": "2026-11-24T09:05:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/uns-e-outros-e-destaque-na-programacao-do-ostrascycle-origens/",
+      "titulo": "Agendamentos de Arquitetura e Saneamento passam a ser digitais",
+      "descricao": "Rio das Ostras ampliou pelo aplicativo Colab o agendamento de atendimentos de Arquitetura e Saneamento; os serviços registraram 160 solicitações nos primeiros 30 dias. O canal permite solicitar vistoria de obras e acompanhar a confirmação sem comparecer presencialmente apenas para marcar o atendimento.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/municipio-amplia-agendamentos-digitais-de-servicos-de-arquitetura-e-saneamento/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Festival de Frutos do Mar movimenta Rio das Ostras até 29 de novembro",
-      "descricao": "A 27ª edição do festival reúne 16 estabelecimentos locais na Praia do Cemitério, com gastronomia e apresentações musicais durante quatro dias. A organização informa entrada gratuita e horários ampliados no fim de semana.",
-      "data_publicacao": "2026-11-23T15:06:00-03:00",
-      "url": "https://www.riodasostras.rj.gov.br/festival-de-frutos-do-mar-tera-quatro-dias-de-shows/",
+      "titulo": "Prefeitura inicia desassoreamento na Boca da Barra",
+      "descricao": "A operação municipal, autorizada pelo Inea, remove sedimentos na foz do rio das Ostras para melhorar a drenagem e reduzir riscos de alagamento. A intervenção também busca facilitar a navegação e beneficiar localidades como Âncora, Nova Cidade e Liberdade.",
+      "data_publicacao": "2026-11-25T00:00:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/prefeitura-realiza-desassoreamento-na-boca-da-barra/",
       "fonte": "Prefeitura de Rio das Ostras"
     },
     {
-      "titulo": "Cidade do Rio recebe 10,7 milhões de visitantes até outubro",
-      "descricao": "A capital fluminense recebeu 10,7 milhões de visitantes entre janeiro e outubro, alta de quase 8% na comparação anual, segundo o Observatório do Turismo Carioca. O setor movimentou cerca de R$ 28 bilhões no período, de acordo com levantamento citado pela prefeitura.",
-      "data_publicacao": "2026-11-19T09:09:00-03:00",
-      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/rio-recebeu-quase-11-milhoes-de-turistas-entre-janeiro-e-outubro",
-      "fonte": "Radioagência Nacional"
+      "titulo": "TJRJ institui biometria neonatal em unidades interligadas",
+      "descricao": "Provimento da Corregedoria do Tribunal de Justiça do Rio de Janeiro cria parâmetros para coleta biométrica em unidades de saúde integradas ao registro civil. A norma busca tornar a identificação mais segura e proteger dados sensíveis conforme a legislação de proteção de dados.",
+      "data_publicacao": "2026-11-17T00:00:00-03:00",
+      "url": "https://www.tjrj.jus.br/documents/d/cgj/provimento-90-cgj-pdf",
+      "fonte": "TJRJ / Corregedoria-Geral da Justiça"
     },
     {
-      "titulo": "Temporada de cruzeiros deve movimentar mais de R$ 240 milhões no Rio",
-      "descricao": "A temporada 2026/2027 prevê a passagem de 325 mil passageiros e tripulantes pelo porto da capital fluminense até abril. A projeção divulgada pela Rádio Nacional aponta impactos também no transporte, comércio, gastronomia e serviços do estado.",
-      "data_publicacao": "2026-11-20T09:51:00-03:00",
-      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/temporada-de-cruzeiros-20262027-deve-ter-recorde-de-turistas-no-rio",
-      "fonte": "Radioagência Nacional"
+      "titulo": "Cartório informa desconto na primeira compra residencial pelo SFH",
+      "descricao": "Orientação publicada por registro imobiliário da capital fluminense detalha a redução de 50% nos emolumentos para a primeira aquisição residencial financiada pelo SFH, observados os requisitos legais. O material relaciona a regra ao Aviso CGJ 498/2026 e explica documentos e critérios de comprovação.",
+      "data_publicacao": "2026-11-17T00:00:00-03:00",
+      "url": "https://3ri-rj.com.br/wp-content/uploads/2026/11/quadro_descontos_imoveis-13.pdf",
+      "fonte": "3º Registro de Imóveis do Rio de Janeiro / TJRJ"
+    },
+    {
+      "titulo": "TJRJ esclarece cobrança de emolumentos em atos de registro imobiliário",
+      "descricao": "Aviso da Corregedoria fluminense relaciona emolumentos de determinados atos de registro de imóveis aos itens específicos da tabela estadual vigente. A publicação foi divulgada em boletim oficial do tribunal e corrige a referência aplicável às serventias extrajudiciais.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://emerj.tjrj.jus.br/files/pages/paginas/biblioteca_videoteca/boletimdosatosoficiais/2026/atos-oficiais-do-PJERJ-18-11-2026.pdf",
+      "fonte": "TJRJ / EMERJ"
     },
     {
       "titulo": "CNJ publica regra para cessão de créditos de precatórios",
-      "descricao": "A Resolução CNJ nº 705/2026 regulamenta a cessão de créditos de precatórios. O Colégio Notarial do Brasil divulgou o ato normativo e disponibilizou seu texto para consulta.",
+      "descricao": "A Resolução CNJ 705/2026 disciplina a cessão de créditos de precatórios e estabelece procedimentos relacionados à formalização notarial. O CNB/CF publicou a atualização normativa em 19 de novembro.",
       "data_publicacao": "2026-11-19T00:00:00-03:00",
       "url": "https://www.notariado.org.br/cnj-publica-resolucao-no-705-2026-que-regulamenta-a-cessao-de-creditos-de-precatorios/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Jornada Notarial leva orientação sobre segurança em transações imobiliárias",
-      "descricao": "A ação do CNB/CF e das seccionais ofereceu orientações gratuitas sobre compra e venda de imóveis, escrituras e regularização documental. A edição também apresentou a Conta Notarial e ferramentas digitais do e-Notariado.",
+      "titulo": "Jornada Notarial orienta sobre segurança em transações imobiliárias",
+      "descricao": "A mobilização nacional realizada em 7 de novembro levou aos cidadãos orientações sobre escritura pública, documentos e regularização para compra e venda de imóveis. O CNB/CF apresentou ainda a Conta Notarial e seu uso condicionado às instruções das partes.",
       "data_publicacao": "2026-11-10T00:00:00-03:00",
       "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "CNB abre prêmio para melhorias em plataformas digitais do notariado",
-      "descricao": "O Colégio Notarial do Brasil convidou profissionais de cartórios a sugerirem melhorias para centrais e ferramentas digitais do setor. As propostas elegíveis poderiam ser consideradas para apresentação no Notariado Lab do Congresso Notarial Brasileiro.",
-      "data_publicacao": "2026-11-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnb-cf-lanca-premio-de-inovacao-notarial-2026-para-incentivar-melhorias-nas-plataformas-digitais-do-notariado/",
-      "fonte": "Colégio Notarial do Brasil"
+      "titulo": "CNB/SP analisa limites territoriais dos atos notariais eletrônicos",
+      "descricao": "Artigo técnico publicado pelo CNB/SP sustenta que a realização eletrônica não elimina os limites territoriais da delegação notarial. A análise reúne regras legais e decisões recentes do CNJ relacionadas ao e-Notariado.",
+      "data_publicacao": "2026-11-13T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/13/artigo-fundamentos-da-competencia-notarial-nos-atos-eletronicos-por-fernando-blasco/",
+      "fonte": "CNB/SP"
     },
     {
-      "titulo": "STJ fixa tese sobre recurso especial contra decisão monocrática",
-      "descricao": "A Corte Especial do STJ definiu, em julgamento repetitivo, que não cabe recurso especial interposto diretamente contra decisão individual de relator em segunda instância. A tese exige o esgotamento da instância ordinária antes da apresentação do recurso ao tribunal superior.",
-      "data_publicacao": "2026-11-25T00:00:00-03:00",
-      "url": "https://www.grifon.com.br/noticias/stj-veta-recurso-especial-contra-decisao-monocratica-de-segundo-grau-208725",
-      "fonte": "ConJur (reprodução Grifon)"
+      "titulo": "STJ pode levar discussão de seguro habitacional à mediação",
+      "descricao": "A Corte Especial avalia encaminhar à mediação a controvérsia sobre prescrição de indenização por danos estruturais em imóveis financiados pelo SFH. A discussão pode influenciar mutuários e seguradoras em processos de cobertura habitacional.",
+      "data_publicacao": "2026-11-07T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-07/stj-avalia-mediacao-para-resolver-tese-da-prescricao-do-seguro-habitacional/",
+      "fonte": "ConJur / reprodução OAB Guaçuí"
     },
     {
-      "titulo": "STJ considera inadmissível recurso que só transcreve conversa com IA",
-      "descricao": "A Terceira Turma do STJ não conheceu de embargos de declaração cuja petição reproduzia uma conversa do advogado com uma ferramenta de inteligência artificial. O colegiado aplicou entendimento sobre deficiência de fundamentação e registrou que eventual repetição protelatória pode levar a multa.",
-      "data_publicacao": "2026-11-24T21:27:00-03:00",
-      "url": "https://www.noticiajuridicas.com.br/noticias/recurso-ao-stj-que-apenas-transcreve-conversa-com-ferramenta-de-ia-e-inadmissivel/",
-      "fonte": "ConJur (reprodução Notícia Jurídica)"
+      "titulo": "STJ discute taxa de fruição de lote não edificado",
+      "descricao": "A Terceira Turma admitiu retenção de taxa de fruição após a entrega da posse de lote não edificado, mesmo quando não houve exploração econômica. A controvérsia entre turmas deverá ser uniformizada em recurso repetitivo.",
+      "data_publicacao": "2026-11-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-23/taxa-de-fruicao-por-lote-nao-edificado-nao-exige-exploracao-do-imovel/",
+      "fonte": "ConJur / reprodução Baqueiro Feitosa & Jatahy"
     },
     {
-      "titulo": "STJ cancela tema repetitivo sobre remuneração de hospitais privados pelo SUS",
-      "descricao": "A Primeira Seção do STJ cancelou o Tema 1.305 após o STF assumir a análise constitucional da controvérsia sobre os valores pagos a hospitais privados por serviços prestados ao SUS. A discussão seguirá no Supremo, que determinou a suspensão nacional dos processos relacionados.",
-      "data_publicacao": "2026-11-12T10:19:00-03:00",
-      "url": "https://grifon.com.br/noticias/stj-cancela-tema-sobre-valores-pagos-pelo-sus-a-hospitais-privados-208529",
-      "fonte": "ConJur (reprodução Grifon)"
+      "titulo": "STJ afasta usucapião de imóvel inundado por hidrelétrica",
+      "descricao": "A Terceira Turma do STJ considerou que área inundada para reservatório de usina passa ao domínio público da União e não pode ser adquirida por usucapião. A conclusão decorre da destinação pública do imóvel, ainda que a matrícula mantenha titular particular.",
+      "data_publicacao": "2026-11-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-23/nao-cabe-usucapiao-de-imovel-inundado-por-hidreletrica-diz-stj/",
+      "fonte": "ConJur / reprodução Horizonte Jurídico"
     }
   ]
 }

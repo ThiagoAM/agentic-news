@@ -1,0 +1,82 @@
+{
+  "data-busca": "2026-11-26T10:00:05-03:00",
+  "noticias": [
+    {
+      "titulo": "Banco de Empregos de Rio das Ostras oferece 473 vagas",
+      "descricao": "A Prefeitura informou que o Banco de Empregos municipal reunia 473 oportunidades em áreas como vendas, serviços, gastronomia e corretagem. As candidaturas são gratuitas e presenciais no Centro de Cidadania, com consulta dos requisitos no portal municipal.",
+      "data_publicacao": "2026-11-23T10:24:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/banco-de-empregos-oferece-473-vagas/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Ostrascycle Origens celebra três décadas do encontro em Rio das Ostras",
+      "descricao": "A edição especial do encontro de motociclistas começa em 27 de novembro e reúne artistas ligados à história do evento na Concha Acústica. A programação municipal se estende até domingo, dia 29, com apresentações musicais gratuitas.",
+      "data_publicacao": "2026-11-24T09:05:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/uns-e-outros-e-destaque-na-programacao-do-ostrascycle-origens/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Festival de Frutos do Mar movimenta Rio das Ostras até 29 de novembro",
+      "descricao": "A 27ª edição do festival reúne 16 estabelecimentos locais na Praia do Cemitério, com gastronomia e apresentações musicais durante quatro dias. A organização informa entrada gratuita e horários ampliados no fim de semana.",
+      "data_publicacao": "2026-11-23T15:06:00-03:00",
+      "url": "https://www.riodasostras.rj.gov.br/festival-de-frutos-do-mar-tera-quatro-dias-de-shows/",
+      "fonte": "Prefeitura de Rio das Ostras"
+    },
+    {
+      "titulo": "Cidade do Rio recebe 10,7 milhões de visitantes até outubro",
+      "descricao": "A capital fluminense recebeu 10,7 milhões de visitantes entre janeiro e outubro, alta de quase 8% na comparação anual, segundo o Observatório do Turismo Carioca. O setor movimentou cerca de R$ 28 bilhões no período, de acordo com levantamento citado pela prefeitura.",
+      "data_publicacao": "2026-11-19T09:09:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/rio-recebeu-quase-11-milhoes-de-turistas-entre-janeiro-e-outubro",
+      "fonte": "Radioagência Nacional"
+    },
+    {
+      "titulo": "Temporada de cruzeiros deve movimentar mais de R$ 240 milhões no Rio",
+      "descricao": "A temporada 2026/2027 prevê a passagem de 325 mil passageiros e tripulantes pelo porto da capital fluminense até abril. A projeção divulgada pela Rádio Nacional aponta impactos também no transporte, comércio, gastronomia e serviços do estado.",
+      "data_publicacao": "2026-11-20T09:51:00-03:00",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/temporada-de-cruzeiros-20262027-deve-ter-recorde-de-turistas-no-rio",
+      "fonte": "Radioagência Nacional"
+    },
+    {
+      "titulo": "CNJ publica regra para cessão de créditos de precatórios",
+      "descricao": "A Resolução CNJ nº 705/2026 regulamenta a cessão de créditos de precatórios. O Colégio Notarial do Brasil divulgou o ato normativo e disponibilizou seu texto para consulta.",
+      "data_publicacao": "2026-11-19T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnj-publica-resolucao-no-705-2026-que-regulamenta-a-cessao-de-creditos-de-precatorios/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "Jornada Notarial leva orientação sobre segurança em transações imobiliárias",
+      "descricao": "A ação do CNB/CF e das seccionais ofereceu orientações gratuitas sobre compra e venda de imóveis, escrituras e regularização documental. A edição também apresentou a Conta Notarial e ferramentas digitais do e-Notariado.",
+      "data_publicacao": "2026-11-10T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "CNB abre prêmio para melhorias em plataformas digitais do notariado",
+      "descricao": "O Colégio Notarial do Brasil convidou profissionais de cartórios a sugerirem melhorias para centrais e ferramentas digitais do setor. As propostas elegíveis poderiam ser consideradas para apresentação no Notariado Lab do Congresso Notarial Brasileiro.",
+      "data_publicacao": "2026-11-16T00:00:00-03:00",
+      "url": "https://www.notariado.org.br/cnb-cf-lanca-premio-de-inovacao-notarial-2026-para-incentivar-melhorias-nas-plataformas-digitais-do-notariado/",
+      "fonte": "Colégio Notarial do Brasil"
+    },
+    {
+      "titulo": "STJ fixa tese sobre recurso especial contra decisão monocrática",
+      "descricao": "A Corte Especial do STJ definiu, em julgamento repetitivo, que não cabe recurso especial interposto diretamente contra decisão individual de relator em segunda instância. A tese exige o esgotamento da instância ordinária antes da apresentação do recurso ao tribunal superior.",
+      "data_publicacao": "2026-11-25T00:00:00-03:00",
+      "url": "https://www.grifon.com.br/noticias/stj-veta-recurso-especial-contra-decisao-monocratica-de-segundo-grau-208725",
+      "fonte": "ConJur (reprodução Grifon)"
+    },
+    {
+      "titulo": "STJ considera inadmissível recurso que só transcreve conversa com IA",
+      "descricao": "A Terceira Turma do STJ não conheceu de embargos de declaração cuja petição reproduzia uma conversa do advogado com uma ferramenta de inteligência artificial. O colegiado aplicou entendimento sobre deficiência de fundamentação e registrou que eventual repetição protelatória pode levar a multa.",
+      "data_publicacao": "2026-11-24T21:27:00-03:00",
+      "url": "https://www.noticiajuridicas.com.br/noticias/recurso-ao-stj-que-apenas-transcreve-conversa-com-ferramenta-de-ia-e-inadmissivel/",
+      "fonte": "ConJur (reprodução Notícia Jurídica)"
+    },
+    {
+      "titulo": "STJ cancela tema repetitivo sobre remuneração de hospitais privados pelo SUS",
+      "descricao": "A Primeira Seção do STJ cancelou o Tema 1.305 após o STF assumir a análise constitucional da controvérsia sobre os valores pagos a hospitais privados por serviços prestados ao SUS. A discussão seguirá no Supremo, que determinou a suspensão nacional dos processos relacionados.",
+      "data_publicacao": "2026-11-12T10:19:00-03:00",
+      "url": "https://grifon.com.br/noticias/stj-cancela-tema-sobre-valores-pagos-pelo-sus-a-hospitais-privados-208529",
+      "fonte": "ConJur (reprodução Grifon)"
+    }
+  ]
+}
