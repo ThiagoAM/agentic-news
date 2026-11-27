@@ -1,89 +1,89 @@
 {
-  "data-busca": "2026-11-26T10:00:05-03:00",
+  "data-busca": "2026-11-27T10:05:17-03:00",
   "noticias": [
     {
-      "titulo": "Vendas de imóveis novos crescem 5,4% no primeiro semestre de 2026",
-      "descricao": "Levantamento da CBIC contabilizou 226.536 vendas de unidades residenciais novas entre janeiro e junho, alta de 5,4% ante o mesmo período de 2025. O Minha Casa, Minha Vida respondeu por 58% dos lançamentos no segundo trimestre, maior participação desde o início da série em 2019.",
+      "titulo": "Justiça estadual pode julgar impasse sobre imóvel adjudicado",
+      "descricao": "A Segunda Turma do STJ reconheceu que cabe à Justiça comum estadual examinar disputa sobre imóvel ocupado pelo poder público, mesmo após transferência determinada em execução trabalhista. O processo deverá avaliar a posse, o domínio e eventual indenização por desapropriação indireta.",
       "data_publicacao": "2026-11-26T00:00:00-03:00",
-      "url": "https://crecidf.gov.br/vendas-de-imoveis-crescem-54-no-primeiro-semestre-de-2026-aponta-levantamento-da-cbic/",
-      "fonte": "CRECI-DF"
+      "url": "https://www.registrodeimoveis.org.br/justica-estadual-pode-julgar-impasse-sobre-imovel-adjudicado",
+      "fonte": "Registro de Imóveis do Brasil / STJ"
     },
     {
-      "titulo": "Mercado imobiliário do Rio registra alta nas transações no terceiro trimestre",
-      "descricao": "O mercado imobiliário da capital fluminense registrou crescimento de 12,5% entre julho e setembro, com mais de 14,2 mil transações, segundo dados do Sinduscon-Rio e da Brain. O levantamento também aponta participação maior de imóveis compactos e predominância de unidades usadas ou prontas nas negociações.",
-      "data_publicacao": "2026-11-13T00:00:00-03:00",
-      "url": "https://www.cofeci.gov.br/post/mercado-imobili%C3%A1rio-do-rio-registra-crescimento-de-12-5-no-terceiro-trimestre",
-      "fonte": "Cofeci"
+      "titulo": "Minha Casa, Minha Vida alcança participação recorde nos lançamentos",
+      "descricao": "No terceiro trimestre, o programa respondeu por 58,6% dos lançamentos residenciais verticais, maior participação desde sua criação, segundo indicadores da CBIC. A pesquisa também registrou crescimento anual de lançamentos e vendas associados ao programa, embora o estoque habitacional tenha permanecido elevado.",
+      "data_publicacao": "2026-11-26T00:00:00-03:00",
+      "url": "https://www.registrodeimoveis.org.br/minha-casa-minha-vida-alavanca-mercado-em-2026",
+      "fonte": "Registro de Imóveis do Brasil / CBIC"
     },
     {
-      "titulo": "CNJ define prazos escalonados de segurança digital para cartórios",
-      "descricao": "O Conselho Nacional de Justiça detalhou os prazos para que serventias extrajudiciais adotem padrões mínimos de tecnologia e segurança da informação. A implementação é progressiva e depende da classificação do cartório conforme os provimentos aplicáveis.",
-      "data_publicacao": "2026-11-18T00:00:00-03:00",
-      "url": "https://www.cnj.jus.br/cnj-estabelece-prazos-para-cartorios-adotarem-padroes-minimos-de-seguranca-digital/",
-      "fonte": "Conselho Nacional de Justiça"
-    },
-    {
-      "titulo": "CNJ regulamenta escrituração e fiscalização tributária dos cartórios",
-      "descricao": "O Provimento CNJ nº 259, de 5 de novembro, aperfeiçoa as regras do Livro Diário Auxiliar da Receita e da Despesa das serventias. A norma também disciplina a fiscalização da escrituração e da conformidade tributária dos serviços notariais e de registro.",
-      "data_publicacao": "2026-11-05T00:00:00-03:00",
-      "url": "https://atos.cnj.jus.br/files/original134822202611096af1cf269f35d.pdf",
-      "fonte": "Conselho Nacional de Justiça"
-    },
-    {
-      "titulo": "CNB divulga resolução do CNJ sobre cessão de créditos de precatórios",
-      "descricao": "O Colégio Notarial do Brasil destacou a Resolução CNJ nº 705/2026, que regulamenta a cessão de créditos de precatórios. A publicação disponibiliza o texto normativo para consulta e aplicação pelos profissionais do setor.",
+      "titulo": "CNJ publica regra para cessão de créditos de precatórios",
+      "descricao": "A Resolução CNJ 705/2026 disciplina a cessão de créditos de precatórios e estabelece regras para a atuação notarial nesses atos. A medida foi divulgada pelo CNB/CF em 19 de novembro e trata da formalização de negócios patrimoniais sujeitos à regulamentação nacional.",
       "data_publicacao": "2026-11-19T00:00:00-03:00",
       "url": "https://www.notariado.org.br/cnj-publica-resolucao-no-705-2026-que-regulamenta-a-cessao-de-creditos-de-precatorios/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "Jornada Notarial 2026 promove orientação sobre transações imobiliárias",
-      "descricao": "A mobilização do CNB/CF e das seccionais realizou atendimentos gratuitos em diferentes cidades para orientar o público sobre segurança jurídica na compra e venda de imóveis. A programação abordou escritura pública, documentação e regularização imobiliária, além da Conta Notarial.",
+      "titulo": "CNJ define prazos para segurança digital em cartórios",
+      "descricao": "A Corregedoria Nacional de Justiça estabeleceu prazos progressivos para que serventias extrajudiciais implementem padrões mínimos de segurança digital. As medidas buscam proteger acervos e a continuidade dos serviços notariais e registrais.",
+      "data_publicacao": "2026-11-18T00:00:00-03:00",
+      "url": "https://www.cnj.jus.br/cnj-estabelece-prazos-para-cartorios-adotarem-padroes-minimos-de-seguranca-digital/",
+      "fonte": "Conselho Nacional de Justiça"
+    },
+    {
+      "titulo": "Notariado debate competência territorial dos atos eletrônicos",
+      "descricao": "Artigo publicado pelo CNB/SP analisa como os limites territoriais das delegações notariais se aplicam aos atos eletrônicos. O texto relaciona as regras da Lei 8.935/1994 e do Código Nacional de Normas às decisões recentes do CNJ sobre o e-Notariado.",
+      "data_publicacao": "2026-11-13T00:00:00-03:00",
+      "url": "https://cnbsp.org.br/2026/11/13/artigo-fundamentos-da-competencia-notarial-nos-atos-eletronicos-por-fernando-blasco/",
+      "fonte": "CNB/SP"
+    },
+    {
+      "titulo": "Jornada Notarial orienta população sobre negócios imobiliários",
+      "descricao": "A edição nacional da Jornada Notarial realizada em 7 de novembro ofereceu orientações sobre documentação, escritura pública e regularização antes da compra e venda de imóveis. O CNB/CF também apresentou a Conta Notarial como mecanismo para condicionar a liberação de valores às condições acordadas.",
       "data_publicacao": "2026-11-10T00:00:00-03:00",
       "url": "https://www.notariado.org.br/jornada-notarial-2026-mobiliza-o-notariado-em-todo-o-brasil-e-aproxima-cartorios-da-populacao/",
       "fonte": "Colégio Notarial do Brasil"
     },
     {
-      "titulo": "CNB lança prêmio para propostas de inovação nas plataformas notariais",
-      "descricao": "O Colégio Notarial do Brasil abriu uma chamada para tabeliães, substitutos e escreventes apresentarem propostas de melhoria para as plataformas digitais do notariado. As ideias elegíveis podem ser avaliadas para apresentação no Notariado Lab do Congresso Notarial Brasileiro.",
-      "data_publicacao": "2026-11-16T00:00:00-03:00",
-      "url": "https://www.notariado.org.br/cnb-cf-lanca-premio-de-inovacao-notarial-2026-para-incentivar-melhorias-nas-plataformas-digitais-do-notariado/",
-      "fonte": "Colégio Notarial do Brasil"
-    },
-    {
-      "titulo": "STJ reconhece proteção de imóvel inventariado como patrimônio cultural",
-      "descricao": "A Primeira Turma do STJ decidiu que o inventário público de valor histórico-cultural pode proteger um bem sem depender de lei local ou tombamento. O colegiado também reconheceu a ação civil pública como instrumento para a tutela do patrimônio cultural inventariado.",
-      "data_publicacao": "2026-11-23T06:50:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23112026-Protecao-de-bem-cultural-inventariado-pelo-poder-publico-independe-de-lei-ou-tombamento.aspx",
-      "fonte": "Superior Tribunal de Justiça"
-    },
-    {
-      "titulo": "STJ define competência para ação sobre imóvel ocupado pelo poder público",
-      "descricao": "A Segunda Turma do STJ decidiu que a Justiça comum estadual pode julgar ação sobre propriedade ou posse de imóvel ocupado pelo poder público mesmo após transferência em execução trabalhista. A análise poderá considerar se a ocupação é reversível ou caracteriza desapropriação indireta.",
-      "data_publicacao": "2026-11-24T07:05:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24112026-Justica-estadual-pode-julgar-disputa-sobre-imovel-ocupado-pelo-poder-publico-mesmo-apos-adjudicacao-trabalhista.aspx",
-      "fonte": "Superior Tribunal de Justiça"
-    },
-    {
-      "titulo": "STJ reafirma princípios de continuidade e fé pública no registro imobiliário",
-      "descricao": "Em julgamento publicado no Informativo nº 908, a Terceira Turma examinou pedido de cancelamento e restabelecimento de registros imobiliários. O tribunal ressaltou que a presunção de validade do registro só é afastada por prova robusta e que a matrícula deve manter a sequência formal das transmissões.",
+      "titulo": "STJ considera indevida taxa de lazer cobrada só de inquilinos",
+      "descricao": "A Quarta Turma entendeu que condomínio não pode cobrar taxa geral de lazer exclusivamente de locatários ou outros ocupantes sem demonstrar aumento específico das despesas. O informativo destaca que o direito de uso das áreas comuns acompanha a utilização da unidade imobiliária.",
       "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&livre=2189786",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022699",
       "fonte": "Superior Tribunal de Justiça"
     },
     {
-      "titulo": "STJ analisa responsabilidade por IPTU após transferência informal de imóvel",
-      "descricao": "O Informativo nº 908 do STJ registra que a transferência de posse e direitos por instrumento particular, sem registro do título translativo, não altera por si só o domínio imobiliário. Para a cobrança de IPTU, podem ser responsáveis o proprietário registral ou o possuidor, conforme a legislação municipal.",
-      "data_publicacao": "2026-11-03T00:00:00-03:00",
-      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&livre=2294977",
+      "titulo": "STJ afasta usucapião de imóvel inundado por hidrelétrica",
+      "descricao": "A Terceira Turma decidiu que a área permanentemente inundada para formar reservatório de usina hidrelétrica se torna bem público da União e não pode ser adquirida por usucapião. O tribunal afirmou que essa transferência de domínio decorre da afetação pública, ainda que o registro imobiliário continue em nome particular.",
+      "data_publicacao": "2026-11-17T00:00:00-03:00",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?livre=%40CNOT%3D022791",
       "fonte": "Superior Tribunal de Justiça"
     },
     {
-      "titulo": "STJ delimita efeitos de decisão sobre regime de bens em união estável",
-      "descricao": "A Terceira Turma decidiu que a tese do STF sobre escolha do regime de bens por pessoas acima de 70 anos não retroage para alterar os efeitos patrimoniais de união já encerrada. O colegiado também considerou relevante a partilha de bens de relação anterior para definir o regime aplicável à nova união.",
-      "data_publicacao": "2026-11-19T07:05:00-03:00",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19112026-Terceira-Turma-mantem-separacao-obrigatoria-em-uniao-estavel-de-maior-de-70-anos-extinta-antes-de-.aspx",
-      "fonte": "Superior Tribunal de Justiça"
+      "titulo": "Partilha desigual não anula testamento, aponta decisão",
+      "descricao": "Decisão divulgada pelo ConJur manteve a validade de testamento que destinava imóveis em proporções diferentes aos filhos. Eventual invasão da legítima deve ser apurada no inventário e pode levar à redução do excesso, sem anulação automática do ato.",
+      "data_publicacao": "2026-11-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-23/partilha-desigual-entre-herdeiros-nao-gera-nulidade-do-testamento/",
+      "fonte": "ConJur / reprodução CNB-SP"
+    },
+    {
+      "titulo": "STJ discute taxa de fruição de lote não edificado",
+      "descricao": "A Terceira Turma manteve a possibilidade de retenção de taxa de fruição após a posse de lote não edificado, mesmo sem prova de exploração econômica. O tema continua sujeito a divergência entre turmas e será resolvido em recurso repetitivo.",
+      "data_publicacao": "2026-11-23T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-23/taxa-de-fruicao-por-lote-nao-edificado-nao-exige-exploracao-do-imovel/",
+      "fonte": "ConJur / reprodução Baqueiro Feitosa & Jatahy"
+    },
+    {
+      "titulo": "STJ pode levar seguro habitacional à mediação",
+      "descricao": "A Corte Especial do STJ avalia encaminhar à mediação a discussão sobre o início do prazo prescricional para pedir indenização de seguro habitacional do SFH por danos estruturais. A tese pode afetar mutuários e seguradoras em processos sobre imóveis financiados.",
+      "data_publicacao": "2026-11-07T00:00:00-03:00",
+      "url": "https://conjur.com.br/2026-nov-07/stj-avalia-mediacao-para-resolver-tese-da-prescricao-do-seguro-habitacional/",
+      "fonte": "ConJur / reprodução OAB Guaçuí"
+    },
+    {
+      "titulo": "CNJ e STJ firmam cooperação para ampliar dados processuais",
+      "descricao": "O acordo de cooperação técnica prevê acesso do STJ a dados processuais armazenados pelo CNJ para apoiar a identificação de questões federais relevantes e a formação de precedentes. A iniciativa aproxima as bases estruturadas dos tribunais e pode orientar a uniformização da interpretação da lei federal.",
+      "data_publicacao": "2026-11-05T00:00:00-03:00",
+      "url": "https://www.cnj.jus.br/cnj-e-stj-firmam-acordo-para-ampliar-acesso-a-dados-processuais-e-fortalecer-precedentes/",
+      "fonte": "Conselho Nacional de Justiça"
     }
   ]
 }
